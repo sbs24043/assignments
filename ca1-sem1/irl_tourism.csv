@@ -1,0 +1,142 @@
+﻿STATISTIC,STATISTIC Label,TLIST(A1),Year,C02293V02763,Direction,C03042V03675,Route,UNIT,VALUE
+ASA02,Air and Sea Travel,2010,2010,1,Arrivals,-,All routes of travel,Thousand,12902.2
+ASA02,Air and Sea Travel,2010,2010,1,Arrivals,01,Cross channel,Thousand,6113
+ASA02,Air and Sea Travel,2010,2010,1,Arrivals,02,Continental Europe,Thousand,5652.6
+ASA02,Air and Sea Travel,2010,2010,1,Arrivals,03,Transatlantic,Thousand,914.5
+ASA02,Air and Sea Travel,2010,2010,1,Arrivals,04,Other,Thousand,222.1
+ASA02,Air and Sea Travel,2010,2010,2,Departures,-,All routes of travel,Thousand,12920.2
+ASA02,Air and Sea Travel,2010,2010,2,Departures,01,Cross channel,Thousand,6132.4
+ASA02,Air and Sea Travel,2010,2010,2,Departures,02,Continental Europe,Thousand,5643.3
+ASA02,Air and Sea Travel,2010,2010,2,Departures,03,Transatlantic,Thousand,924.3
+ASA02,Air and Sea Travel,2010,2010,2,Departures,04,Other,Thousand,220.3
+ASA02,Air and Sea Travel,2011,2011,1,Arrivals,-,All routes of travel,Thousand,13049.7
+ASA02,Air and Sea Travel,2011,2011,1,Arrivals,01,Cross channel,Thousand,6102.5
+ASA02,Air and Sea Travel,2011,2011,1,Arrivals,02,Continental Europe,Thousand,5782.5
+ASA02,Air and Sea Travel,2011,2011,1,Arrivals,03,Transatlantic,Thousand,932.5
+ASA02,Air and Sea Travel,2011,2011,1,Arrivals,04,Other,Thousand,232.2
+ASA02,Air and Sea Travel,2011,2011,2,Departures,-,All routes of travel,Thousand,13109.7
+ASA02,Air and Sea Travel,2011,2011,2,Departures,01,Cross channel,Thousand,6147.4
+ASA02,Air and Sea Travel,2011,2011,2,Departures,02,Continental Europe,Thousand,5779.8
+ASA02,Air and Sea Travel,2011,2011,2,Departures,03,Transatlantic,Thousand,950.9
+ASA02,Air and Sea Travel,2011,2011,2,Departures,04,Other,Thousand,231.5
+ASA02,Air and Sea Travel,2012,2012,1,Arrivals,-,All routes of travel,Thousand,13142
+ASA02,Air and Sea Travel,2012,2012,1,Arrivals,01,Cross channel,Thousand,5930.5
+ASA02,Air and Sea Travel,2012,2012,1,Arrivals,02,Continental Europe,Thousand,5920.1
+ASA02,Air and Sea Travel,2012,2012,1,Arrivals,03,Transatlantic,Thousand,957.5
+ASA02,Air and Sea Travel,2012,2012,1,Arrivals,04,Other,Thousand,334
+ASA02,Air and Sea Travel,2012,2012,2,Departures,-,All routes of travel,Thousand,13161.6
+ASA02,Air and Sea Travel,2012,2012,2,Departures,01,Cross channel,Thousand,5946.3
+ASA02,Air and Sea Travel,2012,2012,2,Departures,02,Continental Europe,Thousand,5899.9
+ASA02,Air and Sea Travel,2012,2012,2,Departures,03,Transatlantic,Thousand,974.6
+ASA02,Air and Sea Travel,2012,2012,2,Departures,04,Other,Thousand,340.7
+ASA02,Air and Sea Travel,2013,2013,1,Arrivals,-,All routes of travel,Thousand,13632.9
+ASA02,Air and Sea Travel,2013,2013,1,Arrivals,01,Cross channel,Thousand,6016.1
+ASA02,Air and Sea Travel,2013,2013,1,Arrivals,02,Continental Europe,Thousand,6140.1
+ASA02,Air and Sea Travel,2013,2013,1,Arrivals,03,Transatlantic,Thousand,1093.1
+ASA02,Air and Sea Travel,2013,2013,1,Arrivals,04,Other,Thousand,383.6
+ASA02,Air and Sea Travel,2013,2013,2,Departures,-,All routes of travel,Thousand,13655.2
+ASA02,Air and Sea Travel,2013,2013,2,Departures,01,Cross channel,Thousand,6052.7
+ASA02,Air and Sea Travel,2013,2013,2,Departures,02,Continental Europe,Thousand,6113.5
+ASA02,Air and Sea Travel,2013,2013,2,Departures,03,Transatlantic,Thousand,1106.8
+ASA02,Air and Sea Travel,2013,2013,2,Departures,04,Other,Thousand,382.2
+ASA02,Air and Sea Travel,2014,2014,1,Arrivals,-,All routes of travel,Thousand,14546.8
+ASA02,Air and Sea Travel,2014,2014,1,Arrivals,01,Cross channel,Thousand,6422
+ASA02,Air and Sea Travel,2014,2014,1,Arrivals,02,Continental Europe,Thousand,6452.8
+ASA02,Air and Sea Travel,2014,2014,1,Arrivals,03,Transatlantic,Thousand,1238.6
+ASA02,Air and Sea Travel,2014,2014,1,Arrivals,04,Other,Thousand,433.3
+ASA02,Air and Sea Travel,2014,2014,2,Departures,-,All routes of travel,Thousand,14570.5
+ASA02,Air and Sea Travel,2014,2014,2,Departures,01,Cross channel,Thousand,6437.7
+ASA02,Air and Sea Travel,2014,2014,2,Departures,02,Continental Europe,Thousand,6438.8
+ASA02,Air and Sea Travel,2014,2014,2,Departures,03,Transatlantic,Thousand,1260.3
+ASA02,Air and Sea Travel,2014,2014,2,Departures,04,Other,Thousand,433.8
+ASA02,Air and Sea Travel,2015,2015,1,Arrivals,-,All routes of travel,Thousand,16100.3
+ASA02,Air and Sea Travel,2015,2015,1,Arrivals,01,Cross channel,Thousand,6960.3
+ASA02,Air and Sea Travel,2015,2015,1,Arrivals,02,Continental Europe,Thousand,7243
+ASA02,Air and Sea Travel,2015,2015,1,Arrivals,03,Transatlantic,Thousand,1375.6
+ASA02,Air and Sea Travel,2015,2015,1,Arrivals,04,Other,Thousand,521.4
+ASA02,Air and Sea Travel,2015,2015,2,Departures,-,All routes of travel,Thousand,16138.5
+ASA02,Air and Sea Travel,2015,2015,2,Departures,01,Cross channel,Thousand,6979.2
+ASA02,Air and Sea Travel,2015,2015,2,Departures,02,Continental Europe,Thousand,7238.3
+ASA02,Air and Sea Travel,2015,2015,2,Departures,03,Transatlantic,Thousand,1401.2
+ASA02,Air and Sea Travel,2015,2015,2,Departures,04,Other,Thousand,519.7
+ASA02,Air and Sea Travel,2016,2016,1,Arrivals,-,All routes of travel,Thousand,17532.6
+ASA02,Air and Sea Travel,2016,2016,1,Arrivals,01,Cross channel,Thousand,7497.6
+ASA02,Air and Sea Travel,2016,2016,1,Arrivals,02,Continental Europe,Thousand,8000.3
+ASA02,Air and Sea Travel,2016,2016,1,Arrivals,03,Transatlantic,Thousand,1553.3
+ASA02,Air and Sea Travel,2016,2016,1,Arrivals,04,Other,Thousand,481.4
+ASA02,Air and Sea Travel,2016,2016,2,Departures,-,All routes of travel,Thousand,17608.1
+ASA02,Air and Sea Travel,2016,2016,2,Departures,01,Cross channel,Thousand,7531.9
+ASA02,Air and Sea Travel,2016,2016,2,Departures,02,Continental Europe,Thousand,8017.6
+ASA02,Air and Sea Travel,2016,2016,2,Departures,03,Transatlantic,Thousand,1577.8
+ASA02,Air and Sea Travel,2016,2016,2,Departures,04,Other,Thousand,480.9
+ASA02,Air and Sea Travel,2017,2017,1,Arrivals,-,All routes of travel,Thousand,18399.4
+ASA02,Air and Sea Travel,2017,2017,1,Arrivals,01,Cross channel,Thousand,7562
+ASA02,Air and Sea Travel,2017,2017,1,Arrivals,02,Continental Europe,Thousand,8487.5
+ASA02,Air and Sea Travel,2017,2017,1,Arrivals,03,Transatlantic,Thousand,1832.8
+ASA02,Air and Sea Travel,2017,2017,1,Arrivals,04,Other,Thousand,517.1
+ASA02,Air and Sea Travel,2017,2017,2,Departures,-,All routes of travel,Thousand,18448.8
+ASA02,Air and Sea Travel,2017,2017,2,Departures,01,Cross channel,Thousand,7559.2
+ASA02,Air and Sea Travel,2017,2017,2,Departures,02,Continental Europe,Thousand,8501.1
+ASA02,Air and Sea Travel,2017,2017,2,Departures,03,Transatlantic,Thousand,1866.5
+ASA02,Air and Sea Travel,2017,2017,2,Departures,04,Other,Thousand,521.9
+ASA02,Air and Sea Travel,2018,2018,1,Arrivals,-,All routes of travel,Thousand,19395.9
+ASA02,Air and Sea Travel,2018,2018,1,Arrivals,01,Cross channel,Thousand,7606.5
+ASA02,Air and Sea Travel,2018,2018,1,Arrivals,02,Continental Europe,Thousand,9066.7
+ASA02,Air and Sea Travel,2018,2018,1,Arrivals,03,Transatlantic,Thousand,2110
+ASA02,Air and Sea Travel,2018,2018,1,Arrivals,04,Other,Thousand,612.7
+ASA02,Air and Sea Travel,2018,2018,2,Departures,-,All routes of travel,Thousand,19456.3
+ASA02,Air and Sea Travel,2018,2018,2,Departures,01,Cross channel,Thousand,7599.3
+ASA02,Air and Sea Travel,2018,2018,2,Departures,02,Continental Europe,Thousand,9106
+ASA02,Air and Sea Travel,2018,2018,2,Departures,03,Transatlantic,Thousand,2136.9
+ASA02,Air and Sea Travel,2018,2018,2,Departures,04,Other,Thousand,614.1
+ASA02,Air and Sea Travel,2019,2019,1,Arrivals,-,All routes of travel,Thousand,20143.7
+ASA02,Air and Sea Travel,2019,2019,1,Arrivals,01,Cross channel,Thousand,7660.1
+ASA02,Air and Sea Travel,2019,2019,1,Arrivals,02,Continental Europe,Thousand,9683
+ASA02,Air and Sea Travel,2019,2019,1,Arrivals,03,Transatlantic,Thousand,2155.6
+ASA02,Air and Sea Travel,2019,2019,1,Arrivals,04,Other,Thousand,645.1
+ASA02,Air and Sea Travel,2019,2019,2,Departures,-,All routes of travel,Thousand,20205.3
+ASA02,Air and Sea Travel,2019,2019,2,Departures,01,Cross channel,Thousand,7670.5
+ASA02,Air and Sea Travel,2019,2019,2,Departures,02,Continental Europe,Thousand,9715.8
+ASA02,Air and Sea Travel,2019,2019,2,Departures,03,Transatlantic,Thousand,2184.7
+ASA02,Air and Sea Travel,2019,2019,2,Departures,04,Other,Thousand,634.3
+ASA02,Air and Sea Travel,2020,2020,1,Arrivals,-,All routes of travel,Thousand,4460.2
+ASA02,Air and Sea Travel,2020,2020,1,Arrivals,01,Cross channel,Thousand,1812.3
+ASA02,Air and Sea Travel,2020,2020,1,Arrivals,02,Continental Europe,Thousand,2169.5
+ASA02,Air and Sea Travel,2020,2020,1,Arrivals,03,Transatlantic,Thousand,307
+ASA02,Air and Sea Travel,2020,2020,1,Arrivals,04,Other,Thousand,171.4
+ASA02,Air and Sea Travel,2020,2020,2,Departures,-,All routes of travel,Thousand,4452.6
+ASA02,Air and Sea Travel,2020,2020,2,Departures,01,Cross channel,Thousand,1858.9
+ASA02,Air and Sea Travel,2020,2020,2,Departures,02,Continental Europe,Thousand,2145.2
+ASA02,Air and Sea Travel,2020,2020,2,Departures,03,Transatlantic,Thousand,295.1
+ASA02,Air and Sea Travel,2020,2020,2,Departures,04,Other,Thousand,153.3
+ASA02,Air and Sea Travel,2021,2021,1,Arrivals,-,All routes of travel,Thousand,4955.9
+ASA02,Air and Sea Travel,2021,2021,1,Arrivals,01,Cross channel,Thousand,1694.4
+ASA02,Air and Sea Travel,2021,2021,1,Arrivals,02,Continental Europe,Thousand,2825.2
+ASA02,Air and Sea Travel,2021,2021,1,Arrivals,03,Transatlantic,Thousand,271.6
+ASA02,Air and Sea Travel,2021,2021,1,Arrivals,04,Other,Thousand,164.7
+ASA02,Air and Sea Travel,2021,2021,2,Departures,-,All routes of travel,Thousand,5022
+ASA02,Air and Sea Travel,2021,2021,2,Departures,01,Cross channel,Thousand,1757.5
+ASA02,Air and Sea Travel,2021,2021,2,Departures,02,Continental Europe,Thousand,2839.3
+ASA02,Air and Sea Travel,2021,2021,2,Departures,03,Transatlantic,Thousand,276
+ASA02,Air and Sea Travel,2021,2021,2,Departures,04,Other,Thousand,149.2
+ASA02,Air and Sea Travel,2022,2022,1,Arrivals,-,All routes of travel,Thousand,17257
+ASA02,Air and Sea Travel,2022,2022,1,Arrivals,01,Cross channel,Thousand,6051.9
+ASA02,Air and Sea Travel,2022,2022,1,Arrivals,02,Continental Europe,Thousand,8929.8
+ASA02,Air and Sea Travel,2022,2022,1,Arrivals,03,Transatlantic,Thousand,1714.7
+ASA02,Air and Sea Travel,2022,2022,1,Arrivals,04,Other,Thousand,560.6
+ASA02,Air and Sea Travel,2022,2022,2,Departures,-,All routes of travel,Thousand,17172.3
+ASA02,Air and Sea Travel,2022,2022,2,Departures,01,Cross channel,Thousand,6016.7
+ASA02,Air and Sea Travel,2022,2022,2,Departures,02,Continental Europe,Thousand,8836.9
+ASA02,Air and Sea Travel,2022,2022,2,Departures,03,Transatlantic,Thousand,1773.1
+ASA02,Air and Sea Travel,2022,2022,2,Departures,04,Other,Thousand,545.7
+ASA02,Air and Sea Travel,2023,2023,1,Arrivals,-,All routes of travel,Thousand,20625.6
+ASA02,Air and Sea Travel,2023,2023,1,Arrivals,01,Cross channel,Thousand,7251.5
+ASA02,Air and Sea Travel,2023,2023,1,Arrivals,02,Continental Europe,Thousand,10506.2
+ASA02,Air and Sea Travel,2023,2023,1,Arrivals,03,Transatlantic,Thousand,2063.4
+ASA02,Air and Sea Travel,2023,2023,1,Arrivals,04,Other,Thousand,804.6
+ASA02,Air and Sea Travel,2023,2023,2,Departures,-,All routes of travel,Thousand,20626.2
+ASA02,Air and Sea Travel,2023,2023,2,Departures,01,Cross channel,Thousand,7216.1
+ASA02,Air and Sea Travel,2023,2023,2,Departures,02,Continental Europe,Thousand,10485
+ASA02,Air and Sea Travel,2023,2023,2,Departures,03,Transatlantic,Thousand,2139.5
+ASA02,Air and Sea Travel,2023,2023,2,Departures,04,Other,Thousand,785.6
+""
