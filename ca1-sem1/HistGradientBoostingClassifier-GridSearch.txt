@@ -1,0 +1,14 @@
+Fitting 5 folds for each of 6 candidates, totalling 30 fits
+*** Best Params:  {'max_iter': 500}
+*** Best Estimator:  HistGradientBoostingClassifier(max_iter=500)
+*** Best Score:  0.8428995840760548
+              precision    recall  f1-score   support
+
+           0       0.66      0.69      0.67      1933
+           1       0.94      0.78      0.85      6085
+           2       0.50      0.82      0.62      1465
+
+    accuracy                           0.77      9483
+   macro avg       0.70      0.76      0.72      9483
+weighted avg       0.82      0.77      0.78      9483
+

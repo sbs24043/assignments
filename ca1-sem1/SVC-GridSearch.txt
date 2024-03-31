@@ -1,0 +1,26 @@
+            *** Best Params: {'C': 0.1, 'gamma': 1, 'kernel': 'rbf'}
+            *** Best Estimator: SVC(C=0.1, gamma=1) 
+            *** Best Score: 0.4664289958407606
+
+            Crosstab:
+
+            Predicted     0     1    2   All
+True                            
+0          1233   620   80  1933
+1          1756  4076  253  6085
+2           994   406   65  1465
+All        3983  5102  398  9483
+
+            Classification Report: 
+
+                          precision    recall  f1-score   support
+
+           0       0.31      0.64      0.42      1933
+           1       0.80      0.67      0.73      6085
+           2       0.16      0.04      0.07      1465
+
+    accuracy                           0.57      9483
+   macro avg       0.42      0.45      0.41      9483
+weighted avg       0.60      0.57      0.56      9483
+
+                        

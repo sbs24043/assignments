@@ -1,0 +1,13 @@
+Best Params: {'criterion': 'gini', 'max_depth': 800, 'max_features': 'sqrt', 'n_estimators': 550}
+Best Estimator:  RandomForestClassifier(max_depth=800, n_estimators=550)
+Best Score:  0.8067142008318479
+
+              precision    recall  f1-score   support
+
+           0       0.46      0.65      0.53      1933
+           1       0.89      0.61      0.72      6085
+           2       0.44      0.78      0.56      1465
+
+    accuracy                           0.64      9483
+   macro avg       0.59      0.68      0.61      9483
+weighted avg       0.73      0.64      0.66      9483
