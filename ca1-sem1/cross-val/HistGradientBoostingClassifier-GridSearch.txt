@@ -1,0 +1,26 @@
+    Best Params: {'max_iter': 500}
+    Best Estimator: HistGradientBoostingClassifier(max_iter=500) 
+    Best Score: 0.8450980392156863
+
+    Crosstab:
+
+    Predicted     0     1     2   All
+True                             
+0          1340   194   399  1933
+1           603  4339  1143  6085
+2           180    62  1223  1465
+All        2123  4595  2765  9483
+
+    Classification Report: 
+
+                  precision    recall  f1-score   support
+
+           0       0.63      0.69      0.66      1933
+           1       0.94      0.71      0.81      6085
+           2       0.44      0.83      0.58      1465
+
+    accuracy                           0.73      9483
+   macro avg       0.67      0.75      0.68      9483
+weighted avg       0.80      0.73      0.75      9483
+
+                        

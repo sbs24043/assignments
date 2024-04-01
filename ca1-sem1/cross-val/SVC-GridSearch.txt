@@ -1,26 +1,26 @@
-            *** Best Params: {'C': 0.1, 'gamma': 1, 'kernel': 'rbf'}
-            *** Best Estimator: SVC(C=0.1, gamma=1) 
-            *** Best Score: 0.4664289958407606
+    Best Params: {'C': 10, 'gamma': 1, 'kernel': 'rbf'}
+    Best Estimator: SVC(C=10, gamma=1) 
+    Best Score: 0.4874628639334522
 
-            Crosstab:
+    Crosstab:
 
-            Predicted     0     1    2   All
-True                            
-0          1233   620   80  1933
-1          1756  4076  253  6085
-2           994   406   65  1465
-All        3983  5102  398  9483
+    Predicted     0     1     2   All
+True                             
+0           961   614   358  1933
+1          1864  3647   574  6085
+2           634   403   428  1465
+All        3459  4664  1360  9483
 
-            Classification Report: 
+    Classification Report: 
 
-                          precision    recall  f1-score   support
+                  precision    recall  f1-score   support
 
-           0       0.31      0.64      0.42      1933
-           1       0.80      0.67      0.73      6085
-           2       0.16      0.04      0.07      1465
+           0       0.28      0.50      0.36      1933
+           1       0.78      0.60      0.68      6085
+           2       0.31      0.29      0.30      1465
 
-    accuracy                           0.57      9483
-   macro avg       0.42      0.45      0.41      9483
-weighted avg       0.60      0.57      0.56      9483
+    accuracy                           0.53      9483
+   macro avg       0.46      0.46      0.45      9483
+weighted avg       0.61      0.53      0.55      9483
 
                         
