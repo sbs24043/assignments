@@ -1,0 +1,27 @@
+    Best Params: {'max_iter': 100}
+    Best Estimator: HistGradientBoostingClassifier(categorical_features=['direction',
+                                                     'international_airport']) 
+    Best Score: 0.9489166666666667
+
+    Crosstab:
+
+    Predicted     0     1    2   All
+True                            
+0          1140    19  127  1286
+1            22  3802   28  3852
+2            78    16  768   862
+All        1240  3837  923  6000
+
+    Classification Report: 
+
+                  precision    recall  f1-score   support
+
+           0       0.92      0.89      0.90      1286
+           1       0.99      0.99      0.99      3852
+           2       0.83      0.89      0.86       862
+
+    accuracy                           0.95      6000
+   macro avg       0.91      0.92      0.92      6000
+weighted avg       0.95      0.95      0.95      6000
+
+                        
