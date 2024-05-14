@@ -1,0 +1,18 @@
+post_id,level,body,gilded,likes,num_reports,score,subreddit
+195z15f,0,I would gather the different land data that I need. Seems like you already know what data you need. You also need to choose a crop. Ideally choose one that’s commonly grown in your study area. And add ratings to the different data and then add the ratings together to find areas that have the highest rating. A binary index would be rating data with a 0 or 1 (yes or no) for suitability.,0,,,1,gis
+195z15f,1,"i see, i figured that’s what binary would mean. could you elaborate on how i can add rating to different data? is that some way to weigh each type of data differently?",0,,,1,gis
+195z15f,2,Yes. If you want to do a rating an example would be ranking the different soil types with the soil type most beneficial for your chosen crop receiving the highest ranking.,0,,,1,gis
+195z15f,3,would i be able to set multiple rankings for data on the same map? for example rankings for soil type and rankings for topology?,0,,,1,gis
+195z15f,4,Yes. I would create a column in the attribute data and rank the attributes. Then you would do a spatial join and add the rankings together to identify suitable areas.,0,,,1,gis
+195z15f,5,"ahh i see, thanks so much!",0,,,1,gis
+195z15f,0,"Check out USDA's Lab Data Mart. Lots of soil info:
+
+https://ncsslabdatamart.sc.egov.usda.gov/",0,,,1,gis
+195z15f,1,thanks so much!,0,,,1,gis
+195z15f,0,Crop growabilty is more related to chemical composition of the soil,0,,,1,gis
+195z15f,1,"good point, i’ll have to look into more specifically what data i’m using, do you know any good databases t begin with?",0,,,1,gis
+195z15f,2,Search for SSURGO if interested in the US,0,,,1,gis
+195z15f,3,appreciate it thanks!,0,,,1,gis
+195z15f,0,"You need a methodology for the modeling first, figuring out if/how to implement that in GIS is second. If your going to do a suitability model, ESRI has an easy workflow: https://pro.arcgis.com/en/pro-app/latest/help/analysis/spatial-analyst/suitability-modeler/what-is-the-suitability-modeler.htm
+The suitability criteria and data requirements would be based on your scenario",0,,,1,gis
+195z15f,1,"interesting, i didn’t know ESRI had a built in suitability modeler. thanks i’ll look into it",0,,,1,gis

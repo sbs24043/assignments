@@ -1,0 +1,1197 @@
+post_id,level,body,gilded,likes,num_reports,score,subreddit
+15ty52,0,"Ok, which one of you redditors is going to pay the $32 to read the full article?
+
+Seriously? $32 to read an article?
+
+^+7h ^edit:  ^Thanks ^to ^itsajug ^for ^full ^article ^and ^for ^the ^ride ^on ^his ^coat-tail.",0,,,486,science
+15ty52,1,"In the coming decades, continued population growth, rising meat and dairy consumption and expanding biofuel use will dramatically increase the pressure on global agriculture. Even as we face these future burdens, there have been scattered reports of yield stagnation in the world’s major cereal crops, including maize, rice and wheat. Here we study data from ~2.5 million census observations across the globe extending over the period 1961–2008. We examined the trends in crop yields for four key global crops: maize, rice, wheat and soybeans. Although yields continue to increase in many areas, we find that across 24–39% of maize-, rice-, wheat- and soybean-growing areas, yields either never improve, stagnate or collapse. This result underscores the challenge of meeting increasing global agricultural demands. New investments in underperforming regions, as well as strategies to continue increasing yields in the high-performing areas, are required.
+
+The global demand for agricultural crops is expected to roughly double by 2050, driven by increases in population, meat and dairy consumption and biofuel use[1, 2, 3]. However, between 1985 and 2005, the total global crop production increased by only 28% (through a ~2.5% net expansion of global cropland area, an ~7% increase in the frequency of harvesting, and an average ~20% increase in crop yields per hectare)[4]. Clearly, these recent gains in global crop production fall short of the expected demands, leaving us with an important question: Which crops and which geographic regions offer the best hope of meeting projected demands, and where are improvements most needed?
+
+Adding to this concern, some authors have suggested that yields for many important crops may be stagnating in some regions around the world[5, 6, 7, 8, 9, 10]. In particular, there are concerns that yields may be stagnating or declining for three key crops—maize, rice and wheat—which together produce ~57% of the world’s agricultural calories[2]. A slowing, or worse, stagnation or collapse in the yield gains in these crops would have profound implications for the world food system.
+
+Although some authors have already noted some specific local- or national-scale examples of where crop yields may have stagnated[5, 6, 7, 10, 11, 12], no spatially detailed assessment of global crop yield trends has been attempted to date. To consider the current state and trends in yields of the world’s four key crops (maize, rice, wheat and soybean) that currently provide ~64% of agricultural calorie production[2], we employed new long-term and high-resolution geospatial databases of global agricultural systems[13], synthesized from ~2.5 million census observations (Supplementary Note 1, Supplementary Methods, Supplementary Table S1 and Supplementary Figs S1 and S2). Using these data, we analysed detailed spatial and temporal patterns of yields, determining where these four key crops have experienced yield stagnation and where crop yields are still increasing.
+
+These new data give us a dramatically improved understanding of crop yield and area changes across regional and global scales, which are otherwise often obscured using only national census statistics[11]. For example, using only the United Nations Food and Agricultural Organization’s national crop statistics[14] suggests that American wheat yields increased everywhere at ~0.01 tonsha^(−1) year^(−2) (0.3%/year) between 1999 and 2008. Using our new high-resolution geospatial data set, we were able to identify that yields in ~36% of the American wheat-harvested areas (~7 million ha) are not improving; only in the remaining ~64% of wheat land (~13 million ha) are yields improving, and at different identifiable rates.
+
+Here we analyse changes in yields over time at each of the political units where maize, rice, wheat and soybean were harvested. We find that across 24–39% of maize, rice, wheat and soybean-growing areas, yields have either never improved, stagnated or collapsed. This result highlights the increasingly difficult challenge of meeting increasing global agricultural demands.",3,,,997,science
+15ty52,2,"Results: (check below images)
+
+1.http://www.nature.com/ncomms/journal/v3/n12/images/ncomms2296-f1.jpg
+
+2.http://www.nature.com/ncomms/journal/v3/n12/images/ncomms2296-f2.jpg
+
+We found that global yield trends can be broadly divided into four types (Fig. 1). First, ‘yields never improved’—areas that have witnessed no significant yield improvements to date (Fig. 1a). Second, ‘yields stagnated’—areas where yields previously improved, but now are stagnating or declining (Fig. 1b). This category includes a range of yield trends post a year of yield maximum, including yields hovering near the yield maximum (that is, a yield plateau) and yield declines at various rates. Third, ‘yields collapsed’—areas where yields decreased since the 1960s, or initially increased and then collapsed to the 1960s level (Fig. 1c). Fourth, ‘yields still increasing’—areas where yields are still increasing (Fig. 1d). Based on recent rates of yield improvement, we can further divide this category into the top 25% of yield-improving regions—‘yields increasing rapidly’; the bottom 25% of yield-improving regions—‘yields increasing slowly’; and the intermediate 50% of yield-improving regions—‘yields increasing moderately’.
+
+Overall, our analysis shows that most of the world has historically experienced significant yield improvements (Fig. 2, Table 1). The percentage of the world that never experienced any maize, rice, wheat or soybean yield improvement is small (~1% of each harvested crop areas; Table 1).
+
+We find that the world’s maize, rice, wheat and soybean crops are continuing to experience yield increases in over 70, 63, 61 and 76% of their harvested areas, respectively—corresponding to 103, 96, 130 and 63 million hectares (m. ha) (Fig. 2; Table 1). Globally, however, rice (35%) and wheat (37%) have substantial areas that are now witnessing yield stagnation. Maize (26%) and soybean (23%) have less area in yield stagnation. Furthermore, we find that 3% of maize, 1% rice and 1% of wheat areas have experienced yield collapse.
+
+Areas where yields are still increasing currently contribute roughly 79%, 57%, 56% and 82% of the total global production in maize, rice, wheat and soybean, respectively. The remainder comes primarily from regions witnessing yield stagnation. This then means that for wheat and rice, at least, yield stagnation may have profound implications on the ability of agriculture to meet the growing global demands for these commodities.
+
+Below, we explore in more details the major regional patterns for these four crops. For statistical modelling used, model fits and classification used to determine yield trend category, please refer to the (Supplementary Note 1, Supplementary Methods and Supplementary Figs S3–S5).
+
+Regional summaries
+Only ~1% of global maize areas never saw yield increases, and the significant areas were in Morocco and parts of India (0.4 m. ha) (Fig. 2a). Yields are stagnating in 26% of maize-harvested areas (Fig. 2a)—in the United States, generally on the fringes (for example, portions of the Great Plains) of the vast US Corn Belt (yields peaked mostly from mid 1990s, Supplementary Fig. S6), more widespread portions in eastern and southern Mexico (yields peaked mostly early 1990s) and in smaller areas of other major Latin American countries. In some parts of Western Europe, maize yield improvements have stagnated, especially, in Spain, Italy and Greece. Africa has a large extent of maize yield stagnation (yields here peaked mostly from the late 1990s). In Asia, in India and China, maize yields have stagnated across ~31 and ~52% of the maize-growing areas. Maize yields have collapsed in only 3% of global areas prominently in Dominican Republic, parts of northeast Brazil, Moldova, Africa (Chad, Rwanda, Angola, Zimbabwe and Lesotho) and South Asia (0.07 and 0.2 m. ha in India and Nepal, respectively). Maize yields are still increasing in 70% of global areas: in the vast United States Corn Belt, western and central Mexico, and most of Brazil and Argentina. Many other European, African and Asian maize areas are also witnessing steady maize yield improvement. The fastest maize yield improvements globally were found in the Corn Belt of the United States (~37% of all maize-harvested areas) and in Latin America, especially Argentina (78% of all maize-harvested areas), and Brazil. There are also some isolated similar fast increasing areas in Portugal, France, Eastern Europe, Turkey, Nigeria, South Africa, Pakistan, India, China, Vietnam and Indonesia. In most of the United States and Western Europe, maize yields are improving at either fast or moderate rates.
+
+Only ~1% of the global rice-growing areas never saw yield increases; these areas were found in parts of Brazil (northeast Brazil), Greece, Mexico and India, as well as in Gabon, Gambia, Democratic Republic of Congo and North Korea (Fig. 2b). Rice yields are stagnating across 35% of rice-harvested areas globally: in the US state of California (yields peaked here in the late 1990s, Supplementary Fig. S6), parts of Latin America (Fig. 2b), most of Europe and parts of Africa (Fig. 2b). In Asia, the major rice-growing continent, yields are stagnating in China, India and Indonesia across 79%, 36% and 81% of rice-growing areas, respectively. Rice yield have collapsed in 1% of the world’s rice-harvested areas. The largest areas of rice-yield collapse were in Brazil (northeast Brazil), Sierra Leon and parts of Nigeria in Africa, Iraq and parts of India. Areas with ongoing rice-yield increases are found in all continents in 63% of global areas (except Australasia). However, large areas of rapidly increasing rice yields are found only in some countries: USA, Colombia, Peru, Argentina, Uruguay, Brazil, Spain, India, China, Vietnam, Afghanistan and Bangladesh.
+
+Wheat yields never improved in 1% of global areas: in large parts of the United States (~9% of its harvested areas), Argentina (~5%), Peru (~11%), Nigeria (100%), Lesotho (100%), Mongolia (~64%) and parts of Australia (~4%) (Fig. 2c). Wheat yields collapsed in an extremely small fraction of the world (~1% globally corresponding to 1.6 m. ha, out of which ~1.5 m. ha was in Australia). Yields are stagnating in 37% of global areas including ~27% of wheat areas in the United States (primarily in the Great Plain states where stagnation occurred after peaking mostly in the early to mid 1990s, Supplementary Fig. S6). Furthermore, wheat yields have been stagnating in parts of Argentina (~1.8 m. ha or ~34% of areas since the late 1990s) and almost everywhere in the highly productive wheat-growing areas of Western Europe as well as Eastern Europe. They are also stagnating in Turkey (in ~5.4 m. ha or ~64% of their wheat-growing areas), China (56% of areas) and India (in ~70% of areas). Wheat yields began stagnating in the Khyber Pakhtunkhwa and Balochistan states of Pakistan (starting after ~2000), and in Australia, wheat yields are stagnating in ~44% of its areas. In all, 61% of global wheat areas are witnessing yield increases. Most of Canadian wheat areas, ~64% of United States wheat areas, Russian wheat, most African wheat areas, some areas of Asian wheat and ~40% of Australian wheat areas are still witnessing yield improvement. Although there are many countries with some fraction of their wheat areas witnessing rapid yield improvement, the countries with the top five spatial extent are (in m. ha): China (~8), Iran (~4), United States (~4), Afghanistan (~2) and India (~2).
+ Soybean yields never improved in ~0.8 m. ha (1% of all global areas); these areas are concentrated in the United States (~0.4 m. ha), Argentina, Brazil and Mexico (Fig. 2d). Soybean yields collapsed in an insignificantly small area globally (0.2% of global areas). Brazil had a large area of soybean yield collapse (~0.1 m. ha), as did smaller areas in Uruguay and the Democratic Republic of Congo. Globally, soybean yield stagnation covers ~19 m. ha (~23% of harvested areas), and countries with more than a million ha in yield stagnation are (in decreasing order): China, India, United States, Paraguay, Brazil and Argentina. Yield improvements are also fairly widespread but are more prevalent (~76% of global areas); countries with the largest spatial extent of yield improvements (again listed in decreasing order and more than a million ha each) are: United States, Brazil, Argentina, China and India.
+",1,,,533,science
+15ty52,3,"Discussion:
+
+Today, a global food crisis is looming as the world population increases, more people shift towards meat and dairy intensive diets and more cropland is diverted to grow biofuel crops[1, 2, 3, 4]. How will we meet these growing demands, especially when recent crop-production trends were insufficient to do so, and many regions are showing significant stagnation and declines in yield improvement?
+
+Looking forward, we must first ensure that areas still increasing yields do not falter, while at the same time improving management practices to reduce impacts on the environment[4]. Next, we have to identify why yield gains for our most important cereal crops are stagnating in more than a quarter of our croplands. Can we reverse the yield stagnation in these areas? At the field to country scale, there are numerous studies showing that both biophysical and socio-economic causes, often not mutually exclusive, are the drivers of these yield changes. The lack of readily available data regarding all possible drivers of global agriculture at the level of our analysis precludes any effort to ascribe the causes behind the observed yield trends. However, below we discuss some of the reported field to country-scale causes of yield changes with an emphasis on Europe, Asia-Australasia and Africa; these are the continents where yield stagnation appears particularly widespread (Fig. 2).
+
+In the Americas, maize yield stagnation is especially widespread only in Mexico. Here reduced fallow periods in areas of shifting cultivation without concomitant adoption of modern management practices[15], or non-introduction/adoption of non-local but high-yielding maize seeds by farmers[16], may be responsible. In the United States, greater adoption of no-till practice by farmers in the semi-arid areas of the Great Plains has coincided with intensified crop rotations[17] (for example, wheat-maize rotations as opposed to a fallow following wheat). Farmer net incomes may have consequently increased, but intensified crop rotations may have also led to increased yield variability and crop failures[17] in an area of already limited water resources[18]. Our analysis shows widespread yield stagnation in these regions, especially for wheat (Fig. 2a and c).
+
+In Europe, wheat yields may have declined because of climate changes in some countries of Western Europe[10], though elsewhere in more northern countries, the warmer climate may have led to fewer low yield years, and even expansion of wheat areas[14, 19]. Elsewhere in Europe, warmer temperatures may have had no effect on boosting either maize and wheat yields[20]. Confounding the climate-change effects in Europe are socio-economic and policy decisions to reduce farmer remuneration for intensive cultivation, or to reduce the environmental burden[6, 7, 10, 21, 22], which may have reduced farmer inputs leading to yield stagnation11 but improved environmental quality[23]. However, there are clearly both regional/country and crop specificities. There may now be fewer incentives to boost wheat yields in Western European countries11 (namely in France, Germany and United Kingdom), which correlates with our results showing widespread areas where yield increases have ceased (~80% of the wheat areas in France and Germany, and ~99% in the United Kingdom). However, maize yields are increasing almost everywhere in France and Germany (~90% and 100% of maize-growing areas, respectively). Spain, Portugal and Italy on the other hand have a larger fraction of their wheat areas showing yield increases (82%, 89%, and 76%, respectively) compared with maize (48%, 65%, and 41%, respectively).
+
+In Asia and Australia, yields of wheat and rice may have stagnated as shown in our analysis (see Fig. 2b) due to a combination of factors that are location-specific, including climate-change-related heat stress[24, 25], increased night time temperatures[26], depletion of soil fertility and salinization[12, 27], soil erosion[27], increasing competition for water resources[28], pest and disease build-up[27] and a lack of capital[29] to buy more expensive inputs while the real crop prices declined[30]. Wheat yields may have stagnated in Bangladesh[31], and in parts of India also because of current cultivars approaching their yield potentials[32]. The effect of water scarcity for irrigation, falling groundwater water tables[18, 27, 33] and soil-quality depletion may be even more pronounced for rice[34, 35], leading to the widespread rice-yield stagnation (Fig. 2b). The need for new wheat cultivars is another major challenge; specifically, varieties are needed that are heat- and water logging-tolerant for growing conditions in South Asia where wheat follows rice in the crop rotation, and frost-tolerant varieties for the growing conditions in East Asia[27]. Similarly, rice cultivars that provide high yields in nutrient-deficient soils[36] are needed to boost yields. Changing the length and type of crop rotation with better management could also boost Asian rice and wheat yields[37].
+
+In Africa, crop yields may have stagnated due to a complex combination of factors, many of which may ultimately be due to socio-economic limitation. Specific constraints to crop yield increases include variability of dry spells and lack of field-water management strategies in the drier parts of the continent[38], absence of significant irrigation infrastructure[39, 40], low nutrient application and absence of fallows to restore soil fertility levels[41, 42], lack of availability of suitable high-yielding crop varieties that in turn could be related to institutional and political conditions[42, 43, 44], and the lack of farmer expertise in appropriate agronomic practices[42]. However, when combinations of socio-economic factors align to overcome the biophysical limitations, significant yields gains are achieved[45]. For example, landscape-scale modelling results[39], field trials[46] and policy experiments[47], all demonstrate that fairly small increase in inputs is sufficient to double maize yields in Africa.
+
+Although we have found widespread yield stagnation, an increase in the number of crops per cropping cycle or intercropping with other crops[48, 49, 50] can increase net food supply and farmer incomes[17]. Indeed, global harvested areas have increased at nearly three times the rate of global croplands areas since 1985[4]. In some areas, farmers may have prioritized livestock over grain crops, and in other regions, yields may have stagnated, but the total factor productivity (the ratio of the total output to the total input) increased[21, 51]. However, globally, there remain many regions where both the growth in yields and total factor productivity of agriculture remain low, perhaps because of a lack of established agricultural research and investment[51].
+
+At the global scale, yields are being affected by both biophysical[52, 53] and socioeconomic[22, 29, 40] factors. Differences in crop performance create yield gaps[4, 5, 32, 39] that could be overcome by adoption of best management practices[54, 55, 39]. Understanding how changes to management practices (including fertilizer application, irrigation, pest management and others) could close yield gaps[39] is critical to addressing stagnating yields on our most important croplands. Failure to identify and alleviate causes of yield stagnation, collapse and never improving yields will have an impact on the future of global food security.
+
+Our global analysis shows that maize, rice, wheat and soybean crops are continuing to experience yield increases in 61–76% of their global harvested areas. This implies that between 24–39% of these cropland areas are no longer witnessing yield increases; the spatial extent of such rice and wheat areas is now particularly extensive (37% and 39% of global areas, respectively). In all, 43% of global rice and 44% of global wheat production are currently from these areas, not witnessing yield increases, raising the important question of how future demands, at least in these two commodities, would be met.
+
+More troubling is our finding that for the top-three global rice producers–China, India and Indonesia, yield gains are not occurring across 79%, 37% and 81% of their rice cropland areas. China, India and the United States–the top-three wheat producers–similarly are not witnessing yield increases in 56%, 70%, and 36% of their wheat cropland areas, respectively. The spatial extent for the top-three global producers of soybean under these yield conditions is much lower, but China, the second largest global maize producer, now has more than half its area not witnessing yield gains (Table 1). China and India, the world’s two most populous countries[3], are now hotspots of yield stagnation with more than a third of their maize, rice, wheat and soybean areas not witnessing yield improvement with the problem being more acute in China. For some crops in these two countries, the spatial extent of yield stagnation is more than half the cropped area.
+
+It is thus quite clear from these results that considerable investment in agriculture is needed in the coming decades to meet the challenges of the growing demand for food; simultaneously, we have to maintain a livable environment[4]. Although this study suggests that we have been losing ground on maintaining growth in agricultural production, there are promising paths to pursue in the years ahead[56].
+",0,,,461,science
+15ty52,4,"Ok, which one of you redditors is going to pay to get itsajug Reddit gold?
+
+Seriously?",0,,,286,science
+15ty52,5,I did. ,0,,,249,science
+15ty52,6,Thanks!,0,,,139,science
+15ty52,7,May I ask how you wrangled that hog? Quite valiant of you! Surely you did not give them 32 dollars. ,0,,,31,science
+15ty52,8,"Nope, my university has subscriptions to most of the journals; it's a slow day as I'm doing some measurements require hours of waiting, and I have a backlog of samples I made just before break. I just post some articlefulltext every now and then, especially when it's more data-interpretation stuff.",0,,,108,science
+15ty52,9,You wouldn't steal a car would you?  ,0,,,76,science
+15ty52,9,"Reagan's ghost: Mr. Itsajug, tear down this paywall!",0,,,17,science
+15ty52,9,"Makes no sense why shitty news article interpretations of these studies are free while the real scientific articles have to be paid for... wtf world.
+",0,,,2,science
+15ty52,9,I need to write a Google Chrome extension that rips that data and shoves it into the Internet Archive (archive.org).,0,,,2,science
+15ty52,8,[deleted],0,,,9,science
+15ty52,9,"Rather, they have subscriptions to the services which put up paywalls for said journals.",0,,,1,science
+15ty52,7,I wish I could give some to you...so instead I'll just tag you as a cool dude and upvote any of your comments/links whenever I see them.,0,,,0,science
+15ty52,6,Thank you.,0,,,18,science
+15ty52,5,"Okay, which one of you redditors is going to read through the wall of text and tell us all how the headline is probably misleading?",0,,,26,science
+15ty52,6,"Well, it's pretty easy to see some possible problems with this.  To start with, they begin their study right when the green revolution, begun in the 1940s, was really going in earnest.  Basically massive growth in agriculture in much of the world.
+
+The second wave began when the US realized the vast majority of export grain was only being grown in four countries, so the USDA began a massive hybridization program to create grains that could grow in less ideal agricultural lands.  
+
+Giant agribusiness concerns, like Monsanto, took over from this and innovated much bigger yields, disease and insect resistance, and far more effective pesticides.  All of this caused vast increases and stabilization in the amount of food around the world in fits and starts.
+
+However, stresses to agriculture started appearing as well, such as ground salinization, aquifer depletion, the need for a much better fertilizer slurry pipeline system (think oil pipelines but carrying fertilizer over hundreds of miles in networks of large pipes.)
+
+Agriculture also was tied up with giant national bureaucracies, which tried to control wild market forces by pumping huge subsidies at all levels of production.
+
+Today, in the US, the immense size of agribusiness is such that it takes a close second to the military-industrial complex in scale.  To make projections of the future at the planetary scale is problematic at best.
+
+In the US, the congress could overnight cause a huge overabundance of corn just by suspending the federal demand for fuel ethanol production.  If this was done abruptly, the price of corn around the world would crash, to avoid this we would probably have to destroy vast amounts of corn, or it would screw up a bunch of agricultural industries, from animal food, beef, chicken, pork, milk, processed food, etc.",0,,,13,science
+15ty52,6,I wish someone would create some sort of abstract summary of the full article,0,,,2,science
+15ty52,5,[removed],0,,,16,science
+15ty52,6,"Yes. ""Free.""
+
+",0,,,24,science
+15ty52,6,Damn.,0,,,1,science
+15ty52,7,"Nevertheless, he put some effort into copy & pasting. :(",0,,,6,science
+15ty52,5,what does reddit gold do?,0,,,2,science
+15ty52,6,Puts a shiny mark in your profile page.  Supports Reddit.  Not much else.,0,,,6,science
+15ty52,7,And some special room that you can get into. r/lounge or something.,0,,,1,science
+15ty52,6,[Link.](http://www.reddit.com/gold/about),0,,,1,science
+15ty52,7,"it seems like most of those features could be implemented for everyone for nothing. 1500 comments no problem, more subreddits on your front page doesnt seem like a problem",0,,,2,science
+15ty52,8,"It might not seem like it, but there is an increased and more costly load on servers that lead to slower load times and more frequent downtime. That's why you pay for the features until they can get to a point where they can offer it for free. 
+
+It's the same reason why they don't implement many of RES's features, though many of the people on Reddit's staff actually love and use it. ",0,,,2,science
+15ty52,6,"Causes women spontaneously press their naked breasts against your windows every morning when you wake up.
+
+Don't make a big deal about it, as there is a limited supply.",0,,,1,science
+15ty52,5,Me,0,,,2,science
+15ty52,5,"What, and create a paper trail linking my real identity to [contributory liability for copyright infringement](http://en.wikipedia.org/wiki/Contributory_copyright_infringement#Contributory_liability)? Someone else will have to take that fall!",0,,,1,science
+15ty52,4,"Thanks for that - but be careful copying that ""free"" information, [Aaron Swartz](http://en.wikipedia.org/wiki/Aaron_Swartz) is being prosecuted by the US Government for bulk-downloading the JSTOR academic database...  He had to pay $100k bail, and is facing up to 35 years in prison and $1million in fines.  [more info at the NY Times](http://www.nytimes.com/2011/07/20/us/20compute.html?_r=0) - and if you think this seems unreasonable, [consider donating to his legal defence](https://free.aaronsw.com/).  </soapbox>",0,,,2,science
+15ty52,4," But pop will go down because of the huge sex imbalance in Asia. To many men. Most will die without procreating. 
+
+Most western countries have low Caucasian birthrates. In the us we're going to have a HUGE die-off in 20 years with the boomers and silent generation dying off (finally). There are less of us Gen xer and millennial kids. ",0,,,3,science
+15ty52,5,"so you believe that the fact that there have been around 127 million more men in china than women since the mid 1980's will significantly affect population rates? We're talking about less that 5% of the population of the entire world. I guess the other 6,900,000 million people or so would have no impact on population rates.",0,,,2,science
+15ty52,5,I hope you are right. But did you factor in the rapidly growing birth rates in third world countries. Even with the death of the boomers beginning population is rising pretty fast.,0,,,1,science
+15ty52,6,"Heres a video talking about the myth of overpopulation.  Basically, what lawtard said is correct, we are in for a population *decline* in the coming years, and much needed I might add.
+
+https://www.youtube.com/watch?v=HsAracLBCxI",0,,,1,science
+15ty52,7,I spent way too long looking for a link in your comment.. What gives?,0,,,1,science
+15ty52,8,"Oops, sorry. Here you go https://www.youtube.com/watch?v=HsAracLBCxI",0,,,1,science
+15ty52,7,"all conjectures mentioned in youtube videos MUST be accurate predictions. if it's in a video, it can't POSSIBLY be wrong, can it?",0,,,1,science
+15ty52,8,Can you point out exactly where the video is wrong?  I'm interested in your critique.,0,,,1,science
+15ty52,4,"I would be interested in obtaining the date in a GIS usable format, and creating a map that displayed the relationship between stagnating crop production and population growth. Would really give a better idea as to what areas might face the more serious ramifications. As well, I would be interested in investigating the relationship with climate change (granted this may have been mentioned in the discussion, I skimmed it :))
+
+Thanks man!",0,,,1,science
+15ty52,3,[removed],0,,,19,science
+15ty52,4,[removed],0,,,12,science
+15ty52,3,[removed],0,,,2,science
+15ty52,2,"Last season (2011-2012) was marked as a collapse in wheat trading cuz every region in the world decided to do record yields. Prices fell down to 1/3 of what they were in summer 2011. Kazakhstan and Russia went 20-25% above predicted yields. We are talking yields of 24+ mln tonnes compared to regular 11-15. Wheat was sitting on the ground rotting because there were not enough grain wagons to transport it from the fields. Sylos were not big enough to hold so much. 
+
+This year U.S. and Ukraine kind of wend down. There were stupid freezes in southern Ukraine, and some stupid weather in U.S., killing up to 40% 2012-2013 crops in Ukraine. Now (Jan. 2013) wheat prices are really high, like 50-70% higher than 5-year average. 
+
+Grains are a funny business. And biggest problem is not yields (it never has been). It's mostly storage and transportation. Sylos are not big enough and expensive to build, and you never can really have enough railroads and sea grain terminals. My clients can make 5-10 times the amount they are growing now (3 mln tonnes -> 10-15 mln tonnes a year per company), but they will never be able to transport it to the buyer, or make sure it survives long enough to actually be sold. 
+
+Source - I'm a commodities analyst for a large commercial bank. ",0,,,112,science
+15ty52,3,"Here in Homestead, Florida, millions upon millions of tomatoes rot in the fields simply because the market makes it unprofitable to harvest them. ",0,,,13,science
+15ty52,4,[deleted],0,,,2,science
+15ty52,5,I believe they coma all the way from Mexico and other places illegally to do just that. ,0,,,5,science
+15ty52,5,The hungry people are not in Florida.,0,,,1,science
+15ty52,5,"I've always thought this. But all it takes is some jackass to break his leg in a field and the lawyers attack. The landowner would be bankrupt. Kill all the lawyers, end world hunger.",0,,,1,science
+15ty52,6,um...not the lawyers fault that people are dicks...we all gotta make our money champ,0,,,2,science
+15ty52,3,You make me want to study economics and quit CS. ,0,,,3,science
+15ty52,4,"As an upcoming economics graduate, I really wish I had done CS instead of poli sci as my second major.  
+
+Pretty much all the great econ jobs these days deal with big data (at least the ones I want to do), and they all want you to be an experienced Python programmer.  ",0,,,5,science
+15ty52,5,/r/learnprogramming/,0,,,6,science
+15ty52,5,Python is easy. :D I love it. ,0,,,3,science
+15ty52,5,"I've been programming for around 10 years now, but never went to university. Just getting my shit together now to go and study economics. Really looking forward to being able to put the two skills together.",0,,,2,science
+15ty52,5,What is CS? I was kind of thinking of going the poli science route myself.,0,,,1,science
+15ty52,4,"I studied finance, which is different. Economics is all about how to be efficient. Finance is about how stuff is priced and how to predict the price in the future. 
+
+Both are impossible w/o some kind of CS though. Financial analysts like me are pretty much required to be proficient in C++ or at least some SQL. VBA is also very welcome. ",0,,,4,science
+15ty52,5,I am kinda kidding I like it because it is interesting right now but I think that CS is going to be interesting all the time. My whole fathers family is into finance and I wouldn't have to try hard to get into it if I wanted. ,0,,,1,science
+15ty52,4,"If you can, just do CS & Applied Math. Most business analyst jobs would rather hire a math major than economics major anyways.  
+Source - I'm an econ & math double major that works with big data and analyitics team a lot (at eBay).
+",0,,,2,science
+15ty52,4,Do both. You have a long life ahead - you will have to change careers two or three times anyway. ,0,,,2,science
+15ty52,3,[removed],0,,,8,science
+15ty52,3,Great post and I value the insight but do you mind posting some sources and possibly some proof?,0,,,1,science
+15ty52,4,"Sources for what exactly? 
+
+Ok-ish price source is [IGC](http://www.igc.int/en/grainsupdate/igcgoi.aspx). Price goes up = less grain available, price goes down = more grain available. 
+
+As for capacity, just think about this. Assuming ideal circumstances, in order to export 30 mil tonnes of grain in one month from Russia, you need 30mil/60/30*2~33000 wagons doing one return trip in 2 days. Which is about as fast as they can go. Russia has 5200 wagons of its own. And only two existing wagon factories produce 80 new wagons a year combined. Rest is rented from Eastern Europe at very high rates, which simply adds to the price. 
+
+If only Russia had a huge proper factory (like the one Brazil has), they could either double capacity or half the price. But nobody is willing to invest ~$1.2 bil into a 20 year project to fix this. Because fuck grain, you can build a small nuclear power plant in the same timespan and for same money. ",0,,,5,science
+15ty52,5,But....we can't eat nuclear power plants.  At least not until we get the replicators working.,0,,,1,science
+15ty52,3,Converting corn to automobile fuel then makes a lot of sense.  It can be stored indefintely.,0,,,-1,science
+15ty52,4,"not going to give you a lot. Might as well invest in railroad between fertile area, to ports, logistics center and have bigger farms. (feed the cows!)
+
+Meat demand is increasing exponentially in the developing world. ",0,,,8,science
+15ty52,5,"Half seriously, would a corn powered railroad be possible? Or perhaps more specifically, would it be worth it?",0,,,1,science
+15ty52,6,"not worth it. making alcohol out of corn then burning it in combustion engine isn't  very efficient. Corn isn't the best biofuel source to begin with, and large scale conversion is capital and energy intensive. the cost of fertilizing, irrigating alone is more than the fuel you get.
+
+Use the corn to feed the cow or make tortilla and have a happy school lunch.
+
+If I were the power that be. I will build gondola/ ski lift type of grain transporter. (put it in ultra light weight plastic barrel. Then move this barrel around on cable system)  It's the most efficient distance transportation I can think of. One can push around the barrel using little battery powered motor. (it doesn't have to go very fast. It's quiet and can run 24hrs continuously)
+
+You capital cost will be steel cable, pylons, small source for electricity. Very little of them. solar-wind. Everything can be controlled automatically, without human element loading, driving, unloading, transiting, etc.
+
+You cut down on complex machinery, no fuel/maintenance cost for truck, lifter, grain mover, etc. Once it is in a half a ton barrel, it's tagged electronically and will move automatically.",0,,,3,science
+15ty52,4,"Corn is actually a terribly inefficient source of biofuel. Much more energy is required to grow the crop then you would get from processing it into ethanol and combusting it. I had a professor tell our class that if all of the worlds arable land was used to grow biofuels, we would meet less than 30% of global energy demand and starve in the process. ",0,,,2,science
+15ty52,4,"No. that drives up the price of food, it's expensive, and fuel yield is not high enough to justify these things.",0,,,1,science
+15ty52,2,"The main problem isn't mentioned, it is the usage of agricultural fields.
+How does it come that Cuba does make more efficient ground usage compared to America? Its because cattle farming and king-sized hamburgers, wont feed the world population, its 10 times more efficient to grow beans and rice to feet the world, something the Cubans knew a long time, it helped them survive the trade bans.
+ ",0,,,36,science
+15ty52,3,What makes you think Cuban farming is efficient?,0,,,16,science
+15ty52,4,"Cuba lost 90% of their oil imports after the USSR fell, and were forced to adopt a farming system with much less machinery, fertilizers or pesticides. and it ended up working surprisingly well.
+
+It's not the same kind of ""1 farmer for 100 acres"" efficient, or $.99 per corn cob efficient, but 80% organic and local or urban agriculture efficient. I'm not saying cubas government is anything to be proud of, though. But their country is much more sustainable than ours, due to many factors (size is a big one). We have less than 3% of our country working in agriculture, which is very low. 
+
+[wikipedia](http://en.wikipedia.org/wiki/Special_Period#Agriculture)
+
+studying enviro sci",0,,,8,science
+15ty52,5,"*We have less than 3% of our country working in agriculture, which is very low.*
+
+Right, that is because we are efficient.
+
+I am not wanting to debate the merits of Cuba, I'm just saying that the idea that Cuban farming is more efficient than ours is ludicrous.",0,,,5,science
+15ty52,6,"What I'm trying to say is that it's a *different kind of efficient*. In many ways it is much more efficient to use people power rather than machines, organic methods rather than pesticides and fertilizers - much less calories are used (counting hydrocarbons as calories.) Also on average food in the USA travels 1000 miles to reach its destination.[best source i can find](http://www.scribd.com/doc/32912237/Food-Miles-and-What-This-Means-to-Us) We have a pretty inefficient system, from an energy standpoint. financially it is very efficient but I would suggest energy is very important as well. Entering the age of fuel shortage even more so.",0,,,2,science
+15ty52,7,"I guess if you want to make up a new word for efficient go ahead.  But we are more efficient even counting the energy and transportation costs.  That is the virture of a price system.
+
+if we were not more efficient, our groceries would cost more.  Instead we have the cheapest food prices in the world.  That is proof of our efficiency.
+
+ ",0,,,1,science
+15ty52,8,"Yeah what I'm saying is kind of twisted, I don't mean economic efficiency and I should probably take economics - I mean resource efficiency, the calories of energy input required to get a calorie of edible food output - price is not a good way to measure that. Subsidies play a huge role in USA agriculture - for meat and corn especially. So they are not as cheap as they seem. An indicator of our agricultural resource efficiency is what i have previously mentioned - percentage of organic agriculture, distance travelled from farm to table, and hydrocarbon (fossil fuel) use.
+
+I'm sorry I'm speaking a different language but this is good practice for me.",0,,,1,science
+15ty52,9,"OK, you make sense.. don't worry.
+
+Price is THE way to measure it, assuming no subsidies.  But you are right, there are a lot of subsidies.",0,,,1,science
+15ty52,4,"Because they needed to be efficient or else dye from starvation.
+They also realized they where not great farmers, after some failed experiments. they became to realize that not everyone should be also a farmer (it didnt work out, and so they changed).
+
+So they improved efficiency by changing diet.. more beans less meat.
+As you need a huge area of grass to support a cow.
+If your space is limited grow something that feeds a lot people.
+Cows or not such a food type they require a huge area, to feed themselves after a few years you can eat them.. that's inefficient.
+
+As a side effect beans are a lot more healthier.
+Their nations is one the most healthy of SA
+
+And no i am not a communist, but as a traveler i see how some countries tackle problems in different ways, then we westerns tend to do. As another side note one can harvest rice 3 times a year, so potatoes aren't efficient also. ",0,,,6,science
+15ty52,5,"Fineliner is totally right and here is some 'proof' for ya. Really great article published today titled 
+""What Cuba Can Teach Us About Food and Climate Change""
+
+http://www.slate.com/articles/health_and_science/future_tense/2012/04/agro_ecology_lessons_from_cuba_on_agriculture_food_and_climate_change_.html",0,,,4,science
+15ty52,6,"Cuba also does a lot of interesting stuff with urban agriculture.
+
+See: http://en.wikipedia.org/wiki/Organoponico",0,,,1,science
+15ty52,5,"So, I think the person was looking for some sort of proof or for you to site something that might support what you are saying. You know.... facts and evidence.
+
+What you are saying sounds nice, but without supporting evidence, you might as well be Jim Jones trying to collect a bunch of kool aid drinkers.",0,,,2,science
+15ty52,6,facts? evidence? you're acting like this is /r/science/,0,,,4,science
+15ty52,6,"This is like saying there is no global warming, there is plenty of evidence about this. But people refuse it, like to hang on to their lifestyle and forget about. Until at some point it is to late. In many countries (not your USA) there are problems feeding the population, this is partly because other countries hang on to a life style that is futile for feeding a global population. .. I am to blame too, i like fish a lot, but i know there is not that much fish anymore most are in decline and fish species become smaller; side effects jelly fish is blooming not enough predators for it..side effect deadly jelly fish around beaches.
+I like to ignore such things as much as you do, but i know its wrong.
+..
+So evidence, i wished you did your eduction and some more reading, instead of your ignorance about your place in the world..
+",0,,,1,science
+15ty52,7,"Did I ever say that I did or did not agree with you?  
+
+Kind sir, I am simply looking for something other that the words that are escaping from your fingertips as some sort of evidence as to how they are efficient compared to other farms.
+
+So, before you get all pretentious on me and tell me to ""do my education"", perhaps you should slow your roll a bit and help me out with a little thing called science. It is sort of why we are here, right? You make a statement.... back it up.  
+
+There are any number of things that POINT to climate change being real and any number of scientific findings that can be brought up as points that support or do not support that man impacts climate.  That is completely different than you vomiting a bunch of words onto a public website where you may have just been in /r/spacedicks giggling your self silly about goatse.  
+
+C'mon, man.  Let's turn back to real life.  You make a statement and you expect people to believe you without posting one single thing that even comes close to supporting what YOU are asserting?  That doesn't even work on the History Channel, son. ",0,,,1,science
+15ty52,5,But aren't planned economies the devil?,0,,,1,science
+15ty52,6,"I have been thinking long about that, its not my subject here.
+But all economies are planned, by loan demand and debt.
+The difference with non democratic systems is that they tend to have longer plans as they dont require votes and false promises.
+I mean whats more more wrong, promise to raise tax for the rich.
+Or say you all have much about the same loan and healthcare?
+Some planning of economy can make a country of equal dreams where no planning would make a country of broken dreams for most of the population i am sure. Notice dough i don't favor planned economies like north Korea, but i am sure that life in China improves faster then any other huge country, so planned economies.. hmm i would favor to put our best scientist around that idea..",0,,,2,science
+15ty52,7,"Worked for the Soviets for awhile right, there downfall however can be attributed to factors outside of being a ""communist"" country.  Also if we look at examples like Cuba, they seem to be much better off than their counterparts in the same vicinity.  ",0,,,1,science
+15ty52,4,Page 3 of the Glorious Revolutionary Communism is FUN! journal says Cuban farming is efficient.,0,,,1,science
+15ty52,3,Now tell the people here to eat less bacon... Good luck with that.,0,,,5,science
+15ty52,4,"Beef is the main problem, it is 4x worse than pork. ",0,,,9,science
+15ty52,4,"""Fine! You can take our guns; but please God... don't take our bacon!""",0,,,1,science
+15ty52,5,seems too reasonable. less guns more bacon!,0,,,2,science
+15ty52,2,[deleted],0,,,12,science
+15ty52,3,"I know (well, assume) that you're being sarcastic, but if Monsanto wasn't such a belligerent ass about copyright and other legalities reddit would hail it as the savior of the future of agriculture. There is some seriously amazing science happening in Monsanto's labs that have huge potential to solve giant problems in agriculture. They just also happen to be a massive, particularly douchey corporation.",0,,,15,science
+15ty52,4,going to play devils advocate here but the work Monsanto does in genetic manipulation is also very expensive and to be profitable they must be douches about patents and seeds. If you can find a cheaper way into  RnD. Ill nominate you for reddit gold. ,0,,,13,science
+15ty52,5,"To be fair, Reddit is fine with cross-bred plants while hating genetically modified agriculture.  A crossbreed involves taking many thousands of genes and putting them into another plant while GMO's involve taking a single gene and putting it into another plant.  Until everyone on Reddit is educated on the subject, I resolve to educate where I can and stay uninvolved where I can't.  It's one of those topics where everyone has made up their mind made up already.  Until the masses have taken a college level course in genetics it's hard to change their mind on the topic.",0,,,3,science
+15ty52,5,"You're right, and I don't necessarily have a better answer. If the copyright system wasn't so flawed they wouldn't be able to behave as they do. That said, RnD costs are typically what outside investment is specifically *for*, and as a publicly traded company that is ideally where such revenue should come from. They're just abusing a system because they are able to. I won't come down one way or another as far as the morality of such behavior.",0,,,0,science
+15ty52,6,You are misinformed. Publically traded companies only get an influx of money during the initial public offering; after the IPO there is no more influx of outside revenue ... your statement about outside investment fueling R&D is fundamentally incorrect for an established company.,0,,,2,science
+15ty52,7,Oh. Well. That then. ,0,,,1,science
+15ty52,4,"While their business practices are completely deplorable, their science remains top-notch.  I await the day that reddit finally discovers this.",0,,,2,science
+15ty52,4,Except for all the Bond villainesque stuff they do.,0,,,1,science
+15ty52,3,"The world needs more sarcasm. Thank you, sir.",0,,,2,science
+15ty52,2,"As long as there are giant warehouses left from outsourcing, there will always be safe places to avoid climate change.  Growing indoors can yield large.
+",0,,,1,science
+15ty52,3,"But the energy costs are astronomical, yes?",0,,,1,science
+15ty52,1,"Paywalling is morally questionable, when most of these studies and papers get written with grants imho.",0,,,128,science
+15ty52,2,"We thank the NASA and DOE of the United States, NSERC of Canada and the Gordon and Betty Moore Foundation for their support. N.D.M. was supported with a NSF Graduate Research Fellowship. We also thank George Allez, Laura Bryson and Amy Kimball for their help in collecting and digitizing a portion of the data. This work was also benefitted from the comments of the Foley lab members, as well as editing by Emily Dombeck. We thank James Gerber for helping with Figure 2.",0,,,50,science
+15ty52,2,And going to be forbidden in UK starting this year (2013) for publicly-funded research.,0,,,36,science
+15ty52,3,"The whole EU, actually.",0,,,9,science
+15ty52,4,Source (§§) on that please.,0,,,5,science
+15ty52,5,"You'll have to pay for it, sorry.",0,,,4,science
+15ty52,4,"If that would have been the case in France, I would have been aware of it, I think. The decision I mentionned was a UK-government decision. There may be talks at the EU level (I surely hope there are!) but I doubt they may finish before several years (yay for unanimity rule!)",0,,,1,science
+15ty52,5,"Well, my former college professors told me it was a planned EU directive that mandated all publicly funded research to be open access. Let's see. I think it's idiotic to have it any other way.",0,,,1,science
+15ty52,6,"Planned, yes, probably. But I doubt that anything to this effect becomes active in 2013. How I would wish for that...",0,,,1,science
+15ty52,2,"AKA **Monopoly of Knowlege & Ideas** 
+
+",0,,,76,science
+15ty52,3,XD course redditors would upvote this. This is far far from a monopoly on knowledge and ideas. ,0,,,-2,science
+15ty52,2,What's even worse is the professors aren't paid by the publishers to write these papers. Academic publishing is one of the worst rackets in the world.,0,,,7,science
+15ty52,3,"But of you don't publish, you well get fired. So there's that.",0,,,7,science
+15ty52,3,"What is so broken about the system? The only thing about academic publishing that feels totally broken to me is the paywall system, which is morally questionable but I don't think actually affects many people. The number of people who have the ability to read academic papers and do not have access to the papers is pretty small. Most of the other problems with publication that I see in my field can be solved by having good program chairs (my field is conference based rather than journal based). How would you set up a superior system?
+
+Also, you do get paid to publish since your continued salary depends on publishing good research.",0,,,1,science
+15ty52,4,"""Also, you do get paid to publish since your continued salary depends on publishing good research.""
+
+So universities--and taxpayers, in the case of public institutions--are subsidizing the billions of dollars in profits that the academic publishing industry earns.",0,,,1,science
+15ty52,5,"That's one way of looking at it, but the taxpayer is already subsidizing pretty much everything that goes on in a public university. You subsidize things like athletic facilities but nobody complains about taxpayer money ending up as profits for construction companies. 
+
+Its not an ideal situation, I'll give you that, but I think the claim that academic publishing is some giant scam is overblown. ",0,,,1,science
+15ty52,6,"""You subsidize things like athletic facilities but nobody complains about taxpayer money ending up as profits for construction companies.""
+
+I do.
+
+""Its not an ideal situation, I'll give you that, but I think the claim that academic publishing is some giant scam is overblown.""
+
+I've published about half a dozen academic articles--some of which took me over a year to work on. And was paid nothing for the work, while the publishing company charges people to see my work. If that isn't a scam, I don't know what is.",0,,,1,science
+15ty52,7,"You were paid nothing for your work? You didn't get grant/industrial money to fund your research? 
+
+You seem to want the publishing companies to fund research, which will literally never happen. A publishing company will *never* have enough money to fund the research that produces the papers they publish. Research is just too damn expensive. Funding has to come from sources with piles of money (typically the government), so the only solution to this problem is to force publishing companies to offer the publications to the publish for free (perhaps after something like one year).
+
+I agree with you that this particular situation isn't great (I'm published too) but it is a holdover from a time where publication was actually pretty expensive. It will change as time passes, but it will be slower than we all want simply because there is a massive frictional force in play since everybody wants to publish in established journals instead of new ones. Nobody other than the publication companies are actively keeping this system in place. ",0,,,1,science
+15ty52,8,"""You were paid nothing for your work? You didn't get grant/industrial money to fund your research?""
+
+No. The humanities doesn't work that way.
+
+""You seem to want the publishing companies to fund research, which will literally never happen.""
+
+No--I'd like revenue share in the form of royalties.",0,,,1,science
+15ty52,9,"I can understand a royalty program. My guess is that it wouldn't provide anywhere close to an amount of money where you wouldn't need to rely on other forms of income (grants or university funding). It is an idea that I hadn't considered before, though. ",0,,,1,science
+15ty52,2,"It costs money to run a journal. That money has to come from somewhere and while there are grants for research there are not really grants to review and publish the results. 
+
+I like systems similar to what the NIH use where funded research needs to be public within a year. So a journal can still make its money selling to people who need immediate access, but the information becomes broadly public within a reasonable time frame.",0,,,13,science
+15ty52,3,Peer reviewers are not paid (in any reputable journal).,0,,,7,science
+15ty52,4,"The actual reviewers no, but the people who coordinate that process or otherwise do the work of running a journal can be. ",0,,,2,science
+15ty52,5,"Yeah, but that doesn't justify their massive profit margins. Some good sources: http://www.leighblackall.com/2009/12/academic-publishing-scam.html
+http://www.the-scientist.com/?articles.view/articleNo/31858/title/Opinion--Academic-Publishing-Is-Broken-/
+http://www.techdirt.com/articles/20111102/10362916602/academic-publishing-profits-enough-to-fund-open-access-to-every-research-article-every-field.shtml",0,,,2,science
+15ty52,6,Totally. Elsevier is not the model for a good way to do this.  ,0,,,1,science
+15ty52,3,What exactly costs a journal that can't be optimized with online publishing?,0,,,12,science
+15ty52,4,"The actual running of the journal. Someone has to do the work and those someones probably want to get paid for their work be it coordinating reviewers, answering the phones, formatting the articles, whatever. Then you have the same overhead any organization does like rent, utilities, taxes, etc. 
+
+And online isn't free. You need people to maintain the site, pay for hosting, assist users with technical issues, etc. 
+
+I agree that free and open is the way to go, but we can't do that without some other means to pay those costs. It is not really immoral for a journal to charge money to pay those costs without some other means of support. ",0,,,22,science
+15ty52,5,"Not really. If you look at less lucrative fields--18th century studies, for example--you'll see that pretty much the entire operation is run on volunteer labor, and these volunteers are students and professors. With online publishing, it's very easy to run a journal for free. Several e-journals are run this way.
+
+The fact is that academic publishing doesn't have to cost anything--no more than blogs cost. Peer review is usually not compensated, editing is usually not compensated, and writing is usually not compensated. That means overhead could easily go to zero.",0,,,15,science
+15ty52,6,"My guess would be that the Journal of 18th Century Studies is not exactly getting tons of submissions and the consequence of publishing one that did not deserve it is rather low.  
+
+Compare that to a major journal in a field like emergency medicine and you are taking something else entirely. A few folks in their spare time can probably sort through a few submissions and organize reviewers, but they can't do the same when you are talking about many many more submissions in a highly technical and specialized field. 
+
+Volunteer run journals, like volunteer run anything, work fine until you hit a certain size, then it becomes rather untenable. ",0,,,3,science
+15ty52,7,"""My guess would be that the Journal of 18th Century Studies is not exactly getting tons of submissions and the consequence of publishing one that did not deserve it is rather low.""
+
+You would be absolutely wrong on all counts.",0,,,6,science
+15ty52,8,"Really? So something similar to the damage caused by publishing that useless quack Andrew Wakefield in Lancet could happen there? How? 
+
+",0,,,1,science
+15ty52,9,"Publishing an article--or several articles, in fact--on the inherent superiority of northern European languages in German journals in the early 20th century gave intellectual justification for the Holocaust. To give one of several examples. Pick up an issue of Anglia from the late 1880s and read about ""negro dialect"" to see what I mean.
+
+That's all I'l say on the topic. I don't want to debate the importance of humanities with scientism-inclined Redditors.",0,,,5,science
+15ty52,6,Editing? ,0,,,1,science
+15ty52,7,"Volunteer. Anyway, think about it: if an article is written by a Ph.D., peer reviewed by at least 2 other Ph.D.s, and then edited by a managing editor who also has a Ph.D., surely it should be in legible English. If not, none of these people should have Ph.D.s.
+
+Most academic journals in the humanities don't have copy editors.",0,,,1,science
+15ty52,8,">Most academic journals in the humanities don't have copy editors.
+
+Wrong.
+
+Also, you obviously haven't hung out with many PhD's if you think most of them can write error-free and readable prose without the help of an editor or three.
+
+Not defending the outrageous rates that journals charge, but the cost is not zero.
+
+Why would anyone volunteer for the copyediting job? At least the job of doing peer review counts towards your service requirements. Copyediting  and proofreading is thankless, but necessary, gruntwork.
+
+The managing editors perform a vital task in quality control. You get 100 times the number of submissions that you could publish. You don't send out everything for peer review. The managing editors do the initial screening before selecting the small number of articles that get sent out to peer reviewers. Again, there's a lot of thankless, but vital, administrative work that wouldn't get done without some form of compensation if you want some degree of quality. This doesn't get farmed out to grad students.
+
+The real suckers are the libraries. They get conned into paying the outrageous subscription prices. If the main research libraries pooled their money and paid a fraction of it to bankroll the small editorial costs, then you could cut out the for-profit journals and the useless rents.",0,,,1,science
+15ty52,9,"I've actually copyedited for CUP and published my own academic work and edited that of others--in my experience, most of the journals don't have copyeditors and really don't need them. CUP, OUP, Harvard, and the big Ivy presses would be exceptions.",0,,,1,science
+15ty52,5,"For something of a counterpoint to this, [try this AMS article](http://www.ams.org/notices/201301/rnoti-p97.pdf) by the chief founder-editor of a high-quality free online journal in my field (Bob Rosebrugh, of Theory and Applications of Categories), on what goes into running such a journal.  **tl;dr**: at least in mathematics, the costs (labour + infrastructure) of running an online journal are quite manageable by a few academics with reasonable insitutional support.",0,,,2,science
+15ty52,6,"The reasonable institutional support is the key fact there. Given the pressures on budgets and time these days that support is not really a given. When departments are struggling just to keep staff, running a journal is not really in the cards. That and some degree of separation between journals and institutions is not a bad thing. 
+
+I have no doubt that we could make journals free and open, but doing so takes a fair bit more than just saying it and it is certainly not immoral for a journal to charge given that they might not have the luxury of doing otherwise. 
+
+That was an interesting read, but I'd say the PubMed model has a bit more wide spread applicability than a small journal putting out 20 or so articles a year that can rely on its submitters to adhere to requirements. Pay-to-publish is an option too, but that can have a detrimental effect on low budget operations. 
+
+",0,,,11,science
+15ty52,5,"Decently sized universities typically pay several millions of dollars a year for access to academic journals, with academic publishers typically seeing profit margins of over 30%.
+
+Apart from blocking a large part of the public from access to academic research, the current model suffers from another problem: it isn't cost-effective.",0,,,1,science
+15ty52,5,no but it is immoral to charge obscene amounts to submitters AND subscribers. A two dollar fee would be reasonable. a billion dollar margin is not.,0,,,1,science
+15ty52,6,"If you're getting enough readers to make what you need off of that maybe, but with the readership of most articles that would not even begin to get you enough. 
+
+And unlike other things price is not really what is keeping people away. Readership on free articles is very low as well unless the article is one of the very very very few that gets popular press. ",0,,,2,science
+15ty52,4,Editing mostly. Along with all the other costs of running a decent sized company.,0,,,8,science
+15ty52,5,"Note however that committee peers are usually not paid for their work, as it would be a conflict of interest. So yes, editing, but I think that if a PhD student can manage it, so can a seasoned researcher.",0,,,11,science
+15ty52,6,"Correct, peer reviewers are not paid, but that's besides the point.
+
+Not sure I'm parsing your last sentence right, what is being managed?",0,,,2,science
+15ty52,7,"Sorry, my English may be a bit badly-formed. 
+
+I am saying that editing (which I understand as the process of typo-correction, formatting of the article and production of the actual electronic file) is something that PhD students do all by themselves, so assuming that most researchers can do that also does not seem far-fetched and would remove the last ~~excuse~~ cost that are still weighting on electronic journals.",0,,,7,science
+15ty52,8,"The editors do more than fixing typographical mistakes, in fact that's something that is more often than not pawned off on the reviewers, who as you say aren't paid. Their biggest jobs are determining what manuscripts are sent on to review, finding and organizing the peer reviewers (which is harder than you'd thing, they need to get the experts in whatever field the paper is in to agree to spend their precious time), and ensuring that the product fits in with the changes the reviewers requested. They're also the ones responsible if false or bad research is included, so they help ensure only good articles are published.",0,,,8,science
+15ty52,8,"And how do you verify that an author did in fact correct all the typos instead of not caring?
+
+Without, that is, paying someone to read the paper in fine detail and make sure it meets all standards, has no typos and so on?",0,,,2,science
+15ty52,9,"A reviewer will usually slam you for typos and grammatical errors. It is definitely in the interest of the authors to weed out typos, if they want their paper taken seriously.
+
+But journals do also pay for professional proof readers.",0,,,1,science
+15ty52,8,"Copy editors fix typos, etc.  Handling editors do a lot more.  They basically guide the review process (choose reviewers, etc) and make the final decision, based on the reviewers' comments, of whether the paper will be published.",0,,,1,science
+15ty52,9,"I always thought that this particular work could be supported by universities or labs, that would be pretty happy to have the reputation gain of running a reputable journal.",0,,,1,science
+15ty52,4,"Office space, Administration, HR, development, design, servers, hosting , management, licensing, production, editorial,  printing, storage, bandwidth, sys ops all cost real money. I'm sure this is just the tip of the ice burg but the publishing industry has real costs. ",0,,,2,science
+15ty52,3,it costs way less money to run a journal than would justify the 35 euro per downloaded article per person my university pays.,0,,,2,science
+15ty52,4,Source?,0,,,1,science
+15ty52,4,"Your university does not pay per download, it pays for access to a large group of journals at once.",0,,,1,science
+15ty52,3,"Valid points.  But i would wager that the overheads to store mostly text are not high.  I can see where a compromise would sit around $5, but I have no idea what the costs are.  I know Pubmed and PLOS journals are good for free papers.",0,,,1,science
+15ty52,4,"It can cost authors thousands of dollars to publish in those. They are free to access but not completely free. 
+
+Overhead is not just data storage. You have to format it, along with picture, charts, citations, etc for easy readability in multiple formats, you have to design and maintain the site, you need people to process all the submissions, answer the phones, etc. Then you need a place to put these people and keep them reasonably comfortable. Someone has to supervise all of this and you need to do some advertising so people know about you. And on and on. ",0,,,1,science
+15ty52,3,When articles are submitted there are usually fees the author has to pay. My last paper cost Eu950 to publish in a low tier journal. It's likely more in Nature. ,0,,,1,science
+15ty52,4,"Nature, from what I gather, only charges if you want open access. If you are fine with only being accessible via subscription then it is free. ",0,,,2,science
+15ty52,3,"So governments pay billions in research costs, but can't pay a few hundred thousand so that the research is actually available to the people paying the research costs? That severely limits the impact of the research and therefore the return on investment.
+
+No one is saying ""everyone involved in overhead is evil,"" but there is absolutely no reason to restrict access to research; research costs are far far higher than publishing costs, so recouping publishing costs by restricting access to expensive publicly-funded research is a massively foolish false economy.",0,,,1,science
+15ty52,4,No argument here. ,0,,,1,science
+15ty52,1,[deleted],0,,,16,science
+15ty52,2,Thanks for sharing this; your comment needs to be right at the top.,0,,,1,science
+15ty52,1,[deleted],0,,,9,science
+15ty52,2,"Not Virginia Tech, sadly.",0,,,3,science
+15ty52,3,VA Tech doesn't have access to Nature?  That sounds unlikely.,0,,,3,science
+15ty52,4,Nature *is* a pretty obscure and low impact journal.,0,,,2,science
+15ty52,4,Not Nature Communications. ,0,,,1,science
+15ty52,3,Chris? Beck?,0,,,1,science
+15ty52,4,Nope. Sorry.,0,,,1,science
+15ty52,1,[here](http://arc.aiaa.org/doi/abs/10.2514/2.2859?journalCode=ja) I give you a one thousand dollar article.,0,,,4,science
+15ty52,2,{O.o},0,,,2,science
+15ty52,1,I have access to it from work for free. but the guy below just posted it,0,,,4,science
+15ty52,1,[deleted],0,,,3,science
+15ty52,2,Universities don't pay per download.  They buy subscriptions to hundreds of journals at once.,0,,,1,science
+15ty52,2,">It's not like there's a cabal of academics getting wildly rich off selling research papers.
+
+What's your point exactly? Academic aren't getting rich of the articles, but the publishers sure are.
+
+To use your term, there is a cabal of academic publishers getting rich of selling research papers. [Elsevier](http://en.wikipedia.org/wiki/Elsevier), for example, [had a 37% profit margin on revenue of £2.1 billion.](http://www.economist.com/node/21552574) That's ~$1.2 billion in profit on ~$3.3 billion in revenue for distributing ""content... largely provided free by researchers.""",0,,,1,science
+15ty52,1,"Nice try, guy who charges $32 to read his articles.  I am not falling for that.  ",0,,,1,science
+15ty52,1,"TL;DR: Anyone that isn't filthy rich is going to be fucked and fighting for his/her life just to survive.
+
+Friends have asked me why I've been suffering from such major depression over the last four years. I've been trying to tell them it's because of things like what this paper is saying, but they just tell me I'm crazy. I'm not looking forward to my future at all. All the more reason to live in the moment I suppose.",0,,,0,science
+15ty52,2,"I'm sorry, but that is literally crazy.",0,,,5,science
+15ty52,2,we're all going to have to move to an insect based diet sooner or later.,0,,,2,science
+15ty52,2,"As RD Laing once said, madness is often a sane reaction to an insane world. Most people are hiding their heads in the sand over this stuff - it's painful to stay awake. That said, depression is a serious illness and worth trying to get treatment (therapy, drugs, exercise, etc). The future may be bleak, but life still has its beautiful moments.  
+  
+Edit: for what it's worth, I struggle with serious depression too. Internet hugs :-)",0,,,2,science
+15ty52,3,"I met a wonderful girl and I'm actually doing much better. I very much appreciate the kind words though. :)
+
+Besides, I suppose that life ends one way or another.",0,,,2,science
+15ty52,0,"As part of a project I did for a client of mine (interested in buying and improving underutilized farmland in Africa), I attempted to conduct a study similar to the ones referenced in this article.  The client wanted to know where in the world you could buy the ""best"" soil.  This included weighing the relative importance of land costs, labor costs, nutrient cost/availability, the proximity of equipment dealers/repairs, etc.  I was able to get on the phone with everyone from seed developers to farmers and grain traders before essentially giving up.  It's amazing just how limited the data is for this kind of study.  Controlling for the styles, intensity, sophistication, not to mention cost of farming the same crop in various places around the world is probably impossible.  There isn't a standard candle, so to speak, for agricultural yield.  Even wheat, which is literally grown everywhere, isn't effective, as different grades of wheat, different positions in rotations, different nutrient intensities, can all dramatically influence yield.  The USDA, for all of its faults, is pretty unique in the breadth and depth of the data it offers.
+
+It may be of some consolation, however, to know that folks are constantly purchasing and improving farming operations all over the developing world.  Soybean yields in southern Minnesota might be stagnating, but there's a ton of room to run with Romanian or Serbian wheat, for example.  Some of the best soil in the world (relevant username) is producing less than half of what we're pulling out of mediocre soil in parts of the US.  An appropriate combination of new technology and better farming know-how (rotation, soil management, etc.) is already revolutionizing African and Eastern European agriculture.
+
+TL;DR if you torture enough yield curves, they'll confess to anything.",0,,,42,science
+15ty52,1,"Just a note on your point about how the USA farmers are getting better yield off poorer land, I would urge you to look at the West Australian farming systems. In particular the eastern wheat belt. 
+
+Producing crops at under 200mm GSR.
+
+No subsidies from the government.
+
+Deregulated grain markets.
+
+High cost inputs.
+
+Carbon tax implications.
+
+Lack of labour.
+",0,,,11,science
+15ty52,2,"Also, high labour costs",0,,,5,science
+15ty52,1,[deleted],0,,,6,science
+15ty52,2,"Welcome aboard. I'm a soil agronomist myself, it's our life matrix, nobody seems to care.",0,,,11,science
+15ty52,3,[deleted],0,,,4,science
+15ty52,4,"ochem is easy, just memorize shit. It's p chem thats the real killer, in that class you have to actually really know the material inside and out to get an A. Anyway, whats the pay like in your field? I'm a senior graduating with a B.S in chemistry this spring and you're job sounds interesting. ",0,,,1,science
+15ty52,3,"In your opinion, is it true that farming 140 years ago was better for the soil ecology than current practices?",0,,,1,science
+15ty52,4,"There was a range of practices even 140 years ago. Some of them were good for the soil long-term, some were of the ""slash and burn"" variety.",0,,,1,science
+15ty52,4,"Eeeh it depends where. I would say that generally yes, but it was far from optimal, and 140 years old practices aren't often super desirable either considering what farming has to do these days.",0,,,1,science
+15ty52,2,"I say with absolute certainty that the only question that really matters is, ""How long before there are simply too many people?""
+
+Basically, the implications of the article and much of the comments in this thread are that we should increase crop yield, or that we should deduce crop yields aren't high *enough*. I'm always wondering how long it will take before people stop talking about crops and start talking about babies. How many people will have to starve before we start seriously discussing reducing demand instead of increasing supply?
+
+That being said, your sentiment is absolutely right. Knowledge is power, and the knowledge you'll have is related to the most important resource anyone will every worry about.",0,,,3,science
+15ty52,3,"That is the 800 lb gorilla in the room.  Eventually there are just going to be too many people on this planet and the human population will collapse.  This happens in every ecosystem when one population grows too large - the resources run out.  At the rate we are currently populating I wouldn't be surprised if we hit the breaking point within 100 years.  Maybe we can come up with some crazy technology that can produce food for 15 billion people but to rely solely on technology is a huge gamble.  In developed countries population growth has slowed considerably, but in developing and third world countries, and therefore the world, it is exponential.",0,,,2,science
+15ty52,4,[deleted],0,,,3,science
+15ty52,5,"Yeah. This is why a little knowledge is a dangerous thing. There is no analogue for what we are facing in the future, so your theory that the population will not collapse has no evidence. The reason we Malthusians get so worried is that we will reach peak capacity, try to overproduce, thus causing capacity collapse, and that this will spiral down hill until we get epic famines. Not that we have evidence, true, but it fits the logic of the situation.",0,,,0,science
+15ty52,1,"As a hippie, I think you should investigate which soil has the most bacteria/fungi/critters per square whatever. To us organic types, that's the most important measure.
+
+""Feed the soil to feed the plant to feed the people."" ",0,,,1,science
+15ty52,0,"[More from the banned sciencedaily.](http://www.sciencedaily.com/releases/2012/12/121218133149.htm)
+
+""This finding is particularly troubling because it suggests that we have preferentially focused our crop improvement efforts on feeding animals and cars, as we have largely ignored investments in wheat and rice, crops that feed people and are the basis of food security in much of the world,"" said study co-author and IonE director Jonathan Foley, professor and McKnight Presidential Chair in the College of Biological Sciences. ""How can we meet the growing needs of feeding people in the future if one-third of our cropland areas, in our most important crops, are not improving in yield any more?""
+
+Edit: quote",0,,,46,science
+15ty52,1,"They started subsidizing ethanol, and now they wonder why everyone's making corn for ethanol. 
+
+Also from the world map graph it looks like Africa is fucked but the rest of the world is in pretty ok shape. Sucks to be Africa.",0,,,35,science
+15ty52,2,">Also from the world map graph it looks like Africa is fucked but the rest of the world is in pretty ok shape. Sucks to be Africa.
+
+A quick guide to the past 1000 years of the History of Africa.",0,,,43,science
+15ty52,3,*must..fight..urge..to..nitpick*,0,,,4,science
+15ty52,3,I will provide the following [link](http://en.wikipedia.org/wiki/Musa_I_of_Mali) to counter your statement. ,0,,,1,science
+15ty52,4,Nothing is funny if you over analyze it.,0,,,1,science
+15ty52,2,">Sucks to be Africa.
+
+This study is the first thing that led you to this conclusion?",0,,,6,science
+15ty52,3,Indeed. Before that Africa was a paradise where nothing bad ever happened!.,0,,,2,science
+15ty52,2,">They started subsidizing ethanol, and now they wonder why everyone's making corn for ethanol.
+
+Nothing to do with the fact we've always been able to hit the limit of corn we can transport and store for food, and have tons of space left over to farm for ethanol.",0,,,2,science
+15ty52,3,"It's fine to make ethanol, but when you subsidize it, you're not going to get as much food corn as you want anymore because it's more profitable to make ethanol with it. That's part of why food prices are up.",0,,,2,science
+15ty52,4,"I'm not sure but you seem to have deliberately ignored my point. Admittedly I was being pretty snarky.
+
+Like I said, (for grain at least) we've always hit the limit on the amount of food we can transport and store. So subsidising ethanol to the extent we have has encouraged farmers to use surplus corn which cannot be used for food (have no effect on food prices).
+
+Subsidising ethanol to the extent that trading corn returns less profit than trading ethanol would presumably cause farmers to produce ethanol *over* corn. You'd have to subsidise an extreme amount to have this be the case (ethanol costs roughly two dollars a gallon to produce at a decent yield using lots of feedstock, then there's a much higher cost in energy, equipment, storage and distribution).
+
+We don't have any accurate research (nothing beyond some very assumptive models) on the topic so we can't really know whether this is the case, or in general how ethanol subsidies affect food prices. Since beginning subsidies there have been a lot of natural disasters which have affected the industry. Anyhow, there's no certainty in the claim that subsidies have driven up corn prices.",0,,,1,science
+15ty52,1,"Corn has been easy to focus on because it is relatively easy to increase output. On the other hand, some suggest that wheat is already [approaching its maximum potential](http://www.voanews.com/content/has-wheat-reached-its-limit-101374889/168851.html).",0,,,3,science
+15ty52,2,Corn died in the soil under last summers heatwave that blanketed the mid-west.,0,,,3,science
+15ty52,1,I fucking hate it that reddit banned the best science news aggregator.,0,,,1,science
+15ty52,1,Why feed people if you can make more money watching them starve?,0,,,-5,science
+15ty52,2,"Ah, but there are simply too many humans alive today! A completely arbitrary limit, set by corrupted and incomplete data says so!
+
+So if we want humanity to survive the obvious answer is that we need to cull a portion of it! And mass starvation is an excellent way to cull the population! The people will have no one but the heavens to blame for their plight; who could have foreseen things?
+
+Of course, years of horrid policy, indoctrination, and a focus on producing less when the former two do not work are at play here. But to the victors go the rights to write history; as such, look forward to humanity repeating this cycle perpetually.",0,,,7,science
+15ty52,2,"Why grow excess food if  it will just result in an increasing population growth, thus creating a worse problem in the future? ",0,,,5,science
+15ty52,3,Because there is no problem in the first place.,0,,,8,science
+15ty52,4,I think the numerous collapsing ecosystems across the planet might disagree with you there.,0,,,2,science
+15ty52,5,How is that food problem? That's just a problem for soon to be extinct animals.,0,,,3,science
+15ty52,6,"The problem is caused by humans eating. So yes, it is a food problem.",0,,,1,science
+15ty52,7,"Those stupid humans eating! Stop eating please, you are causing a problem. Not people growing crops for bio-diesel, nope, not them.",0,,,1,science
+15ty52,8,"The problem is that they breed with no regard for their ability to support their own offspring. They are requiring aid from more advanced societies. But no, the problem is of course that we can't create and distribute for no profit the food of our society. That's the whole motherfucking problem.",0,,,2,science
+15ty52,6,"Sooner or later that will come and bite us on the backside.  We're already trashing fish stocks at a jaw-dropping rate, and that will have all manner of knock-on effects besides us simply having nothing left in the sea to eat besides jellyfish (and they aren't really worth eating, by the way).
+
+The fact that we probably *could* feed a bigger population doesn't mean that we *should*, as doing so is liable to make a really big mess.
+
+Besides which, there is a problem.  A lot of this improvement in yield, and hence population growth, is down to fertilisers derived from petrochemicals.  Effectively we've built a highly elaborate mechanism for turning oil into people.  When it goes, so will a lot of us.",0,,,1,science
+15ty52,7,peak oil is a myth. when oil becomes expensive enough we'll make hydrocarbons from sea water and nuclear or coal energy.,0,,,3,science
+15ty52,8,"Dress it up any way you like, it's going to make fertiliser awfully expensive and there'll be less of it to go round, which means less food and less people.",0,,,3,science
+15ty52,7,"I agree the ocean will eventually be a toxic waste dump, where only the lucky to evolve will survive.",0,,,1,science
+15ty52,4,You sure seem to be suggesting there is a problem of not feeding enough people. ,0,,,1,science
+15ty52,3,"Because excess food does not equal increasing population growth? It allows it, but the underlying causes of population growth actually instigate the activity. Excess food just allows more people to survive.
+
+You know what stops people from breeding? Economics. Make them richer and they'll stop having children. Famines make people breed. Wealth makes them stop.
+
+",0,,,2,science
+15ty52,4,"Food is not *sufficient* to create population growth, but food is *necessary* to create population growth.
+
+We're suggesting feeding people in dire poverty, not wealthy Americans. Those in dire poverty are exactly the ones most likely to reproduce in greater numbers when able to subsist. It is unquestionably the case that more food does lead to population growth up until wealth and education counteract increased fecundity through birth control and delayed reproduction.
+
+Wealth stops population growth, I agree. But food aid does not improve wealth. Indeed, it often stagnates local economies because it undermines local farming economies. Local farms cannot compete with free. This simply creates a long term dependence on foreign food aid. The issue is many times more complicated than that (especially since there is wide variation from one country to the next), but that is increasingly being shown to be one of the major issues holding Sub-Saharan Africa back. ",0,,,3,science
+15ty52,5,"I think you are putting arguments into my mouth that I am not making. I'm not talking about aid, its benefits and cost. I am talking about potential crop yields and stating that food access is not an effective or moral population control. 
+",0,,,1,science
+15ty52,6,"Would you be willing to clarify your position then?
+
+I agree that we shouldn't be actively starving people, but I am not sure it we have a moral obligation to go out of our way to feed people, especially if doing so actually creates a worse situation in the long run.",0,,,1,science
+15ty52,7,"> but I am not sure it we have a moral obligation to go out of our way to feed people, especially if doing so actually creates a worse situation in the long run.
+
+Please explain the difference between saying you shouldn't ""actively"" starve people and then calling for their passive starvation. This is the same thing, just without having to make the decision yourself.
+
+My position? Given that the prosperous countries are buying up food for use as fuel and are colluding directly and indirectly with many of the people responsible for these famines, yes we have a moral obligation to assist them. This does not mean aid, necessarily. But it should include us ensuring enough food reaches the marketplace to feed the world.",0,,,1,science
+15ty52,8,There is a massive moral difference between not providing first aid to someone who is bleeding and stabbing a random guy on the street.,0,,,1,science
+15ty52,9,"I agree. Sometimes the stabbing is self defense, but I struggle to think of a reason not to assist a victim other than self interest and/or fear.",0,,,1,science
+15ty52,0,"As a dutch agricultural student,
+
+1, The farmer matters, be it culture, intelligence or those factors it does matter. All my classmates went on internships in foreign countries and we have all stumbled across just plain stupid agricultural practices. The sort of practices we hear of very early in the education. The agricultural students in foreign countries seem to have the knowledge, but lack the skills/will to actually perform them in reality. Overall you still don't earn much being a farmer.
+and people educated in agriculture are lacking in the world.
+
+2, Even when on the edge of production, more production is possible it's just not as easy. Eastern Europe (ex-soviet union) for example is lacking behind tremendously in yields compared with what they could use, the first few changes (simple crop rotation, little bit mechanization) can improve the yields by 10s of percentages, while when on the top you look at improvements of <5%. We have had some stagnation in the west due to legislation aimed to make agriculture more sustainable (limits on fertilizers) and safer (strict control on chemicals used and allowed). 
+
+3, current agriculture favors plains in temperate climates. Crops like maize seem to be yielding more then wheat and have taken over some area's where it could (originally a tropic crop so it has had some difficulties growing it in northern zones) Rice, to me seems like a bit of a dead end crop. Alternative staple crops are a lot easier and do not need even lands while they can be sown easily (not transplanted like rice) and harvested easily on huge fields without having the fear of destroying the many dikes. 
+
+4, infrastructure, storage, politics (no blackmail etc), banks, population density , climate and geograpy all matter a lot and should not be taken lightly.",0,,,18,science
+15ty52,1,"People have bad conceptions about farmers, in the US, at the very least Iowa, almost all farmers have gone through formal education at a university, most at the Iowa State University which is one of the best for agricultural studies. ",0,,,9,science
+15ty52,2,"Ah that's nice information to hear! biggest misconception I find is that people tent to think farming is easy. Well the basics are, but actually making profits or getting high yields from farming takes a lot of knowledge. 
+
+I guess I would have needed to add that most if not all of these stupid farming methods were seen in non-first world countries by native people. (eastern Europe, African, Asian countries)",0,,,4,science
+15ty52,3,"I've a friend in sort of Scotland area, and compared to my area, it's like they farm in the stone age. It's insane how much difference government intervention makes, and more importantly an educational standard, and competitive market.",0,,,4,science
+15ty52,3,The basics are not easy. I challenge you to set up a three-strand barbed wire fence with mixed corners.,0,,,1,science
+15ty52,0,">worldwide crop yields are decreasing
+
+Some areas are decreasing.  Others are growing. I did not see the authors claim that worldwide crop yields are decreasing.",0,,,8,science
+15ty52,1,"That's because the authors didn't claim that, OP added that to the title for sweet, sweet doomsday-karma. It even says right in the abstract:
+
+>Although yields continue to increase in many areas",0,,,2,science
+15ty52,0,"Wife's grandfather is a farmer in Oklahoma.  Had a conversation with him about this this holiday.
+
+In his area...
+
+Corn, soybean and (one other I can't remember) has done terribly the last couple years due to a drought.
+
+Wheat has done well both years regardless of the drought.  They run 75% corn and 25% wheat (prices and crop rotation dictate the crops they run).
+
+My uncle is a professor at a college in Oklahoma and he studies GM corn (well that's what he's been studying the last couple years).  The GM corn that he's studied has done as well with or without pesticides in controlled studies, however they are not drought resistant so there have been issues there as well.
+
+Take it with a grain of salt, but if you look at *the last two years data* and attempt to build a line to next year's data you likely will see a hockey stick to 0, which we all know is statistically improbably and bad statistics.",0,,,15,science
+15ty52,1,"Some GM corn can be helped with droughts, but people are so concerned with ""chemicals"" in their food, that they're not willing to risk that usually. Same as with pests, some GM-corn can resist drought, (obviously it still needs water and shit, but yeah.)",0,,,7,science
+15ty52,2,"The majority of US corn is GM, and yet it still suffers from drought.
+
+It's annoying when people keep touting GM like it's some cure all that's being repressed, something like 85% of our corn is already GM today.",0,,,1,science
+15ty52,3,"That ""85%"" of corn figure you speak of is mostly glyphostate/Bt varieties. The Bt varieties actually prevent the crop from being destroyed by pests. That is another reduced variable that could damage a crop. In reality, current varieties out there do fix many problems just as I pointed out. Do they fix all? No. However, genetic manipulation does in fact have potential to allow for drought resistance among many other desirable traits. It's just a matter of instituting it.
+
+The field of biotechnology for crops is a relatively new field and developing rapidly. Companies such as DuPont, Monsanto, Bayer, Syngenta and BASF all have much more resources and capital available to them than a researcher at a university does. Hence why you see ""RoundUp Ready"" crops commonly. They produce a variety that they can market for a profit, understandably. However, implying that today's transgenic crops are any indication of the possibilities that transgenic crops holds is not accurate in any sense of the term.",0,,,3,science
+15ty52,1,"If your uncle is a researcher in OK working in corn, he has almost certainly dealt with drought-tolerant corn from many of the major seed companies.  Pioneer, Dekalb, Syngenta... they all have or will very soon have drought tolerant corn on the market, and that's almost certainly gone through testing in OK.",0,,,1,science
+15ty52,2,"Likely... but what he was studying specifically was the effects of GM to produce some sort of natural pesticide (apparently it's something that you find in soil and is certified organic... of course, that's when it's sprayed on, not grown in, but who's splitting hairs when there's ethanol to produce :D).",0,,,1,science
+15ty52,0,"I'm not convinced of the data. The examples used to highlight crop collapse look like small decreases that were artificially created by their ""line of best fit method"". Some of the collapsed crop examples are of recent increasing but due to averaging the trends from many decades this  effect is negated. If these are most convincing data, the quality of the rest will definitely be not convincing in the least.
+
+Additionally, did the lack of gains occur because someone decided to focus less on that area? ""gentlemen of the board, we've decided to place our capital on the areas with the best yield potential, cheapest cost of labor, best infrastructure, so we won't be dishing out the best technology/fertilizer/etc to all areas equally..."" ",0,,,75,science
+15ty52,1,"And ""29-34%"" of areas had no yield increase, a decrease, or collapse which means that over 66% had an increase. Just looking at this stat, haven't crop yields most likely increased?",0,,,39,science
+15ty52,2,[deleted],0,,,18,science
+15ty52,3,"The same dire predictions were slung about 100 years ago with plenty of studies to back it up. People thought that the Andes of Chile would be the richest place on earth because of their fertilizer industry being the biggest, and needed to supply the world's farms. Then we go and invent artifical fertilizers and make the old ones obsolete and expensive while increasing global food production by an order of magnitude.
+
+All of these types of articles should be read with one big caveat in mind: If nothing changes, advances or improves, this is the likely outcome.  ",0,,,23,science
+15ty52,4,"Ah, but without dire predictions (not to mention actual supply problems) nobody goes to the trouble of inventing advancements or improvements in the first place.",0,,,15,science
+15ty52,5,"Also true. Still, I don't plan on inventing any huge innovations, so I'm not really interested in getting too worked up about this round of doomsaying.",0,,,2,science
+15ty52,4,[deleted],0,,,0,science
+15ty52,5,The point is we produce triple the food in half the space due to new technologies.,0,,,3,science
+15ty52,6,"I can't claim to understand all the factors involved, but I remember in 1986, my Weekly Reader claimed the world population was 4.6 billion, and 14 years later, we were at 6.5 billion.
+
+[I googled a chart up](http://www.wrsc.org/sites/default/files/images/2011/g-pop-growth-chart-map-sm.gif)
+
+I think increased food production and a massive surge in population growth are probably related, and at some point it's going to be a serious problem if it's unchecked. ",0,,,2,science
+15ty52,7,"The population increases BECAUSE of the increased food supply, not DESPITE of it. It's impossible to maintain constant growth in food supply or population size. For example, even if you take a seemingly benign growth rate of 3.5% a year, and have the population of the world increase at that rate for a 100 years, it would mean that at the end of that period you would have 8x more people living than when you started. If we take our present world population of cca. 7.5 billion it would mean that at that rate of growth Earth would be populated by 37,5 billion people. So it's obvious why that's impossible - we would all die of hunger! But economy and the ecosphere are selfregulating systems. More people means higher pressure on the food production industry. If it can't deliver, then people will have to pay more for food because the demand has increased but the supply has not followed. That means it will become more profitable to produce food, so either new technologies will be discovered to capitalize on this, or people will simply stop reproducing as quickly because they can hardly afford to feed themselves, let alone their children. So that creates another pressure that drives birth rates down or into the negative. The point is, no one needs to starve for this to happen. These are all long term trends and the system balances itself. Only a huge disaster like a major world war or a major natural catastrophe can tip the scales from slow adjustment through market forces to mass starvation.
+
+tl;dr, no one is going to starve, if technology doesn't catch up, people will simply not have as many children and the scales will slowly tip back. ",0,,,5,science
+15ty52,3,"The rate of population growth has slowed year over year for two decades now. At current rates population growth will lower to replacement levels by 2045, at which point population would be approximately 10-11 billion. The growth in food production seems to be mirroring growth in population. If nothing else, population will stop growing in the absence of a catalyst for growth.",0,,,6,science
+15ty52,2,"Looking at the globe graph, it's pretty much just Africa that's getting fucked. Everyone else is increasing.",0,,,4,science
+15ty52,2,"Yes, the title of this thread must be incorrect given the data in the article (which doesn't actually make that claim anywhere).",0,,,2,science
+15ty52,1,"Eh, the rice in Nigeria and Maize in Moldova look like collapse, but the Australia data has so much annual variation that it's too tough to definitively call it a collapse.
+
+Here is the excel file, by the way: http://www.nature.com/ncomms/journal/v3/n12/extref/ncomms2296-s2.xls",0,,,10,science
+15ty52,1,"No joke. Considering the amount of industrial farms out there that get government subsidies not to farm land, I'm not worried.",0,,,9,science
+15ty52,2,"How many acres are there, where the owner is being paid specifically to not farm?
+
+What is the total reduction in yield?
+
+edit: for what it's worth, I'm aware of about 30m acres where the government pays not to farm, as part of an effort to improve nearby water quality.  This makes up about 3% of US farmland, and about 0.2% of global farmland.
+
+That doesn't strike me as a big reserve.",0,,,5,science
+15ty52,3,"nah, there's a huge thing in the EU where farmers are being paid not to farm to keep food prices stable so that all farmers get paid decently. ",0,,,4,science
+15ty52,4,Can you share the name and extent of the program?,0,,,5,science
+15ty52,5,"The American program is the Conservation Reserve Program, which removes from production lands vulnerable to erosion.  IDK, about anything for the EU, its more likely an initiative started by the [EEC](http://en.wikipedia.org/wiki/European_Economic_Community#Aims_and_achievements)",0,,,4,science
+15ty52,6,"The CRP is heavily regulated and does wonders to preserve erosion-prone or marginal crop production lands.  It's preserved a *lot* of buffers around waterways, is completely voluntary and is on a bid program for entry... do people really view this negatively?  It's peanuts compared to what those fields could produce if actively farmed, and promotes stewardship and maintainance of what would otherwise be scrub land.",0,,,1,science
+15ty52,5,"I'm looking, what I'm finding more of is the old ""butter mountain"" where rather than paying not to farm they buy the cheap product until the market stabilizes and give it to third world countries. How nice. I'm sure there are incentives not to farm too, might take me a while to find them.",0,,,2,science
+15ty52,3,"There was a whole 100 acre farm down town from my house in the country. the place was filled with apple trees and the farmer just let them fall off and rot. One day I tried to pick some and was caught by the farmer, he said ""I can't let you take any of them!"" and he promptly took me home to my mother and father. My mom also asked why I couldn't pick the apples, they were just rotting and the man replied verbatim ""Because the Government is paying me not to pick them"". ",0,,,1,science
+15ty52,2,"The Conservation Reserve Program is based on the land, not who owns it.  If the government decides they want to take certain types of land out of agricultural production, they increase the amount they are willing to pay and the amount of acres they will accept into the program.  If you own the right type of land, in the right area, you can enroll your acres and receive the payment.
+
+It doesn't have anything to do with who owns the land.",0,,,1,science
+15ty52,1,"The overwhelming trends I see are that yields have increased in areas with high economic activity and investment, and have decreased in areas with poor economic activity and disinvestment. I can't see any clear trends based on climate unless those overlap with economics- not that this isn't also happening. But the fact that yields have increased mainly in the US, Canada, Brazil, etc and have struggled in Italy, Spain, Greece, parts of Africa- it all points to economic activity driving investment in more effective farming, whether that is higher efficiency or more intensity is unclear. ",0,,,1,science
+15ty52,0,"""we find that across 24–39% of maize-, rice-, wheat- and soybean-growing areas, yields either never improve, stagnate or collapse.""
+
+Does that mean the other 61% has improved? That might not be so bad.",0,,,4,science
+15ty52,0,"Headline is completely inaccurate.
+
+> We examined the trends in crop yields for four key global crops: maize, rice, wheat and soybeans. Although yields continue to increase in many areas, we find that across 24–39% of maize-, rice-, wheat- and soybean-growing areas, yields either never improve, stagnate or collapse.
+
+So, first of all, yields of crops other than those four could be 100% increased.  Secondly, only ""23-39%"" of areas of those four crops are not increasing... but the remaining % is increasing, and no doubt more than makes up for those areas not increasing.
+
+This submission should be deleted.
+",0,,,29,science
+15ty52,0,"Farmer here. It is our goal as well as every other farmer in the world to produce more. 
+
+The same thing can be said about the major seed companies. They want to produce higher yielding varieties so they gain competitive advantages and make more money. ",0,,,5,science
+15ty52,1,"Farmer here, too. This isn't necessarily a sign of ""oh no, we're all gonna die, durrrr."", either. It happens, it's just like a picture of a company's stocks. Up and down, all over the place. ",0,,,2,science
+15ty52,1,"Not sure if you've read the book ""An Omnivore's Dilemma"" but the first section sheds some great light on the issue of farmers being pushed to produce as high of a yield possible and how it doesn't actually result in more profits because of the cost of everything else they have to pay when using GM seeds.  Can you attest to any of this? Just curious since it seems like a lot of farmers are afraid to speak out against the three major aggro companies for fear of being slapped in the face with a hefty lawsuit that basically ruins their lives.  ",0,,,0,science
+15ty52,2,You can always ask the folks over at r/farming.,0,,,3,science
+15ty52,2,"Yeah, you are right in some ways. Basically the companies will come out with new versions of their seed. These varieties are suppose to be better. Examples include better disease packages, more drought resistant plants, better insect packages, and getting better weed control. All of which can directly influence yield. 
+
+So with this new technology comes a price tag. But also, they watch the commodity markets so they know roughly how much they can charge for the seed and get away with it. 
+
+No one really understands this, but there are always companies taking chunks out of your profit at every step. Farmers have huge input costs. ",0,,,2,science
+15ty52,2,"I am familiar with Pollan's work and must confess his writing has an enormous influence on my switch from industrial style agriculture to sustainable.  I think one of the examples Pollan gives in AOD is the measurement of ""yield"" of specific location.  In measuring rice produced in a specific paddy the other products of the ecosystem are neglected.  They measure the rice but do not measure the other products that can be consumed from the environment of the paddy.  Spraying the paddy to keep other products from thriving is not the true value of the ecosystem.  Personal example: We grow oats for chickens and pigs on the farm.  We used to till, spray, harvest, spray, till, and plant back grass seed.  This process takes two whole years.  The oat yield for the harvest year was phenomenal.  The field was tilled again in fall and seeded back in spring keeping furrows upturned throughout the bitter winters and subject to wind and rain/snow erosion.  Now I till in the spring, plant oats with grass seed at the same time.  I do not spray and harvest oats in late summer then graze cows on the land in the late fall or early winter.  Now, the oat yield is much smaller than the sprayed oat yield however ground exposure to the elements is two weeks at most in one spring.  There is value in keeping your top soil on your farm as well as value in the weight the cattle gain grazing new seeding in the winter.  We try to make sure the ground is frozen before we run cattle across newly seeded fields.  If we are measuring land value on yield then absolutely, on paper, we would want to till the land and use a two year cycle on oats.  It would be a ""common sense"" move but we need to measure ecosystems, not just one aspect of a multi-faceted system.  Keep in mind the grains should not be going to herbivores.  Next spring I am going to do a two acre trial of pasture cropping that is being done in Australia.  With intensive grazing management growing grain could potentially add to the soil instead of taking away from the soil. ",0,,,0,science
+15ty52,0,Doesn't surprise me with this year's drought.,0,,,3,science
+15ty52,0,"I grew up in one of the places where the article says yields are collapsing (central west NSW, Australia) and something has to be said about bad soil management practices. This is an area that doesn't receive consistent rain, and too many farmers (including my brother-in-law) are far too eager to jump on the tractor and start ploughing the soil any time it rains. 
+
+Most of the farming in this area is combined grazing stock and grain, and the habit of over-tilling leads to powdery soils that have no structure, hold less water, and set like concrete when a small downpour occurs, allowing the Australian heat to bake the surface and kill off a lot of the ground cover.
+
+I know its anecdotal, but my father and uncle have improved their farming techniques over the last 20 years or so, with minimum-till farming, which works well for them due to the nature of their farm (sheep and cereal grains) and soil type. They still have to till the soil due to compaction from grazing stock; but throwing away the disc plough and combine seeder; making light use of the scarifier; buying a spray rig, tine ripper, scaribar with press wheels and an air-seeder has allowed the clay-type soil to retain moisture in years when the rain doesn't come as often, which has increased yields in bad years as well as good. They were stripping reasonably-yielding crops in years when many around them didn't bother because it would cost more to harvest than what they would make by selling the grain.
+
+",0,,,4,science
+15ty52,1,"The eastern states is lagging behind with the uptake of this technology, in comparison to WA...
+
+Good to see the shift to conservation farming, but it needs to happen a lot faster.",0,,,1,science
+15ty52,0,"Folks, take care of the soil. Love and nurture it because once it is gone, it is gone for a really long time. Soil is pretty much the basis of life on land.",0,,,13,science
+15ty52,1,"Biochar!
+
+(Granted, this isn't purely a problem of soil quality, but being mindful of soil quality can't hurt.)",0,,,7,science
+15ty52,2,"Except brioche is expensive and very difficult to implement on a broad acre system.
+",0,,,3,science
+15ty52,3,I am sure it would be difficult to cover a [large area in French bread](http://en.wikipedia.org/wiki/brioche).,0,,,0,science
+15ty52,0,Are they seeing a correlation with flowering crops and the decline in bee populations?  ,0,,,6,science
+15ty52,1,They didn't study any correlation with bees at at all. That might come later.,0,,,2,science
+15ty52,0,[removed],0,,,9,science
+15ty52,1,is that any worse than burning corn to make *steak*?,0,,,10,science
+15ty52,2,[deleted],0,,,2,science
+15ty52,3,I like steak and all but I think the word *necessary* doesn't really have a place in that sentence.,0,,,25,science
+15ty52,4,"Indeed, and you can have steak without wasting corn on it anyway. You can still eat wild game, fish, or anything that's been grazing in areas not fit for farming.",0,,,5,science
+15ty52,5,"The amount of ""wild"" animals out there certainly wouldn't come close to feeding American eating habits.",0,,,2,science
+15ty52,6,"The vast majority of beef cattle are grazed on pasture that is economically wasteful for the production of corn.
+
+Corn is only fed to cattle during the ""finishing"" process.  Most of the cattle graze until just before slaughter.
+
+Simple solution:  Eat grass fed beef.",0,,,1,science
+15ty52,6,"yes but Americans could change their eating habits, obviously they arent working out so well for us anyways. ",0,,,1,science
+15ty52,6,"Perhaps not. My point is that it's not a case where the only alternative is to be vegetarian. It's entirely possible to have sustainable farming and still eat steak regularly, though perhaps not every day.",0,,,1,science
+15ty52,3,"I agree that ethanol is probably bullshit (although skidooer has some good points).
+
+But I feel it's kind of bleak to say that your happiness is dependent on steak. I don't know you, so I can't say for sure, but I would guess your happiness is a lot less dependent on steak than you think it is. Most studies on happiness show that long term happiness is not dependent on physical comfort (beyond the [bear necessities](http://www.youtube.com/watch?v=9ogQ0uge06o))
+
+If people eat 1/100th the steak they do today, I'm sure most would be just as happy as before. It's just that going from here to there would make a lot of people angry in the transition, and not because they would actually be less happy with less steak, but because they think they will.
+
+Disclaimer: I'm not a vegetarian. ",0,,,7,science
+15ty52,4,"Would your life be happier/as happy/less happy if you couldn't eat steak?
+
+If you answer either of the first two why would you eat steak?  It is just a more expensive alternative to other more ""responsible"" foodstuffs.
+
+If you answered the first one or the last one your happiness is dependent on steak.",0,,,1,science
+15ty52,5,"The problem with the way you've posed this question, is that humans are remarkably poor at estimating how much something will affect their happiness. 
+
+Most would probably answer that they'd be less happy. But take their steak away for a year, and next year they'd be just as happy as last year.
+
+Just as a man who loses his leg is as happy as the man who wins a million dollars after a little while.
+
+The answer then to ""why eat steak"", isn't so much a question of happiness, as of habit and expectations. ",0,,,1,science
+15ty52,3,[deleted],0,,,4,science
+15ty52,3,"""necessary for a happy life""
+
+ROFL
+
+you, my dear is what's wrong in America",0,,,-2,science
+15ty52,4,[deleted],0,,,2,science
+15ty52,5,"no matter how much you Limeys like it, you don't eat it as much as Americans",0,,,1,science
+15ty52,0,"This is very intersting to me, I trade all these products and almost all the prices of these futures are at all time lows? ",0,,,2,science
+15ty52,1,"They measured historic yields. Yields have nothing to do with actual quantity, freight rates, demand, oil prices, currencies and other factors that go into prices of grain futures. 
+
+What they say is that farmers fail to grow more grain/unit of land. Whether farmers want to is another question. There is great abundance of land all over the world. Problem is that land is not connected with infrastructure, there is not enough storage capacity and processing capacity. 
+
+If we really wanted to, we could double our capacity next year. Problem is we won't be able to move it from the field to the mills to the consumers. ",0,,,2,science
+15ty52,0,"""Organic"" and no-gmo soybeans are popular in my area due to nice contracts that make up for the loss of yield. I wonder if this has to do anything with it. I noticed they left out corn. Are we to assume yields went up for that?",0,,,2,science
+15ty52,1,"No, they didn't. 
+
+A contract making up for loss of yield doesn't make the food appear. It's nice for the farmer, but for everyone else it's pretty much useless. ",0,,,1,science
+15ty52,2,Which is why.I look at the organic crowd as murderers,0,,,1,science
+15ty52,0,I Just saw a giant fry... someone's doing something right.,0,,,2,science
+15ty52,0,"""Recent"" - No fucking shit, drought, anyone?",0,,,2,science
+15ty52,0,Maybe its because we are eating\distributing more efficiently? Less waste?,0,,,2,science
+15ty52,0,"We have enough resources to feed the world, it is just we do not do it efficiently. Growing corn for biofuel is FUCKING STUPID. Algae is far far superior, cheaper, and does not take away essential farm land. Transportation of food across long distances only makes it taste like shit, and again not sustainable. Africa can feed it self, fuck most of the world can feed it self. It is because the US and UN have fucking crippled the development of most countries to give American farmers unfair advantages. Look at a history of Jamaica, with the unfair trade policies which under cut the nations farmers. The whole system is a giant fucking disaster and needs to change. ",0,,,2,science
+15ty52,0,This is why we should be investing in vertical farms in cities.,0,,,2,science
+15ty52,0,Don't bad mouth the farmer with your mouth full.,0,,,2,science
+15ty52,1,Subsides give me the right,0,,,1,science
+15ty52,0,"Sorry but I'm calling bullshit. Even *if* yields are getting smaller, it can't compare to the [colossal waste of good food that we knowingly throw away.](http://www.ted.com/talks/tristram_stuart_the_global_food_waste_scandal.html)",0,,,2,science
+15ty52,1,"While this holds a grain of truth the fact that it's largely based on complete guesswork, it's basically useless. The fact that grains are thrown away to keep prices up is a much more interesting and disgusting fact.",0,,,1,science
+15ty52,0,"And that's why WE, as a world population, have a seed vault in Norway, on an island near the North Pole. It's an Ark of sorts.  Many people don't know how many strains of corn/rice/wheat/fruits & vegetables there really are and that have been literally wiped out. Patenting genes, especially food, creates the perfect scenario for world famine.  
+
+http://en.wikipedia.org/wiki/Svalbard_Global_Seed_Vault",0,,,2,science
+15ty52,0,"Not able to read the whole article, but do they control for climate change and the popularity of ""organic"" farming methods, which produce lower yields?",0,,,8,science
+15ty52,1,"I actually read an article that demonstrated that it's a myth to believe that giant agri-businesses produce greater crop sizes. 
+
+I was shocked when I read that. (Source: http://www.naturalnews.com/033925_organic_farming_crop_yields.html)
+
+So it's not a question of ""organic farming"" being inferior (regarding crop yield). In reality, using fewer chemicals does NOT diminish crop sizes in the long run (as we've all been led to believe). Giant agri-businesses are dealing with problems of their own. They've sprayed the crap out of weeds and slathered the pesticides on. The problem? Weeds develop a resistance to the chemicals. Insects seem to evolve immunities to the pesticides. So they end up spraying them with 3 times as many chemicals as they used to even ten years ago. And the result is crop sizes that are about the same.
+
+So you're getting three times the chemicals and toxins on your food. And it's not producing larger yields.
+
+(There's also growing evidence that the chemicals used by giant agri-businesses actually hurt the soil. So the global drop in crop yields may have absolutely nothing to do with organic farming. Quite the contrary. Giant agri-businesses are polluting the soil and damaging the environment. See: Bee colony collapse studies which link bee devastation to chemicals like Round-Up. Without bees, certain plants aren't pollinated and certain crops cease to thrive. http://naturalsociety.com/monsanto-bee-collapse-buys-bee-research-firm/) So the global drop in crop yields may in fact be a result of agri-businesses like Monsanto cornering the world market with their products and techniques.",0,,,-8,science
+15ty52,2,"I call bullshit.
+
+The resistances are not the fault of the chemicals but the fault of the user using the chemicals like a fucking idiot, it can all be avoided by simply using several chemicals and limit the frequency, now add some crop rotation (which is pretty standard) and tada! 
+
+The whole bee collapse is a little bit more complicated then that. France and Germany already have banned some of the pesticides who are believed to be a factor in this. (because you know one chemical is not the other) 
+
+Oh and organic farmers spray chemicals as well, extracted from natural sources that is, but that doesn't mean it is any better for the environment.
+
+As for yields? for most crops organic agriculture produces less, a study from England suggests that it's 50% less there. Crops such as carrots are usually grown quite organically by organic farmers as well as conventional farmers due to the lack of effective chemicals that are allowed. 
+
+
+Edit: Oh and it's always Monsanto this Monsanto that, It's not the nicest company out there i'll give you that but most things you have heard about them is WRONG. 
+
+Has the organic movement had any effect on the yields? I would say very minor, since there isn't that much acreages of arable lands used for organic farming compared to conventional.",0,,,8,science
+15ty52,2,NaturalNews publishes some pretty crazy stories. Look at the popular column on the right side,0,,,8,science
+15ty52,2,"Your blanket use of the words ""chemicals"" and ""toxins"" tells me that you don't actually know anything about chemistry or biology. Either way, you really need to look over agricultural history some more. There's a reason people started using those things. It wasn't because they result in lower yields.",0,,,6,science
+15ty52,3,"Nor a single damn thing about farming.  
+
+If we magically switched to ""organic"" farming tomorrow, a significant fraction of humanity would die of starvation before the year is out.",0,,,2,science
+15ty52,2,"You're seriously using natural news as a legitimate source? And you can be certified 'organic' and use pesticides that are far worse than the modern ones, they just need to be derived from natural sources. This usually means that the pesticides are more expensive, less effective and decompose slower than the newer synthetic pesticides.",0,,,8,science
+15ty52,2,"I'm too lazy to look for sources, however, I grew up on a farm, proceeded to get a degree in Agriculture, and I am now working in the Agriculture industry. Basically, I have the background knowledge to intelligently talk about agriculture and farming practices.
+
+I am not familiar with this Rodale institute, however I am extremely skeptical of their methodology and results. In no published study in a credible journal, has organic production ever out-yielded conventional. 
+In this article they claim the reason they got these results was they have been doing this study over a long period of time. I have personal seen organic production of several farms since the 1980s that are surrounded by conventional farms. The yields on the organic farms have never been higher and rarely close to the yields on the conventional farms. The only way to achieve results that the did that I can think of is not use fertilizer on any of the treatments, except those given manure. They do not mention applying fertilizer to any of the treatments (which would be done in all cases of non-organic production), so I suspect that was the case.
+
+The article also claims that organic production uses less fossil fuels, which is untrue. In order to produce field crops organically at least 3-4 tillage operations (which requires substantial amounts of fuel) are required per year. In no-till systems, the seed is sliced into the soil and the field is sprayed 2-5 times per year. Both these operations require much less fuel than tilling the soil. Tilling the field is the single worst thing for the soil commonly done in farming. The soil is a living thing that does not enjoy being disturbed. In no-till systems the ground is not really tilled, however seeding does disturb the soil somewhat, which leaves the soil aggregates in tact.
+
+Your summary of weed and pest resistance is an oversimplification. Yes, resistance does happen, but it takes a long time. It's actually the farmers and policy makers fault for pest resistance. Farmers in the past have no been responsible with their use of chemicals, but they are improving. This should help on the environmental issue as well. Policy makers need to see that putting subsidies on things like ethanol have trickle-down effects that affect more than the price of corn. Because the price of corn is higher, farmers are willing to spend more on their crop to make more money, which unfortunately means more pesticide use.
+
+I am not anti-organic farming, though it may seem that way from this post. I believe there are practices in both organic and conventional farming that should be combined to make the most sustainable system possible.",0,,,3,science
+15ty52,2,"Agribusiness produces the highest amount of food per unit cost of any farming method.
+
+Organics are more expensive to produce.
+
+Or are those high prices for the funky looking organic veggies in my grocery store some kind of marketing ploy?",0,,,18,science
+15ty52,3,"http://www.npr.org/templates/story/story.php?storyId=104708731
+
+I've gone and looked at a bunch of the ""organic"" operations in my areas... the ones that put the ""funky"" looking vegetables on the shelves. most of them are merely mimicking a modern/pesticide model with slightly different inputs. They are often very proud of what they are doing, but usually its just horribly inefficient and not very effective bug control. A few get lucky, but often times they are semi cheating with their inputs. 
+
+The Indian model at the NPR link is how it is done right. You probably don't have that very often in America (if thats where you live). 
+EDIT: Or at least anywhere I have lived. ",0,,,6,science
+15ty52,3,"The prices at your store reflect two issues related to organic farming: market demand and transportation costs.
+
+Transportation costs are probably the primary factor determining the cost of organic produce. If organic farming were to be more, let's say, industrialized, the cost of transportation would fall and prices would be more in line with ""normal"" produce.",0,,,9,science
+15ty52,4,If agribusiness *could* scale organics to be as economic as conventional foods then *they would*. That can't so they won't. ,0,,,6,science
+15ty52,5,Organics are dropping in price constantly as demand is going up.  It is happening.,0,,,3,science
+15ty52,6,It won't match conventional. The efficiency just isn't there. ,0,,,6,science
+15ty52,7,"All I can tell you is that in Germany end-consumer prices for conventional tend to go up while those for organic go down or stay the same, to the extent that some products some times of the year have reached parity. Examples I recall are flour, potatoes, onions, some locally grown vegetables, apples and yoghurt. Even organic strawberries are often not that much more expensive. Of course there are also ""novelty"" vegetables and fruit that require more care or are hard to pest-control and thus are fiendishly expensive. Bell peppers apparently. If you are willing to accept this example, soy products that replace meat are also not necessarily more expensive.",0,,,1,science
+15ty52,7,[deleted],0,,,0,science
+15ty52,8,So soil is dying? How come we produce 10x more corn per acre than 100 years ago? It's  almost like there are ways to.replenish the soil. ,0,,,2,science
+15ty52,8,"This is a strange statement. Plants don't really care how they get their nutrients, just that they get them. As long as they have nutritional inputs, they'll be fine, and will create food.
+
+I love soil, but organic methods aren't necessarily good for the soil, I'd argue that no-till, crop rotations, and cover crops are - those can be done on conventional farms as well.",0,,,1,science
+15ty52,8,"There is not enough labor, farmland or organic fertilizer for that to ever make sense. Organic farming is a niche, not a practical or economic method to feed the world. ",0,,,1,science
+15ty52,6,Demand? What about supply? Organic crops produce less per acre. That affects supply and the price will have to be adjusted to cover the spread. We're not talking 1 or 2% reduction in crops either. What do you think will happen to price if global output per acre is reduce 20% or more? ,0,,,2,science
+15ty52,7,"Well, the demand is growing and the price is dropping, so someone must be doing something right in order to compete at lower prices.",0,,,1,science
+15ty52,3,">Agribusiness produces the highest amount of food per unit cost of any farming method
+
+Possibly true, but only on a yearly basis. If you get record yields for 5 years, but then wind up with a quarter inch of topsoil, we are talking about efficiency in only the most perverted of senses.
+
+It's a question of stewardship.",0,,,0,science
+15ty52,3,"""A popular myth purports that organic farming is inadequate to feed the growing populations of the world, and that cultivating so-called high yield conventional and genetically-modified (GM) crops is a necessary solution. But data compiled by the Rodale Institute's Farming Systems Trial (FST) shows that quite the opposite is true -- in every single category, organic farming systems proved to be far more viable and sustainable than any conventional or GM system.
+
+Initiated back in 1981, Rodale's FST is the longest running, side-by-side comparison of organic and chemical agriculture that has ever been conducted in the US. Researchers from the institute have been carefully examining the similarities and differences between the two systems for over 30 years and, much to the shock of the mainstream food community, have found that organic farming is far superior to chemical farming in every way.
+
+In the short term, organic yields appeared to be smaller than chemical-based yields. But over time, organic yields eventually caught up to, and even exceeded, chemical-based yields. Organic production also proved to be more profitable to farmers than chemical-based production because it requires significantly less energy input, representing a nearly 50 percent reduction over chemical-based farming.""
+
+Read more: http://www.naturalnews.com/033925_organic_farming_crop_yields.html#ixzz2Gtuljgn9
+",0,,,-2,science
+15ty52,4,"Just like to throw it out there that there are literally hundreds of thousands of indian farmers reverting back to the ancient integrative farming methods because they have such advantages over chemical/modern approaches. 
+
+Organic can be done quite profitably. 
+http://www.npr.org/templates/story/story.php?storyId=104708731
+",0,,,3,science
+15ty52,4,"Now try that from nonbiased sources.  ""Natural News"" and an institute based around organic farming.  Gee, you think there's some possibility that study isn't reliable?",0,,,21,science
+15ty52,5,This. Natural News is well known for it's ridiculously biased articles.,0,,,5,science
+15ty52,5,"Check out Martin Entz and the Glenlea Crop Rotation Study, an important longitudinal study on non-industrial farming techniques.  In addition to important findings on overall environmental health, their use of intercropping techniques found that this method of non-monocrop agriculture leads to overyielding in many instances.  So while a monocrop of canola means more overall canola per acre, the canola-pea intercrop (the one that overyielded the most) led to a higher land equivalency ratio than monocrops.
+
+I think there's some pretty good evidence that monocrops produce more per acre of a single food source (e.g. wheat) than organic/natural farming methods in a short period of time, but intercropping and other organic techniques can lead to higher overall yields of food in that is sustainably produced (i.e. less fossil fuel inputs, better long-term soil health, reduced negative environmental impacts).
+
+For the intercropping studies: http://www.umanitoba.ca/outreach/naturalagriculture/articles/intercrop.html
+
+For the overall Glenlea Project:
+http://www.umanitoba.ca/outreach/naturalagriculture/index.html",0,,,9,science
+15ty52,6,"Time for some distinctions - intercropping is NOT organic. Nor is it non-organic. It's an agricultural alternative to mono cropping. 
+
+This isn't to hate on what you're sharing, but I'm noticing a ton of not-related concepts in these threads being grouped under ""organic"" when they don't necessarily apply. Carry on :)",0,,,4,science
+15ty52,7,Excellent point-the investigators here are doing research on natural farming techniques.  Thanks for making that distinction!,0,,,3,science
+15ty52,6,"Thank you, I'm actually well-read on this topic.  I'm not here to share my opinions or conclusions, the only reason I started this account and posted a comment is because that poster was making his argument in one of the worst ways he could",0,,,5,science
+15ty52,7,">I'm not here to share my opinions or conclusions
+
+I wish you would.  ",0,,,3,science
+15ty52,5,"Is the World Bank non biased enough for you? 
+
+>Plenty of studies prove otherwise, and the one that does the best job of exploding the myth is the massive effort, launched in 2002 by the World Bank, called the International Assessment of Agricultural Science and Technology for Development, or IAASTD. Unprecedented in its inclusiveness, it involved 61 countries and more than 400 agricultural scientists. As the work went forward and 500 pages of distilled findings came together, evidence piled up that small-scale, diverse, sustainable farms (and even home gardens) had the most potential to solve the world’s hunger problems while reversing modern agriculture’s devastation of our ecosystems
+
+http://www.washingtonpost.com/lifestyle/home-garden/if-given-a-chance-small-scale-farms-could-make-a-difference-in-solving-hunger-problem/2011/11/01/gIQAD3pg5M_story.html",0,,,5,science
+15ty52,6,"Yes but the Washington Post isn't. Furthermore, the actual paper has little to do with your argument as it concerns the poor in third world nations.
+
+The paper is quiet clear that small-scale farms are much more labor intensive. In other words they are much less efficient in terms of labor. This is, however, seen as a positive in poor countries where labor is abundant. There are also issues cited regarding child labor in small scale farming. Not sure what else since I don't have time to read the whole thing.
+
+It's trading off industrialization for human labor. Which isn't surprising really, if you spend all your time tending a single plant I'm sure it'd grow better than if you had to tend 100 plants (on average). But it'd also cost a lot more since labor in the developed world is expensive.",0,,,3,science
+15ty52,7,">Yes but the Washington Post isn't.
+
+what does the washington post have to do with the study or its findings? 
+
+>the actual paper has little to do with your argument as it concerns the poor in third world nations.
+
+So first world nations dont have poor people? First world nations arent experiencing record levels of unemployment?
+
+>In other words they are much less efficient in terms of labor. 
+
+But that isnt the argument. Nor is that a problem. The argument was that organic cant match the yield, which is false. ",0,,,1,science
+15ty52,8,">what does the washington post have to do with the study or its findings?
+
+The fact that all you linked to is the Post's summary of the findings which is in no way the same as the actual findings of the study.
+
+>So first world nations dont have poor people? First world nations arent experiencing record levels of unemployment?
+
+Not in any way, shape or form are western problems close to those the third world. We have such lovely things as minimum wage laws and high cost of living. Essentially, this means that you can make a home garden but you'll end up making less than minimum wage on it. Then you'll be kicked out when you can't pay the property taxes, house maintenance costs, electric bills, gas bills and so on.
+
+The paper also I believe is talking about how to best donate or invest money in such poor nations. Not what is the most cost efficient means for a nation to make food for itself.
+
+>But that isnt the argument. Nor is that a problem. The argument was that organic cant match the yield, which is false.
+
+Yield under what restrictions. If you have someone stand watch over a plant 24/7 picking off bugs and pests then you can get amazing yield. But it's a worthless yield since the labor cost is prohibitive.",0,,,2,science
+15ty52,6,"shhh! it's probably biased and written by some hippie who wants to needlessly torture us and take away our meat, so fuck it!",0,,,1,science
+15ty52,5,"To be fair, most sources on this issue are biased. You complain about Natural News quoting a study by an objective organization. Fine.
+
+But let's be honest and discuss the ways giant agri-businesses like Monsanto buy trade journals and influence reports via money donations and commercial sales.
+
+Monsanto even bought out a science firm that showed that their product Round-Up was leading to the collapse of bee colonies. They silenced them by buying them. http://www.huffingtonpost.com/richard-schiffman/the-fox-monsanto-buys-the_b_1470878.html
+
+So don't pretend for one instant that the ""agri-business view"" is the objective view.
+
+It's not.
+
+What you're not doing is thinking about the issue in the long term. Initial chemical yields are slightly higher than organic yields. But that tapers off after the chemicals start to damage the soil.
+
+So what's happening is, in essence, a scam. Like in the old days when disreputable used car salesmen used to put wood chips into damaged cars, which would see them run smooth-as-silk for a week. Then (after the sucker bought the lemon) the car would fall apart.
+
+Likewise chemical yields. ""Look! The first several cycles are producing outstanding crop sizes! Buy this miracle product."" Then five cycles later, the soil starts to get polluted and crop sizes diminish. 
+
+You're not looking at the bigger picture. Like the 30 year study mentioned in the article.",0,,,8,science
+15ty52,6,">You complain about Natural News quoting a study by an objective organization. Fine.
+
+The Rodale Institute is not an objective organization. Have you checked out their website? It's nonsense. Its *own research* doesn't even support the claims that ""Naturalnews"" says it does.
+
+>The critics added that organic farming usually entails higher costs and lower yields, two issues that weren't addressed in the study because they do not factor into consumers' buying decisions. In an interview, Reganold said that the Watsonville strawberry farmers who used organic methods grew about 25% fewer strawberries than their conventional counterparts.
+
+>Like in the old days when disreputable used car salesmen used to put wood chips into damaged cars, which would see them run smooth-as-silk for a week.
+
+That's just an urban legend. That would never actually work. A vehicle requires specific modifications before it can run on wood, such as a wood gassifier. This anecdote leads me to believe your bullshit detector is severely miscalibrated. 
+
+",0,,,12,science
+15ty52,6,"http://rodaleinstitute.org/
+This is not an objective organization
+
+I will also appreciate you not putting words in my mouth.  I started this account today specifically because of the comment I initially replied to and you're the reason I won't be coming back",0,,,11,science
+15ty52,7,oh no! youre not coming back? but but if it werent for you we might all fall into the evil hands of natualnews.com,0,,,2,science
+15ty52,6,"I like how you went from sourcing naturalnews.com to huffintgtonpost.com.  
+
+That hufftington post article is long on speculation and very, very short on facts, by the way.  This doesn't belong in r/science.",0,,,8,science
+15ty52,5,"Hard to find ANY unbiased sources, as most agricultural research is funded by ""Big Ag"". I work at the local Agricultural College, and most research is funded by Bayer Crop Science, and some by Monsanto, and then a few other companies. I'd like to find some truly independent studies in this arena.",0,,,2,science
+15ty52,5,[deleted],0,,,-2,science
+15ty52,6,"You should look up what that fallacy is, because it doesn't apply in this circumstance.  If an argument is not appropriately backed, it is fair to point that out",0,,,13,science
+15ty52,6,"Please learn the difference between a logical argument and a statistical argument.
+
+> Person A has said it. Thus it is wrong.
+
+is a fallacy.
+
+> Person A has said it. Person A has cause to falsify information. Information is often falsified. Thus, we should not consider it likely that it is accurately describing reality.
+
+is a statistical argument.",0,,,7,science
+15ty52,6,"I'm not an expert, nor have I spent any considerable time researching this topic, but I think the pro-chemical argument is pretty straight forward.  Non-organic agriculture farms can use chemicals to reduce plant sickness, increase the size of plants, and manipulate the plant generally to produce more at a lower cost more reliably.
+
+There's a famous story about a man who helped end the Great Depression agro-biz with modified corn seeds that weren't as susceptible to sickness and the droughts.  I forget the specifics, but I'm confident you know what I'm talking about.   Organic growing, which is what they were using, was not enough to survive the conditions. 
+
+The research linked to in the article has been moved, and so I cannot say whether it has considered or is relevant to a scenario involving drought or plant sickness.  
+
+edited corn seeds instead of plants, as that's what the man was selling",0,,,5,science
+15ty52,5,"At least as reliable as the ones Monsanto and the others pay for. 
+How about Cornell University?    
+http://www.news.cornell.edu/stories/July05/organic.farm.vs.other.ssl.html    
+Or how about Gerald Stanhilll of the State of Israel / Ministry of Agriculture and Rural Development?    
+http://www.sciencedirect.com/science/article/pii/016788099090179H    
+
+It took me like 5 minutes to find these, unless you're an agro-chemical company employee, I suggest you utilize the magic of google and actually learn something. Nothing in life is free, there is always a price to be paid, so why is it some sort of surprise that attempts at cheating the game through chemistry and gene-mods backfires after a while and things even out?",0,,,-3,science
+15ty52,6,"From your own link:
+
+>**labor costs average about 15 percent higher in organic farming systems**, the higher prices that organic foods command in the marketplace still make the net economic return per acre either equal to or higher than that of conventionally produced crops.
+
+",0,,,13,science
+15ty52,7,"Organic has blown up because even though it costs more to produce it's return in the marketplace is higher than conventional crops.  That won't last forever.
+
+But their success is predicated on selling to people like those in this thread who believe that confidentially grown crops are evil.",0,,,4,science
+15ty52,8,"Organic has blown up because it is a way for people to ""do something good for themselves"" without having to lift a finger. Just buy the more expensive product to prove you care about your health and that of your family!
+
+Eventually, it became a catch all term for ""better"". Better for you. Better for your community. Better for the environment. Better for *everyone*. 
+
+Few stop to ask *why* is it better? What does the term even mean? Do all of the requirements even make sense? 
+
+Then this same ignorance is unleashed on needed technologies. Irradiated beef. GM crops. Nuclear Energy. The naturalist idiots can't wrap their minds around the science so they just fire up the FUD machine and convince everyone that these important advancements are just too scary. 
+
+We all lose. 
+",0,,,3,science
+15ty52,6,I'm not the one citing studies to make a point,0,,,1,science
+15ty52,6,"I suggest you utilize the magic of google and realize that there is support for both sides.
+
+http://www.nature.com/nature/journal/v485/n7397/full/nature11069.html%3FWT.ec_id=NATURE-20120510
+http://www.sfiar.ch/fileadmin/documents/recommend_dubock_field_crops_research.pdf
+
+Only biased loons pretend the issue is settled. The debate still rages on. ",0,,,1,science
+15ty52,4,"Organic farming is not superior to ""chemical"" farming in every way, this source is *clearly* biased.",0,,,6,science
+15ty52,5,"Are these sources biased?
+
+http://www.theatlantic.com/health/archive/2011/12/organic-can-feed-the-world/249348/",0,,,1,science
+15ty52,3,"And what is the cost to the environment of conventional farming, hm? 
+
+I guess it can be considered ""cheap"" if you completely ignore the destruction of the biosphere. Myopic fool. ",0,,,0,science
+15ty52,4,"You aren't quantifying ""destruction of the biosphere"", you're just asserting  out of nowhere that the cost is too big, or at least bigger than the benefits of conventional farming.
+
+Before you can make that argument successfully this destruction needs to be quantified. [This is possible to do](http://www.youtube.com/watch?v=zcPRmh5AIrI&feature=youtu.be&t=20s), but no one's doing it at the moment.",0,,,3,science
+15ty52,2,"Yeah, check your sources. Naturalnews.com is not really considered to be an objective source for information. Be careful to not confuse with organic ideas with the naturalistic fallacy. When you realize how many outfits want to charge you an arm and a leg for fish meal emulsion and bat guano, you understand that it's just as much as a business as Monsanto. Just another capitalistic enterprise. They just have better PR.",0,,,1,science
+15ty52,0,"This problem will only get worse as meat consumption rises. **The answer is for all of us to reduce our meat and dairy consumption**.  
+
+- From the article's abstract: In the coming decades, continued population growth, rising meat and dairy consumption and expanding biofuel use will dramatically increase the pressure on global agriculture.
+
+- It takes 2,500 gallons of water, 12 pounds of grain, 35 pounds of topsoil and the energy equivalent of one gallon of gasoline to produce one pound of feedlot beef.
+http://www.earthsave.org/environment.htm
+
+- Raising animals for food is grossly inefficient, because while animals eat large quantities of grain, soybeans, oats, and corn, they only produce comparatively small amounts of meat, dairy products, or eggs in return. This is why more than 70 percent of the grain and cereals that we grow in this country [U.S.A.] are fed to farmed animals. It takes up to 13 pounds of grain to produce just 1 pound of meat, and even fish on fish farms must be fed up to 5 pounds of wild-caught fish to produce 1 pound of farmed fish flesh. http://www.peta.org/issues/animals-used-for-food/meat-wastes-natural-resources.aspx",0,,,4,science
+15ty52,0," This is going to be an unpopular stance but how about we start teaching people you don't need animal products whatsoever to live in most places in the world? I'm not even getting into the ethics of veganism as an end to animal cruelty, i'm talking about purely human gains. Unless you live in the arctic, have an INCREDIBLY rare condition, or live in the fucking desert, you only eat that shit either out of pleasure/preference, or because the place you live in subsidizes that fucked up industry to the point where its cheaper.
+
+This is an artificial problem caused by our own behavior. Why the fuck do we need to put in 12 lbs of perfectly fine soy and grain just to get 1 fucking lb of meat? It's incredibly selfish and short-sighted. We need to stop wasting all this perfectly good food on recreational tasting. It's unethical even if you don't give a shit about animals.
+
+I know so many childfree people who go on and on about how reproducing and having kids is so immoral and selfish because of "" overpopulation "" yet they suck down hotdogs and hamburgers every night like it's water. Wanting to start a family with biological kids = teh evils but really damaging eating standards that are almost entirely responsible for making overpopulation even a thing that matters = totally fucking fine. I don't get people.
+
+If you have to eat meat then eat some damn fish, theres an entire ocean of that shit.
+
+Edit: Happy now D<?
+
+",0,,,4,science
+15ty52,1,">If you have to eat meat then eat some damn fish, theres an entire ocean of that shit.
+
+even the fish reserve are depleting in the ocean, because of overfishing. 
+[source 1](http://www.thedailygreen.com/environmental-news/latest/overfishing-47030403)
+ , [source 2](http://www.sciencespacerobots.com/blog/1106061), wtv. my sources arent probably good enough for reddit standard. 
+
+vegan is the way to go. Its healthy, tasty, good for the environment. ",0,,,2,science
+15ty52,2,"Veganism isn't healthy at all, this is why nobody likes vegans *waa waa so healthyy* NO.
+
+How can a diet based on the extreme use of carbs be healthy, I hung my head in shame just to remember myself when I was vegan, I had terrible acne, depression and obesity!",0,,,1,science
+15ty52,1,I'd love to live in a dessert! mmmm,0,,,1,science
+15ty52,0,[deleted],0,,,3,science
+15ty52,0,Take up gardening this year. Even a single tomato plant and a pepper plant in a container on your porch makes a difference. Fuck Monsanto and Fuck Miracle Grow.  Fuck Scott's lawn products too.,0,,,3,science
+15ty52,1,"Farmer here. Fuck you. Monsato has made a strain of corn that is incredibly resistant to drought. The farmers in the midwest that were devastated by the drought this year had some crops survive because they were genetically engineered.
+
+Get your fucking alarmist, sensationalist, hippie-shit out of here.",0,,,13,science
+15ty52,2,"People hate Monsanto's legal/corporate actions (monopoly, suing farmers for cross pollination of patented crops, etc). Genetic engineering is fucking *awesome* though, and absolutely ***not*** synonymous with Monsanto.
+
+\o/ SCIENCE",0,,,6,science
+15ty52,3,"No, that's wishful thinking. There are a lot of people who hate the science of GM foods too.",0,,,6,science
+15ty52,4,"Not scientists. I'm a chemist, I consider myself an environmentalist, I don't work in agriculture- so as far as that is concerned, I'd like to think I'm unbiased. 
+
+There is *nothing* wrong with *THE SCIENCE* of GM foods. Every article or public statement I have read criticizing GM foods is either full of bullshit pseudoscience, or is about the unethical business practices used to push GM crops onto farmers. That, I have a problem with, but there are no health problems caused by eating GM foods. ",0,,,1,science
+15ty52,4,"I know, especially in America. Friggin luddites. I was just pointing out Monsanto =/= GE; more often than not I find people say they hate GE and then going off on a rant about monopoly or capitalism or whatever completely unrelated non-science bullshit they confuse with what GE actually is. I'm including people that rant about unsafe GM practices in that lot; science is neutral, go bitch about the companies if they're doing something unsafe with the technology that results.",0,,,0,science
+15ty52,3,"Monsanto does do some shitty things with regards to corporate BS, but they've produced some of the best genetically engineered crops that we have yet to see. 
+
+I find it hard to hate them. ",0,,,2,science
+15ty52,2,"Fuck you. We're not going to allow some company to hold a monopoly over the world's food production just to protect your job, which is already propped up entirely by subsidy.",0,,,-1,science
+15ty52,3,"They don't hold a monopoly over the world's food production. GM crops are for everyone. They develop GMs. 
+
+Subsidies only kick in when the price of something falls below an industry standard. These things being subsidized is what ALLOWS Americans to pay less than 10% of every dollar on food. More is spent on electronics and energy than food, by far.
+
+And our industry isn't propped up by subsidies. YOUR FUCKING LIFE IS. You know those people bitching about how milk could hit $7/gallon if the farm bill doesn't go through? Yeah, that's not an exxageration. That would be what it would cost to manufacture, ship, and sell milk without any government subsidizing.
+
+Farmers would still get by BECAUSE PEOPLE HAVE TO FUCKING EAT. 
+
+You're blatantly wrong on both accounts. God, you're so fucking stupid.
+
+Get rid of subsidies. We don't care. It will only hurt idiot city-slickers like you. ",0,,,4,science
+15ty52,4,"> They don't hold a monopoly over the world's food production. 
+
+No, but they're getting there.
+
+> GM crops are for everyone.
+
+For a price.
+
+> Subsidies only kick in when the price of something falls below an industry standard. These things being subsidized is what ALLOWS Americans to pay less than 10% of every dollar on food. More is spent on electronics and energy than food, by far.
+
+Subsidies make our food a bit cheaper, but they're what make your business model sustainable. This isn't some new, profound idea, and the fact that you're denying it is hilarious. The bias here is obvious.
+
+> YOUR FUCKING LIFE IS. You know those people bitching about how milk could hit $7/gallon if the farm bill doesn't go through? Yeah, that's not an exxageration. That would be what it would cost to manufacture, ship, and sell milk without any government subsidizing.
+
+Per capita milk consumption is about 20 gallons. Milk is $4/gallon. That's 80 dollars on milk a year. An increase to $7/gallon would cost the average American $60/year. Sixty dollars a year. That's 16 cents a day. What massive savings! (note the sarcasm)
+
+OTOH, these subsidies are entirely what *make your business model sustainable*. I don't know where you got the idea that farming subsidies are there for the benefit of the average consumer, this is interesting propagandization I wasn't aware of.
+
+> Farmers would still get by BECAUSE PEOPLE HAVE TO FUCKING EAT. 
+
+**Farmers** would get by, **American farmers** (ie, **you**) would be fucked.
+
+> God, you're so fucking stupid...idiot city-slickers like you
+
+Ad hominem.
+
+
+
+",0,,,3,science
+15ty52,5,"Actually, that wasn't an ad hominem. An ad hom is where I say, ""you're stupid, therefore you're wrong.""
+
+I just called you fucking stupid. Consider it a public service.
+
+Learn your fallacies, dipshit.",0,,,4,science
+15ty52,5,"> Per capita milk consumption is about 20 gallons.
+[citation needed]
+
+This is way too low.
+
+And, no, they're not what makes the business model sustainable. You're such a fucking conspiracy nut, I have no time to correct all of your misconceptions and the lies you spout.
+
+Subsidies aren't given out to every fucking farmer all the fucking time. They only are given when a certain threshold isn't met, to stop farmers from raising the price of their goods so people can afford to fucking eat.
+
+It's what we should do with healthcare, but we don't.
+
+",0,,,3,science
+15ty52,5,"> American farmers
+
+The US has the highest export of food in all the world. It's what we do. Our grain belt feeds billions. We have rich fertile soil. You spend less than ten cents of every dollar on food. You have subsidies to thank for that, you ignorant fucking city slicker.
+
+Anyways, I'm done with this. I have no need to try to convince some fucking neckbeard that he has no idea how farming works.
+
+",0,,,2,science
+15ty52,3,"No, fuck you, you don't understand farming or subsidies, you dipshit.",0,,,1,science
+15ty52,0,Plants need electrolytes. We need to stop pouring fucking toilet water on them.,0,,,2,science
+15ty52,1,It's what plants crave,0,,,3,science
+15ty52,2,"""What are electrolytes?""
+""I dunno. Plants crave them.""",0,,,2,science
+15ty52,0,"Just go ahead and keep having babies guys, it's all good. ",0,,,2,science
+15ty52,0,[removed],0,,,2,science
+15ty52,1,[removed],0,,,4,science
+15ty52,2,For a silky smooth coat of fur all plants love! ,0,,,1,science
+15ty52,0,"as the Earths temperatures shift due to either global warming, natural trends or something inbetween, the areas with the best, most farmable land are going to shift.  Until we readjust which areas we farm and which we use for other purposes it's only natural we see a dip in production.",0,,,2,science
+15ty52,0,"to solve change the food pattern.
+stop eating meat start eating beans.
+plants grow faster then cows.",0,,,1,science
+15ty52,0,Human growth is killing this earth. We have to grow or our economy will collapse and we will enter a depression but growing is also killing the earth. Some say even 4 billion people is too much for the earth and we are nearly double that. Want to be green? Eat less meat and stop making babies.,0,,,2,science
+15ty52,0,"I don't think that an entire worldwide study was necessary to come to this conclusion, look at the rain pattern, and if you live in Iowa like I do, you could literally just look out the window and see. It's disappointing. ",0,,,1,science
+15ty52,0,Can I get a TL/DR synopsis?,0,,,1,science
+15ty52,0,SOYLENT GREEN ,0,,,1,science
+15ty52,0,"Well, Shit.",0,,,1,science
+15ty52,0,Take a peek at the GIS data on [EarthStat](http://www.earthstat.org) if you're interested in using this data in your own research. It's free for non-commerical use.,0,,,1,science
+15ty52,0,Chance of humanity pulling together to ameliorate this problem? Zero.,0,,,1,science
+15ty52,0,"Man, I can't read all of this.  Can I just go a day on Reddit in blissful ignorance of how much we are all fucked?",0,,,1,science
+15ty52,1,You need to hang out on /r/collapse more.,0,,,1,science
+15ty52,0,I'm not really hungry anyway.,0,,,1,science
+15ty52,0,"Good, crop yields need to stop growing so we all don't die...",0,,,1,science
+15ty52,0,i suspected as much; the Gorgotron has laid waste to our craps,0,,,1,science
+15ty52,0,"Chances are, OP was using a university computer when he read this.",0,,,1,science
+15ty52,0,I wonder how much this has to do with the fact that we are song out freshwater faster than it can replenish.,0,,,1,science
+15ty52,0,there is a huge draught,0,,,1,science
+15ty52,0,http://www.youtube.com/watch?v=j45x9ranFH0&t=2s,0,,,1,science
+15ty52,0,"I'm a corn and soybean farmer.  Less food+more people = Yay for me!
+",0,,,1,science
+15ty52,0,"Before i even start reading, i question the continued population growth premise. Yes, the world population may be increasing now but i'm pretty sure the world population will flatline or decline.",0,,,1,science
+15ty52,0,"Just wanted to say that for those genuinely interested in food production / nitrogen fixation, I highly recommend Vaclav Smil's Enriching the Earth. ",0,,,1,science
+15ty52,0,"i think we have less and less farmers, and farmed goods, and more and more people...at this stage, i don't think there is a proper balance in the global society",0,,,1,science
+15ty52,0,Crop circles.,0,,,1,science
+15ty52,0,"In other words, strap your shit or your kids will be hungry.",0,,,1,science
+15ty52,0,"[Alright, I'm out](http://i.imgur.com/zEcMs.gif)",0,,,1,science
+15ty52,0,No mention of comparison between GMO and non-GMO crops.,0,,,1,science
+15ty52,0,It's all about the soil's health. That's what matters most.,0,,,1,science
+15ty52,0,I bet Monsanto has a solution for this,0,,,1,science
+15ty52,1,Cancer so we have less mouths to feed?,0,,,1,science
+15ty52,0,"Who saw this and for a second thought patterns in crop circles, not yields?",0,,,1,science
+15ty52,0,"First thing I think when I see this headline is... What are they trying to sell me... I scroll down and viola!
+
+End of the world prophecies are for one thing only - to make you scared and to make you buy something. ",0,,,1,science
+15ty52,0,"Decreased crop yields, strange Winters, off coirse hurricsnes? Must be faries ",0,,,1,science
+15ty52,0,Clearly they haven't been to Colorado lately...,0,,,1,science
+15ty52,1,"Cannabis is so gentle compared to say cotton or corn or
+Trees. Seiously you harvest the bud/fiber and return the rest to the soil",0,,,1,science
+15ty52,0,The green revolution can't go on forever.,0,,,1,science
+15ty52,0,"You have three main factors in play. 
+
+* **First**, the marginal land added to production is of low quality, so its yield potential is also low. 
+
+* **Second**, input costs have risen and farmers are now concerned to maximise profit and not production, meaning where marginal cost crosses marginal revenue. The old days of ""chucking on all the nitrogen she'll stand"" are very much over: you put on enough so that the incremental yield just covers the cost of doing so. Very sophisticated farmers use more or less real time satellite imagery to dress and treat to a 10m accuracy, given the inhomogeneity of the soil in any one field. 
+
+* The **third factor** is the most important. The slack has been taken up in conventional plant improvement. Maize and wheat now put half of all of their dry matter into the ear, versus a few percent with unselected strains.  The ear does not shatter during harvest. Combines pick up all but a few percent of the grain. Stems are short and stout to support huge ears. Roots have been selected to to penetrate deep for long, slow water extraction at night and shallow to hold the plant up and grab whatever surface water falls, to kill weeds. Pest and disease resistance in universal. The eg baking quality of the starch has been enhanced. 
+
+That brings us to the **unconventional tools**: much better water use, both in irrigation and in-plant; salt tolerance, enhanced pest resistance, perennial crops, crops that are symbiotic with nutrient harvesting fungi; and so on. Much of this requires non-conventional breeding, which face a headwind of objection that is passionate in direct proportion to its being nonsensical. 
+
+There are **further non-conventional tools** that can be deployed. Perhaps 1% of the world's surface area is farmed at high capital and technical intensity. Peasant farming continues in ways unchanged save for occasional access to pesticides, better varieties and crude fertilisers. More integrated production techniques - not necessarily capital intensive, but usually so - will follow. It would be socially a good thing if the unconventional tools I mentioned above percolated down to village level, and enabled small farmers to prosper against this trend, which invariably involved land consolidation. (For example, small scale biomass power generation based on stover waste and purpose grown perennial crops.)
+
+The plain fact is that humanity does not ""need"" 9 billion. Note that *intensification is almost always working ""against"" biodiversity*: we collect more grain, so birds get less; we kill weds, so bugs have nothing to feed on. However, we are going to get 9 billion unless there is a die back, and so we also need intensive efforts to preserve biodiversity. In broad terms, we had an area the size of Australia under cultivation in 1900, an area the sixe of Siberia plus China farmed in 2000 and we will have an area of green wilderness, globally, the size of Australia in 2030. If we go made for biofuels, even that may be trimmed. ",0,,,1,science
+15ty52,0,"The only reasonable response I can possibly give this is... ""Soon.""  /eyes hungrily",0,,,1,science
+15ty52,0,"come on! why don't you collapse already, the waiting is killing me.",0,,,1,science
+15ty52,0,"editorialized, sensationalized, or biased. I think all 3 apply.",0,,,1,science
+15ty52,0,"""Alcohol Can Be a Gas"" is an interesting book. It offers some possible solutions to the ""crop/fuel relationship"" problems.",0,,,1,science
+15ty52,0,"Current crop areas will produce less as global warming progresses, but Canada and Siberia will become the new bread-baskets of the world, as current grain-growing areas switch to grapes and olive trees.
+
+Until, of course, the Arctic gets too hot for grain. But that'll be a while.",0,,,1,science
+15ty52,0,[deleted],0,,,1,science
+15ty52,0,Sustainable living should be US priority number 1 right now. ,0,,,1,science
+15ty52,0,Permaculture > monoculture ,0,,,1,science
+15ty52,0,Thanks Monsanto.,0,,,1,science
+15ty52,0,"We don't need more yield. We need better, tastier food. We're fat enough already.",0,,,1,science
+15ty52,0,">This result underscores the challenge of meeting increasing global agricultural demands. New investments in underperforming regions, as well as strategies to continue increasing yields in the high-performing areas, are required.
+
+The agricultural demands are not a given.  They are made by people who have the capacity to find different ways to live.  The planet is already overtaxed, and it's self-evident that continuing increasing yields is simply not possible.",0,,,0,science
+15ty52,0,"Meanwhile, another billion people are added to the planet every 15 years or so. Wonderful.",0,,,0,science
+15ty52,1,"I think population and agriculture are inseparable at this point.  To paraphrase Daniel Quinn, increased agricultural production always leads to increased population, which in turn leads to further increases in agricultural production.  Of course this is not sustainable.",0,,,2,science
+15ty52,2,Increased population should have increased agriculture aswell.,0,,,1,science
+15ty52,0,"A good paper, but -10 points for using the worlds [most useless phrase](http://news.bbc.co.uk/2/hi/uk_news/magazine/7453584.stm) ""looking forward"". ",0,,,0,science
+15ty52,1,"In future, I anticipate this phrase will be avoided before too long. ",0,,,7,science
+15ty52,1,"Throughout history, man has used this phrase in the conclusions of academic papers.
+
+While further discussion is outside the range of this comment, looking forward we expect this to be a profitable line of inquiry and enthusiastically await the future comments we expect it to lead to.",0,,,4,science
+15ty52,0,"Hi. I'm from the future. Overpopulation and famine are the disasters that finally destroy humanity. Oh, and the three nuclear wars they spawn...
+
+Good luck!!!",0,,,0,science
+15ty52,0,"Not surprising really. Obviously there are diminishing returns in breeding/GMO and fertilizer use, and climate change and peak water are not helping.",0,,,-2,science
+15ty52,0,Since when are significant portions of crops being diverted to biofuel production?,0,,,0,science
+15ty52,1,"Since the *""Renewable Fuel Standard""* program of 2005
+
+*The RFS program was created under the Energy Policy Act (EPAct) of 2005, and established the first renewable fuel volume mandate in the United States. As required under EPAct, the original RFS program (RFS1) required 7.5 billion gallons of renewable- fuel to be blended into gasoline by 2012.*",0,,,6,science
