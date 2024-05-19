@@ -1,0 +1,133 @@
+post_id,level,body,gilded,likes,num_reports,score,subreddit
+5yeuy3,0,What are some common misunderstandings about GMOs that you see as part of the Sense about Science Plant Science Panel? What do you wish the public better understood about your work?,0,,,17,science
+5yeuy3,1,GM is a technology that has the potential to enable the introduction of new and beneficial traits that can be used for the production of new crop varieties.  I think there is a tendency to talk about all work making use of this technology as though it is aimed at the same traits (characteristic) -  this is not the case. e.g. our work is about improving a photosynthesis and is not at all related to work on introducing herbicide or pest resistance to plants. ,0,,,2,science
+5yeuy3,1,GM is a technology that has the potential to enable the introduction of new and beneficial traits that can be used for the production of new crop varieties.  I think there is a tendency to talk about all work making use of this technology as though it is aimed at the same traits (characteristic) -  this is not the case. e.g. our work is about improving a photosynthesis and is not at all related to work on introducing herbicide or pest resistance to plants. ,0,,,2,science
+5yeuy3,0,Will your research lead to a greater production of wheat/wheat based produce? Or are you observing?,0,,,7,science
+5yeuy3,1,"Our aim is to increase the yield of wheat, that is the amount of grain produced per unit area of land - so yes it is about a greater production of wheat. We do not know at this point if we will achieve this and that is why we are going to carry out the field trial.",0,,,3,science
+5yeuy3,0,Does this improvement in efficiency have any effect on the plant's consumption or production of CO2 or O2?,0,,,7,science
+5yeuy3,1,"Our aim is to improve the process of photosynthesis involved in uptake of CO2 therefore we would expect to see an increase in uptake of CO2, concomitant with this a higher level of O2 is  likely to be released. It is possible that respiration in the dark may be increased which could result in a greater release of CO2 but this has not been evident to date in our plants.",0,,,3,science
+5yeuy3,0,"I have heard of similar efforts to improve photosynthetic efficiency in other species that focused on different types of modifications, such as transferring a more efficient version of a key enzyme from another plant or from algae or bacteria. Could you give non-plant scientist-friendly explanation of the function of the enzyme you work on, and why increasing its expression helps make the plant more efficient?",0,,,4,science
+5yeuy3,1,"The enzyme I work on is called sedoheptulose-1,7-bisphosphatase and catalyses a reaction in the part of photosynthesis that takes CO2 from the atmosphere and converts into sugars. Increasing the level of this enzyme (and therefore its activity) has been shown in the greenhouse to increase the rate of CO2 fixation and growth of the plant.",0,,,3,science
+5yeuy3,2,How much of an increase (growth) did you see in the lab? How much are you expecting in the field given it's a very different place! ,0,,,3,science
+5yeuy3,0,"This AMA is being permanently archived by *The Winnower*, a publishing platform that offers traditional scholarly publishing tools to traditional *and* non-traditional scholarly outputs—because scholarly communication doesn’t just happen in journals.
+
+To cite this AMA please use: [https://doi.org/10.15200/winn.148906.63862](https://www.thewinnower.com/papers/6294-science-ama-series-i-m-christine-raines-a-professor-of-plant-molecular-physiology-at-the-university-of-essex-i-do-research-on-increasing-the-efficiency-of-photosynthesis-in-wheat-ama)
+
+You can learn more and start contributing at [*authorea.com*](https://authorea.com)
+",0,,,3,science
+5yeuy3,0,"Dear Prof. Raines
+
+I would like to know what role Analytical chemistry plays in your research group? I can imagine in a field such as yours, alot of time goes into sample preparation.
+
+How do you view the chemical characterization tools available? Are they sufficient for your purposes? How do you deal with the uncertainty from these complex analysis machines and methods? And any other interesting insights you would be willing to share!
+
+With best regards!",0,,,3,science
+5yeuy3,1,Currently there has been no application of analytical chemistry in this particular project. We do use some these approaches in other work in my lab but I am not an expert in this area.,0,,,1,science
+5yeuy3,0,What are the expected downsides to the improved efficiency? (nothing's free in this life!) Will the crop need more water/fertiliser or other inputs?,0,,,3,science
+5yeuy3,1,"We have not carried out sufficient studies to be able to answer this question, therefore I cannot rule out the  possibility  that more inputs may be needed to sustain the extra growth and higher yields. But our goal is to achieve higher yields from the same area of land with  no increase in input. ",0,,,1,science
+5yeuy3,2,"So if you do get higher yields in the field - but it requires more fertiliser - is it back to the drawing board?
+",0,,,1,science
+5yeuy3,3,"I don't know if anyone else is supposed to answer, but if you're increasing plant matter, the matter that makes it up has to come from somewhere. 
+
+More yield usually means more inputs, which isn't necessarily a bad thing. ",0,,,1,science
+5yeuy3,4,It might be that the increased input is CO2? Plenty of that to go around. But there might be a greater demand for water - and that might rule this type of wheat out in certain parts of the world? (I've not grown wheat before so dunno!),0,,,2,science
+5yeuy3,5,Yes this is correct that it is possible more water will be needed.,0,,,1,science
+5yeuy3,6,"I might regret asking this... but how on earth do you measure, in the field, whether a plant is using more water or not?",0,,,1,science
+5yeuy3,7," I'm aware of many satellite services offered up to farmers, including the ability to monitor crop moisture levels. https://en.wikipedia.org/wiki/Satellite_crop_monitoring
+
+When you travel through farming country, you can see all manner of companies advertising those sorts of services. 
+
+It's all under the subject of Precision Agriculture.  
+
+Looks like the subject was brought up elsewhere in this thread: https://www.reddit.com/r/science/comments/5yeuy3/science_ama_series_im_christine_raines_a/deprk5r/",0,,,1,science
+5yeuy3,5,"Drought tolerant doesn't necessarily mean a crop product won't yield more if given more water. 
+
+Whatever the crop, it will yield highest when provided optimum levels of essential nutrients, and corrections are provided for any chemistry related  issue that prevents plants from getting optimum levels of nutrients, like pH levels. ",0,,,1,science
+5yeuy3,0,"Ask you anything?
+
+1.) How do you feel about wheat like this growing at zero g?
+
+2.) What is your favorite plant molecule/plant?
+
+3.) Let me preface this next question with sunflowers: 
+
+https://nature.berkeley.edu/news/2016/08/sunflowers-move-clock
+
+tl;dr....Some plants track the sun. 
+
+Can you express a wheat gene to do this?",0,,,3,science
+5yeuy3,1,"Sunflowers track during the bud stage, which sort of locks them into position. Once they're more mature, they're all fixed  into that eastward facing position. ",0,,,2,science
+5yeuy3,0,Have you utilized any remote sensing techniques with hyperspectral imagery to look at some of some of the physiological variables on a landscape scale?,0,,,3,science
+5yeuy3,1,Not yet but this would be an option with our field trial this summer.,0,,,2,science
+5yeuy3,0,"Science AMAs are posted early to give readers a chance to ask questions and vote on the questions of others before the AMA starts.
+ 
+
+Guests of /r/science have volunteered to answer questions; please treat them with due respect. Comment rules will be strictly enforced, and uncivil or rude behavior will result in a loss of privileges in /r/science.
+
+
+If you have scientific expertise, please verify this with our moderators by getting your account flaired with the appropriate title.  Instructions for obtaining flair are here: [reddit Science Flair Instructions](http://www.reddit.com/r/science/wiki/flair) (Flair is automatically synced with /r/EverythingScience as well.)
+",0,,,1,science
+5yeuy3,0,"I read an article recently that said the biggest environmental impact from a loaf of bread comes from the wheat growing process; namely, the application of pesticides. Are you and/or your colleagues doing anything to reduce pesticide use?
+
+When it comes to your upcoming field trials, what hurdles do you expect to face, if any?",0,,,2,science
+5yeuy3,1,"We are not working on pesticide use, clearly it is desirable to have less application of chemicals but our focus for now is on increasing yield. 
+
+I am not sure what type of hurdles you mean but at present our concern is likely for favourable weather conditions (e.g. no unseasonal winds or excessive rain) so that our experiment will provide us a good insight into the likely success of our approach.",0,,,2,science
+5yeuy3,0,"Are you familiar with ""Darwinian Agriculture"" by RF Denison? He argues that simple biotech interventions like overexpression of specific enzymes or constitutive expression of defense mechanisms are likely to come with significant energy trade-offs for the plant, because evolution and natural selection try this simple variations all the time. On the other hand, this might be a trade off that makes the plant worse-off fitness-wise, but actually gives us an advantage in agricultural fields, so it might be a trade-off we want.
+
+So, the question is: why do you think this relatively low hanging fruit like the overexpression of an enzyme in the Calvin Cycle was not selected for naturally or by traditional breeding? Do you expect any trade-offs that would make this change untenable in a wild environment?
+
+Thanks to for doing this AMA and to all Sense About Science for the wonderful work they do. ",0,,,2,science
+5yeuy3,1,Yes this question is valid and pops up regularly - my answer has to be that there is a difference between survival in the natural environment and productivity under agricultural conditions. It is likely that over expression of SBPase as in our experiment may well not confer an advantage in the natural environment where there are pests and water shortage.,0,,,2,science
+5yeuy3,0,"Are you also investigating controlling environmental factors, by looking indoor farms, where temp., humidity, and intensity of specific wavelengths of light, to improve efficiency?",0,,,2,science
+5yeuy3,1,"The initial  work that has led to this field trial was carried out in controlled environment conditions , but to date we have not manipulated specifically individual environmental parameters.",0,,,2,science
+5yeuy3,0,"With the threat posed by climate change, I'm not sure increasing world food production will have any meaningful effect once the climate starts killing large numbers of people.  Are there any groups focused on GMO farming to increase carbon sequestration, i.e. high-carbon plants?",0,,,2,science
+5yeuy3,1,Planting of deforested or unused land could provide an opportunity to increase the carbon sequestration ,0,,,3,science
+5yeuy3,0,There were protests at a GM trial in the UK a few years back. Are you expecting similar backlash this time? What have you done to engage with locals/wider public? ,0,,,2,science
+5yeuy3,1,We have been completely open about our field trial and how we have made the transgenic plants . We presented this at an open meeting with the press and have been answering questions posed by the media and the public in order to provide as much information as possible. I believe and hope that this will help to allay concerns of many if not all of this opposed to GM.,0,,,2,science
+5yeuy3,0,"I imagine that this AMA will be flooded with anti-GMO trolls, so let's get this out of the way:  Do you see any potential downside of this research....e.g. superweeds, poisoning the food supply, Triffids??? ",0,,,4,science
+5yeuy3,1,"The work we are doing will not result in superweeds nor will it poison the food supply. Our focus is on increasing photosynthesis to increase the production of sugars and grain yield. This is a natural process and the enzyme were are introducing is present in all plants including wheat, all we are doing is increasing the level of this naturally occurring enzyme and hence its activity.",0,,,1,science
+5yeuy3,0,"great idea.  but as a gluten intolerant, i would like to see the tiny part of the gluten molecule in wheat modified so that it is digestible...  the 34 mer piece is identified in a Stanford study.  ",0,,,3,science
+5yeuy3,1,"Kevin Folta had a guest on his Talking Biotech podcast who's working on celiac friendly wheat. http://www.talkingbiotechpodcast.com/032-producing-celiac-safe-wheat/
+
+His guest, Dr Chris Miller,  says gluten isn't one molecule, it's  a class of molecules. ",0,,,3,science
+5yeuy3,2,"gluten is in all grains, but only wheat has an undigested knot that is hyper allergenic and small enough to pass from gut to blood and cause trouble.  and the folta ref is excellent. thank you.",0,,,2,science
+5yeuy3,0,"Hello Professor Raines, I would like to ask if the enzyme you propose to overexpress in wheat is related to the recent discovery of possible C4 photosynthesis in this species.",0,,,1,science
+5yeuy3,1,No the enzyme we are  over expressing is in the C3 pathway (it is of course also present in C4 plants).,0,,,1,science
+5yeuy3,0,Arable land may become a scarce resource in the future. Could this modified wheat be grown in a hydroponics or aeroponics set-up? ,0,,,1,science
+5yeuy3,1,Our aim is to be able to use existing arable land so would not be looking to expand the area for wheat cultivation. it is likely possible to grow wheat  hydroponically but I think this would be expensive and not likely as productive as growth in soil.,0,,,2,science
+5yeuy3,0,What does increasing the efficiency of photosynthesis in wheat do to the wheat? Does it increase the yield? Does it develop more resistance to weeds or insects?,0,,,1,science
+5yeuy3,1,Increasing photosynthesis is aimed at increase the productivity and yield of grain. This approach will not lead to more resistant plants,0,,,1,science
+5yeuy3,0,"I'm an undergraduate who works in a lab dedicated to the study of phytochromes. As they are the sensory molecules that regulate photosynthesis associated gene expression, what role if any do Phytochromes play in your research?
+
+Thanks for taking the time to answer questions and share your work! :)",0,,,1,science
+5yeuy3,1,Phytochromes do have a role in light regulated photosynthetic gene expression but we are not working on this aspect.,0,,,2,science
+5yeuy3,0,What's the strategy? C4 wheat?,0,,,1,science
+5yeuy3,1,"No our strategy is not to introduce the C4 pathway into wheat, although I believe others have this on the agenda. We are increasing the level of one enzyme in the C3 pathway, sedoheptulose-1,7-biphosphatase (SBPase) which we have shown to be limiting for photosynthetic CO2 uptake.",0,,,1,science
+5yeuy3,2,Do you think C4 rice will work? If it does will it be easy to reproduce those results in wheat?,0,,,1,science
+5yeuy3,0,"Would it be easier to improve our farming habits- more greenhouses and less open air farming - in order to improve crop output?  I imagine that greenhouses could be more water effiencient and in less need of pesticides and herbicides, with the only shortcoming being energy waste.",0,,,1,science
+5yeuy3,1,"Not sure more greenhouses is the way to go, think of the areas of the world that would need to covered in these buildings. I think GM approaches are only one technology to help with crop production, improvement of farming practises will also play a role, particularly int he developing world.",0,,,1,science
+5yeuy3,2,"I see the point of your last statement. A combination of GM and greenhouses could work though.  Is it possible to produce a strain that can develop quickly so that a green house can produce three or four crop yields in a year?  Plus, building buildings covering many acres is not beyond human capabilities.  With multi levels and fast growing crops, I think greenhouses could more important in the future.",0,,,1,science
+5yeuy3,0,"Is photosynthetic efficiency the rate-limiting factor of grain growth and production? I have heard of plant hormones (eg, [gibberelic acid](https://en.wikipedia.org/wiki/Gibberellic_acid)) being used to speed up plant growth, so why not use a""chemical"" approach rather than a genetic one?",0,,,1,science
+5yeuy3,1,The first green revolution was entirely dependent on chemical application and although this still has a role to play our focus is on increasing the potential yield of the plant and improvement of photosynthesis is the route to the goal.,0,,,2,science
+5yeuy3,0,Thanks btw for answering all these Qs. Last one from me. Do you plan on repeating the trial in the field a few times? Presumably any measurements you make might be a result of the weather rather than the genetic tinkering? (The weather in England is bad right?!),0,,,1,science
+5yeuy3,0,"
+Have you ever considered making wheat C4?",0,,,1,science
+5yeuy3,0,"Hi, 
+
+I am wondering do you think investments into GMO agriculture may result in us reaching a point where we are sufficiently locked into this sort of food production? As a result, would this limit our ability to adapt and implement different methods of agriculture say agroforestry? Finally, what is your opinion on the resilience of GMO crops to external risks such as pathogens and long-term climate change?",0,,,1,science
+5yeuy3,1,"GMO's are only one technology for improving our crops and therefore I do not see us being locked into this technology. 
+I think we need to be careful when we talk about GMO's this is a technology to introduce new traits into plants in a highly specific manner. There is no reason why this technology should impact on the resilience of these plans to pathogens or long term climate change any more that for plants being bred through other approaches.",0,,,1,science
+5yeuy3,0,"I see several vocal supporters of agricultural technology  getting routinely harassed by activists, activist organizations, and popular charlatans. 
+
+Reddit even provides a platform and tools for harassment/propaganda/trashing of scientists, pro ag tech activists,  journalists, and plant breeding companies. Mods set up the sites, and ban all dissent through the ban features given to them.
+
+Have you ever been harassed or trolled by anti ag tech folks, and do you feel threatened by them?
+",0,,,1,science
+5yeuy3,1,No I have never been threatened or harassed. ,0,,,2,science
+5yeuy3,0,"Hello Prof. Raines.
+What is the biggest negative about GMO's? (In this instance crops)",0,,,0,science
+5yeuy3,1, I do not think there is a big negative with GMO's per se. ,0,,,3,science
+5yeuy3,0,"Is the consumption of a GMO crop connected to any known, even the slighest, dangers at all?",0,,,-1,science
+5yeuy3,1,"The transgenic wheat from the experiment has not and will not be used for human consumption. I cannot see how this particular manipulation would be dangerous as the plants are already contain this particular enzyme, all we are doing is increasing the amount.",0,,,3,science
+5yeuy3,1,That's a funny question. There are poisonous non-GMO plants. If you modify a poisonous plant it will most likely still be poisonous. So the answer is yes.,0,,,1,science

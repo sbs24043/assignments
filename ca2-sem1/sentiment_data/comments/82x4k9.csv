@@ -1,0 +1,136 @@
+post_id,level,body,gilded,likes,num_reports,score,subreddit
+82x4k9,0,"The title of the post is a cut and paste from:
+
+The title:
+
+> Scientists engineer crops to conserve water, resist drought
+
+
+And the second sentence of the first paragraph from the linked academic press release here:
+
+> For the first time, scientists have improved how a crop uses water by 25 percent without compromising yield by altering the expression of one gene that is found in all plants, as reported in Nature Communications.
+
+
+For those interested, here is a popular press article on the same study:
+
+https://newatlas.com/crops-engineered-need-less-water/53712/
+
+Journal reference: 
+
+Photosystem II Subunit S overexpression increases the efficiency of water use in a field-grown crop
+
+Katarzyna Głowacka, Johannes Kromdijk, […]Stephen P. Long
+
+Nature Communications, volume 9, Article number: 868 (2018)
+
+doi:10.1038/s41467-018-03231-x
+
+Link: https://www.nature.com/articles/s41467-018-03231-x
+
+Published online: 06 March 2018
+
+Abstract
+
+> Insufficient water availability for crop production is a mounting barrier to achieving the 70% increase in food production that will be needed by 2050. One solution is to develop crops that require less water per unit mass of production. Water vapor transpires from leaves through stomata, which also facilitate the influx of CO2 during photosynthetic assimilation. Here, we hypothesize that Photosystem II Subunit S (PsbS) expression affects a chloroplast-derived signal for stomatal opening in response to light, which can be used to improve water-use efficiency. Transgenic tobacco plants with a range of PsbS expression, from undetectable to 3.7 times wild-type are generated. Plants with increased PsbS expression show less stomatal opening in response to light, resulting in a 25% reduction in water loss per CO2 assimilated under field conditions. Since the role of PsbS is universal across higher plants, this manipulation should be effective across all crops.",0,,,38,science
+82x4k9,1,Now _that_ is intelligent design.,0,,,16,science
+82x4k9,1,"Isn't selective breeding a more effective/easier method for modifying gene expression of many genes at once to get a desired outcome?
+
+I was under the impression that genetic modification was only cost/effort effective for adding genes not otherwise present.
+",0,,,1,science
+82x4k9,2,"It depends on a lot of things. Some plants have really long generations (trees) so to produce enough generations to get a single trait would take many decades. 
+
+The other thing is that genetic engineering can pinpoint the genes we can target when breeding. Depending on the method of mutation, Its faster to genetically modify a gene to learn it's function because there is less screening and it often only takes one or two generations. For example, I used CRISPR to knock out a gene function and I got usable mutants in the second generation (for beginning to end was ~ year for a grass species), but if I had used another method I could have gotten lots of random mutations in the genome which I would then need to breed out, and that would take longer. 
+
+For countries where transgenic or genetically modified plants are not legal commercially, selective breeding is still neccesity but can be sped up through screening plants for certain known genes, without carry over of other genes you don't want. So this kind of study is still useful, even if the mutation is introduced into other species via selective breeding. ",0,,,3,science
+82x4k9,0,[removed],0,,,30,science
+82x4k9,1,[removed],0,,,11,science
+82x4k9,2,[removed],0,,,7,science
+82x4k9,0,[removed],0,,,31,science
+82x4k9,1,[removed],0,,,7,science
+82x4k9,2,[removed],0,,,26,science
+82x4k9,2,[removed],0,,,11,science
+82x4k9,0,[removed],0,,,38,science
+82x4k9,1,[removed],0,,,-2,science
+82x4k9,2,[removed],0,,,4,science
+82x4k9,3,[removed],0,,,0,science
+82x4k9,4,[removed],0,,,3,science
+82x4k9,2,[removed],0,,,5,science
+82x4k9,3,[removed],0,,,-1,science
+82x4k9,3,[removed],0,,,-5,science
+82x4k9,4,[removed],0,,,6,science
+82x4k9,5,[removed],0,,,1,science
+82x4k9,4,[removed],0,,,1,science
+82x4k9,0,[removed],0,,,22,science
+82x4k9,0,"Um. PsbS has a major role in managing excess reducing power in higher plants. Without it, the photosystems suffer damage. Increasing it short circuits the key energy producing mechanism. It may also, as a side line, signal to stomata that light is not bright enough for them to open - as here - but at a cost to overall efficiency. If this modification led to sustained increases in seed production evolution would have course have favoured it. ",0,,,9,science
+82x4k9,1,"But according to the article the recent (past 70 years) rise of carbon dioxide in the atmosphere makes this modification more efficient. As they said evolution haven't had time to keep up with this rapid change. So evolution will probably favor it, we're just speeding up the process. ",0,,,12,science
+82x4k9,2,"He's saying the biochemical reaction of energy production is affected (photosystem I and II). It's a reasonable doubt since they used Arabidopsis, a common plant model system used in controlled settings. But it may not be a bad a phenotye overall for our purposes for controlled efficient crop growth, so it's hopeful.",0,,,3,science
+82x4k9,3,"Alright I'm in over my head, I don't understand what you are saying haha. But yeah, let's hope for the best! ",0,,,1,science
+82x4k9,4,"I think what they're saying is that a specific part of the methods that plants typically use for photosynthesis would be negatively affected, and that the reason this works out okay in the experiment they did is because we can change the environment to suit the change and they used a plant they know well. 
+
+So this wouldn't be a good idea for large-scale open farming like you'd normally see, but controlled small-scale stuff might be okay.",0,,,1,science
+82x4k9,2,"No the paper is saying that water use efficiency per CO2 assimilated is higher. The article fails to mention that this is not the only critical photosynthetic parameter.
+
+> The productivity measures in transformants with increased PsbS expression did not show a consistent response. PSBS-28 showed significant decreases in dry weight (−18%, P = 0.008, Dunnett’s two-way test; Fig. 3e), leaf area (−19%, P = 0.005, Dunnett’s two-way test; Fig. 3f), and plant height was also significantly smaller in PSBS-28 and PSBS-34 (−9 and −8%, P ≤ 0.01, Dunnett’s two-way test; Fig. 3g), whereas the same productivity measures were not significantly affected in PSBS-43 and PSBS-46, relative to WT.
+
+All lines overexpressing PsbS have lower dry weight, lower leaf area, and lower plant height (except for a marginal increase in dry weight for PSBS-46. This implies a detriment in some other area. They should have measured parameters related to the photosystems, 770k for potential changes in ratios of PSI to PSII and PAM for photosynthetic yield.",0,,,2,science
+82x4k9,3,"> This implies a detriment in some other area.
+
+Well yeah, PsbS is an energy dissipation safety check that reduces photosynthetic efficiency in order to protect the chloroplast from damage from excessive light, so it should reduce growth rate. Even if it grows 10-20% slower, a more drought-resistant plant should be better in a drought.
+
+It's interesting they used a method of making the plants more drought tolerant that also makes them less susceptible to damage from too much light. That's kind of like killing two birds with one stone for drought tolerance because light damage would presumably also be a major problem for plants during drought.",0,,,1,science
+82x4k9,1,"Seed production may be the goal of evolution, but isn’t necessarily the goal of agriculture crop selection.",0,,,5,science
+82x4k9,2,"But I was talking about the wild, where it is so. There are limited non-seed crops that are not also hortis: sisal, hemp, rubber, coca, root crops. ",0,,,1,science
+82x4k9,3,What the wild selects for is irrelevant to what will benefit us and the environment in our industrial agriculture world.,0,,,1,science
+82x4k9,4,Which may or may not be so but which is completely irrelevant to my original comment. ,0,,,1,science
+82x4k9,1,Aren't almost all fruits and vegetables we eat just clones of a few plants anyways? Meaning there isn't effectively evolution of our food going on?,0,,,1,science
+82x4k9,2,"Hortis are one thing, seed crops - rice, maize, wheat - another. Potatoes are subject to major breeding programs. You wouldn't call it evolution, perhaps, but it's certainly change. ",0,,,1,science
+82x4k9,0,[removed],0,,,15,science
+82x4k9,1,[removed],0,,,34,science
+82x4k9,2,[removed],0,,,10,science
+82x4k9,3,[removed],0,,,1,science
+82x4k9,4,[removed],0,,,5,science
+82x4k9,3,[removed],0,,,-2,science
+82x4k9,2,[removed],0,,,-7,science
+82x4k9,3,[removed],0,,,8,science
+82x4k9,3,[removed],0,,,12,science
+82x4k9,4,[removed],0,,,-6,science
+82x4k9,5,[removed],0,,,11,science
+82x4k9,6,[removed],0,,,1,science
+82x4k9,5,[removed],0,,,2,science
+82x4k9,6,[removed],0,,,1,science
+82x4k9,3,[removed],0,,,1,science
+82x4k9,4,[removed],0,,,1,science
+82x4k9,1,[removed],0,,,5,science
+82x4k9,1,[removed],0,,,5,science
+82x4k9,1,[removed],0,,,0,science
+82x4k9,1,[removed],0,,,-9,science
+82x4k9,2,"Pesticides are used on non-gmo crops too. The fact that they are pesticide resistant IS NOT unhealthy. Pesticides are unhealthy, which since they are on all crops, that is why you should wash your fruits and vegetables before you cook with them.",0,,,9,science
+82x4k9,3,"Further, because of USDA regulations (and equivalent Euro zone regs) limit organic food to certain classes of pesticides.
+
+In the US, that includes compounds like rotenone, an organic substance that causes Parkinson's disease in humans. This was banned, but was unbanned after organic farmers lobbied for it. 
+
+Yeah, Wash. Your. Vegetables.",0,,,3,science
+82x4k9,3,[removed],0,,,-3,science
+82x4k9,4,"Then that's an issue to take up with the pesticide and the farmer, not the crop itself. We need better pesticides, and possibly closer inspection of farms to make sure they are not overusing pesticides. People need to stop blaming GMO crops for the shortcomings of farmers and chemical companies.",0,,,2,science
+82x4k9,5,That's fair. ,0,,,0,science
+82x4k9,4,[removed],0,,,3,science
+82x4k9,0,[removed],0,,,3,science
+82x4k9,0,"Now get them in an aeroponics and aquaponics system and see how low a water tolerance they can handle. 
+
+I wonder if it's less than black maze.",0,,,1,science
+82x4k9,0,One wonders why natural selection didn't yet stumble upon it.,0,,,1,science
+82x4k9,0,[deleted],0,,,-1,science
+82x4k9,1,What? We don't have stomata and we don't conduct photosynthesis...,0,,,6,science
+82x4k9,2,Maybe like conserve more water by increasing urea density in urine.,0,,,1,science
+82x4k9,2,"I don't think that person means exactly in the same fashion, but if the DNA exists for this ""enhancement"" then maybe we'll be able to do something similar with other mammals, like those goats that can survive off very little water",0,,,1,science
+82x4k9,0,[removed],0,,,-4,science
+82x4k9,0,[removed],0,,,-8,science
+82x4k9,1,"I think that there's a bit of confusion about my comment.  Let me clarify.
+
+Weeds and invasive species succeed by out competing with other plants for resources.  If the new crop species can grow with significantly less resources, they will spread and overtake other plants nearby by the simple act of not needing as much water.
+
+By doing so, they could upset local ecologies by supplanting established flora, affecting local fauna that depend on them.
+
+My comment wasn't making a judgement call on if it's a good or bad development (personally I think it's good if well managed), just on the possibilities of introducing a plant with an unfair advantage having unseen negative effects.  One might even include hybridization in the wild with other plants, introducing them with the modified gene.",0,,,1,science
+82x4k9,0,[removed],0,,,-7,science
+82x4k9,1,[removed],0,,,3,science

@@ -1,53 +1,53 @@
 post_id,level,body,gilded,likes,num_reports,score,subreddit
-aca4z3,0,[deleted],0,,,1259,science
+aca4z3,0,[deleted],0,,,1256,science
 aca4z3,1,"Are there any potential evolutionary consequences that could result by decreasing photorespiratory loss in these plants? I’m not suspecting that there are any, just curious. 
 
-Edit:grammar",0,,,202,science
+Edit:grammar",0,,,198,science
 aca4z3,2,"Another commenter touched on this elsewhere in the thread. Basically, it  may make the plant less robust. If the pathway has been optimized for reducing energy waste, there is likely a decrease in other metabolic intermediaries. 
 
 
-Therefore, if the efficient plant and the natural plant are subject to some evolutionary pressure that requires the redundant intermediaries for survival - for example, a pathogen which is inhibited by the intermediate - the  natural plant may do better.",0,,,216,science
+Therefore, if the efficient plant and the natural plant are subject to some evolutionary pressure that requires the redundant intermediaries for survival - for example, a pathogen which is inhibited by the intermediate - the  natural plant may do better.",0,,,211,science
 aca4z3,3,[removed],0,,,67,science
 aca4z3,4,[removed],0,,,74,science
-aca4z3,3,[deleted],0,,,10,science
-aca4z3,4,No not quite. It is more like if you are continuously in contact with bleach. It is harmful for your skin but it makes you less susceptible to disease because bleach kills pathogens.,0,,,3,science
-aca4z3,2,"Plants used to exist in a oxygen-poor environment. Only recently has rubisco carboxylation had to compete with photorespiration, so most C3 plants deal with 2-phosphoglycolate by breaking it down through a series of energetically expensive reactions that result in oxygen radicals, oxygen, and carbon dioxide. There may be a signalling cascades involved with photorespiration, NADH/NAD+ ratios, and malate/glutamate pools in the mitochondria, but I can't think of any costly consequence to decreasing photorespiration. C4 plants minimize photorespiration almost completely, and they're doing just fine. Though C4 plants have been the evolutionary new kid on the block for the past 50 million years and only make up 3% of the plant population on earth, they account for 23% of the total carbon fixation of all terrestrial plants. I'm a phd student in plant science. Let me know if you have any more questions",0,,,152,science
-aca4z3,3,Brilliant! Thanks for sharing. Are there any crops which are C4 plants?,0,,,26,science
-aca4z3,4,"Corn (maize) and sugarcane both use the C4 mechanism, as well as a few others.",0,,,52,science
-aca4z3,4,There is also an ongoing project to make c4 rice: https://c4rice.com/,0,,,26,science
-aca4z3,4,Corn is C4,0,,,7,science
+aca4z3,3,[deleted],0,,,11,science
+aca4z3,4,No not quite. It is more like if you are continuously in contact with bleach. It is harmful for your skin but it makes you less susceptible to disease because bleach kills pathogens.,0,,,4,science
+aca4z3,2,"Plants used to exist in a oxygen-poor environment. Only recently has rubisco carboxylation had to compete with photorespiration, so most C3 plants deal with 2-phosphoglycolate by breaking it down through a series of energetically expensive reactions that result in oxygen radicals, oxygen, and carbon dioxide. There may be a signalling cascades involved with photorespiration, NADH/NAD+ ratios, and malate/glutamate pools in the mitochondria, but I can't think of any costly consequence to decreasing photorespiration. C4 plants minimize photorespiration almost completely, and they're doing just fine. Though C4 plants have been the evolutionary new kid on the block for the past 50 million years and only make up 3% of the plant population on earth, they account for 23% of the total carbon fixation of all terrestrial plants. I'm a phd student in plant science. Let me know if you have any more questions",0,,,153,science
+aca4z3,3,Brilliant! Thanks for sharing. Are there any crops which are C4 plants?,0,,,28,science
+aca4z3,4,"Corn (maize) and sugarcane both use the C4 mechanism, as well as a few others.",0,,,51,science
+aca4z3,4,There is also an ongoing project to make c4 rice: https://c4rice.com/,0,,,27,science
+aca4z3,4,Corn is C4,0,,,6,science
 aca4z3,3,"I would say that photosynthesis emerged during a time when oxygen was poor, but the earths oxygen levels have fluctuated across geologic time. For example, during the carboniferous period, there was such a high concentration of oxygen in the atmosphere that insect size increased dramatically since they absorb oxygen passively rather than active absorption like vertebrates. This massive amount of oxygen would have had severe consequences on the plants at that time too (~300 million years ago before the carboniferous). 
 Maybe during those times, alternative solutions to photorespiration had emerged in more basal plant lineages but was lost during the series of mass extinction events before the rise and dominance of angiosperms?
 
 ",0,,,11,science
 aca4z3,4,"Plausible, but impossible to test. I'm not an evolutionary biologist, but my understanding of evolution is that organisms will maximize their fitness within their niche. but if that niche changes, the organism publishes a response or perishes. A great paper to read on this very topic equates C3-C4 evolution to a mount Fuji shaped fitness landscape, I highly recommend it. Those unknown mechanisms you propose may have been inefficient, energetically expensive, or simply not needed when oxygen levels later declined, but my thoughts on the matter are purely conjecture. doi: 10.1016/j.cell.2013.04.058.",0,,,2,science
-aca4z3,3,How does one find the specific genes to modify for something like this? And how do you modify it? CRISPR?,0,,,4,science
-aca4z3,4,"That depends on whether or not the organism's genome or parts of the genome are sequenced and published. Tobacco's genome has been sequenced, which makes research easier. You blast genomes for a particular conserved gene like phosphoglycerate phosphatase. You then design primers to cut out the gene, and amplify it with PCR, then get the gene sequenced to confirm the pcr was successful. You can go a couple different routes from here, CRISPR/CAS being one of them. You up-regulate and down regulate the gene, find out where the protein is transported and active, and cross your fingers. ",0,,,5,science
-aca4z3,3,Is cannabis C3 or C4?,0,,,3,science
+aca4z3,3,How does one find the specific genes to modify for something like this? And how do you modify it? CRISPR?,0,,,3,science
+aca4z3,4,"That depends on whether or not the organism's genome or parts of the genome are sequenced and published. Tobacco's genome has been sequenced, which makes research easier. You blast genomes for a particular conserved gene like phosphoglycerate phosphatase. You then design primers to cut out the gene, and amplify it with PCR, then get the gene sequenced to confirm the pcr was successful. You can go a couple different routes from here, CRISPR/CAS being one of them. You up-regulate and down regulate the gene, find out where the protein is transported and active, and cross your fingers. ",0,,,6,science
+aca4z3,3,Is cannabis C3 or C4?,0,,,4,science
 aca4z3,4,"Best answer I can give you is probably C3, but maybe a C3/C4 intermediate. I pulled the following quote from the Results and Discussions section from Chandra et al. 2011, doi: 10.1007/s12298-011-0066-6   ""The increase in PN due to the short term increase in CO2 concentration is reported to be primarily because of an increase in carboxylation efficiency and secondarily, due to the reduction in photorespiration (Minorsky 2002). However, the magnitude of enhancement was reported to be species and genotype/variety specific. It has also been reported that doubling of ambient CO2 concentration increases PN in the plant species whose photosynthesis is not saturated by the present ambient CO2 level (Joshi 2006). Since photosynthesis of C3 plant species is not saturated at the present ambient CO2 concentration, these plants are thus reported to benefit more than C4 plants (Bowes 1993; Joshi 2006).""",0,,,3,science
 aca4z3,3,"Please sir, may we have a simpler set of words, I’m five!",0,,,5,science
 aca4z3,4,"Sure. These scientists added genes to a well known plant to increase it's efficiency to take in carbon dioxide, which SHOULD increase growth and possibly yield. The genes added shouldn't hurt the plant because the genes shortcut the photorespiratory pathway, which should still be intact. 
 ",0,,,4,science
-aca4z3,3,Will this mean plants with this new gene will absorb more carbon from the air?  If all plants had this gene could it impact climate change by whole percentage points?,0,,,3,science
+aca4z3,3,Will this mean plants with this new gene will absorb more carbon from the air?  If all plants had this gene could it impact climate change by whole percentage points?,0,,,2,science
 aca4z3,4,"""Yes"" to your first question. ""No"" to your second question; the scale of production required to pull that off would be impossible. If you were able to pull it off and change EVERY photosynthetic organism on earth to absorb more carbon dioxide from the air, I'll quote G-Man: ""Prepare for unforeseen consequences.""",0,,,2,science
 aca4z3,5,"Yeah excess O2 in the atmosphere is by far an incredibly risky action to put it mildly.  (One spark and boom!).  Not to mention the loss of diversity this could cause.   I’m just toying around with the idea in my head that these might useful in the (many many) steps to reduce the carbon load in the air, if things get to a point where we littlerally have no options but “risky” ones, using these plants might be a cheaper alternative to the more drastic ideas out there.",0,,,2,science
-aca4z3,2,Ya I’m wondering this as well. Maybe there were reasons that glitch exists.,0,,,46,science
+aca4z3,2,Ya I’m wondering this as well. Maybe there were reasons that glitch exists.,0,,,48,science
 aca4z3,3,"It exists at photosynthesis evolved in the absence of oxygen. Oxygen was a toxic byproduct, but there was none in the atmosphere. Releasing a little into the air won't make any difference, right?
 
-Now plants are having to cope with the undesired reactions when rubisco captures O2 rather than CO2.",0,,,88,science
+Now plants are having to cope with the undesired reactions when rubisco captures O2 rather than CO2.",0,,,90,science
 aca4z3,4,"As an added bonus, releasing toxic byproducts can kill off the competition. 
 
-Until evolution gets crazy and now there's a bunch of new organisms that actually *require it to survive*, how fucked up is that?",0,,,35,science
-aca4z3,5,"One little nanobot evolves to process the toxic waste, and then gets assimilated inside other life to let them survive in the toxic waste land!",0,,,17,science
-aca4z3,3,"Evolution is not optimizing. If it were you would never see an invasive species take off in a new environment as frequently happens, because that niche the invasive species uses would already be filled.",0,,,100,science
-aca4z3,4,It does optimize in the sense that it finds a local maxima of fitness. It just doesn't find the objectively best design. The global maxima.,0,,,28,science
+Until evolution gets crazy and now there's a bunch of new organisms that actually *require it to survive*, how fucked up is that?",0,,,33,science
+aca4z3,5,"One little nanobot evolves to process the toxic waste, and then gets assimilated inside other life to let them survive in the toxic waste land!",0,,,18,science
+aca4z3,3,"Evolution is not optimizing. If it were you would never see an invasive species take off in a new environment as frequently happens, because that niche the invasive species uses would already be filled.",0,,,95,science
+aca4z3,4,It does optimize in the sense that it finds a local maxima of fitness. It just doesn't find the objectively best design. The global maxima.,0,,,30,science
 aca4z3,5,"Exactly. Evolution optimises with the steps it has available... It finds a local minima.
 
-You could also argue that the new animal that arrives in the environment is evolution in action... ",0,,,9,science
-aca4z3,4,Isn't this a little different than a single species filling a niche when this process is present in most crop species as opposed to a single outlier? ,0,,,5,science
+You could also argue that the new animal that arrives in the environment is evolution in action... ",0,,,11,science
+aca4z3,4,Isn't this a little different than a single species filling a niche when this process is present in most crop species as opposed to a single outlier? ,0,,,8,science
 aca4z3,5,"No, because it still does not detract from the fact that evolutionary traits become prevalent as a result of trying to cope or survive, not optimize, within an environment.
 
-It didn't start out this way with photosynthesis, and is an evolutionary on-the-go fix to the levels of 02 in the atmosphere.",0,,,23,science
+It didn't start out this way with photosynthesis, and is an evolutionary on-the-go fix to the levels of 02 in the atmosphere.",0,,,22,science
 aca4z3,5,"If all crop species evolved from a single ancestor, which it should since our current model contains a last universal common ancestor (LUCA), then this ancestor would likely have been the first to develop photosynthesis. Or at the very least was the first to absorb the anaerobic organism responsible for photosynthesis. If there was a inefficient process, but not deleterious, then it would have been kept.",0,,,7,science
 aca4z3,3,"This has been the case before. ""Junk DNA"" is not junk any more. Humans just didn't understand it had a purpose. These assumptions seem potentially dangerous.",0,,,2,science
 aca4z3,4,"The question is whether the environmental pressures which led to it being created/spread in the first place are still issues in modern times. Maybe a chunk of 'junk' is a mechanism for handling something which might easily return, or maybe it's a response to something the plant's ancestor went through three million years ago and it's pretty unlikely to recur.
@@ -68,22 +68,22 @@ TL;DR - It will likely lower protein ( and other nutrient) content because the p
 aca4z3,2,"For sure.  But crops are already so far from natural that you may as well think of them as separate from natural evolution.  They're like breeds of dogs, they can't really even function as wolves anymore.",0,,,2,science
 aca4z3,2,Yeah I was thinking a similar thing. We are calling a evolutionary adaptation of a system that has existed before us a glitch. ,0,,,2,science
 aca4z3,2,well from the article it sounds like the photorespiratory process was created by plants to prevent the toxins from absorbing oxygen into itself. so if the plants over oxiginate the planet again they will suffocate in oxygen and have no way to prevent themselves from starving via their previous regulator -photorespiration.,0,,,2,science
-aca4z3,2,There are definitely evolutionary consequences for this. The problem is that its nigh impossible for test for. Actual application in the field and seeing what happens is the only way to tell how it will affect the world. So if it has a huge adverse affect unknown in lab settings then ... \*shrugs\*,0,,,3,science
+aca4z3,2,There are definitely evolutionary consequences for this. The problem is that its nigh impossible for test for. Actual application in the field and seeing what happens is the only way to tell how it will affect the world. So if it has a huge adverse affect unknown in lab settings then ... \*shrugs\*,0,,,5,science
 aca4z3,2,"Well [here](https://www.sciencedaily.com/releases/2012/02/120201094923.htm) is something to consider. When plant life first evolved, it grew so rapidly that it actually induced some of the earliest ice ages. In theory, if there was a similar growth rate of plant matter it could have a noticeable impact on global warming. Maybe even reversing it?",0,,,2,science
 aca4z3,3,It’s just a matter of teragrams of carbon into the air vs teragrams of carbon out. Agriculture is usually a net-zero since the plants grow and decompose every year. ,0,,,3,science
-aca4z3,1,"This is quite incredible. I knew that the pathways were stupid inefficient, this can have a massive impact on our food safety. Might even use it to more effectively help in capturing and storing carbon. Exciting times. Thanks for sharing OP.",0,,,781,science
-aca4z3,2,"pathways are redundant (and hence inefficient) so that they are robust (i.e. when some shits happen, they have a lot in store for adaptation)",0,,,388,science
-aca4z3,3,"Given that most crops are not expected to last more than one generation nowadays, it makes sense to cut down on that redundancy if it improves yields.",0,,,283,science
+aca4z3,1,"This is quite incredible. I knew that the pathways were stupid inefficient, this can have a massive impact on our food safety. Might even use it to more effectively help in capturing and storing carbon. Exciting times. Thanks for sharing OP.",0,,,780,science
+aca4z3,2,"pathways are redundant (and hence inefficient) so that they are robust (i.e. when some shits happen, they have a lot in store for adaptation)",0,,,386,science
+aca4z3,3,"Given that most crops are not expected to last more than one generation nowadays, it makes sense to cut down on that redundancy if it improves yields.",0,,,284,science
 aca4z3,4,"Unaltered seeds and specimen that retain the robust nature should be kept and stored though.
 
-If we make are plants less robust in the name of efficiency and then suddenly climate changes makes it far far harder for our new plants to survive as well as the old plants, we need to have a way to go back.",0,,,469,science
+If we make are plants less robust in the name of efficiency and then suddenly climate changes makes it far far harder for our new plants to survive as well as the old plants, we need to have a way to go back.",0,,,468,science
 aca4z3,5,"Of course, preserving what we already have is important. It's hard to invent biological features from scratch, most have to be copied from somewhere, and having a lot of sources to copy from is a must. 
 
-It's robustness, of a different kind.",0,,,152,science
+It's robustness, of a different kind.",0,,,155,science
 aca4z3,6,"The problem is with all these new ways to change plants, if someone tries to take control of that and then use it to make money, we are going to just cause a whole new problem.
 
-Proper laws and regulations should be following discoveries and research like this.",0,,,28,science
-aca4z3,7,It's not that hard to store seeds. Seed banks are a thing since forever - since modern selective breeding at the very least. They were created pretty much for the same purpose - preserve genetic diversity. Bringing widescale GMO to the table doesn't change that.,0,,,85,science
+Proper laws and regulations should be following discoveries and research like this.",0,,,34,science
+aca4z3,7,It's not that hard to store seeds. Seed banks are a thing since forever - since modern selective breeding at the very least. They were created pretty much for the same purpose - preserve genetic diversity. Bringing widescale GMO to the table doesn't change that.,0,,,84,science
 aca4z3,8,"If someone owns a technology that gives them a stranglehold on markets by undercutting existing producers its a problem.  
 
 Robustness is not having mega farms growing mega crops.  Robustness is a lot of small producers growing robust crops.  We've already waaaaaay over-consolidated our agriculture sector, growing enough calories is not our current problem.  Our current problem is that our farming methods degrade the soil, and plants that grow 40% faster are just going to make all that worse.  ",0,,,17,science
@@ -96,21 +96,21 @@ We can use that land as wild life habitat, space for GEO engineering projects to
 ",0,,,19,science
 aca4z3,9,"Reverse engineering and copying GMOs isn't that hard. If a government feels threatened by GMO megacorps, they can make copyright on foreign GMOs illegal in their territory, reverse engineer or outright clone some samples and start producing their own seeds. Makes sense, given that food production is a matter of strategic importance to many countries.
 
-Soil issues are known, and they already have their solutions. There are crop rotation schedules that significantly reduce soil degradation and potentially allow farmers to use the same territories for centuries. And with more efficient crops, you need less soil to grow the same amount of food. Not to mention that it's possible that in future, crops would be engineered to reduce soil degradation too.",0,,,16,science
+Soil issues are known, and they already have their solutions. There are crop rotation schedules that significantly reduce soil degradation and potentially allow farmers to use the same territories for centuries. And with more efficient crops, you need less soil to grow the same amount of food. Not to mention that it's possible that in future, crops would be engineered to reduce soil degradation too.",0,,,17,science
 aca4z3,5,"Sounds like version control for DNA.
 
-""Let's pull commit e47f6d and see if it survives this time.""",0,,,49,science
-aca4z3,6,"That's really where we're headed -- coding with an extremely low level ""machine code"" type language that runs on the most convoluted, byzantine, janky runtime system you've ever seen. We need lots of version checkpoints for sure.",0,,,49,science
-aca4z3,7,Recompiling corn just to see if maybe it won't die after the seeding stage this time before actually looking for the bug,0,,,11,science
+""Let's pull commit e47f6d and see if it survives this time.""",0,,,52,science
+aca4z3,6,"That's really where we're headed -- coding with an extremely low level ""machine code"" type language that runs on the most convoluted, byzantine, janky runtime system you've ever seen. We need lots of version checkpoints for sure.",0,,,47,science
+aca4z3,7,Recompiling corn just to see if maybe it won't die after the seeding stage this time before actually looking for the bug,0,,,13,science
 aca4z3,7,Which would make scientists who work on these types of engineering just script kiddies.,0,,,3,science
 aca4z3,8,Reverse-engineers on the most irritating and illogical platform ever.,0,,,5,science
 aca4z3,5,">>In the matter of reforming things, as distinct from deforming them, there is one plain and simple principle; a principle which will probably be called a paradox. There exists in such a case a certain institution or law; let us say, for the sake of simplicity, a fence or gate erected across a road. The more modern type of reformer goes gaily up to it and says, ""I don't see the use of this; let us clear it away."" To which the more intelligent type of reformer will do well to answer: ""If you don't see the use of it, I certainly won't let you clear it away. Go away and think. Then, when you can come back and tell me that you do see the use of it, I may allow you to destroy it.""
 
-G.K. Chesteron, *The Thing* (1929)",0,,,33,science
-aca4z3,6,Life changing quote.  Thank you. ,0,,,5,science
-aca4z3,5,Think maybe we could just keep the genes for the inefficient patheways in there and switch them off?,0,,,5,science
+G.K. Chesteron, *The Thing* (1929)",0,,,34,science
+aca4z3,6,Life changing quote.  Thank you. ,0,,,4,science
+aca4z3,5,Think maybe we could just keep the genes for the inefficient patheways in there and switch them off?,0,,,6,science
 aca4z3,6,That sounds like exactly what they did: The article says they changed the pathing for them to prefer their test pathway over the native one.,0,,,2,science
-aca4z3,5,Dont we store seeds of everything somewhere?,0,,,6,science
+aca4z3,5,Dont we store seeds of everything somewhere?,0,,,5,science
 aca4z3,4,"If you read the article, they actually *added* pathways to make the path more efficient. So they added redundancies.",0,,,8,science
 aca4z3,5,They added a new one and suppressed the old one. That gives you a total of one.,0,,,7,science
 aca4z3,6,"Still, they didn't cut out redundancies, which is what everyone seems to be assuming.",0,,,9,science
@@ -120,21 +120,21 @@ If the redundancies were useful - we would likely see more of them. However, in 
 
 Redundancies are expensive - and although limited in use, in truth cost often far more then they are worth. So it is very possible that natural evolution would slowly weed them out. But this process given evolution trends towards ""good enough"" and not perfect, would take several hundred millennia at the very MINIMUM. And we are less then 12000 years out of the last ice age to give some perspective.
 
-And to be clear: I don't think ALL redundancy is bad in terms of cost, just 40% seems pretty absurd.",0,,,22,science
-aca4z3,4,"Yeah, I'd still heed every oddity we find. Sure, some might be true cruft, but time and again we find that the oddities have a subtle purpose. I'm not saying we don't proceed to make improvements for our purposes, which we've already been doing for thousands of years the slow way, but just not to let our hubris think we're doing anything other than making improvements *for our purposes*. I'd bet that on the long term global scale natural selection will result in more robust outcomes than the things we come up with. It's almost the definition of natural design vs. intentional design: long term self-sufficiency vs. needing to babysit your tuned version.",0,,,13,science
+And to be clear: I don't think ALL redundancy is bad in terms of cost, just 40% seems pretty absurd.",0,,,21,science
+aca4z3,4,"Yeah, I'd still heed every oddity we find. Sure, some might be true cruft, but time and again we find that the oddities have a subtle purpose. I'm not saying we don't proceed to make improvements for our purposes, which we've already been doing for thousands of years the slow way, but just not to let our hubris think we're doing anything other than making improvements *for our purposes*. I'd bet that on the long term global scale natural selection will result in more robust outcomes than the things we come up with. It's almost the definition of natural design vs. intentional design: long term self-sufficiency vs. needing to babysit your tuned version.",0,,,12,science
 aca4z3,2,"I didn’t think of the carbon sequestration possibility, too. Not a valuable trait in food crops, but maybe for hardwoods eventually.
 ",0,,,35,science
-aca4z3,3,"It would be a major breakthrough but perhaps not directly relative to carbon sequestration. Imagine using less land, fewer pesticides, fertilizers and labor to produce the same amount of food. Reduced deforestation pressure, less need to build roads.",0,,,35,science
-aca4z3,4,"The soils tilth is the limiting factor, not how fast crops grow.  Soil can only support so much, and right now we're degrading our soil with our farming methods.  Plants don't just grow 40% faster without extracting 40% more nutrients from the soil.  If you think this will take ""less fertilizer"" you'd be wrong. ",0,,,21,science
+aca4z3,3,"It would be a major breakthrough but perhaps not directly relative to carbon sequestration. Imagine using less land, fewer pesticides, fertilizers and labor to produce the same amount of food. Reduced deforestation pressure, less need to build roads.",0,,,36,science
+aca4z3,4,"The soils tilth is the limiting factor, not how fast crops grow.  Soil can only support so much, and right now we're degrading our soil with our farming methods.  Plants don't just grow 40% faster without extracting 40% more nutrients from the soil.  If you think this will take ""less fertilizer"" you'd be wrong. ",0,,,23,science
 aca4z3,5,"Since I own a farm, I can say that you're incorrect in real life. One of the issues in farming is the poor utilization of fertilizer and run-off. Farmers HATE run off as much as anyone since that is just money wasted to them on top of the environmental pollution. If your crops grow faster and yields better, then you waste much less fertilizer. ",0,,,36,science
-aca4z3,5,[removed],0,,,15,science
+aca4z3,5,[removed],0,,,16,science
 aca4z3,6,"Mmm, that means that we overall get more plant tissue that is built with photosynthesized material, but with less trace elements and the like. This would continue the trend of food that is more caloric but less nutritious per serving.",0,,,3,science
 aca4z3,6,"The study said vegetative growth, which isn't fruits or seeds.  And it was mainly in the stock.  Sounds to me like this will allow us to breed physically larger crops, at some point in the future.  ",0,,,2,science
-aca4z3,3,Engineered hardwood. The guitarist in me are intrigued. ,0,,,22,science
-aca4z3,4,\*breathes heavily in skateboarder\*,0,,,18,science
+aca4z3,3,Engineered hardwood. The guitarist in me are intrigued. ,0,,,20,science
+aca4z3,4,\*breathes heavily in skateboarder\*,0,,,19,science
 aca4z3,3,I've long wondered if it would be possible to engineer trees that specifically captured and bonded carbon at a high rate for use in sequestration and as a high strength renewable building material. The sophistication in genetic engineering required for that is still a long way off.,0,,,2,science
 aca4z3,4,"Bamboo does just that, some grow so fast you can see it in real time",0,,,2,science
-aca4z3,2,"This immediately reminds me of a [different study](https://www.sciencedaily.com/releases/2012/02/120201094923.htm) I read about years ago and makes me wonder if this 'inefficiency' was evolved on purpose? When plant life first evolved, it grew so rapidly in the geological timeline that plants actually induced some of the world's first ice ages. Maybe these sudden ice ages rewarded the slow growers who were (possibly?) somehow less affected by the climate shift? I would be interested in knowing if that's a possible reason for such a seemingly disadvantageous adaptation? Then again nature isn't always known for being particularly efficient with it's shotgun approach to evolution.",0,,,27,science
+aca4z3,2,"This immediately reminds me of a [different study](https://www.sciencedaily.com/releases/2012/02/120201094923.htm) I read about years ago and makes me wonder if this 'inefficiency' was evolved on purpose? When plant life first evolved, it grew so rapidly in the geological timeline that plants actually induced some of the world's first ice ages. Maybe these sudden ice ages rewarded the slow growers who were (possibly?) somehow less affected by the climate shift? I would be interested in knowing if that's a possible reason for such a seemingly disadvantageous adaptation? Then again nature isn't always known for being particularly efficient with it's shotgun approach to evolution.",0,,,30,science
 aca4z3,3,"Doubtful it was deliberate.  It's more likely that it represents a local minimum.  Once you've already invented a gasoline engine and your cities are choking on the fumes and killing everyone, it's easier to add catalytic converters than to switch everyone over to electric cars all at once.  Once plants had already evolved down this path, they couldn't easily fix the problem without breaking their current photosynthesis setup and starting over.  Because they are competing with other plants that can manage okay, breaking the system and starting over is too high of a selection cost to pay.",0,,,3,science
 aca4z3,2,Another way to increase photosynthesis efficiency was to increase the  catalytic activity of RuBisCO as RuBisCO is usually the rate limiting step in carbon fixation.  ,0,,,4,science
 aca4z3,2,Only problem is this tech will be implemented by huge agriculture corporations and the seeds are owned by them so cost of veg in market will drop considerably because of higher yields and anyone not using this seed will need to switch or go out of business. Resulting in corporations literally owning tomatos or cucumbers,0,,,10,science
@@ -148,15 +148,15 @@ Which differs from the present situation how exactly?
 You do realize that conventionally bred plants and traits are already patentable and GMO changes nothing in that regard, right?",0,,,5,science
 aca4z3,3,"It doesn’t have to be that way though.  GMO is in its early enough stages that we could simply declare that DNA is not patentable.  The base code modifications must be effectively open source.  You can make money on the production and sale, but you don’t own the genetic modification itself.  Nor do you get to keep it secret.
 
-I think there are a lot of reasons to be very wary of the Bayer/Monsantos of the world owning monopolies on GMO crops.  But I also think those legitimate economic concerns get convoluted a lot with the conversation about GMO safety and benefits themselves.",0,,,3,science
+I think there are a lot of reasons to be very wary of the Bayer/Monsantos of the world owning monopolies on GMO crops.  But I also think those legitimate economic concerns get convoluted a lot with the conversation about GMO safety and benefits themselves.",0,,,4,science
 aca4z3,4,Well the good news is that nobody could hope to keep the mutations secret at least.  They'll stand out like a sore thumb if anyone bothers to sequence the plants (which they would).  ,0,,,2,science
-aca4z3,1,"I remember a very long conversation 25 years ago in one of my upper level plant physiology classes that focused on these pathways that blew my young mind, big part of why I work in Ag today.  These were fantastic ""pie-in-the-sky""  things that would not happen in my lifetime...and now they are.  Light in dark times.  Science at it's best.",0,,,45,science
+aca4z3,1,"I remember a very long conversation 25 years ago in one of my upper level plant physiology classes that focused on these pathways that blew my young mind, big part of why I work in Ag today.  These were fantastic ""pie-in-the-sky""  things that would not happen in my lifetime...and now they are.  Light in dark times.  Science at it's best.",0,,,48,science
 aca4z3,2,In the same boat but I couldn't find any Ag jobs because I dont know where to start. Any tips? Ecology and plant bio are my thing but I'm stuck putting my soil and water science schooling into civil engineering which isn't a horrible thing but not really my passion. ,0,,,3,science
-aca4z3,1,[deleted],0,,,49,science
-aca4z3,2,[deleted],0,,,51,science
-aca4z3,3,"Well yeah, but more importantly, where I live.",0,,,11,science
-aca4z3,4,"We’re all pulling together to help you, Jaeburwahkei!",0,,,5,science
-aca4z3,3,Just FYI people are working on making C4 rice for that reason.,0,,,3,science
+aca4z3,1,[deleted],0,,,50,science
+aca4z3,2,[deleted],0,,,56,science
+aca4z3,3,"Well yeah, but more importantly, where I live.",0,,,12,science
+aca4z3,4,"We’re all pulling together to help you, Jaeburwahkei!",0,,,6,science
+aca4z3,3,Just FYI people are working on making C4 rice for that reason.,0,,,4,science
 aca4z3,3,"Honestly, that makes me worry that the tropics could be even more deforested for cropland ",0,,,2,science
 aca4z3,2,"No they are not being converted from c3 to c4. c3 and c4 plants are both capable performing photorespiration, however this only really occurs when plants do not have enough access to CO2, most plants will close their air holes in their leaves during the peak heat of the day to conserve water, thus limiting their access to CO2.
 
@@ -164,22 +164,22 @@ This happens in both c3 and c4 plants, however c4 plants have a mechanism they u
 
 This ultimately leads to c3 plants performing more photorespiration than c4 plants. Because the nature of this breakthrough is centered around making photorespiration more efficient, it helps c3 plants more than c4 plants.
 
-Hope this cleared thing up a bit",0,,,18,science
+Hope this cleared thing up a bit",0,,,17,science
 aca4z3,3,My man. Are you a botanist?,0,,,2,science
 aca4z3,4,Plant science is my focus yes,0,,,2,science
 aca4z3,2,"C4 have some other adaptations that help them survive the heat, like stoma function, and the ability to produce energy when the sun goes down while it is cooler. 
 
 ",0,,,4,science
-aca4z3,1,Why tobacco plants?,0,,,47,science
+aca4z3,1,Why tobacco plants?,0,,,49,science
 aca4z3,2,"They are a common model organism.
 
 On a scientific level, they are heavily studied with well mapped genetics, and have robust protocols for reliably growing plants from small tissue samples (such as a small circular sample of leaf) which have been individually modified.
 
 On a practical level, tobacco grows quickly and produces huge numbers of seeds on a short cycle of a few months.
 
-Results can also translate well to their less easy-to-work-with but more useful relatives in the nightshade family including tomatoes, potatoes, and peppers.",0,,,211,science
-aca4z3,3,"It also has the bonus of being a big cash crop, meaning any innovation will be adopted industry-wide pretty quickly; but not a food crop, which means if this experiment fails catastrophically, it just means tobacco will spike in price until the old crop is replanted.  Emergent effect of market economics.",0,,,76,science
-aca4z3,4,"Also, if they are cancer-causing, no one will be the wiser. :)",0,,,38,science
+Results can also translate well to their less easy-to-work-with but more useful relatives in the nightshade family including tomatoes, potatoes, and peppers.",0,,,213,science
+aca4z3,3,"It also has the bonus of being a big cash crop, meaning any innovation will be adopted industry-wide pretty quickly; but not a food crop, which means if this experiment fails catastrophically, it just means tobacco will spike in price until the old crop is replanted.  Emergent effect of market economics.",0,,,74,science
+aca4z3,4,"Also, if they are cancer-causing, no one will be the wiser. :)",0,,,36,science
 aca4z3,4,"Very informative, y'all! This is why I sort by best",0,,,2,science
 aca4z3,2,"[Tobacco is widely used in plant research.](https://en.wikipedia.org/wiki/Tobacco#Research) It is:
 
@@ -189,14 +189,14 @@ aca4z3,2,"[Tobacco is widely used in plant research.](https://en.wikipedia.org/w
 
 Once a model organism gains more traction than other model organisms, it has a knock-on effect. If there are 100 studies about plants, and 60 of them use tobacco, 10 of them use kale or whatever, 5 use basil, 4 use mint etc, you would probably want to use tobacco in your research just because that's what everyone else is doing.
 
-source: I watch a lot of CarlSagan42 videos.",0,,,98,science
+source: I watch a lot of CarlSagan42 videos.",0,,,96,science
 aca4z3,3,"Short version: Tobacco companies pumped huge money into botanical research back in the day, and we scientists are a lazy lot, so once a protocol appeared using tobacco plants, everyone else tended to follow suit.  Protocol Inertia! 
 
-",0,,,44,science
-aca4z3,4,"Hey man, I've done lab work. Once you find something that works consistently you run with it. Whether that's a procedure, a test subject, a set of enzymes, whatever.",0,,,49,science
+",0,,,43,science
+aca4z3,4,"Hey man, I've done lab work. Once you find something that works consistently you run with it. Whether that's a procedure, a test subject, a set of enzymes, whatever.",0,,,47,science
 aca4z3,5,"Oh yeah. I remember way back in my baby undergrad days asking my professor why we were using sheared herring sperm DNA as a blocker in Southern blots.
 
-His answer: ""Because Southern did, and it worked.""",0,,,23,science
+His answer: ""Because Southern did, and it worked.""",0,,,25,science
 aca4z3,2,"In biology, certain organisms are selected to be 'model' organisms. These typically have a short life cycle, produce many offspring, and readily demonstrate the traits their genes hold (phenotype). 
 
 Model organisms help us understand organisms in general.",0,,,16,science
@@ -205,10 +205,10 @@ aca4z3,3,"Like Drosophila, the fruit fly.
 I hope I spelled that right. ",0,,,11,science
 aca4z3,4,"You did, but that's an easy one.
 
-Your next challenge is to correctly remember arabidopsis.",0,,,4,science
+Your next challenge is to correctly remember arabidopsis.",0,,,5,science
 aca4z3,5,"Hey Mohammed, do you see that umbrella I couldn't hang on to?  I keep losing my grip.  Arabidopsis",0,,,13,science
-aca4z3,6,A rabid OP sis--a terminally overpowered sibling you don't want to get into a tussle with.,0,,,4,science
-aca4z3,2,"At a guess I'd say because it's fairly common and has an extremely long and well-documented lineage compared to most other qualifying vegetation.  But that's just a guess, based mostly on the history of tobacco.",0,,,40,science
+aca4z3,6,A rabid OP sis--a terminally overpowered sibling you don't want to get into a tussle with.,0,,,5,science
+aca4z3,2,"At a guess I'd say because it's fairly common and has an extremely long and well-documented lineage compared to most other qualifying vegetation.  But that's just a guess, based mostly on the history of tobacco.",0,,,41,science
 aca4z3,3,"On top of this they grow fairly quickly, have a short reproductive cycle, and are extremely easy to transform.",0,,,32,science
 aca4z3,2,"As others have said, Benthy is a model organism.  For plants and molecular biology, the big three are *Zea mays*, *Nicotiana Benthamiana* (tobacco), and *Arabidopsis thaliana*.
 
@@ -220,7 +220,7 @@ Advantages of Benthy:
 
 * Disease: TMV - tobacco mosaic virus - is another model organism and the combination of looking at this host/pathogen pair is the basis of much of our understanding of plant disease resistance.  Really fundamental stuff like Plant Innate Immunity, the hypersensitive response, R genes, etc. mostly come from Benthy research, often with powdery mildew (a fungal pathogen).  As one might imagine, lots of plant research is devoted to disease resistance.
 
-It was likely used here because infiltration allows you to test lots of constructs quickly.  ",0,,,19,science
+It was likely used here because infiltration allows you to test lots of constructs quickly.  ",0,,,18,science
 aca4z3,2,"> tobacco, which is an ideal model field crop because it is easily transformed, has a short life cycle, produces large quantities of seed, and develops a robust canopy similar to that of other field crops.
 
 from the post you are replying to",0,,,6,science
@@ -230,42 +230,42 @@ Throughout undergrad as a biochem major, I only had to take two labs where we gr
 aca4z3,1,"Dumb but honest question, would I be able to grow species of grapes that normally require lots of sunlight (and heat) in more northern latitudes?  I suppose heat would be the limiting factor, then. ",0,,,3,science
 aca4z3,1,"I'm reluctant to call this a glitch. There are some organisms that don't have this glitch. Survival of the fittest means the best will rise to the top. It's likely a mutation of the more efficient kind evolved but got left by the wayside for unknown reasons. Genetics can tell us the ""what"" of something, but interpretation is an entirely different game.",0,,,2,science
 aca4z3,1,So instead of taking the hard approach like the c4 rice project they just modify the c3 pathway?,0,,,2,science
-aca4z3,1,And everyone likes to act like GMOs are going to kill us or something. ,0,,,4,science
+aca4z3,1,And everyone likes to act like GMOs are going to kill us or something. ,0,,,3,science
 aca4z3,1,"Sounds exciting. But can’t help but wonder why these traits were selected for to begin with. I.e, what’s the trade off? ",0,,,2,science
 aca4z3,0,"Botanist here! Some plants, like corn and other grasses, have evolved another way around it. These plants (using what is known as C4 photosynthesis) capture CO2 with Pep Carboxylase and pump it into the middle of the leaf. It is wet and isolated from excess O2, so Rubisco does not get confused and the Calvin cycle runs like normal. Problem is, all this extra machinery is hard to build (leaves are structured differently), so they are only competitive with C3 plants in hot/dry environments where C3 fails due to photorespiration.
 
 In the engineered plants, it appears that Rubisco is still its derpy self, grabbing O2 instead of CO2 in hot/dry conditions with closed stomata (encouraging more oxygen). But, instead of using a lot of energy to recycle RuBP, the plants use an alternate pathway to reduce lost energy from this long involved pathway. Pretty awesome. 
 
-It means that tomatoes with this pathway will grow just as well in hot and dry conditions as those in wet/cooler (provided water is still provided at the root). It may also mitigate some of the reduction in agricultural production that is predicted to happen as climate change warms the earth.  ",0,,,362,science
+It means that tomatoes with this pathway will grow just as well in hot and dry conditions as those in wet/cooler (provided water is still provided at the root). It may also mitigate some of the reduction in agricultural production that is predicted to happen as climate change warms the earth.  ",0,,,364,science
 aca4z3,1,"Your point about C3 vs C4 on efficiency of CO2 assimilation is spot on, but tomatoes is probably about the worst example you could choose to demonstrate plants that don’t do well in hot arid climates. Tomatoes evolved in the brightest region of the world, tropical Andes, and we’ve yet to see them reach light saturation at high noon almost anywhere in the world. They perform very poorly in cold climates, and in the arid region of central CA, they can EASILY yield 50 tons to the acre, twice as high as about 10 years ago, with the simple modification of switching irrigation to buried drip where similar amounts of water are delivered directly to the roots.",0,,,64,science
-aca4z3,2,"Yeah, our best tomato crops were always the really hot summers where we got rain, but it was almost always clear/sunny. Damn things would go wild and eat the tomato cages. ",0,,,17,science
-aca4z3,2,"Yeah, you are right. Maybe beans would be a better example. I was just reaching for a C3 vegetable crop. ",0,,,6,science
+aca4z3,2,"Yeah, our best tomato crops were always the really hot summers where we got rain, but it was almost always clear/sunny. Damn things would go wild and eat the tomato cages. ",0,,,18,science
+aca4z3,2,"Yeah, you are right. Maybe beans would be a better example. I was just reaching for a C3 vegetable crop. ",0,,,4,science
 aca4z3,2,"This is why I have hope for humanity’s future. If we can hit tomatoes out of the park in ten years, I bet we can feed another two or three billion people in the next ~50 years. ",0,,,4,science
 aca4z3,1,"Hijacking just to give some perspective, not to counter argue.
 
 Plants are ridiculously inefficient at converting sunlight to energy. The ""typical"" conversion rate is 2%, which means that of all the sunlight energy that lands on any given crop, only 2% of it is used to create more biomass.
 
-Any increase might seem low at these percentages, but consider exactly how much sunlight falls on these plants during the growing season. And even with that low efficiency, certain species (especially crops) can grow almost explosively. Any given increase in conversion efficiency is huge! ",0,,,24,science
+Any increase might seem low at these percentages, but consider exactly how much sunlight falls on these plants during the growing season. And even with that low efficiency, certain species (especially crops) can grow almost explosively. Any given increase in conversion efficiency is huge! ",0,,,25,science
 aca4z3,2,You are absolutely right! This would help plants under stress a lot.,0,,,2,science
-aca4z3,1,Is it conceivable to engineer the plant such that it doesn't mistakingly pick up O2 in the first place?,0,,,8,science
-aca4z3,2,As far as soon I know (first year college chemistry) Rubisco is an enzyme which is a protein structure. The CO 2 molecule and the OW molecule are very similar in shape. Thus we would have to create a new enzyme that replaces rubisco and is capable of differentiating the two different molecules even at high O2 concentrations . Doesn't sound very easy ,0,,,18,science
+aca4z3,1,Is it conceivable to engineer the plant such that it doesn't mistakingly pick up O2 in the first place?,0,,,7,science
+aca4z3,2,As far as soon I know (first year college chemistry) Rubisco is an enzyme which is a protein structure. The CO 2 molecule and the OW molecule are very similar in shape. Thus we would have to create a new enzyme that replaces rubisco and is capable of differentiating the two different molecules even at high O2 concentrations . Doesn't sound very easy ,0,,,17,science
 aca4z3,3,Solving how to do this and then doing it sounds like a great way of locking down a decade worth of Nobel Prizes for your research group.,0,,,2,science
 aca4z3,2,"Pretty tough, as you’d have to force them to stop using Rubisco (don’t think you can fix the inefficient enzyme without literally changing it’s shape and therefore changing the protein). C4 plants do use a separate one at the stomata, but it isn’t linked directly to the Calvin cycle. At this point, without engineering a new Calvin cycle all together, this is the best solution. ",0,,,3,science
-aca4z3,1,"Sceptical ag scientist here! While the results look very promising, I find it strange that they didn't report the dry weight of the plants anywhere (only % differences to WT). Without this, it is difficult to judge the agronomic significance of the work because the WT biomass could be low compared to what is typically achieved in tobacco, making it relatively easy to show a significant increase. It's also odd that they harvested the entire plot, rather than only central plants to remove edge effects, as this is a basic agronomic practice. Forgive my cynicism, but there have been countless pieces of ""yield increasing"" molecular research that have not translated into yield increases on farm.",0,,,8,science
+aca4z3,1,"Sceptical ag scientist here! While the results look very promising, I find it strange that they didn't report the dry weight of the plants anywhere (only % differences to WT). Without this, it is difficult to judge the agronomic significance of the work because the WT biomass could be low compared to what is typically achieved in tobacco, making it relatively easy to show a significant increase. It's also odd that they harvested the entire plot, rather than only central plants to remove edge effects, as this is a basic agronomic practice. Forgive my cynicism, but there have been countless pieces of ""yield increasing"" molecular research that have not translated into yield increases on farm.",0,,,9,science
 aca4z3,1,"I have a question you almost certainly can't help with, but I wanted to ask.
 
 Do you know if the various zoozanthellae species hosted in corals use this inefficient pathway?
 
-I guess changing their metabolic efficiency could have a devastating effect on the coral, as it really needs to keep them in check, but I find these things fascinating and I have no journal access.",0,,,2,science
+I guess changing their metabolic efficiency could have a devastating effect on the coral, as it really needs to keep them in check, but I find these things fascinating and I have no journal access.",0,,,3,science
 aca4z3,2,"Man, wish I could help! But I actually know nothing about zoozanthellae. Interesting question though!",0,,,3,science
-aca4z3,0,"Evolution only require something that works. Whether or not it’s optimal is incidental. I hope this goes a little bit towards giving us more food security and reducing the amount of farmland we required, which will indirectly help with the climate change issue.",0,,,453,science
+aca4z3,0,"Evolution only require something that works. Whether or not it’s optimal is incidental. I hope this goes a little bit towards giving us more food security and reducing the amount of farmland we required, which will indirectly help with the climate change issue.",0,,,444,science
 aca4z3,1,"Your statement is correct in general but not apt in this case. 40% increase in efficiency is no joke, and given enough time and competition I'm sure the plants would have evolved closer to be more efficient IF there was no other penalty to reproduction.
 
-Maximum yeild is not the optimization function for plants, continuation of the species is. Someon explained in a comment that the efficiency loss is due to redundant pathways that make the plant more robust in case of issues making it likely to survive longer. This does not matter for crops as they only live for one generation. So the plants likely evolved trying to optimize yield with robustness among other things (not simply yield like the scientists care about)",0,,,188,science
+Maximum yeild is not the optimization function for plants, continuation of the species is. Someon explained in a comment that the efficiency loss is due to redundant pathways that make the plant more robust in case of issues making it likely to survive longer. This does not matter for crops as they only live for one generation. So the plants likely evolved trying to optimize yield with robustness among other things (not simply yield like the scientists care about)",0,,,190,science
 aca4z3,2,"Totally not sure here, but is it correct to say instead that plants tended to survive with traits that optimized yield and robustness, not that they ""tried to"" because evolution really has no active goals?
 
 I'm not trying to be pedantic, but like actually wondering whether this is correct or not.",0,,,36,science
-aca4z3,3,"Yes that's correct, there is no active goal in evolution. Just random mutations followed by natural selection. I guess I should've been more careful in my wording to avoid confusion.",0,,,50,science
+aca4z3,3,"Yes that's correct, there is no active goal in evolution. Just random mutations followed by natural selection. I guess I should've been more careful in my wording to avoid confusion.",0,,,45,science
 aca4z3,2,"Its not quite that simple as ""it would be much more efficient so evolution would figure it out"". Blind iteration process like evolution always run the risk of finding a solution thats good, but not ideal, and getting stuck
 
 Imagine a computer program designed to climb hills, with the goal of getting as high as possible. The bot is placed on a grid of squares, each at different heights. The bot cant see the field, it only knows how high it is now, and how high it was immediately before. A simple climbing program would be to tell the bot ""pick a random direction and move 1 step that way. If its lower than you were before, go back. If its higher, repeat the process"". This program is decent enough, it will get the robot to climb higher without needing to see the whole field. The problem is it can get stuck on a low hilltop. Not the highest hill top, just the nearest. If it gets to the second highest hilltop, every time it takes a step, it ends up lower than it was before, so it goes right back to that hill top. It will never reach the highest hilltop because each time it moves in any direction, it gets lower
@@ -280,44 +280,44 @@ You're robot example is referred to in computer science as an explore/exploit an
 Genetics is a great annealing process that hopefully doesn't get stuck but ack of competition/variety lead to lots and lots of stuck genetics. ",0,,,2,science
 aca4z3,2,"> and given enough time and competition I'm sure the plants would have evolved closer to be more efficient IF there was no other penalty to reproduction.
 
-increased yield does not improve reproduction chances",0,,,5,science
+increased yield does not improve reproduction chances",0,,,6,science
 aca4z3,1,"In fact, natural selection can often select things that don't work.  For example, a brightly coloured bird or fish might be easier to spot by a predator than a duller one. But, if said bright bird/fish is fast enough to avoid predators long enough to reach maturity, its colour becomes a sign of its other positive attributes. Because a slow bird/fish couldn't ""fake"" being fast by just being bright (because then it would be eaten), the flaw of being bright gets selected for in faster specimens.
 
 We might see similar things in plants - eg. while it might seem beneficial for a plant to grow/reproduce quickly, there might be pressures selecting for specimens that live long periods of time. If that were the case, negative traits that stunt growth might actually be selected for.
 
-In the case of this 40% inefficiency - perhaps this inefficiency is allowing plants that have some sort of weakness, e.g. prone to disease, to die off before reaching reproductive size/age. By a plant being inefficient, and STILL being able to survive long enough to reproduce, it is almost a guarantee that it has other strengths.",0,,,10,science
+In the case of this 40% inefficiency - perhaps this inefficiency is allowing plants that have some sort of weakness, e.g. prone to disease, to die off before reaching reproductive size/age. By a plant being inefficient, and STILL being able to survive long enough to reproduce, it is almost a guarantee that it has other strengths.",0,,,8,science
 aca4z3,1,[removed],0,,,39,science
-aca4z3,2,[removed],0,,,6,science
-aca4z3,1,[deleted],0,,,6,science
-aca4z3,0,[removed],0,,,473,science
-aca4z3,1,[removed],0,,,277,science
-aca4z3,2,[removed],0,,,131,science
-aca4z3,3,[removed],0,,,42,science
-aca4z3,4,[removed],0,,,30,science
-aca4z3,5,[removed],0,,,10,science
+aca4z3,2,[removed],0,,,8,science
+aca4z3,1,[deleted],0,,,8,science
+aca4z3,0,[removed],0,,,471,science
+aca4z3,1,[removed],0,,,275,science
+aca4z3,2,[removed],0,,,129,science
+aca4z3,3,[removed],0,,,40,science
+aca4z3,4,[removed],0,,,29,science
+aca4z3,5,[removed],0,,,11,science
 aca4z3,5,[removed],0,,,3,science
-aca4z3,3,[removed],0,,,5,science
+aca4z3,3,[removed],0,,,4,science
 aca4z3,4,[removed],0,,,2,science
 aca4z3,3,[deleted],0,,,2,science
-aca4z3,3,[removed],0,,,4,science
+aca4z3,3,[removed],0,,,3,science
 aca4z3,4,[removed],0,,,9,science
-aca4z3,1,[removed],0,,,50,science
+aca4z3,1,[removed],0,,,53,science
 aca4z3,2,[removed],0,,,27,science
-aca4z3,3,[removed],0,,,13,science
+aca4z3,3,[removed],0,,,12,science
 aca4z3,2,[removed],0,,,3,science
 aca4z3,1,[removed],0,,,11,science
-aca4z3,2,[removed],0,,,37,science
-aca4z3,3,[removed],0,,,14,science
+aca4z3,2,[removed],0,,,36,science
+aca4z3,3,[removed],0,,,15,science
 aca4z3,4,[removed],0,,,2,science
 aca4z3,5,[removed],0,,,3,science
 aca4z3,3,[removed],0,,,7,science
 aca4z3,4,[removed],0,,,4,science
 aca4z3,5,[removed],0,,,2,science
-aca4z3,2,[removed],0,,,7,science
+aca4z3,2,[removed],0,,,6,science
 aca4z3,1,[removed],0,,,2,science
-aca4z3,0,Is this the C4 route for Carbon fixation? I thought it was necessary for plants that lived in jungles because the car on dioxide concentration was so low there ,0,,,29,science
-aca4z3,1,"Nope, not at all like C4 or CAM. It is simply a more efficient conversion of photorespiratory byproduct that saves ATP for the plant.",0,,,17,science
-aca4z3,2,Oh are we talking about rubisco cleaving on oxygen ,0,,,7,science
+aca4z3,0,Is this the C4 route for Carbon fixation? I thought it was necessary for plants that lived in jungles because the car on dioxide concentration was so low there ,0,,,30,science
+aca4z3,1,"Nope, not at all like C4 or CAM. It is simply a more efficient conversion of photorespiratory byproduct that saves ATP for the plant.",0,,,16,science
+aca4z3,2,Oh are we talking about rubisco cleaving on oxygen ,0,,,8,science
 aca4z3,3,Yuuuup!,0,,,3,science
 aca4z3,1,"C4 uses Pep Carboxylase at the stomata and sequesters the “glitchy” Rubisco near the leaf vein away from O2 to fix it. 
 
@@ -325,8 +325,8 @@ This fixes the problem where about 40% of these energy products (ATP and NADPH) 
 
 This does not improve carbon fixation or use Pep Carboxylase. Rubisco continues to grab Oxygen on accident at the same rate as before. But the ATP and NADPH are not used up as quickly with the shortcut engineered into these plants. That means that they have more energy to turn into biomass! 
 
-Note, this will only help plants that “suffer” from photorespiration, mostly ones in hot/dry environments. Plants under no water stress in cool areas will barely be helped with this “fix”. ",0,,,4,science
-aca4z3,0,"weird. You'd think, if efficiency was so important, why they didn't simply evolve this trait? it makes you wonder what the tradeoff is that the plants focussed on instead of efficiency. ",0,,,404,science
+Note, this will only help plants that “suffer” from photorespiration, mostly ones in hot/dry environments. Plants under no water stress in cool areas will barely be helped with this “fix”. ",0,,,5,science
+aca4z3,0,"weird. You'd think, if efficiency was so important, why they didn't simply evolve this trait? it makes you wonder what the tradeoff is that the plants focussed on instead of efficiency. ",0,,,402,science
 aca4z3,1,"Photosynthesis evolved in the absence of oxygen, so it actually was 100% “efficient” at that time, by our definition of efficiency in this thread (the carbon fixing enzyme rubisco attaches only CO2 to ribulose bisphosphate). Then photosynthesis made too much oxygen, leading to this “inefficiency” where rubisco also started attaching O2 to ribulose bisphosphate, so then photorespiration evolved to recycle that bastard molecule back into ribulose bisphosphate. 
 
 Interestingly, the more “efficient” the rubisco variant is, the slower it is at fixing carbon [1], so photosynthetic organisms that use rubisco have to “make a choice” or evolve workarounds if they want efficiency vs speed, for example C4 or CAM photosynthesis, or carboxysomes. Also people have been trying to engineer a both fast and efficient carbon fixing enzyme for the past 20+ years and have not succeeded, so it does seem like nature really did find the best solution. Until we solve the protein folding problem that is...
@@ -334,38 +334,38 @@ Interestingly, the more “efficient” the rubisco variant is, the slower it is
 1. https://www.nature.com/articles/ncomms10382
 
 Edit: figure 7 in reference 1 is the relevant figure for my citation above.",0,,,53,science
-aca4z3,1,[deleted],0,,,1133,science
+aca4z3,1,[deleted],0,,,1136,science
 aca4z3,2,"furthermore, photosynthesis is absolutely critical to plant survival, which could actually hamper its further evolution.
 
 mutations impacting photosynthesis are probably tightly controlled, with even slight deviations being removed by natural selection due to reduced productivity or outright failure to survive. the genetic plasticity to evolve a way into the more efficient photosynthesis pathway is probably unlikely to occur unless it is relatively simple or with an early payoff.
 
 kind of like how a blind person adrift at sea would desperately hold on to their life preserver, even if (unbeknownst to them) a life-saving ship was passing nearby and swimming to it would save their life. The life preserver is so crucial to survival that the blind person would never leave it behind in search of a possible better life. (not a perfect metaphor, but gets the idea across). 
 
-evolution is blind and brainless; a world-changing adaptation could be very close by, but if the path towards it is somehow complicated by the nature of the organism, it may be very unlikely to occur.",0,,,425,science
-aca4z3,3,"Another way to phrase it - evolution, as an algorithm, only finds local minima. There might be a much better solution elsewhere, but there is a cost assigned to any change. The more complex the object becomes, the more likely a small change will make it worse. ",0,,,176,science
-aca4z3,4,"Evolution does NOT only find local minima, but the search is limited by the biodiversity and mutation.",0,,,69,science
+evolution is blind and brainless; a world-changing adaptation could be very close by, but if the path towards it is somehow complicated by the nature of the organism, it may be very unlikely to occur.",0,,,426,science
+aca4z3,3,"Another way to phrase it - evolution, as an algorithm, only finds local minima. There might be a much better solution elsewhere, but there is a cost assigned to any change. The more complex the object becomes, the more likely a small change will make it worse. ",0,,,178,science
+aca4z3,4,"Evolution does NOT only find local minima, but the search is limited by the biodiversity and mutation.",0,,,70,science
 aca4z3,5,"Well, sure, it's possible in any search space to stumble upon the global minima / maxima. You could technically do that stochastically. 
 
-I'd be super interested in reading more about it, though. I've worked with genetic optimization algorithms here and there, and some do work globally. So I'm sure that's possible. ",0,,,22,science
-aca4z3,6,"I'm drunk, but one of the issues is to overcome a ""valley"" in a possible solution space. Most genetic algorithms deal with that by throwing in wild mutations on a small subset every generation. An enormous majority will die,  but a tiny tiny few might just cross that valley. In biology this happens by severe environmental stressors and long (to our perception) periods of time.",0,,,20,science
+I'd be super interested in reading more about it, though. I've worked with genetic optimization algorithms here and there, and some do work globally. So I'm sure that's possible. ",0,,,20,science
+aca4z3,6,"I'm drunk, but one of the issues is to overcome a ""valley"" in a possible solution space. Most genetic algorithms deal with that by throwing in wild mutations on a small subset every generation. An enormous majority will die,  but a tiny tiny few might just cross that valley. In biology this happens by severe environmental stressors and long (to our perception) periods of time.",0,,,19,science
 aca4z3,7,"Yep, that's correct. I figured it was mostly environmental. Makes sense. Still, ""global"" is such a hard criteria to meet. You can get out of poor local minima into slightly better regions, but in a complex enough space (like an entire organism), it makes sense that certain features will never be fully optimized. 
 
-In fact, crossing that valley might put you further away from the global best solution. That's one of the trickiest things about the whole scenario. ",0,,,13,science
+In fact, crossing that valley might put you further away from the global best solution. That's one of the trickiest things about the whole scenario. ",0,,,11,science
 aca4z3,8,"Any function you are trying to optimize (and or the dataset you are feeding into it) is technically the environment for the current organism in your algorithm. It's possible that valleys are crossed by changing your environment instead of only mutating it. This would simulate this kind of environmental stress. You can create different environments and maintain your population there. Exchanging some organisms between those environments might increase chances of finding the global maximum.
 
-I only play around with these algorithms, because it's fun to watch how they develop.",0,,,4,science
+I only play around with these algorithms, because it's fun to watch how they develop.",0,,,3,science
 aca4z3,4,This is why evolution should use simulated annealing with a higher alpha value.,0,,,29,science
-aca4z3,5,How do you post bug reports to god?,0,,,27,science
-aca4z3,6,"He implemented a reporting service about 2kya, but some griefers hacked it and it's never worked right since. We were expecting some more comms with the next major version release in 2012, but that got delayed.",0,,,16,science
+aca4z3,5,How do you post bug reports to god?,0,,,26,science
+aca4z3,6,"He implemented a reporting service about 2kya, but some griefers hacked it and it's never worked right since. We were expecting some more comms with the next major version release in 2012, but that got delayed.",0,,,17,science
 aca4z3,5,"Modern medicine is basically doing this for humans.  All kinds of genetic mutations are no longer dead ends.  If the universe has a plan for humanity, and if that plan resembles a Hollywood movie in any way, then I'm convinced it involves some kind of catastrophic genetic choke point (virus, alien invasion, who knows) several hundred years in the future, which humanity will only survive thanks to the increased genetic diversity made possible by modern medicine.",0,,,2,science
 aca4z3,4,"No, silly sir, evolution searches for MAXIMA.",0,,,2,science
 aca4z3,5,"Either / or. Maximize offspring, minimize death rates... There's a few things to optimize, there, I think.
 
 But you're right, haha :P",0,,,2,science
-aca4z3,3,"Plants 50,000 years ago weren’t being grown on farms either. Plants that can survive on a farm today might have died out long ago.",0,,,35,science
+aca4z3,3,"Plants 50,000 years ago weren’t being grown on farms either. Plants that can survive on a farm today might have died out long ago.",0,,,31,science
 aca4z3,4,"that’s certainly true. many of our food cultivars are woefully inadequate are surviving in the wild. 
 
-when a farm field goes fallow, very few crops pop up on their own the next season. Even fewer are capable of competing in a meadow, thicket or forest environment. they simply die out. if agriculture died out tomorrow, we would lose the vast majority of food crop cultivars, leaving mainly their wild counterparts",0,,,17,science
+when a farm field goes fallow, very few crops pop up on their own the next season. Even fewer are capable of competing in a meadow, thicket or forest environment. they simply die out. if agriculture died out tomorrow, we would lose the vast majority of food crop cultivars, leaving mainly their wild counterparts",0,,,18,science
 aca4z3,2,"Wouldn't a more efficient plant reproduce more, spread more, and wipe out variants and species that weren't as efficient?",0,,,26,science
 aca4z3,3,The universe is young.  ,0,,,26,science
 aca4z3,4,"This. For another example of a ""recent"" improvement of photosynthesis, see the evolution from C3 to [C4 carbon fixation](https://en.m.wikipedia.org/wiki/C4_carbon_fixation). This led to a 3x improvement in efficiency with respect to water consumption, caused plants to colonize previously arid regions of the world, and gave rise to the savannahs and grass plains where humans evolved and thrived. In a way, we owe our very existence to this useful mutation. 
@@ -374,8 +374,8 @@ Although this mutation sounds very useful, and plants have been around ""forever
 
 If nature was still improving photosynthesis a few million years ago, after going at it for hundreds of millions of years, it seems reasonable that we haven't found a global optimum yet. The universe is indeed still young.
 
-For another example of inefficiency that we should fix: plants are still green, while black plants would obviously be more efficient, if we could engineer photosynthesis that absorbs more of the Suns light. ",0,,,26,science
-aca4z3,3,"yes, but if 99 changes lead to less efficency while 1 leads to more efficency, a plant that has evolved to not cause changes to photosynthesis will be more likely to survive, reproduce and outcompete those that haven't",0,,,31,science
+For another example of inefficiency that we should fix: plants are still green, while black plants would obviously be more efficient, if we could engineer photosynthesis that absorbs more of the Suns light. ",0,,,27,science
+aca4z3,3,"yes, but if 99 changes lead to less efficency while 1 leads to more efficency, a plant that has evolved to not cause changes to photosynthesis will be more likely to survive, reproduce and outcompete those that haven't",0,,,33,science
 aca4z3,3,"Yes. But if the efficiency gain requires several individual changes to the process of photosynthesis and each one of those changes either makes the process less efficient or entirely nonfunctional then it's unlikely the change will be made, regardless of the potential benefit. Evolution is incremental, and it doesn't have any end goal or ability to plan ahead. 
 
 ",0,,,3,science
@@ -383,46 +383,46 @@ aca4z3,2,"no, it does good enough to reproduce better than the plant neighboring
 aca4z3,2,Yeah? The weeds in my garden beg to differ.,0,,,2,science
 aca4z3,1,"Because photorespiration does have some use, or at least we're pretty sure anyway. It can act as a ""shunt valve"" to help protect from oxidative stress in adverse conditions (too much light/heat, not enough water, etc). Its also been demonstrated to be involved in nitrogen assimilation (though we're not entirely sure how).
 
-And in most plants, everything is balanced to work well as-is. So they can only deliver CO2 so quickly, can only remove sugar so fast, etc etc etc all around RuBisCO acting as it does in nature. If you perturb one part of the system, the whole Jenga pile shudders and wobbles and may collapse. Its not like a magical do-better option. ",0,,,68,science
-aca4z3,2,"Considering most wild plants have tiny fruit or roots compared to domesticated plants, this ""fix"" for the glitch would probably be overkill for the plants needs. Maybe a comparable thing would be mamal respiratory systems. Mammals could evolve better lungs and air sacks like birds, but they dont have a need for the extra oxygen or something like that.",0,,,19,science
-aca4z3,2," RuBisCO originated when the atmosphere was mostly CO2.  RuBisCO is extremely inefficient in the presence of O2.  There have some some evolution changes in RuBisCO  to make it more efficient in a O2 environment in most modern plants, but it is still the rate limiting step. Basically any improvements to RuBisCO would great increase photosynthesis efficiency. ",0,,,7,science
+And in most plants, everything is balanced to work well as-is. So they can only deliver CO2 so quickly, can only remove sugar so fast, etc etc etc all around RuBisCO acting as it does in nature. If you perturb one part of the system, the whole Jenga pile shudders and wobbles and may collapse. Its not like a magical do-better option. ",0,,,62,science
+aca4z3,2,"Considering most wild plants have tiny fruit or roots compared to domesticated plants, this ""fix"" for the glitch would probably be overkill for the plants needs. Maybe a comparable thing would be mamal respiratory systems. Mammals could evolve better lungs and air sacks like birds, but they dont have a need for the extra oxygen or something like that.",0,,,17,science
+aca4z3,2," RuBisCO originated when the atmosphere was mostly CO2.  RuBisCO is extremely inefficient in the presence of O2.  There have some some evolution changes in RuBisCO  to make it more efficient in a O2 environment in most modern plants, but it is still the rate limiting step. Basically any improvements to RuBisCO would great increase photosynthesis efficiency. ",0,,,8,science
 aca4z3,1,"In basic terms, too much sunlight/photosynthesis is harmful to many plant cells because it over-excites some molecules (bad), and so the plant chooses to convert the photosynthesised sugars BACK into carbon dioxide, which can mop up the over-excited harmful molecules. It tends to happen when sunlight is high anyway (hence photosynthesis is enough to satisfy the plant), so it’s easy to see why the plant wants to get rid of those harmful molecules despite meaning a bit less food. 
 
 
-This is a very basic explanation and I’m sure I’m wrong somewhere, but it should do",0,,,29,science
-aca4z3,1,"Ever looked at human eye structure compared to octopus eye structure?  Nature does ""good enough"" and tends to settle for the first good enough that shows up for extremely long periods.",0,,,7,science
+This is a very basic explanation and I’m sure I’m wrong somewhere, but it should do",0,,,33,science
+aca4z3,1,"Ever looked at human eye structure compared to octopus eye structure?  Nature does ""good enough"" and tends to settle for the first good enough that shows up for extremely long periods.",0,,,5,science
 aca4z3,1,same reason men have nipples. everything evolves on a need-to-know basis.,0,,,10,science
-aca4z3,1,RUBISCO evolved before oxygen was a problem. Once rubisco existed plants were kind of stuck with it for good.,0,,,9,science
-aca4z3,1,"You're fundamentally misunderstanding evolution. It doesn't search for global maxima, only local maxima. Even then only if it appreciably impacts fitness.",0,,,22,science
-aca4z3,2,"Any gradient descent function will have some trade-off between seeking local and global inflection points. Evolution isn't a single search algorithm that only does one or the other - it will of course seek out a local maxima, but it will also reproduce until the resources represented by that local maxima can't contain the population, which causes spill over to seek other local maxima. That effectively creates a global maxima search.",0,,,4,science
+aca4z3,1,RUBISCO evolved before oxygen was a problem. Once rubisco existed plants were kind of stuck with it for good.,0,,,10,science
+aca4z3,1,"You're fundamentally misunderstanding evolution. It doesn't search for global maxima, only local maxima. Even then only if it appreciably impacts fitness.",0,,,21,science
+aca4z3,2,"Any gradient descent function will have some trade-off between seeking local and global inflection points. Evolution isn't a single search algorithm that only does one or the other - it will of course seek out a local maxima, but it will also reproduce until the resources represented by that local maxima can't contain the population, which causes spill over to seek other local maxima. That effectively creates a global maxima search.",0,,,5,science
 aca4z3,3,"That descent function you're describing is fitness. You're right, a factor that dramatically impacts fitness can force a global maximum (or as near as it can get), but most traits aren't going to have that strong of a selective advantage.
 
-What you're describing with the population spillover is a global maxima search at the population level, not at the gene level. We're not infinitely refining all our genes.",0,,,3,science
+What you're describing with the population spillover is a global maxima search at the population level, not at the gene level. We're not infinitely refining all our genes.",0,,,4,science
 aca4z3,1,"[Fitness landscapes](https://en.wikipedia.org/wiki/Fitness_landscape) - evolution can only find local maxima not the absolute maximum because the steps between a local maximum and the absolute maximum has too fitness losses.
 
-Sorta like, it'd be really nice if humans had wheels right?  You can't just evolve wheels, you'd have to have a bunch of intermediary steps with abomination wheel-legs that don't do anything.  They'd be less fit than legs and evolution wouldn't be able to follow that path to wheels.",0,,,14,science
+Sorta like, it'd be really nice if humans had wheels right?  You can't just evolve wheels, you'd have to have a bunch of intermediary steps with abomination wheel-legs that don't do anything.  They'd be less fit than legs and evolution wouldn't be able to follow that path to wheels.",0,,,16,science
 aca4z3,1,"Because only from an anthropocentric point of view ""more biomass""=""more efficiency"".
 
 For a wild plant it is more efficient to waste surplus energy rather than use it to build more biomass that might not be useful for the organism and even become a burden under stress conditions.",0,,,2,science
 aca4z3,1,The ability to coexist with other plant life? If a specific plant evolved to maximum efficiency couldn’t it cause that plant to eventually outgrow and dominate other plant life? This could drive down biodiversity and eventually effect the overall health as the ecosystem as a whole. Isn’t that why weeds are a problem?,0,,,2,science
-aca4z3,1,"Nature is a cobbler, not an engineer. If it works, why change it?",0,,,5,science
+aca4z3,1,"Nature is a cobbler, not an engineer. If it works, why change it?",0,,,3,science
 aca4z3,2,"that's still putting too much intelligence.
 
 Evolution is a random process, caused by random mutations.
 
-Why hasn't the optimal evolved? because random mutation hasn't produced it yet",0,,,6,science
+Why hasn't the optimal evolved? because random mutation hasn't produced it yet",0,,,7,science
 aca4z3,3,"There's also the inherent baggage of DNA that sort of defines a direction of development. It's difficult to mutate from fish to birds in a single generation. It would take many roundabout steps to end up there even though birds are genetically a good design, and indeed it is what happened.
 
 My point is that life... uh... finds a way. It doesn't look for THE way. It also has to take into account what is working NOW when making its next ""solution"" to the problem. Just because a solution is great, doesn't mean it'll ever evolve simply because the DNA foundation would have to be torn down and restructured between here and there. It sort of cobbles together useful things for now and builds upon what has worked, not deciding the most efficient direction to go.
 
 It's like expecting humanity to jump immediately from fossil fuels to fully renewables. Renewables are the superior tech, but we're sitting on all this fossil fuel tech and infrastructure that makes life work for us now. We can't make the switch tomorrow. There needs to be a fundamental restructuring and tons of development in a different direction.
 
-So, in a long way, we agree?",0,,,4,science
-aca4z3,0,[removed],0,,,45,science
+So, in a long way, we agree?",0,,,3,science
+aca4z3,0,[removed],0,,,46,science
 aca4z3,1,In 20 years ,0,,,17,science
 aca4z3,2,Not until he's passed away...,0,,,2,science
 aca4z3,1,"[Norman Borlaug](https://en.m.wikipedia.org/wiki/Norman_Borlaug), who developed break-though rice with similar yield improvements in the 1960s won the Nobel Prize. ",0,,,7,science
-aca4z3,0,"One day, we'll bioengineer plants that will teraform Venus.",0,,,131,science
+aca4z3,0,"One day, we'll bioengineer plants that will teraform Venus.",0,,,129,science
 aca4z3,1,"I'm willing to buy algae that contribute to terraforming Mars (over thousands of years), as there are already algae that persist under Earth's ice caps.
 
 Venus, with its lead melt surface temperatures and sulfuric acid rain, is so far beyond the envelope of any known life that I'm dubious bioengineering would be part of the first few thousand years of any terraforming project. 
@@ -434,22 +434,22 @@ Really, though, why would anyone want to live at the bottom of a gravity well if
 &#x200B;
 
 &#x200B;",0,,,107,science
-aca4z3,2,"This is typically how I argue against colonizing Mars. Unless there's something extremely valuable on the surface, it just doesn't make much sense to settle inside yet another gravity well. You're going to have to live in entirely sealed habitats protected from radiation anyway, might as well put those same habitats (or similar) in space and spin them to simulate gravity.",0,,,54,science
+aca4z3,2,"This is typically how I argue against colonizing Mars. Unless there's something extremely valuable on the surface, it just doesn't make much sense to settle inside yet another gravity well. You're going to have to live in entirely sealed habitats protected from radiation anyway, might as well put those same habitats (or similar) in space and spin them to simulate gravity.",0,,,53,science
 aca4z3,3,"Because you can't mine and terraform a spinning space station. 
 
 Currently all of humanity's eggs are in the basket of Earth. We should settle Mars so that if humanity wrecks earth by nuking itself or we get hit by a solar flare or whatever, we have a chance of expanding out across Mars.
 
-We should *also* make space stations as you suggest, but they don't offer the long-long-long-long term stability that an actual planet offers.",0,,,82,science
-aca4z3,4,"Asteroids are a better bet for mining.  And terraforming Mars is just a pipe dream. Even if Earth was nuked, it would STILL be more hospitable than Mars.  My point stands.  There would have to be something extremely valuable on Mars to make it worth colonizing. And even then you’d probably only wa t mining outposts. Large scale colonizing of Mars is dumb.  Mars now is an example of what you’d be trying to escape in the worst case scenerio on Earth. ",0,,,43,science
+We should *also* make space stations as you suggest, but they don't offer the long-long-long-long term stability that an actual planet offers.",0,,,85,science
+aca4z3,4,"Asteroids are a better bet for mining.  And terraforming Mars is just a pipe dream. Even if Earth was nuked, it would STILL be more hospitable than Mars.  My point stands.  There would have to be something extremely valuable on Mars to make it worth colonizing. And even then you’d probably only wa t mining outposts. Large scale colonizing of Mars is dumb.  Mars now is an example of what you’d be trying to escape in the worst case scenerio on Earth. ",0,,,40,science
 aca4z3,5,"Hospitable? Maybe, but the collapse of civilization wouldn't be as terrible as it would be if you were living in your glass dome city on Mars instead of on earth.",0,,,8,science
-aca4z3,6,Space station(s) makes more sense than sticking yourself in a barren gravity well of Mars. ,0,,,11,science
+aca4z3,6,Space station(s) makes more sense than sticking yourself in a barren gravity well of Mars. ,0,,,10,science
 aca4z3,7,You could build a space elevator to mitigate the gravity well problem.  Might work with todays tech.,0,,,2,science
 aca4z3,5,"> My point stands. There would have to be something extremely valuable on Mars to make it worth colonizing.
 
 Space and stability to colonise. That's the value.
 
-There are multiple scenarios where Earth could suffer some planet wide disaster where humanity would be wiped out. It's easier and quicker to rebuild civilisation from the surface of Mars than the asteroid belt.",0,,,5,science
-aca4z3,6,"Again, there’s very little that could happen to Earth that would make it less hospitable than Mars.  It’s just that awful.  Mars is really not a good choice for  colonization. The surface doesn’t even have suitable gravity for humans. You’d have to live in sealed habitats anyway.  You’d be better off recolonizing Earth from population on a space station in the rare event that every single human in earth was killed   ",0,,,8,science
+There are multiple scenarios where Earth could suffer some planet wide disaster where humanity would be wiped out. It's easier and quicker to rebuild civilisation from the surface of Mars than the asteroid belt.",0,,,4,science
+aca4z3,6,"Again, there’s very little that could happen to Earth that would make it less hospitable than Mars.  It’s just that awful.  Mars is really not a good choice for  colonization. The surface doesn’t even have suitable gravity for humans. You’d have to live in sealed habitats anyway.  You’d be better off recolonizing Earth from population on a space station in the rare event that every single human in earth was killed   ",0,,,9,science
 aca4z3,7,Agreed. The only reason people say Mars is bc it's next door and it's not Venus. Neither is a good candidate for settlement. Would you rather live on Antarctica or on a cruise ship?,0,,,3,science
 aca4z3,7,"Let's be honest though... If something kills every human on Earth, it would likely also kill every human in space AROUND Earth.
 
@@ -461,8 +461,8 @@ aca4z3,8,"I would argue that such an event would likely affect the whole solar s
 Nobody said a space station/habitats has to be around Earth.  You'd probably want it near asteroids for resources. And from there you could even move to other celestial bodies. So much more flexibility.
 
 You'd probably put your shipyards up there anyway. As well as mineral processing and manufacturing. And if all that's there, why not have the people there too? You can spin a station to simulate gravity humans are accustomed to. What exactly about Mars surface makes it so great? ",0,,,3,science
-aca4z3,4,"You can certainly mine asteroids and planetoids to add to your space station over time. I daresay a custom-designed mobile world created specifically to be a haven for terrestrial life would work better long-term than a cold, barren, gravity-filled meteor target.",0,,,4,science
-aca4z3,5,"But you only have to get to Mars *once* to start mining and settling all over it, building transport networks and expanding the human population over it's surface will be far easier than setting up a comparable network across the asteroids of the solar system.",0,,,4,science
+aca4z3,4,"You can certainly mine asteroids and planetoids to add to your space station over time. I daresay a custom-designed mobile world created specifically to be a haven for terrestrial life would work better long-term than a cold, barren, gravity-filled meteor target.",0,,,3,science
+aca4z3,5,"But you only have to get to Mars *once* to start mining and settling all over it, building transport networks and expanding the human population over it's surface will be far easier than setting up a comparable network across the asteroids of the solar system.",0,,,2,science
 aca4z3,6,"You would still need a ton of resources that Mars doesn't offer, such as water and oxygen or abundant enough energy to melt ice and hydrolyze it. The dirt is infertile and the sun is too weak to grow Earth plants.
 
 A station set nearer the sun next to a sizable asteroid would have plenty of metals that are far more accessible, a great deal more energy available to run the station, no need of an overcomplicated transport system, and tons of sunlight to grow crops. The hardest part to acquire would be water. If you time it right as a comet comes near, a drone fleet could capture enough water to sustain a sizable population without the need to launch it out of a gravity well.
@@ -474,14 +474,14 @@ But you'd still need to deal with some massive delta v, which is basically the s
 aca4z3,2,"Planets seem boring and expensive dV-wise until you start to need resources to make stuff. I think it would be easier to try to solve the engineering on the dV problem instead of trying to solve the ""not enough matter"" problem.",0,,,13,science
 aca4z3,1,"I highly doubt that. The surface of venus is at a temperature that no complex organic compound can survive - any organic material there will just be turned into charcoal.
 
-If we want to terraform Venus, we'll have to brute-force it - use big sunshades to cool the planet until all the CO2 condenses out of the atmosphere, ship that off to ""somewhere else"", ship in a bunch of water from comets, and then we can think of putting life there and making Venus truly into Earth's twin.",0,,,6,science
-aca4z3,1,"We'll have to do most of the work ourselves though, we can't just put plants on Venus and expect them to terraform it after a few decades. Though, plants are hugely important in helping to sustain the environment.",0,,,7,science
+If we want to terraform Venus, we'll have to brute-force it - use big sunshades to cool the planet until all the CO2 condenses out of the atmosphere, ship that off to ""somewhere else"", ship in a bunch of water from comets, and then we can think of putting life there and making Venus truly into Earth's twin.",0,,,7,science
+aca4z3,1,"We'll have to do most of the work ourselves though, we can't just put plants on Venus and expect them to terraform it after a few decades. Though, plants are hugely important in helping to sustain the environment.",0,,,8,science
 aca4z3,2,"> We'll have to do most of the work ourselves though, we can't just put plants on Venus and expect them to terraform it after a few decades.
 
-Especially considering that the surface of Venus is, uhh, a bit warm.",0,,,39,science
-aca4z3,3,"But that's because there is so much sun, and plants eat sun.",0,,,20,science
-aca4z3,4,"No, it's because too much CO_2, and too much atmosphere in general.",0,,,9,science
-aca4z3,5,Well plants eat atmosphere too. Win win.,0,,,22,science
+Especially considering that the surface of Venus is, uhh, a bit warm.",0,,,38,science
+aca4z3,3,"But that's because there is so much sun, and plants eat sun.",0,,,19,science
+aca4z3,4,"No, it's because too much CO_2, and too much atmosphere in general.",0,,,7,science
+aca4z3,5,Well plants eat atmosphere too. Win win.,0,,,23,science
 aca4z3,6,"Except the CO2 has gotten so out of hand on Venus that it's inhospitable to life as we know it.  
 
 Fun Venus fact:
@@ -500,25 +500,25 @@ So 90 atmospheres of pressure at ground level, 97% CO2, absence of necessary ele
 So it's unlikely...  ",0,,,15,science
 aca4z3,7,">overall CO2 by mass on both planets are about the same.
 
-I did not know this! This completely changes my view of Venus, and sightly of Earth as well",0,,,5,science
+I did not know this! This completely changes my view of Venus, and sightly of Earth as well",0,,,4,science
 aca4z3,6,"Thing is Mars has too little atmosphere, so why not  patrickpushingstuff.jpg?",0,,,2,science
 aca4z3,3,And that there is very little hydrogen on it ,0,,,2,science
-aca4z3,2,Aerosol algae is the solution. We still have to vent most of its atmosphere into space though.,0,,,5,science
+aca4z3,2,Aerosol algae is the solution. We still have to vent most of its atmosphere into space though.,0,,,6,science
 aca4z3,3,Get the aerosol algae to somehow poop out chunks of solid graphite or extrude out carbon fibre. ,0,,,7,science
-aca4z3,0,Is this an example of GMOs?,0,,,21,science
-aca4z3,1,yes ,0,,,28,science
-aca4z3,2,GMOs for the win!,0,,,22,science
-aca4z3,1,"Too bad it’s gonna cause a mass scare,because people hear “GMO” and automatically switch to “bad”",0,,,5,science
-aca4z3,0,"C3 types plants only, for example, corn isn't concerned",0,,,17,science
+aca4z3,0,Is this an example of GMOs?,0,,,20,science
+aca4z3,1,yes ,0,,,27,science
+aca4z3,2,GMOs for the win!,0,,,23,science
+aca4z3,1,"Too bad it’s gonna cause a mass scare,because people hear “GMO” and automatically switch to “bad”",0,,,4,science
+aca4z3,0,"C3 types plants only, for example, corn isn't concerned",0,,,18,science
 aca4z3,1,C4 plants are generally more efficient because they concentrate CO2. ,0,,,8,science
-aca4z3,0,GMO. GMO is good for the planet and people.,0,,,4,science
-aca4z3,0,PM me if you want the full PDF,0,,,4,science
-aca4z3,0,"Ehh.. I wouldn't call it a glitch. When the first terrestrial plants evolved during the silurian, the composition of our atmosphere was very different from what it is today. There was more co2 and less oxygen present, making photorespiration a lot less relevant. Evolution can't predict the future. Instead of correcting this ""glitch"" we're actually just helping the plants to adapt to the changed atmosphere.",0,,,5,science
+aca4z3,0,GMO. GMO is good for the planet and people.,0,,,5,science
+aca4z3,0,PM me if you want the full PDF,0,,,3,science
+aca4z3,0,"Ehh.. I wouldn't call it a glitch. When the first terrestrial plants evolved during the silurian, the composition of our atmosphere was very different from what it is today. There was more co2 and less oxygen present, making photorespiration a lot less relevant. Evolution can't predict the future. Instead of correcting this ""glitch"" we're actually just helping the plants to adapt to the changed atmosphere.",0,,,4,science
 aca4z3,0,"That ‘glitch’ keeps plants from suicidally depleting the nutrients out of the soil faster than the soil can replenish itself.
 
 In the natural world, there isn’t someone pouring truckloads of ammonium nitrate into the ground.
 
-",0,,,16,science
+",0,,,15,science
 aca4z3,1,"Since Haber solved the ammonia problem, there isn’t a reason in the world to not responsibly pour truckloads of ammonium nitrate into the ground and continue to enjoy the absurd yields that we do today. ",0,,,12,science
 aca4z3,2,"Well said!
 
@@ -527,21 +527,21 @@ aca4z3,1,So we're making assumptions off the environment the plant's live in now
 aca4z3,0,My botany professor said plants in general only use about 10% of the available energy for photosynthesis. It's extremely inefficient. ,0,,,3,science
 aca4z3,0,"One big thing I learned when I was getting my botany degree was, plants actually aren’t that efficient at what they do. In the best case scenario, a plant can perform photosynthesis at about 33% efficiency. Evolution doesn’t result in perfect organisms. It results in organisms that are good enough. Which is a comforting thought when you feel bad about not doing laundry or something. ",0,,,3,science
 aca4z3,0,Cool. Lots of potential. Looking forward to the horizontal gene transfer effects study. Does the alteration regress or select?,0,,,3,science
-aca4z3,0,[removed],0,,,33,science
-aca4z3,1,[removed],0,,,51,science
+aca4z3,0,[removed],0,,,35,science
+aca4z3,1,[removed],0,,,49,science
 aca4z3,2,[removed],0,,,10,science
-aca4z3,2,[removed],0,,,6,science
-aca4z3,1,[removed],0,,,17,science
 aca4z3,2,[removed],0,,,4,science
-aca4z3,3,[removed],0,,,8,science
-aca4z3,1,[removed],0,,,7,science
-aca4z3,1,[removed],0,,,2,science
+aca4z3,1,[removed],0,,,15,science
+aca4z3,2,[removed],0,,,3,science
+aca4z3,3,[removed],0,,,9,science
+aca4z3,1,[removed],0,,,5,science
+aca4z3,1,[removed],0,,,4,science
 aca4z3,0,More productive as in producing more oxygen? I'm trying to skim the article but it's written in a language I do not understand...,0,,,5,science
 aca4z3,1,More productive as in converting more CO2 and energy into usable sugar for the plantthus making them grow faster and more efficient,0,,,10,science
 aca4z3,2,"Awesome, so this is good news for food production and reforestation, for example?",0,,,2,science
 aca4z3,3,Is say it’s more good news for food production in drier climates because it’s usually those that have a problem with photorespiration the most. ,0,,,5,science
 aca4z3,4,"Nice, that’s good news then. Hopefully it’s something that can be adopted widely and quickly. Thanks for the answers :)",0,,,3,science
-aca4z3,3,"Other comments seem to suggest that this modification would cause the plant to deplete soil nutrients too quickly and starve itself.  So if this is true, It would work for farmers who fertilize their crops but probably not reforestation.",0,,,3,science
+aca4z3,3,"Other comments seem to suggest that this modification would cause the plant to deplete soil nutrients too quickly and starve itself.  So if this is true, It would work for farmers who fertilize their crops but probably not reforestation.",0,,,2,science
 aca4z3,0,Fixing rubisco has long been a dream for biochemists. This really is a big deal if it can be spread through many plants.,0,,,4,science
 aca4z3,0,Kinda unrelated question: Why tobacco? Is there some special trait with tobacco that makes it easier to experiment on?,0,,,2,science
 aca4z3,1,It's a model plant species so the tools are better developed and it is easily to transform. Arabidopsis is the fruit fly equivalent on plant sciences and is even easier - you just dip the flowers in a bacterial broth - but it's a tiny little plant that wouldn't be any use for field trials.,0,,,2,science
@@ -557,41 +557,41 @@ aca4z3,0,"And does anybody know why this ""glitch"" evolved? I mean, nature does
  Edit: Turns out my confusion was because of a misuse of the word ""glitch"" in the title. ",0,,,10,science
 aca4z3,1,"Nature does plenty of glitches that are never fixed (ever heard of genetic diseases?).
 
-Evolution doesn't care about *optimal*, only about *good enough*. If it can survive to reproduce, it's *good enough*.",0,,,106,science
-aca4z3,2,"Don't forget about adaptations to rare events, like sickle cell anemia gives some resistance to malaria... ",0,,,24,science
+Evolution doesn't care about *optimal*, only about *good enough*. If it can survive to reproduce, it's *good enough*.",0,,,109,science
+aca4z3,2,"Don't forget about adaptations to rare events, like sickle cell anemia gives some resistance to malaria... ",0,,,20,science
 aca4z3,3,"Or not so rare events - such as more efficient photosynthesis and higher yields may cause depletion of nutrients in the soil or higher water usage? 
 
-Also, is this process similar to CAM photosynthesis that succulents use - except they do not have a faster growth rate than other plants?",0,,,10,science
+Also, is this process similar to CAM photosynthesis that succulents use - except they do not have a faster growth rate than other plants?",0,,,12,science
 aca4z3,3,"Not a rare event at all for populations carrying the trait. That exists because of the potent heterozygote advantage (balancing selection).
 
-If malaria was a rare event then the trait wouldn't exist at all. It obviously employed a strong selective pressure on humans living there.",0,,,6,science
-aca4z3,2,"The term I use in my lectures is ""The least terrible option"" ",0,,,3,science
-aca4z3,2,genetic diseases don't effect entire populations unless they are attached to benefits,0,,,5,science
+If malaria was a rare event then the trait wouldn't exist at all. It obviously employed a strong selective pressure on humans living there.",0,,,4,science
+aca4z3,2,"The term I use in my lectures is ""The least terrible option"" ",0,,,4,science
+aca4z3,2,genetic diseases don't effect entire populations unless they are attached to benefits,0,,,4,science
 aca4z3,3,"They do if the only common ancestors of the entire population had two autosomal recessive genes for a disease, as far as my basic understanding goes. It's just that over time if there are strong negative impacts the population will decline until some kind of other mutation or ecological change provides the necessary variables for the population to rebound.",0,,,7,science
 aca4z3,1,"Nature is aplenty with sub-optimal solutions that just work, for example:
 
->The extreme detour of the recurrent laryngeal nerves, about 4.6 metres (15 ft) in the case of giraffes,[26]:74–75 is cited as evidence of evolution, as opposed to Intelligent Design. The nerve's route would have been direct in the fish-like ancestors of modern tetrapods, traveling from the brain, past the heart, to the gills (as it does in modern fish). Over the course of evolution, as the neck extended and the heart became lower in the body, the laryngeal nerve was caught on the wrong side of the heart. Natural selection gradually lengthened the nerve by tiny increments to accommodate, resulting in the circuitous route now observed.[27]:360–362",0,,,29,science
-aca4z3,1,"If you want a clear example of how your premise isn't truly accurate, look up the [laryngeal nerve of a giraffe](https://rationalwiki.org/wiki/Laryngeal_nerve). It's extremely inefficient from a design perspective, and offers no benefit the way it's routed in the body, but... it worked. And giraffes with that trait survived. This isn't some recent fluke. It's been there for millions of years. And something like that actually being ""fixed"" would require a remarkable stroke of luck because natural selection has no foresight or design element and mutations are random. So things that just ""work"" even though they aren't necessarily the best possible design absolutely proliferate in nature. ",0,,,16,science
+>The extreme detour of the recurrent laryngeal nerves, about 4.6 metres (15 ft) in the case of giraffes,[26]:74–75 is cited as evidence of evolution, as opposed to Intelligent Design. The nerve's route would have been direct in the fish-like ancestors of modern tetrapods, traveling from the brain, past the heart, to the gills (as it does in modern fish). Over the course of evolution, as the neck extended and the heart became lower in the body, the laryngeal nerve was caught on the wrong side of the heart. Natural selection gradually lengthened the nerve by tiny increments to accommodate, resulting in the circuitous route now observed.[27]:360–362",0,,,28,science
+aca4z3,1,"If you want a clear example of how your premise isn't truly accurate, look up the [laryngeal nerve of a giraffe](https://rationalwiki.org/wiki/Laryngeal_nerve). It's extremely inefficient from a design perspective, and offers no benefit the way it's routed in the body, but... it worked. And giraffes with that trait survived. This isn't some recent fluke. It's been there for millions of years. And something like that actually being ""fixed"" would require a remarkable stroke of luck because natural selection has no foresight or design element and mutations are random. So things that just ""work"" even though they aren't necessarily the best possible design absolutely proliferate in nature. ",0,,,15,science
 aca4z3,1,"It says it right in the article. Photorespiration is used to metabolize otherwise toxic byproducts of photosynthesis into useful substances for the plant. It is merely inefficient in how it does so. 
 
 Calling it a 'glitch' is a misnomer, at the very least. It was a necessary evolutionary step to prevent the plant from killing itself off. It has just never needed to be any more efficient than it was. ",0,,,5,science
 aca4z3,2,"> It has just never needed to be any more efficient than it was.
 
-But that is not how it works, as I understand it. If a plant with a mutation was able to grow 40% better in nature, it would set more seeds, and the mutation would propagate. ""Good enough"" is relative to its competitors.",0,,,7,science
+But that is not how it works, as I understand it. If a plant with a mutation was able to grow 40% better in nature, it would set more seeds, and the mutation would propagate. ""Good enough"" is relative to its competitors.",0,,,8,science
 aca4z3,1,"Nature doesn't fix glitches, don't know where you got that idea.
 
-It jury-rigs organisms and then just builds on that. You're implying some sort of intention.",0,,,11,science
+It jury-rigs organisms and then just builds on that. You're implying some sort of intention.",0,,,13,science
 aca4z3,1,"In basic terms, too much sunlight/photosynthesis is harmful to many plant cells because it over-excites some molecules (bad), and so the plant chooses to convert the photosynthesised sugars BACK into carbon dioxide, which can mop up the over-excited harmful molecules. It tends to happen when sunlight is high anyway (hence photosynthesis is enough to satisfy the plant), so it’s easy to see why the plant wants to get rid of those harmful molecules despite meaning a bit less food. 
 
 
 This is a very basic explanation and I’m sure I’m wrong somewhere, but it should do",0,,,2,science
-aca4z3,1,Look up the laryngeal nerve in giraffes,0,,,1,science
+aca4z3,1,Look up the laryngeal nerve in giraffes,0,,,3,science
 aca4z3,1,"Nature only does glitches. What other the ""a glitch"" would you call a Platypus? ",0,,,2,science
 aca4z3,0,"That “glitch” is probably there to make sure plants don’t overpopulate. I read somewhere on here, but frustratingly can’t find the article, where plants overpopulated the planet until the changed the chemical composition of the earth’s atmosphere. Or something along those lines. I’m still looking! ",0,,,4,science
 aca4z3,1,[deleted],0,,,3,science
 aca4z3,2,"This. The cause was the evolution of an enzyme called lignin, which at the time was too tough for any microbe to break down. Lignin is also the enzyme responsible for trees being hard, and the end result was that trees would grow (or more specifically, tree-like ferns or proto-trees. A lot of the other features we think of as signature to ""trees"" had yet to develop, such as a hardened bark, waxy leaves, or pinecones), die, and their bodies would be left on the ground, largely incapable of rotting. As the primary component by mass of such foliage was carbon, the effect of such plants en masse was to convert a much higher than average portion of the atmosphere to oxygen (from carbon dioxide) than has ever before or since been seen (for reference, oxygen peaked at around 35-40% of the atmosphere, compared to today's 20%). Oxygen is highly reactive (that's why it's useful for biological & industrial processes alike), and eventually combined with other gases and detritus on the ground (or was sucked into the ocean). Those proto-tree trunks were buried, and became the bulk of fossil fuel stocks we use today (hence the term carboniferous period, initially named after the presence of high carbon-concentration black rocks, coal).
 
-Plants never ""overpopulated"" (it's difficult to find a general use for that term that doesn't impose some kind of bias), they evolved to more efficiently fight off their parasites (yes, herbivores are parasites not predators). This kind of evolution has actually happened twice since then, first with the evolution of flowers (which allows plants to spread much, much faster than they might have otherwise) and more recently with the evolution of grass (which is actually two separate steps, the use of the 25% more efficient C4 photosynthesis, as compared to C3 seen in all non-grasses; and the evolution of silica 'blades' on the cell walls of grasses. These blades shred microorganisms, and make it much more energy intensive to digest grasses (silica is essentially glass). Grasses are so efficient, they destroyed much of the great forests outside of the arctic & antarctic. We're very, very lucky ruminants (cows & such. They use a multichambered stomach which ferments consumed grass to separate the silica from the nutritional elements. It's a highly inefficient process, hence why manure is still so rich in nutrients) evolved, without them we'd still just be apes).",0,,,10,science
+Plants never ""overpopulated"" (it's difficult to find a general use for that term that doesn't impose some kind of bias), they evolved to more efficiently fight off their parasites (yes, herbivores are parasites not predators). This kind of evolution has actually happened twice since then, first with the evolution of flowers (which allows plants to spread much, much faster than they might have otherwise) and more recently with the evolution of grass (which is actually two separate steps, the use of the 25% more efficient C4 photosynthesis, as compared to C3 seen in all non-grasses; and the evolution of silica 'blades' on the cell walls of grasses. These blades shred microorganisms, and make it much more energy intensive to digest grasses (silica is essentially glass). Grasses are so efficient, they destroyed much of the great forests outside of the arctic & antarctic. We're very, very lucky ruminants (cows & such. They use a multichambered stomach which ferments consumed grass to separate the silica from the nutritional elements. It's a highly inefficient process, hence why manure is still so rich in nutrients) evolved, without them we'd still just be apes).",0,,,9,science
 aca4z3,2,The article I was reading also had dragonflies that were measured in multiples of feet instead of inches like they are now. ,0,,,2,science
 aca4z3,2,"I found reference to it! It’s called the Great Oxygenation Event. The Cyanobacteria that preceded plant life caused it. Perhaps this is why plants seem to have a built in limit for reproducing. I don’t actually know, it just seems too lucky that plant life appears to have a yield limit. There has to be a reason for this considering most species on this planet do everything they can to create as many successful offspring as they can. The more basic an organism they are, the more offspring they are likely to have.",0,,,2,science
 aca4z3,1,[deleted],0,,,5,science
@@ -605,7 +605,7 @@ aca4z3,0,God seems like a shitty game dev players had to patch,0,,,2,science
 aca4z3,0,"This is the kind of scientific advancement that I hope to see more of in the future, truly exciting possibilities on the horizon.",0,,,2,science
 aca4z3,0,GeNeTiCaLlY mOdIfIeD fOoD iS bAd!!!,0,,,2,science
 aca4z3,0,Can we engineer them to take in more CO2 and release more oxygen?,0,,,1,science
-aca4z3,1,We don’t need plants to release more oxygen we will never plant enough plants to make much of a difference we are doing this to improve crop yield to reduce starvation and land use,0,,,5,science
+aca4z3,1,We don’t need plants to release more oxygen we will never plant enough plants to make much of a difference we are doing this to improve crop yield to reduce starvation and land use,0,,,4,science
 aca4z3,0,I wonder how this affects the soil these plants are grown in.,0,,,1,science
 aca4z3,0,Why does this feel like putting bananas into a paper bag to get them to ripen quicker.,0,,,1,science
 aca4z3,0,"I think something that is often misunderstood in natural selection and evolution is:
@@ -627,7 +627,7 @@ aca4z3,0,"If this is patented will that prevent someone else from figuring it ou
 aca4z3,0,"I imagine there's an evolutionary purpose for this ""glitch"" which will become apparent sometime after they ""fix"" it.",0,,,1,science
 aca4z3,0,This is why not all GMOs are bad ,0,,,1,science
 aca4z3,1,"“This is why GMOs are not bad”
--fixed that for you. ",0,,,4,science
+-fixed that for you. ",0,,,3,science
 aca4z3,0,"So in a place that gets 40% the sunlight, like Mars, does that mean you been grow the crops there under natural light and get the same yeilds as un-modified plants on Earth?",0,,,1,science
 aca4z3,0,Does this mean farmers will use less water and fertilizer for the same yield or does it mean plants grow just quicker/bigger or is it a bit of both. ,0,,,1,science
 aca4z3,0,"What do you mean glitch, wouldn't evolution take care of such things?",0,,,1,science

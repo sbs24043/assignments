@@ -1,0 +1,48 @@
+post_id,level,body,gilded,likes,num_reports,score,subreddit
+w6cm3u,0,"Welcome to r/science! This is a heavily moderated subreddit in order to keep the discussion on science. However, we recognize that many people want to discuss how they feel the research relates to their own personal lives, so to give people a space to do that, **personal anecdotes are now allowed as responses to this comment**. Any anecdotal comments elsewhere in the discussion will continue to be removed and our [normal comment rules]( https://www.reddit.com/r/science/wiki/rules#wiki_comment_rules) still apply to other comments.
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/science) if you have any questions or concerns.*",0,,,1,science
+w6cm3u,0,"say no to GMO !!!11
+
+literally saving the world from starvation.",0,,,37,science
+w6cm3u,1,I’d be interest on how the soil is getting after many years of using this rice. Is the degradation happening faster because it will take less time cusume the same anount of nutriment,0,,,13,science
+w6cm3u,2,"Looks like it picks up nitrogen quicker and transfers it throughout the plant more quickly. So from what I can tell, it's depleting soil of nutrients more quickly to the benefit of larger yields.
+
+Regular rice takes 120 days versus common legumes being 60-80 days. Assuming they can cut down growth time, it means rice can be cycled with nitrogen fixing plants more often; the rest is mostly dependent on geography and location, I believe. Otherwise, its consuming the nitrogen needed for the next crop in rotation, using in favor of those modified rice crop gains.",0,,,10,science
+w6cm3u,3,What nitrogen-fixing plants are used for rice paddies? I have no idea.,0,,,6,science
+w6cm3u,4,Shockingly fish are a really good at eating bugs and pooping nitrogen.,0,,,8,science
+w6cm3u,2,"All the more reason to rotate crops, one main point of GMO is to improve yields, which reduces need to constantly hit the grain train.",0,,,12,science
+w6cm3u,3,Rice is typically grown in conditions/locations not suited for other crops (submerged).,0,,,5,science
+w6cm3u,4,"Rice is grown in an extremely wide range of circumstances, from 1 meter deep flooded fields to what is essentially dry conditions. The primary advantage of flooded fields is an environmental adaptation that kills most competitive weeds although now many have adapted to flooded fields too.
+
+Fish and crayfish being raised in flooded rice fields are fairly common in many parts of the world, or used to be prior to the introduction of industrial agriculture practices.",0,,,1,science
+w6cm3u,0,"Paper: https://www.science.org/doi/10.1126/science.abi8455
+
+A transcriptional regulator that boosts grain yields and shortens the growth duration of rice
+
+>Overexpression of OsDREB1C not only boosts grain yields but also confers higher NUE and early flowering. Our work demonstrates that by genetically modulating the expression of a single transcriptional regulator gene, substantial yield increases can be achieved while the growth duration of the crop is shortened. The existing natural allelic variation in OsDREB1C, the highly conserved function of the transcription factor in seed plants, and the ease with which its expression can be altered by genetic engineering suggest that this gene could be the target of future crop improvement strategies toward more efficient and more sustainable food production.",0,,,6,science
+w6cm3u,1,How much shorter does the growth cycle get? Is it shortened enough to potentially fit in another round of rice in the yearly production cycle?,0,,,5,science
+w6cm3u,2,"The paper data says: 
+> Additionally, the OsDREB1C-OE plants flowered 13 to 19 days earlier and accumulated higher biomass at the heading stage than WT plants under long-day conditions.
+
+The commentary piece notes:
+>The modified plants also flowered sooner, which gave them more time to devote to making grain. Faster flowering can offer other advantages, depending on the environment, for example allowing farmers to grow more crops per season or to harvest crops before damaging summer heat sets in. However, although the modified Nipponbare flowered up to 19 days earlier, the widely farmed variety of rice bloomed just 2 days earlier. 
+
+Nipponbare was the greenhouse/research variety. So it seems to vary. But maybe that will lead to more progress anyway.",0,,,8,science
+w6cm3u,3,"120 to \~100? It might let rotation happen a month or so sooner.
+
+Legumes/Soybeans \~ 60-80 days, iirc.",0,,,1,science
+w6cm3u,0,My concern is soil quality and how it affects it.,0,,,2,science
+w6cm3u,0,The biggest concern I have is how this affects temperature sensitivity. Rice is currently one of the more resilient crops to global warming and given how many people live in SE Asia I wouldn't want to fk with that without knowing the outcome first,0,,,1,science
+w6cm3u,1,"> Faster flowering can offer other advantages, depending on the environment, for example allowing farmers to grow more crops per season or to harvest crops before damaging summer heat sets in. 
+
+That might be one of the benefits.",0,,,7,science
+w6cm3u,2,"It depends more on precipitation and temperature swings (imo), but it's possible",0,,,0,science
+w6cm3u,0,What are the side effects? What mutations does it cause?,0,,,-6,science
+w6cm3u,1,"Are you asking about mutations in the crop or in organisms that eat the crop?
+
+The accelerated growth rate could induce ROS driven DNA damage in the plant, but if they are only intended for one life cycle, then maybe that isn’t an issue. ( I have no idea how rice works as a crop).",0,,,5,science
+w6cm3u,0,[removed],0,,,-2,science
+w6cm3u,1,"I remember talking to a researcher at a poster once, about optimizing a promoter for expression. It was clear that some very simple tweaks made it crazy higher expression, but it didn't do that in the wild. And that's fine for an organism in the wild--that could take energy from other processes and it makes sense. But when you are using an organism as a factory for something, that is different.
+
+But when you are talking about food crops, making more food with the same exact genes, just turning up the volume, isn't messing with the wild. They are already crop plants. It might actually reduce the need for additional farmland and have benefits to the wild systems.",0,,,6,science

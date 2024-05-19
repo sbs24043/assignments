@@ -1,0 +1,58 @@
+post_id,level,body,gilded,likes,num_reports,score,subreddit
+7oy2om,0,Would like to thank you for doing this.. What kind of plants are you using? Are there any plants that are especially efficient at this? ,0,,,2,science
+7oy2om,1,"There are a few considerations involved but the one we have focused on is that different plant species respond differently to elevated CO2 levels, depending on the particular chemical pathway for photosynthesis that they use. C3-type plants respond most favourably. That category includes the majority of fruits and leafy vegetables, which conveniently happen to be the most popular crops to grow in greenhouses anyway. They also tend to be more nutritious and healthy than the C4-type grain crops that predominate the agricultural sector, so we are hoping that a side-effect of this technology will be to improve diets.  ",0,,,3,science
+7oy2om,0,"This AMA is being permanently archived by *The Winnower*, a publishing platform that offers traditional scholarly publishing tools to traditional *and* non-traditional scholarly outputs—because scholarly communication doesn’t just happen in journals.
+
+To cite this AMA please use: [https://doi.org/10.15200/winn.151541.15875](https://www.thewinnower.com/papers/8095-science-ama-series-we-are-researchers-from-the-university-of-south-africa-and-we-re-putting-greenhouse-gases-directly-into-actual-greenhouses-we-thereby-capture-carbon-emissions-reduce-water-consumption-and-increase-crop-yield-ask-us-anything)
+
+You can learn more and start contributing at [*authorea.com*](https://authorea.com)
+",0,,,2,science
+7oy2om,0,"Science AMAs are posted early to give readers a chance to ask questions and vote on the questions of others before the AMA starts.
+ 
+
+Guests of /r/science have volunteered to answer questions; please treat them with due respect. Comment rules will be strictly enforced, and uncivil or rude behavior will result in a loss of privileges in /r/science.
+
+
+If you have scientific expertise, please verify this with our moderators by getting your account flaired with the appropriate title.  Instructions for obtaining flair are here: [reddit Science Flair Instructions](http://www.reddit.com/r/science/wiki/flair) (Flair is automatically synced with /r/EverythingScience as well.)
+",0,,,1,science
+7oy2om,0,"Extremely interesting topic.
+
+To give us noobs an idea of the scale of the problem, let's say we want to capture the CO2 of a natural gas power plant (let's suppose a 500 electric MW one). How much land surface should we devote to greenhouses to capture most part of the output? If we feed directly the flue to the plants, what can we get? Just wood that we would then store somewhere to achieve carbon storage, or could we even feed the flue to some ""good"" crops (food plants, feed for livestock etc...). I'm thinking about pollution problems from other components of the flue gases on top of CO2",0,,,1,science
+7oy2om,1,"To give you a rough idea, [algae biofuel production](https://energy.gov/sites/prod/files/2017/05/f34/algae_behnke_135220.pdf) is on the order of 11 grams/m^2 per day.  The oil product is about 75% carbon.  A 500 MW combined-cycle natural gas plant is 62% efficiencient, and the combustion generates 55 MJ/kg.
+
+The plant therefore consumes 14.66 kg/s of methane, containing 11 kg/s of carbon.  Daily that is 950,000 kg.  You then need 86.375 km^2 of algae tanks to absorb the CO2 produced.  Food plants are several times less productive than algae, and would require correspondingly more area to absorb the CO2.",0,,,3,science
+7oy2om,1,"There is tremendous variation involved in yield per square meter, depending on factors like crop species, light levels, fertilizer effectiveness and others. However, we have done initial scoping around a fairly standard average crop yield for cabbages and arrived at a figure of around 3 hectares per 1MW of power production capacity, growing something like 20 tons per day of plant matter.  
+
+Which is pretty freaking enormous. If we were to capture all the flue gases just from gas-fired power stations with this method, the resulting food production would be on the order of millions of tons per day, which is enough to outstrip all unmet food demand.     
+
+So we tend to view this approach as primarily a means of saving water and secondarily a means of boosting agricultural output, with carbon fixation as a bonus. One possibility which would change that equation would be using these greenhouses primarily as nurseries, growing sapling trees past the point where they need loads of water and then planting them elsewhere. I personally (Neil) harbour a pet image of rolling nurseries on wheels, growing a grove of saplings from seed at an accelerated pace and then rolling along to start again further along.   
+
+As to your second question; as long as the flue gas doesn't have anything nasty, then there's no issue with using it with food crops. Natural gas tends to burn very cleanly so that is where we've focused. ",0,,,1,science
+7oy2om,0,Hi there! I'm wondering about your membrane technique. Is it an active system (where you need to pump air through it) or just a passive filter? Can you run down for us how a typical setup would work/how much it would cost?,0,,,1,science
+7oy2om,1,"It has to be an active system, with a decent pressure difference, in order to achieve a good enough separation. If the degree of separation is small then you still need huge volumes of air, except that now you have to get those volumes through a membrane on the way.  
+
+The most obvious approach is to have an inorganic silica membrane exposed to open air on the retentate side, with the permeate side pulled through a vacuum pump before being discharged into the greenhouse.  
+
+One of our collaborators, professor Maria Fernandez of the University of Alicante, has joined us to examine different configurations including recycle streams and water recovery through condensation, so it's very much still up in the air regarding the specifics of a setup.  
+
+A standard rule of thumb for membrane separation is that your compressor is half your capital cost and 90% of your operating cost, so once you've figured your flow rate you can estimate your costs pretty effectively using benchmark costings for compressors.  ",0,,,2,science
+7oy2om,2,"Very interesting. Could you share some data regarding how do plants react to different CO2 levels? What's an ideal level? 10% more than normal atmospheric concentration? twice? 10 times more? 
+
+Probably with membranes you can't achieve orders of magnitude more. But with flue gas I guess you could, if you wished. Or does this depend on the kind of plant?",0,,,1,science
+7oy2om,3,"The optimal level for growth is fairly consistent across plant species, at about 1000 parts per million.   
+
+There are membrane materials, mostly developed for carbon capture, that have remarkably higher selectivity for carbon dioxide over air, some in excess of 500 to 1 so it is possible to go very high in terms of inlet composition which in turn makes it possible to maintain an optimal composition throughout the volume. ",0,,,2,science
+7oy2om,0,[removed],0,,,1,science
+7oy2om,1,"That's a bit too serious a question for this forum, isn't it? (but yes)",0,,,3,science
+7oy2om,0,"What would be the mean percentage reduction in water consumption? I currently live in an area quite heavily affected by drought, and implementation of this technology would definitely mitigate the problem in the long term.
+
+Side note: I did some googling and found out that you're the author of a novel?",0,,,1,science
+7oy2om,1,"The potential savings are tricky to nail down, because the amount of evaporation is directly dependent on the external conditions. If the air outside is cool and dry, then as much as 99% of water usage can go to evaporation even in a well-managed greenhouse. But the savings can't ever go as high as 99%, because some amount of evaporation is essential to plant life - plants use evapo-transpiration to carry nutrients out of the soil.  
+
+So while the models predict that in many circumstances the water usage can be reduced by a factor of ten or more, we tend to make more conservative estimates. I can state confidently, however, that in suitable conditions this method will cut water usage in half. ",0,,,1,science
+7oy2om,0,"In what medium do you grow, have you thought about combining other growth influencing factors, kratky's hydroponics for example?
+
+",0,,,1,science
+7oy2om,1,"In terms of growing methods, there are loads of experts out there who are better at it than we are so we don't consider our actual planting setup to be of too much interest. We're focusing on developing process control to manage temperature, CO2 levels and so on and we're just growing as a necessary part of that process rather than trying to find an optimal. So we're just using peat as a growing medium rather than doing anything fancy, to make our experiments as replicable as possible.   
+
+I will note, though, that once you've taken the step of enriching CO2 and tightly controlling the environment it tends to follow that you might as well do everything you can come up with to maximize output per square meter. So our aim is to build the enrichment units and the process control modules, and sell those to growers.",0,,,1,science

@@ -1,0 +1,172 @@
+post_id,level,body,gilded,likes,num_reports,score,subreddit
+1clj88,0,"I considered using this in my greenhouse to make the plants grow faster, but googling how to make the gas at home led me to explanations of how to commit 'detergent suicide'. Doesn't seem like a good idea anymore.",0,,,31,science
+1clj88,1,"haha, I had the same thought at first, but then quickly remembered how many people died in the oilfields I've worked in from H2S. I'm just gunna stick with just adding some extra CO2.",0,,,14,science
+1clj88,2,"I'm interested to hear more--not the gory details, just the dangers of mining related to gases, toxicity etc..",0,,,3,science
+1clj88,3,"I'll give you one example of a particularly tragic day.  I was working in the Buhasa oil and gas field in Abu Dhabi (Dubai's big brother).  3 pipeline workers hopped into a small ditch to investigate a possible leak.  Unfortunately, there was a lot of H2S gas pooled up in that ditch.  H2S smells horrific (rotten eggs) -- but only up to a point (something like 50 or 100 ppm), and then it kills your sense of smell, misleading you to think the problem is gone. H2S toxicity is measured in parts per million, and these poor fellows inhaled one breath of a few thousand ppm and were instantly knocked unconscious and quickly died.",0,,,15,science
+1clj88,4,Is it worth using this stuff then? I wouldn't think it would be worth the risk. Is the concentration (capable of killing) the same or higher or lower as what they are testing on these plants?,0,,,1,science
+1clj88,5,">At high concentrations – levels of 30 to 100 parts per million in water – hydrogen sulfide can be lethal to humans. At one part per million it emits a telltale rotten-egg smell. **Dooley used a concentration of 1 part per billion or less** to water seeds of peas, beans and wheat on a weekly basis. Treating the seeds less often reduced the effect, and watering more often typically killed them.",0,,,1,science
+1clj88,6,Oh okay. Thanks for clarification.,0,,,1,science
+1clj88,5,"It sounds like he was using concentration 10,000x below lethal levels.  So with the exception of transporting pure H2S around and risking a spill, the risk is very low.",0,,,1,science
+1clj88,6,Until they develop Buckminsterfullerene based carbon molecules for gas transportation.,0,,,2,science
+1clj88,1,"It's very dangerous. First it knocks out your sense of smell. Then it knocks you out. Then it kills you.
+
+Also, smells pretty bad.",0,,,6,science
+1clj88,1,"Not exact measures by any means but its produced by plain old anaerobic decomposition. Leave a bucket with a bit of organic matter in it, filled with water and a month or so later it's pretty funky foul with the eau de swamp smell. 
+
+At one part per billion, it doesn't seem like you would need all that much added to an irrigation system. Just a dash of an anaerobic compost tea.
+
+EDIT: Not that I'm paying for lab tests, but if you can smell it at 1 part in a million, kills you at 30 parts per million, and it's active at 1 part in a billion, then a bucket of home brew, swamp water must be a few parts per million (verified by the precise ""because it's stinky but I'm not dead"" test) and a tablespoon or less in five gallons of water should give you something in the range of an effective dose. As a long time gardner I can't imagine that concentration of stagnent bucket water would be in any way damaging to the plants.
+
+Now if the bucket is 1000 gallons and your greenhouse is poorly ventilated, you're on your own and I absolve myself of any legal responsibility when you go to sniff it.",0,,,4,science
+1clj88,1,Gibberelic acid.  Plant growth hormone with a very similar effect... not nearly as likely to kill you.,0,,,2,science
+1clj88,1,There is an old practice of putting boiled egg shells at the root of plants to make them grow healthier. Looks like what this research found is essentially that. May be you can try that and see.,0,,,2,science
+1clj88,2,"Egg shells from chickens are composed of 95-97% calcium carbonate, in a protein matrix (proteins are mostly nitrogen IIRC). 
+
+So there would not be any hydrogen sulfide there, just calcium, which plants do need.   
+
+The 'rotten egg smell' comes from bacteria degrading the sulfur in the yolk, so boiled egg shells should have nothing do to with generating hydrogen sulfide -- the boiling would probably help remove most of any remaining organic matter. ",0,,,2,science
+1clj88,3,"Good point. But from what I have seen you don't need to crush the shell or anything and it doesn't disintegrate over time. Since we are talking about one part per billion, i think that hydrogen sulfide might be the one helping. Boiled egg if boiled longer do form hydrogen sulfide but reacts and turns to iron sulfide. http://chemistry.about.com/b/2013/03/30/why-egg-yolks-turn-green.htm",0,,,1,science
+1clj88,0,[deleted],0,,,24,science
+1clj88,1,The same effect has been shown in basalt dust (attributed to blow off from mining it).,0,,,6,science
+1clj88,1,[deleted],0,,,5,science
+1clj88,2,"Tastes like you bucked someones futthole with a book of burning matches*
+
+FTFY",0,,,1,science
+1clj88,3,[deleted],0,,,3,science
+1clj88,4,Telling of what exactly?,0,,,3,science
+1clj88,1,"Yea, you don't want to enter an area containing H2S. It will knock you unconscious and kill you.
+
+http://en.wikipedia.org/wiki/Hydrogen_sulfide#Toxicity
+",0,,,2,science
+1clj88,1,Growth difference could be from subterranean heat increasing the growing season by a few weeks on each end.,0,,,2,science
+1clj88,0,"1 ppb?
+
+That is an insanely low application rate
+
+And if you use less it doesn't work, and if you use more you kill the plants
+
+So basically this needs to be undertaken very precisely by people who know what the hell they're doing
+
+Also, wonder if anybody knows this is even legal to use on large-scale agriculture at the moment?",0,,,18,science
+1clj88,1,I wonder if NASA will look into this for hydroponics on long-distance spacecraft.,0,,,6,science
+1clj88,2,"Seems not worth the tradeoff, at least to me. Chances are it works just fine, but if something gets screwed up, you've got a very dead crew very quickly, who had no idea they were about to be dead. ",0,,,2,science
+1clj88,3,">who had no idea they were about to be dead
+
+How so?",0,,,1,science
+1clj88,4,"Hydrogen sulfide kills your sense of smell at very low concentrations. Look up, but do not attempt, ""detergent suicide."" Lots of people end up dead responding to them, because they don't realize that there's a risk, on account of not being able to smell it. ",0,,,1,science
+1clj88,5,They used just 1ppb concentration.,0,,,1,science
+1clj88,6,And? I'm not talking about when everything goes right. A leak would be bad. ,0,,,1,science
+1clj88,5,Does this mean I should fart *more* in order to make the room smell better?  I have a feeling the space inhabitants will provide ample H2S of their own.,0,,,1,science
+1clj88,2,I would hope so. ,0,,,1,science
+1clj88,1,sounds like something monsanto could handle,0,,,12,science
+1clj88,1,"I'm guessing that's why the article suggested application like alge for bio-fule usage. In operations like that it the input stock could be easily controlled.
+
+I'm sure it is not legal to use in agriculture for because of its extreme toxic effects on the human body. I am not sure if studies have been done on feedstock and plants for consumption, but they would have to be done before it was allowed (ok, I really hope this is true or I'll even less faith in the FDA).",0,,,2,science
+1clj88,0,[deleted],0,,,15,science
+1clj88,0,"Huh, I'm working on a relatively biocompatible compound that just so happens to store large quantities of H2S.
+
+BRB, going to patent office...",0,,,11,science
+1clj88,1,Please actually do this.,0,,,8,science
+1clj88,0,"Perhaps more important than the potential for the use of hydrogen sulfide itself is the potential for us to understand the mechanism behind this phenomenon. If there's some sort of receptor involved, we could probably develop a fertilizer which is much more effective and perhaps safer to use.",0,,,6,science
+1clj88,0,does this change the plant chemistry? Will there be a higher concentration of H2S inside some plants over long periods? ,0,,,5,science
+1clj88,1,"I don't see how it would.  The concentrate levels are incredibly low, and to Sulfur is already a secondary/micronutrient nutrient in plant ""diets"" so it shouldn't ""hurt"" them.
+
+Also, that assumes that the plant can break the H2S bonds, which may not be the case.  It looks like this is just a metabolic response to a chemical that is found in mass extinctions, and isn't necessarily absorbed, so much as it is ""sensed""
+
+Reading up on it (http://en.wikipedia.org/wiki/Hydrogen_sulfide) shows that even in humans it is used in signaling similarly to what the article is talking about.  Very interesting, I wonder how much it would cost to ""fertilize"" with this at scale.",0,,,2,science
+1clj88,0,[removed],0,,,10,science
+1clj88,1,^ Reasons I don't want this around my food.,0,,,2,science
+1clj88,2,[removed],0,,,1,science
+1clj88,3,"...and what?
+
+Edit: no longer relevant, he ninja edited out the bit I was referring to. ",0,,,1,science
+1clj88,4,He was not one of the handful of people.,0,,,1,science
+1clj88,0,"BREAKING NEWS: Hydrogen sulfide orders skyrocket in Washington, Colorado",0,,,8,science
+1clj88,1,"no shit.  I thought about this as well.  
+However, as an aspiring chemist, I hope the people in charge of those grow-ops don't actually seize this idea.
+  
+Mind-altering substance + deadly chemical substance = bad times",0,,,9,science
+1clj88,2,"Oh, but this is how a [10] is formed! Or a [-10], both are equally likely.",0,,,1,science
+1clj88,3,something something Schrodinger's cat,0,,,1,science
+1clj88,0,"Are there other methods that do this?
+
+Will.they stack? 
+
+Cutting even 2 or 3 days from a hot house turnover can be a huge benefit, but I'm wondering if this is just another method of fertilizer delivery.",0,,,2,science
+1clj88,0,Except corn.,0,,,2,science
+1clj88,0,Can i buy this somewhere online for my garden or would I end up on a government watch list?,0,,,2,science
+1clj88,1,"Absolutely!  This isn't some big secret.  My neighbor just got done fertilizing their sweet corn soil with Sulfur, all 80+ acres... it's a bit stinky for a day or so.  They've been doing that since before I existed.  Couple months, sweet delicious corn on the cob... yummy!
+
+I know some people use Hydrogen Sulfide, but we prefer Sulfur Dioxide (90% SO2 / 10% bentonite to keep if from blowing all over the place) You can definitely buy it online.  My neighbor used to sell it before they got out of that business.  In small amounts it can come as pure sulfur (ground yellow powder), or mixed with something into pellets (like bentonite). Just make sure it says 0/0/0 for the nutrient content so you don't get it mixed with any nutrients if it comes as a pellet.
+
+Also, you can get it in larger quantities, like 50lb bags, from any CoOp or big box.  Honestly, this isn't really news to me.  Maybe they just discovered it in whatever city this research was done?  Personally, I think it it aids the NTP cycle, because when we treat with SO2 we also add extra Nitrogen... basically, we've found plants suck up the nitrogen when grown in sulfur treated soil.  Our local exchange even gives the recommended sulfur amount along with nutrient recommendations when you ask for a basic test.  It not only lowers Ph, but for whatever reason, plants do better, at least the plants around here.  Be careful though, you don't want to turn your soil into acid.  Make sure you mix it in good, we have a big cultivator for that but obviously a small garden should still be tilled before plating.",0,,,2,science
+1clj88,2,"Wow ty for the great reply, we'll definitely try it this year. Our garden is only about an acre but we put a lot of hard work into it.",0,,,1,science
+1clj88,0,"Someone I know worked as a agricultural chemist in Kenya, back when the British Empire was still a thing. I remember him saying that there's a theory that high levels of sulphur pollution, associated with burning unrefined coal in industrial processes, had increased sulphur levels in the soil in developed countries, and seriously increased crop yields. He was recommending that Kenya heavily supplement its soil with sulphur. ",0,,,2,science
+1clj88,0,I dunno about in water but in air h2s is not deadly to humans until 400+ ppm (depending on body mass etc),0,,,3,science
+1clj88,1,Note that ppm/ppb in air and ppm/ppb in water are completely different units. They aren't comparable. At all.,0,,,2,science
+1clj88,2,I thought it might be but I was not sure. ,0,,,2,science
+1clj88,2,Considering that PPM/PPB are ratios? I'd like to see a Citation for that,0,,,-1,science
+1clj88,3,"Ppm/ppb in air and other gases is almost always a volume/volume ratio. Ppm/ppb in water is usually weight/volume and refers to mg/L or mcg/L (probably not actually technically accurate, but that's how everyone does it).",0,,,3,science
+1clj88,3,"No citation should be needed, it's rather simple. He's referring to the fact that there's much less air than there is water. Unless I'm completely misreading what he typed.",0,,,3,science
+1clj88,4,browb3aten actually gave the explanation I needed,0,,,2,science
+1clj88,3,A million parts of air at standard pressure takes up a much greater volume than a million parts of water. ,0,,,3,science
+1clj88,1,"It might not be deadly, but it's still very unpleasant at much lower concentrations. ",0,,,2,science
+1clj88,0,Isn't fart methane + h2s?,0,,,3,science
+1clj88,0,"Hydrogen sulphide - like carbon monoxide and nitric oxide - has strong physiological activity in animals at very low concentration. In plants, it seems to modulate the other gaseous hormones, ethylene and jasmonate. The effective concentrations are tiny and well within the normal human ""leakage in a closed room"" levels. So an experimental run could be thrown by a lab worker who was prone to H2S releases, either in their breath or flatulence. Indeed, it may lead to screening of glasshouse workers?",0,,,1,science
+1clj88,0,"At 1ppb H2S can hardly be acting as a nutrient. More likely it is a signalling molecule, as it is within our bodies.
+
+Does this not mean that the growth of plants is self-regulated?
+
+The usual assumption is that plants grow as fast as they can and that that is dependent on the availability of nutrients. But think about it: if a plant grows too fast, it will exhaust the nutrients in the soil it is in contact with, threatening not just it's growth but ability to sustain it's life. The amount of nutrients washed to the roots and produced by the biology of the soil is finite. H2S, produced by bacteria & decaying organics, is telling the seedling how much nutrients are likely to be around. Enhancing the H2S tells the plant there's plenty and it stamps down on it's growth accelerator.
+
+This could mean the effect of artificial fertilisers is crippled if it does not elevate H2S as well.
+
+**Sorry about injecting biology into an economics & toxicology debate.**",0,,,1,science
+1clj88,0,Is it possible that there used to be small amounts of H2S in the atmosphere until (geologically) recent times and plants evolved the need for it?,0,,,1,science
+1clj88,0,"From an economic standpoint, is this a good thing? Assuming getting this gas is not terribly expensive and that the extra yields it produces could more than pay for it, how would this effect farming? Every major advance in farming tech makes the profits lower and lower, and that whole paying people not to farm thing, so for someone like me who has only a basic understanding what could be the result of something so clearly significant?",0,,,1,science
+1clj88,1,[deleted],0,,,8,science
+1clj88,2,The article also used 1ppb concentrations...,0,,,5,science
+1clj88,3,[deleted],0,,,13,science
+1clj88,4,"True.  At 1ppb the farms/food will probably be safe to be around, but I'd be concerned for anyone handling the the concentrate.
+
+Thanks for calling it out.",0,,,3,science
+1clj88,5,"There is already a *ton* of stuff used regularly in farming that is pretty damn dangerous.  Farmers - at least industrial-scale farmers - are pretty careful because they *have* to be.
+
+H2S starts to get dangerous at about 200ppm.  So if you ship it at that concentration and it leaks, nobody is ever going to walk into a cloud more concentrated than that.  Even watered down that much, you still wouldn't need to add much per gallon to get to the 1ppb ideal for watering your plants.",0,,,2,science
+1clj88,5,"I wouldn't be too worried about it, since its smell is unbearable.",0,,,1,science
+1clj88,6,"Just need to train folks to avoid/deal with the smell as soon as they notice it.  [It deadens the sense of smell quickly, making the olfactory cue unreliable after a while](https://en.wikipedia.org/wiki/Hydrogen_sulfide#Safety)",0,,,1,science
+1clj88,2,"well it has an LC 50 rating of about 700 to 800 mg/m3
+
+ not sure how that Compares To other chemicals that are routinely transported around the country",0,,,3,science
+1clj88,2,"Can't be too much worse than the explosive fertilizer we already use, right? (Bad things are bad to happen no matter what.)",0,,,2,science
+1clj88,1,[deleted],0,,,4,science
+1clj88,2,"Is the H2S cycled through the plant, perhaps through transpiration and returned back into the environment or is the H2S eventually stored in the plants vaccules",0,,,2,science
+1clj88,3,Vacuoles?*,0,,,2,science
+1clj88,2,Would you mind telling us the instrument you use to monitor the levels of H2S in liquid form? ,0,,,1,science
+1clj88,1,"In short, technology never leads to decreases in profits. Think about it for a minute - if technology led to a decrease in profits, it wouldn't be optimal for ANY company to use this technology, and hence the older technology would still be used. Profits are pushed down by competitive forces and sometimes regulation, but not by technology. ",0,,,2,science
+1clj88,2,I distinctly remember something about paying farmers not to farm because if they did there would be such a surplus that the extremely thin profit that companies are making now would cease to exist and they would actually go into the red. So suddenly doubling yields...wouldn't that create a massive surplus?,0,,,1,science
+1clj88,3,"Well you are spot on in your reasoning - indeed, an increase in supply would cause prices to fall. However, an increase in technology does not inherently lead to an increase in supply, only in productivity, which is different. If productivity increases, farmers can produce the same amount of output they had originally been producing while decreasing the inputs necessary to achieve this level of production -i.e. decreasing production costs. That's the real power of technology. 
+
+As for subsidies, yes, these do exist. In a completely laissez faire economy, if prices ever drop to the point where production is no longer profitable (i.e. strictly negative return), quantity supply would decrease to bring prices back up. How does quantity supply decrease? Well, either farmers begin produce less (which may or may not be believable) or some farmers go out of business and change professions. 
+
+This is where emotion and patriotism enter the scene. In the United States (and to be fair many other countries as well), we have a tradition of ""protecting our workers."" If prices fall to where some farmers would necessarily have to go out of business (as they should in a free economy), the farmers organize and demand subsidies to remain afloat -or else they WOULD SURELY PERISH. The average citizen sees these desperate farmers (or steel workers... or auto industry workers) and typically through some emotional or patriotic reasons, feel like we shouldn't let our own farmers (or other tradesmen) go broke, even if that means chipping in a few dollars per tax-payer to do so. To do otherwise would simply be un-American. Hence, subsidies come into play. Whether or not subsidies are really appropriate is more of a philosophical question than an economic one. They certainly oppose free market forces, however, the free market can also be seen as brutal in that some workers and producers can truly get screwed by market forces. So, see subsidies how you will.",0,,,2,science
+1clj88,2,Until the government comes in and gives a subsidy to the failing technology so it is now profitable because of the subsidy not because of its inherent value.,0,,,1,science
+1clj88,3,"Could you provide an agricultural example of ""failing technology"" that is only used because it is subsidized?",0,,,2,science
+1clj88,4,Corn Ethanol.,0,,,0,science
+1clj88,5,"That... is an end-product, not a technology used for agricultural production. 
+
+If you care to learn something about corn ethanol, the subsidies that used to be in place for corn ethanol were only there because politicians were pushing for a new source of energy domestically grown. The problem was that corn ethanol-mixed gasoline could not be produced cheaply enough to actually sell for less than just straight gasoline, hence subsidies were instituted to come closer to the ""dream"" of energy independence. 
+
+However, all this said, these subsidies [no longer exist](http://usnews.nbcnews.com/_news/2011/12/29/9804028-6-billion-a-year-ethanol-subsidy-dies-but-wait-theres-more?lite). 
+
+Any other examples?",0,,,2,science
+1clj88,0,/r/microgrowery will be happy to see this.,0,,,1,science
+1clj88,1,Like I need my weed to be any smellier. ,0,,,2,science
+1clj88,0,"For the love of the FSM please don't let Monsanto have a permit to run freely with H2S....
+
+""Oops, sorry we just an entire town.""",0,,,1,science
+1clj88,0,"I know this is sulfuric acid but I'll never have a better chance to say it:
+
+Johnny was a chemists son but Johnny is no more. What Johnny thought was H2O was H2SO4.",0,,,-5,science
+1clj88,1,You done fucked up. I guarantee you that you would have had a better chance if you only never stopped surfing reddit. ,0,,,2,science
+1clj88,0,So fertilizing plants with sulfur increases growth? Big deal.,0,,,-1,science

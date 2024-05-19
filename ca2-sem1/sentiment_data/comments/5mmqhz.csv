@@ -1,0 +1,78 @@
+post_id,level,body,gilded,likes,num_reports,score,subreddit
+5mmqhz,0,"Link to the [full and free journal article](http://onlinelibrary.wiley.com/doi/10.1111/gcbb.12420/full).
+
+Please read at least the abstract before drawing any conclusions from the news source. News often misses important or interesting points and to really understand what the researchers were getting at it's important to understand the journal article. This is of course meant in no offense to the article's writer, but it is a common issue with only reading the news source.
+
+
+And as always, please direct all comments at the specific content of the original post, or the specific scientific article it is based upon and do not post anecdotal comments.
+
+**Abstract:**
+
+>Increasing demand for sustainable energy has led to research and development on the cultivation of diverse plant species for biomass production. To support the research and development required to domesticate and cultivate crops for bioenergy, we developed the Biofuel Ecophysiological Traits and Yields database (BETYdb). BETYdb is a centralized open-access repository that facilitates organization, discovery, and exchange of information about plant traits, crop yields, and ecosystem functions. BETYdb provides user interfaces to simplify storage and discovery as well as programming interfaces that support automated and reproducible scientific workflows. Presently, BETYdb contains over forty thousand observations of plant traits, biomass yields, and ecosystem dynamics collected from the published articles and ongoing field studies. Over half of these records represent fewer than ten genera that have been intensively evaluated for biomass production, while the other half represent over two thousand plant species reflecting research on new crops, unmanaged ecosystems, and land use transitions associated with bioenergy. BETYdb has been accessed over twenty-five thousand times and is used in the fields of bioenergy and ecosystem ecology to quantify yield potential and ecosystem functioning of crops and unmanaged systems under present and future climates. Here, we summarize the database contents and illustrate its applications. We show its utility in a new analysis that confirms that Miscanthus is twice as productive as switchgrass over a much wider range of environmental and management conditions than covered in previous analyses. We compare traits related to carbon uptake and water use of these species with each other and with two coppice shrubs, poplar and willow. These examples, along with a growing body of published research that used BETYdb, illustrate the scope of research supported through this open-access database.",0,,,29,science
+5mmqhz,0,This data only works for a theoretical harvest. It's really hard to maintain a crop. Miscanthus doesn't work from a seed. You have to plant a rhizome and harvest it after a couple of years when the rhizome has grown and separate it to multiply. In the end it's not quite such an advantage so that's a big part why it's not catching on. ,0,,,27,science
+5mmqhz,1,"I think you're underestimating how effective rhizomatic growth is, for one thing. Also, while there are some miscanthus cultivars that are sterile, it does self-seed, which is why it is becoming invasive in some parts of the Eastern US. Propagation is not the reason it's not catching on. More info and sources [here](https://www.fs.fed.us/database/feis/plants/graminoid/missin/all.html).
+",0,,,11,science
+5mmqhz,2,"I think /u/pierre__poutine is referring specificially to *Miscanthus* x 'giganteus' which is sterile.  
+
+However, they present a bizarre notion that to grow it an individual would be forced to start from one plant and propagate from there.  Clearly the rhizome can be purchased at the same time from a nursery, for very little money when bought in bulk.
+
+It's sort of like suggesting all apple orchards are only allowed one tree which they then need to propagate from, or all garlic farms start with one clove of garlic.",0,,,11,science
+5mmqhz,0,[deleted],0,,,6,science
+5mmqhz,1,"The common hybrid used for biomass production (*Miscanthus* x 'giganteus') is sterile, and a plantation is typically harvested (and often bounded) so asexual growth really won't lead to invasive problems......",0,,,5,science
+5mmqhz,0,"Biomass is good for small use production but falters on a larger scale. The transportation emissions put it at a similar carbon footprint as natural gas production. Studied it in grad school for office of naval research. If we could switch to cleaner trucks, that would change but we're not there yet.",0,,,4,science
+5mmqhz,1,"What about when integrating with the municipal garbage pickup system? In Canada, I spoke with the garbage truck guy and he said 75 percent of his loads was grass clippings! (grow food not grass) ",0,,,5,science
+5mmqhz,2,I think that there are a lot of interesting opportunities for neighborhood-scale energy infrastructure.  Imagine a neighborhood having a centralized battery-storage system for rooftop solar.  Imagine a neighborhood-scale biomass plant for small-engine fuel production.,0,,,2,science
+5mmqhz,3,"I did similar to what your saying with water to a house in central Mexico. We retrofitted the house to gather all the storm water on the street, filtre it and store it for redistribution. Not a drop of rainwater leaves the property and it is all turned into potable water, food, or evaporates to rain again in that arid climate, saving the community from erosion repairs to infrastructure, as well as the rivers and oceans from the pollutants. The house also produces no grey water or black water. All of this was done with less than 300 dollars and organic waste. 
+I will add the localised battery storage into the design, but it is far from our current budget to implement at the moment. Thank you for the inspiration. ",0,,,4,science
+5mmqhz,4,"Hey, that sounds awesome!  I'd suggest if you have time to consider these solutions but lack the budget to buy raw materials, you should consider how you can use solar heating solutions to reduce energy usage on heating.  
+
+Water heating can be assisted by solar heating systems to reduce power usage, and this is exceptionally valuable for houses with extra roof or ground space and pool systems that could use heating.  ",0,,,1,science
+5mmqhz,5,"We made a solar heater out of pvc pipe and pop bottles. One day I would like to expand on that and add more solar thermal panels, and use a heat pump to push it under the floor so we have in ground heating ",0,,,1,science
+5mmqhz,4,"Water rights are a [messy area of law](http://www.nytimes.com/2009/06/29/us/29rain.htm), especially in the western United States. You have to be careful about gathering water that ""belongs"" to a farmer/rancher/miner/factory down slope; it is illegal or heavily regulated in many jurisdictions.
+
+(And, no, this has nothing to do with a guy in Oregon ""[going to jail just for collecting rainwater](http://www.snopes.com/politics/crime/rainwater.asp)"" (an exaggeration lapped up by the ecowarrior and alt-right camps in equal magnitude).",0,,,1,science
+5mmqhz,3,"Unfortunately, most of these systems don't scale properly.  Neighborhood energy storage won't be quite as efficient as industrial (though with systems using electric vehicle battery storage to handle variable loading, this may be irrelevant), and especially biomass production and power systems on the neighborhood scale will be significantly less efficient than large scale solutions.  ",0,,,1,science
+5mmqhz,4,"Sure, but you can afford some inefficiency because of the cost of distribution.
+
+For example, if 10% of the energy it takes to deliver fuel to your lawn mower is the energy required to transport it to you, your neighborhood plant can afford to be 10% less efficient if it has close-to-zero transportation costs.
+
+For neighborhood power storage (depending on the length scales) you have the potential to reduce trips through inverters if you can wire the rooftop-solar directly into the neighborhood batteries (or, as you pointed out, into a car.)
+
+I.e. large scale:  
+solar DC -> Inverter -> power grid -> Inverter -> Large-centralized Battery  
+home <- power grid <- Inverter <-  Large-centralized Battery
+
+But on smaller scales:  
+Solar DC -> local wiring -> Neighborhood Battery  
+home <- local wiring <- Inverter <- Neighborhood Battery
+
+So lets assume the large scale inverter is 98% efficient, while the home inverter is 92% and a neighborhood inverter is 95%.  Then the fully centralized system has roughly 12% loss due to inverters, while the neighborhood system only loses 5%, therefore the DC transmission + neighborhood battery can be around 7% less efficient and still be competitive.",0,,,1,science
+5mmqhz,2,Interesting.,0,,,1,science
+5mmqhz,1,Look up Nikolas hydrogen/electric truck set for tje year 2020.,0,,,1,science
+5mmqhz,1,"We're constantly making progress on cleaner transportation.  Not only is trucking one of the less efficient transit methods in tons/cf *mile/gallon, but trucks have gotten much more efficient even in the last 10 years.  
+
+It might not be enough to tip it over the scales in terms of efficiency, but it's always worth reconsidering methods like these that turned out inefficient previously.  
+
+On another note, is there a way to process Miscanthus on or near production in order to reduce shipping weight?  ",0,,,1,science
+5mmqhz,2,"My study was tied to actual harvesting numbers of switchgrass vs canola. As has been repeated in the thread before, the numbers in the OP linked study are curious as they will likely be difficult to replicate on a large scale (based on previous studies and research). 
+
+To answer your questions, the study was focused on using currently available land instead of just planting fields and fields of the stuff. It's nowhere near profitable enough to put compete any crops, at least in the southeast. 
+
+With all that said, to answer your question--that's the catch. Researchers have been trying to increase the per acre output of biomass due to transportation costs/negative carbon effects. Thus far, it's only been successful with small biomass facilities. 
+
+",0,,,1,science
+5mmqhz,0,"The point of this being that Miscanthus is a good candidate (old hat, unless salt water irrigated) or is it the revolutionary news that there is a database?
+
+Sea water irrigate a desert and grow Miscanthus. Cycle-cut it to keep it int he growth sigmoid, sun-dry the trimmings. Gasify them (CO + H2). In another part of the desert, place solar cells, use them to generate and store hydrogen. Syngas plus hydrogen => C8-C10 olefins, aka gasoline etc. Store and transport completely renewable, carbon neutral gasoline to point of sale. Replicate to a Very Large Scale. ",0,,,2,science
+5mmqhz,0,[removed],0,,,4,science
+5mmqhz,0,Switchgrass grows in the winter months also...did they factor that??,0,,,0,science
+5mmqhz,1,What. Switchgrass goes dormant in the winter especially if they're mulched.,0,,,2,science
+5mmqhz,2,Swore i read in another article they had a variety that broke winter dormacy. I may be mistaken.,0,,,1,science
+5mmqhz,3,You may be thinking of an area that has a mild winter......?,0,,,1,science
+5mmqhz,0,"What do they mean in terms of yield ? Is it ethanol production , energy produced or something else ?",0,,,1,science
+5mmqhz,0,Miscanthus is also the genus of the most popular ornamental grasses.,0,,,1,science
+5mmqhz,0,Biofuels as they exist right now are sort of a joke in my opinion. The amount of resources required to produce and deliver the fuel in a usable state is very similar if not higher than those of traditional energy sources. ,0,,,1,science
+5mmqhz,0,"So at the current time no one is really extracting commercially viable biofuel from cellulosic sources because the breakdown of cellulose is so energy intensive.   From this perspective, it is not really clear how they can make the claim that Miscanthus is 2.4 times more productive for biofuel than switchgrass, since neither one is currently viable. The great hope is that some yeasts can be bio-engineered to break down cellulose into sugars for ethanol production very efficiently. However,  if this happens, the cellulose byproducts of food crops could do double duty of producing both food and fuel --e.g., after harvesting corn, the corn stalks could be fermented into fuel. Same for wheat stalks, rice stalks, etc. Why grow a stalks only crop for fuel production when you could get food and fuel from the same crop? ",0,,,1,science
+5mmqhz,0,"https://link.springer.com/article/10.1007%2Fs10584-016-1764-4
+
+> Once estimates from the literature for process emissions and displacement effects including land-use change are considered, the conclusion is that U.S. biofuel use to date is associated with a net increase rather than a net decrease in CO2 emissions.",0,,,1,science

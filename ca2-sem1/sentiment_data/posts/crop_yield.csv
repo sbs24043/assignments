@@ -1,139 +1,415 @@
-id,title,num_comments,upvote_ratio,selftext,url_overridden_by_dest
-1ca0rmk,Potassium depletion in soil threatens global crop yields,130,0.97,,https://www.ucl.ac.uk/news/2024/feb/potassium-depletion-soil-threatens-global-crop-yields
-15ty52,"Recent patterns of crop yield, growth, and stagnation: worldwide crop yields are decreasing",719,0.88,,http://www.nature.com/ncomms/journal/v3/n12/full/ncomms2296.html
-2mpf5c,Crop yield was unexpectedly low this season.,214,0.92,,http://i.imgur.com/U6wiAGz.gif
-2heown,16-Year-Old Irish Girls Win Google Science Fair 2014 With World-Changing Crop Yield Breakthrough,927,0.85,,http://inhabitat.com/16-year-old-irish-girls-win-google-science-fair-2014-with-world-changing-crop-yield-breakthrough/
-wk2emz,'Crop yields will suffer': Fertilizer reduction targets pitting farmers against federal government,913,0.75,,https://financialpost.com/commodities/agriculture/crop-yields-will-suffer-fertilizer-reduction-targets-pitting-farmers-against-federal-government
-17s9j4s,Day 3 of console SoTV-May whomever created HIM face a poor crop yield,109,0.99,"This little fellas ruined about 8 runs now, I want to peel his skin off :)",https://i.redd.it/g1a3bdj06kzb1.jpg
-7ysj9i,"21 years of data confirm GMO corn increase crop yield, and provides substantial health benefits such as a reduction in exposure to mycotoxins",2394,0.85,,https://geneticliteracyproject.org/2018/02/19/gmo-corns-yield-human-health-benefits-vindicated-21-years-studies/
-zmlyzq,"Can the ""science"" people tell me why a greener Earth and higher crop yields and less drought are a bad thing?",665,0.72,,https://i.redd.it/gu922xy4k26a1.jpg
-1bjixab,A synthetic fertiliser was developed to end world hunger by increasing crop yields A hundredfold.,32,0.99,"The plants will not stop growing, no matter what lies on their path, be it concrete walls, electrified fencing, or flesh.",
-14efxze,Study: Rice that is resistant to some of the worst crop-destroying diseases but can still produce large yields could soon become a reality for farmers worldwide. Rice crops with higher yields are needed to meet growing global demand and the results from this study could help shore up food supply.,492,0.95,,https://www.adelaide.edu.au/newsroom/news/list/2023/06/14/new-discovery-set-to-boost-disease-resistant-rice
-vhifc3,Farmers in Thailand use armies of thousands of ducks to eat their way through rice paddies after a harvest. Studies shown this method of farming is not only beneficial to the environment but can also increase crop yield,781,0.97,,https://v.redd.it/qfw0vuu1d0791
-innggc,"TIL that Norman Borlaug has been credited with saving over a billion people from starvation by his use of genetic crossbreeding to greatly increase crop yield in places like Mexico, India, Pakistan, and China.",546,0.97,,https://en.wikipedia.org/wiki/Norman_Borlaug
-qo6ery,Nitrogen fertilizer shortage threatens to cut global crop yields -CF Industries,122,0.94,,https://www.reuters.com/business/energy/nitrogen-fertilizer-shortage-threatens-cut-global-crop-yields-cf-industries-2021-11-04/
-4p1xr6,Crops yields around the world could fall within a decade unless action is taken to speed up the introduction of new varieties. A study says temperatures are rising faster than the development of crop varieties that can cope with a warmer world.,826,0.87,,http://www.bbc.com/news/science-environment-36579125
-1bxrtew,Field trials reveal crushed rock boosts carbon removal and improves crop yields,19,0.99,,https://www.sheffield.ac.uk/news/field-trials-reveal-crushed-rock-boosts-carbon-removal-and-improves-crop-yields
-195z15f,suitable land for crop/crop yield modelling,14,0.67,"hello! i’m completing an independent study with the intention of using ArcGIS as a means to analyze the suitability of land for a specific crop. as a beginner in GIS, i’m not sure how to go about this. ideally i would like to complete a crop yield model to estimate how well a crop could grow on my study region.
+query,subreddit,id,title,num_comments,upvote_ratio,selftext,created_utc,url_overridden_by_dest
+crop AND yield,science,1ca0rmk,Potassium depletion in soil threatens global crop yields,130,0.97,,1713756643.0,https://www.ucl.ac.uk/news/2024/feb/potassium-depletion-soil-threatens-global-crop-yields
+crop AND yield,science,15ty52,"Recent patterns of crop yield, growth, and stagnation: worldwide crop yields are decreasing",719,0.88,,1357144526.0,http://www.nature.com/ncomms/journal/v3/n12/full/ncomms2296.html
+crop AND yield,science,7ysj9i,"21 years of data confirm GMO corn increase crop yield, and provides substantial health benefits such as a reduction in exposure to mycotoxins",2394,0.85,,1519094369.0,https://geneticliteracyproject.org/2018/02/19/gmo-corns-yield-human-health-benefits-vindicated-21-years-studies/
+crop AND yield,science,14efxze,Study: Rice that is resistant to some of the worst crop-destroying diseases but can still produce large yields could soon become a reality for farmers worldwide. Rice crops with higher yields are needed to meet growing global demand and the results from this study could help shore up food supply.,491,0.95,,1687279048.0,https://www.adelaide.edu.au/newsroom/news/list/2023/06/14/new-discovery-set-to-boost-disease-resistant-rice
+crop AND yield,science,4p1xr6,Crops yields around the world could fall within a decade unless action is taken to speed up the introduction of new varieties. A study says temperatures are rising faster than the development of crop varieties that can cope with a warmer world.,826,0.87,,1466469567.0,http://www.bbc.com/news/science-environment-36579125
+crop AND yield,science,aca4z3,"Most crops are plagued by a photosynthetic glitch, and evolved an energy-expensive process called photorespiration that drastically suppresses their yield potential. Researchers have engineered crops with a photorespiratory shortcut that are 40% more productive in real-world conditions.",986,0.92,,1546549078.0,https://www.igb.illinois.edu/article/scientists-engineer-shortcut-photosynthetic-glitch-boost-crop-growth-40
+crop AND yield,science,bqa7v,Scientists explore Japanese farming legend that lightning increases mushroom crop yield. Finds out small pulses of electricity as that made by nearby lightning doubles crop yield.,157,0.97,,1271165339.0,http://www.physorg.com/news190356559.html
+crop AND yield,science,10hso0q,Fluke Discovery of Ancient Farming Technique Could Stabilize Crop Yields,44,0.74,,1674311946.0,https://link.springer.com/article/10.1007/s13593-022-00832-1
+crop AND yield,science,ekx5wd,"Shutdown of Coal-Fired Plants in U.S. Saves Lives and Improves Crop Yields. Research found that between 2005 and 2016, the shutdown of coal-fired units saved an estimated 26,610 lives and 570 million bushels of corn, soybeans and wheat in their immediate vicinities",1151,0.9,,1578331488.0,https://ucsdnews.ucsd.edu/pressrelease/shutdown-of-coal-fired-plants-in-u.s-saves-lives-and-improves-crop-yields
+crop AND yield,science,wup9a4,"Ants can be more effective than pesticides at helping farmers produce food: they decrease the abundance of non-honeydew-producing pests, decrease plant damage and increase crop yield, decrease the abundance of natural enemies, and increase honeydew-producing pest abundance",129,0.96,,1661161769.0,https://royalsocietypublishing.org/doi/10.1098/rspb.2022.1316
+crop AND yield,science,5a5qta,Doubts About the Promised Bounty of Genetically Modified Crops: genetic modification in the United States and Canada has not accelerated increases in crop yields or led to an overall reduction in the use of chemical pesticides.,217,0.81,,1477829584.0,http://www.nytimes.com/2016/10/30/business/gmo-promise-falls-short.html
+crop AND yield,science,1bnhu2l,"Food costs more because of climate change - and it will get worse. Rising temperatures are predicted to drive up food inflation by between 0.9 and 3.2 per cent a year by 2035, as crop yields suffer from extreme heat",139,0.81,,1711383854.0,https://www.newscientist.com/article/2423566-food-costs-more-because-of-climate-change-and-it-will-get-worse/
+crop AND yield,science,1clj88,Treating plants with hydrogen sulfide doubles crop yields,87,0.9,,1366280092.0,http://phys.org/news/2013-04-key-ingredient-mass-extinctions-boost.html
+crop AND yield,science,dhpj8d,How our crop yields have changed over the long term: we now produce the same aggregate crop yield in 30% of the land it took us 50 years ago,66,0.92,,1571054310.0,https://ourworldindata.org/crop-yields
+crop AND yield,science,v2nfvy,"Less air pollution leads to higher crop yields, Stanford-led study shows",15,0.96,,1654107215.0,https://news.stanford.edu/2022/06/01/pollution-and-crops/
+crop AND yield,science,tbh780,"Scientists have produced a map showing where the world’s major food crops should be grown to maximise yield and minimise environmental impact. This would capture large amounts of carbon, increase biodiversity, and cut agricultural use of freshwater to zero.",220,0.98,,1646970714.0,https://www.cam.ac.uk/research/news/relocating-farmland-could-turn-back-clock-twenty-years-on-carbon-emissions
+crop AND yield,science,5dmadm,"By fixing a glitch in plants’ ability to use sunlight to make sugar, scientists have managed to improve the efficiency of photosynthesis by about 15% — an upgrade that could be used to raise agricultural crop yields and feed Earth’s ever-growing human population.",161,0.93,,1479474390.0,http://www.latimes.com/science/sciencenow/la-sci-sn-boosting-photosynthesis-20161117-story.html
+crop AND yield,science,byo8pu,"21 years of insect-resistant GMO crops in Spain/Portugal. Results: for every extra €1 spent on GMO vs. conventional, income grew €4.95 due to +11.5% yield; decreased insecticide use by 37%; decreased the environmental impact by 21%; cut fuel use, reducing greenhouse gas emissions and saving water.",2577,0.91,,1560109689.0,https://www.tandfonline.com/doi/full/10.1080/21645698.2019.1614393
+crop AND yield,science,1b8a9c0,"Birds, beetles and spiders that are natural predators for crop-damaging pests can be a successful alternative to pesticides. These predators reduced pest populations by 73% on average and increased crop yield by an average of 25%.",4,0.96,,1709756841.0,https://royalsocietypublishing.org/doi/10.1098/rspb.2023.2522
+crop AND yield,science,ampmxu,"Plant-based biofuels are considered as fossil fuel alternatives but they may compete with land for food and offer little greenhouse gas reductions. New research suggests that the use of prairie grass, instead of food crops, with moderate fertilizers, gave better carbon storage and energy yield.",608,0.92,,1549201321.0,https://www.news.ucsb.edu/2019/019333/everything-moderation
+crop AND yield,science,17jr299,"Study found the changing global climate, especially temperature and rainfall, may be affecting the flavor and cost of beer: if warming temperatures cause decreased crop yields, the price will likely be affected",32,0.89,,1698664748.0,https://news.vt.edu/articles/2023/10/beer_hops_climate_change_expert.html
+crop AND yield,science,ldopk,Nitrogen Fixing trees boost crop yields in Africa,32,0.93,,1318729231.0,http://www.bbc.co.uk/news/science-environment-15305271
+crop AND yield,science,82x4k9,"Scientists engineer crops to conserve water, resist drought - For the first time, scientists have improved how a crop uses water by 25 percent without compromising yield by altering the expression of one gene that is found in all plants, as reported in Nature Communications.",113,0.95,,1520512238.0,https://www.igb.illinois.edu/article/scientists-engineer-crops-conserve-water-resist-drought
+crop AND yield,science,twjdmc,"Study finds that coffee beans are bigger and more plentiful when birds and bees team up to protect and pollinate coffee plants. Without pest control and pollination by the birds and the bees, coffee farmers would see a 25 per cent drop in crop yields — a loss of roughly $1,066 per hectare.",43,0.97,,1649122593.0,https://www.uvm.edu/news/gund/secret-better-coffee-birds-and-bees
+crop AND yield,science,yhmhl5,"Climate change is shrinking the difference between the daily high temperature and the daily low in many parts of the world, this has a significant effect on growing seasons, crop yields, residential energy consumption and human health issues related to heat stress",43,0.93,,1667155695.0,https://eandt.theiet.org/content/articles/2022/10/climate-change-closing-daily-temperature-gap-clouds-may-be-to-blame/
+crop AND yield,science,xit2qu,A better understanding of crop yields under climate change: new research found extreme heat to be less damaging to crop yields than previous models estimated. But the team also found heightened sensitivity to drought and flooding,6,0.79,,1663632057.0,https://www.seas.harvard.edu/news/2022/09/better-understanding-crop-yields-under-climate-change
+crop AND yield,science,nuc5wy,"Increase in agriculture industrialization have led to soil organic carbon levels to drop drastically. This has had a detrimental impact on the global carbon cycle, soil health, and crop yield. However the soil microbiome can still put up a fight.",40,0.96,,1623071409.0,https://micro-bites.org/2021/06/07/a-low-carb-diet-resilience-of-the-soil-microbiome/
+crop AND yield,science,zgkfud,"Body of research raises questions about ability of cover crops to lower greenhouse gas emissions | cover crops reduce yield, barrier to adoption",14,0.91,,1670553415.0,https://thefern.org/2022/12/a-pillar-of-the-climate-smart-agriculture-movement-is-on-shaky-ground/
+crop AND yield,science,1c0s4xb,"Climate change will hurt crop yield, leading to increased loan defaults for one of the nation’s largest public sector banks in Brazil. In upcoming decades, climate-driven loan defaults could increase by up to 7%, suggesting a possibility of systemic financial risks.",10,0.87,,1712772354.0,https://www.pnas.org/doi/10.1073/pnas.2215677121
+crop AND yield,science,xlpcxs,"Adopting a Precision Compost Strategy (PCS) in large-scale agriculture could improve crop yield, soil health and divert biowaste from landfill where it generates harmful greenhouse gases",5,0.92,,1663913531.0,https://www.eurekalert.org/news-releases/963618
+crop AND yield,science,oczl75,"Cleaner air has boosted U.S. corn and soybean yields according to new research from Stanford University. The analysis estimates pollution reductions between 1999 and 2019 contributed to a 20% increase in corn and soybean yield gains during that period, an amount worth about $5 billion per year.",604,0.94,,1625324173.0,https://news.stanford.edu/2021/07/01/clean-air-boosts-crop-yields/
+crop AND yield,science,2mujav,"In a study that identifies a new direct fingerprint of human activity on Earth, scientists found that agriculture plays a big role in seasonal swings of atmospheric CO2. And it does so in part because crop yields have gone up 240% over the past 50 years on land area that's grown by just 18%.",132,0.9,,1416459029.0,http://ns.umich.edu/new/releases/22523-what-agricultural-ecosystems-on-steroids-are-doing-to-the-air
+crop AND yield,science,10aw2zi,Contrasting impacts of dry versus humid heat on US corn and soybean yields - dry heat reduces while humid heat had zero to positive impacts on crop yield,1,0.73,,1673620661.0,https://www.nature.com/articles/s41598-023-27931-7
+crop AND yield,science,1090mm8,Exotic wheat DNA could help breed ‘climate-proof’ crops - Wheat containing exotic DNA from wild relatives benefits from up to 50% higher yields in hot weather compared with crops lacking these genes.,24,0.91,,1673429356.0,https://www.earlham.ac.uk/news/exotic-wheat-dna-could-help-breed-climate-proof-crops
+crop AND yield,science,e7hp20,"India can sustainably enhance its food supply if its farmers plant less rice &amp; more nutritious and environmentally-friendly crops, including finger millet, pearl millet, &amp; sorghum, according to a study. Diversifying India's crops could provide better nutrition for 200 million undernourished people .",943,0.94,,1575742649.0,https://www.pnas.org/content/early/2019/11/20/1910935116
+crop AND yield,science,12j986,Study finds that planting leguminous trees on maize farms boosts yields by 50 percent,227,0.93,,1351891620.0,http://www.scidev.net/en/sub-suharan-africa/news/intercropping-boosts-maize-yields-by-50-per-cent-.html?utm_source=link&amp;utm_medium=rss&amp;utm_campaign=en_news&amp;utm_source=twitterfeed&amp;utm_medium=twitter
+crop AND yield,science,14h460c,"Smart farming platform improves crop yields, minimizes pollution. The smart farming system uses a copper-based hydrogel that captures excess nitrate waste from fertilizer runoff and transforms it into ammonia -- a critical element in fertilizers -- that can then be reused.",11,0.92,,1687540594.0,https://cockrell.utexas.edu/news/archive/9702-smart-farming-platform-improves-crop-yields-minimizes-pollution
+crop AND yield,science,18npogo,"Modern farming, dependent on machinery, fertilizer and pesticides, is at risk from electrical grid disruptions due to catastrophes like geomagnetic storms. Yields may drop 35%–48% after industrial inputs like fertilizer run out, varying by crop. Europe and US could see up to 75% reductions.",50,0.92,,1703172795.0,https://onlinelibrary.wiley.com/doi/10.1002/gch2.202300206
+crop AND yield,science,zpszjw,"Pitch-perfect: Study of World Cup’s turfgrass may help crops yield more from less. Experiments show grass’s resilience-building tricks work for corn, too",4,0.79,,1671459943.0,https://www.eurekalert.org/news-releases/974649
+crop AND yield,science,8th4n,"""Failure to Yield"" report debunks Monsanto adverts: other technologies boost crop yields far better than genetic engineering.",30,0.74,,1245297134.0,http://ucsusa.org/food_and_agriculture/science_and_impacts/science/failure-to-yield.html
+crop AND yield,science,opiawm,"Research breakthrough creates crops that can grow 50% more potatoes, rice | Plants are larger, more extensive roots, better under drought stress",109,0.97,,1626973895.0,https://www.potatonewstoday.com/2021/07/22/research-breakthrough-creates-crops-that-can-grow-50-more-potatoes-rice/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=research-breakthrough-creates-crops-that-can-grow-50-more-potatoes-rice
+crop AND yield,science,kajfqh,Countries influence the trade-off between crop yields and nitrogen pollution,0,0.75,,1607620677.0,https://www.nature.com/articles/s43016-020-00185-6
+crop AND yield,science,17wma3,Study Indicates a doubling of CO2 will allow global crop yields to increase 20 to 40%    BIOGEOSCIENCES,43,0.6,,1360029296.0,http://www.biogeosciences.net/10/339/2013/bg-10-339-2013.pdf
+crop AND yield,science,251c4o,CO2 'significantly reduces' nutrients in major food crops,102,0.84,,1399553033.0,http://www.bbc.com/news/science-environment-27308720
+crop AND yield,science,220gmn,Climate Report Warns of Increased Risk to Crops - Crop yields are expected to decline due to climate change faster than initially thought,22,0.77,,1396446649.0,http://www.technologyreview.com/news/525891/un-climate-report-warns-of-increased-risk-to-crops/
+crop AND yield,science,5igqkg,"Crop spray which can boost farmer's wheat yields by one fifth, without the need for genetic modification, has been developed at Oxford University. They found a molecule which helps plants make the best use of the sugary fuel that they generate during photosynthesis, producing bigger grains",83,0.92,,1481795999.0,http://www.telegraph.co.uk/science/2016/12/14/monster-wheat-grown-oxford-could-revolutionise-farming/
+crop AND yield,science,pyz4qy,Cover crop mulches can suppress weed biomass without reducing wheat yield,3,0.82,,1633057207.0,https://www.mdpi.com/1291972
+crop AND yield,science,5mmqhz,"Scientists have confirmed that Miscanthus, long speculated to be the top biofuel producer, yields more than twice as much as switchgrass in the U.S. using an open-source bioenergy crop database gaining traction in plant science, climate change, and ecology research.",39,0.92,,1483822614.0,https://www.eurekalert.org/pub_releases/2017-01/crwi-opd010517.php
+crop AND yield,science,10wvmma,Crop yield and plant resilience in cultivated grasslands can be increased by reducing the intensity of harvesting and the amount of pesticide residues in soil. This also contributes to climate change mitigation as the plants develop bigger roots and increase carbon sequestration.,7,0.94,,1675859875.0,https://www.utu.fi/en/news/press-release/reducing-pesticide-pollution-and-the-intensity-of-harvesting-can-increase-crop
+crop AND yield,science,9tlc13,Growing native African shrubs side-by-side with the food crop millet increased millet production by more than 900%,62,0.96,,1541174131.0,https://news.osu.edu/how-one-tough-shrub-could-help-fight-hunger-in-africa/
+crop AND yield,science,jsclq2,"*Global crop yields projected to drop as temperatures rise* “Yield losses in response to a global mean warming level of 1.5 Celsius, as aimed for in the Paris Agreement, would still be substantial, ranging from 2 percent to 7 percent across the main producing countries.”",27,0.86,,1605116230.0,https://allianceforscience.cornell.edu/blog/2020/11/global-crop-yields-projected-to-drop-as-temperatures-rise-new-study-finds/
+crop AND yield,science,3odpha,Standing up for science: A new front has opened in the public relations war over GM crops. (x-post from /r/EverythingScience),973,0.84,,1444601700.0,https://www.reddit.com/r/EverythingScience/comments/3odpbq/standing_up_for_science_a_new_front_has_opened_in/
+crop AND yield,science,sty87,Crop yield study: Conventional farms perform better than organic,10,0.62,,1335465814.0,http://www.alaskadispatch.com/article/crop-yield-study-conventional-farms-perform-better-organic
+crop AND yield,science,2gqzk3,Hacked photosynthesis could boost crop yields (nature),1,0.88,,1411035283.0,http://www.nature.com/news/hacked-photosynthesis-could-boost-crop-yields-1.15949?WT.mc_id=TWT_NatureNews
+crop AND yield,science,m0w6x4,"Atmospheric drying will lead to lower crop yields, shorter trees across the globe. A global observation of an ongoing atmospheric drying -- known by scientists as a rise in vapor pressure deficit -- has been observed worldwide since the early 2000s.",11,0.94,,1615255551.0,https://twin-cities.umn.edu/news-events/atmospheric-drying-will-lead-lower-crop-yields-shorter-trees-across-globe
+crop AND yield,science,6j7xq1,Biochar Promoting Crop Yield Improving Soil Fertility Mitigating Climate Change and Restoring Polluted Soils.,5,0.73,,1498307749.0,https://dochelp.net/slide/biochar-promoting-crop-yield-improving-soil-fertility-mitigating-climate-change-and-restoring-polluted-soils
+crop AND yield,science,w6cm3u,A transcriptional regulator that boosts grain yields and shortens the growth duration of rice | GMO rice yields 40%+ yield gain,24,0.94,,1658606094.0,https://www.science.org/content/article/supercharged-biotech-rice-yields-40-more-grain
+crop AND yield,science,2l9kwe,"Researchers show that air pollution directly harms crops to a greater extent than climate change does: in 30 years, anthropogenic climate change caused 3.5% decrease in wheat yield on a country level in India; air pollution caused more than 32% decrease in yield",20,0.9,,1415113636.0,https://theconversation.com/want-to-feed-the-world-tackle-pollution-from-ozone-and-soot-33761
+crop AND yield,science,143cs2,Heightened levels of atmospheric carbon dioxide may reduce crop yields,8,0.67,,1354341316.0,http://phys.org/news/2012-11-carbon-dioxide-crop-yields.html
+crop AND yield,science,gmufcj,"""Breakthrough"" in breeding plants to withstand increased temperatures. ""Nuclear-encoded synthesis of the D1 subunit of photosystem II increases photosynthetic efficiency and crop yield""",6,0.78,,1589913499.0,https://www.nature.com/articles/s41477-020-0629-z
+crop AND yield,science,dj34x7,"Farms with just one or a handful of different crops encourage fewer species of pollinating and pest-controlling insects to linger, ultimately winnowing away crop yields, according to a new study.",2,0.92,,1571298931.0,https://news.mongabay.com/2019/10/biodiversity-boosts-crop-pollinators-and-pest-controllers-study-finds/
+crop AND yield,science,s6dtm7,"Persistently high levels of ozone pollution in Asia are costing China, Japan and South Korea an estimated $63 billion annually in lost rice, wheat and maize crops, a new study says. East Asia is a hotspot of surface ozone (O3) pollution, which hinders crop growth and reduces yields",11,0.9,,1642450961.0,https://cosmosmagazine.com/earth/agriculture/ozone-pollution-responsible-for-billions-in-crop-losses/
+crop AND yield,science,es8bbz,"Diverse forms of farming have evolved across the tree of life, from human farmers to ants. Like human farmers, farming ants optimize crop yield by selectively planting their crops in full sun.",1,0.81,,1579675998.0,https://www.pnas.org/content/early/2020/01/14/1919611117?ct
+crop AND yield,science,20q9ds,Study: 2ºC Warming Is Enough To Seriously Hurt Crop Yields,2,0.57,,1395160850.0,http://thinkprogress.org/climate/2014/03/17/3411501/climate-change-detrimental-crop-yields-study/
+crop AND yield,science,nvxm19,"Seed yield, seed quality, profitability, and risk analysis among double crop soybean maturity groups and seeding rates",1,0.75,,1623249857.0,https://acsess.onlinelibrary.wiley.com/doi/10.1002/agj2.20626
+crop AND yield,science,2ghwgj,New meta-analysis reckons earthworms can boost crop yield by average of 25%,0,0.77,,1410815603.0,http://www.nature.com/srep/2014/140915/srep06365/full/srep06365.html
+crop AND yield,science,52k6w9,"Wheat, one of the world’s most important crops, is being threatened by climate change - all the techniques suggested that a global temperature increase of 1 degree Celsius would lead to a worldwide decline in wheat yield by between 4.1 and 6.4 percent.",65,0.88,,1473769834.0,https://www.washingtonpost.com/news/energy-environment/wp/2016/09/12/climate-change-is-really-bad-for-wheat-which-is-really-bad-for-us/?utm_campaign=2fff895223-cb_daily&amp;utm_medium=email&amp;utm_source=Daily%20Carbon%20Briefing&amp;utm_term=.f52b0cface40
+crop AND yield,science,h6wir,"Cereal Killer: Climate Change Stunts Growth of Global Crop Yields - Humanity's predilection for burning fossil fuels, however, is now contributing to the slowing of such rising yields, cutting harvests of wheat 5.5 percent and maize 3.8 percent from what they could have been since 1980",46,0.54,,1304895648.0,http://www.scientificamerican.com/article.cfm?id=climate-change-impacts-staple-crop-yields
+crop AND yield,science,7oy2om,"Science AMA Series: We are researchers from the University of South Africa and we're putting greenhouse gases directly into actual greenhouses; we thereby capture carbon emissions, reduce water consumption and increase crop yield. Ask Us Anything!",21,0.78,"Water scarcity poses a severe threat to all humankind, with rapidly growing demand pressuring already-constrained water resources, many of which are unsustainable. Figuring out where our water ends up is therefore a crucial step toward finding ways to use it more efficiently and try to ensure that we, as a species, are still around a few generations from now. 
 
-but my PI suggested i could locate suitable areas for crops. it would likely be a binary index model or i could try multi criteria decision analysis to complete this. i’ve googled, not entirely sure what this means. the data i assume i will gather is elevation, topology, soil type, rainfall etc..)  
 
-does anyone have any tips on how to begin? (please keep in mind i am novice at best in ArcGIS, i know my way around but still need to understand the theory behind many geoprocessing tools).
+Dr Neil Stacey is a young researcher previously known for best known for patented advances in bio-fuels production technology. In late 2016 he set out to use chemical engineering modeling methods to examine water usage in agriculture, which comprises 70% of all of mankind's water consumption. 
 
-appreciate the help!",
-1amoexs,Price of Cocoa soars as dry West African weather damages crop yield,30,0.92,,https://www.euronews.com/business/2024/02/09/cocoa-price-soars-to-all-time-high-will-chocolate-be-more-expensive
-1cq36r9,"Scientists unlock cyanobacteria's carbon secrets, may enable 'vastly improved crop yields'",9,0.97,,https://phys.org/news/2024-05-scientists-key-carbon-gobbling-major.html
-u5rfbs,I just learned you can note your crop yields at the Leprechaun.,132,0.79,"I'M AT 93 FARMING AND I JUST NOW LEARNED THIS, I'M SO UPSET, I'VE BEEN TELEPORTING BACK AND FORTH FROM A BANK ON ALL MY FARM RUNS. I'M NOT OKAY.",
-ulkl2y,The first growth test of crops in the Advanced Plant Habitat aboard the International Space Station yielded great results.,188,0.99,,https://i.redd.it/cqpcd7945ey81.jpg
-13hv1jz,Does GMO corn increase crop yields? More than 20 years of data confirm it does — and provides substantial health and safety benefits,192,0.85,,https://geneticliteracyproject.org/2023/05/12/does-gmo-corn-increase-crop-yields-more-than-20-years-of-data-confirm-it-does-and-provides-substantial-health-and-safety-benefits/
-1cpfyn1,Crop yields down massively just before harvest?,8,1.0,"I'm currently in September and getting ready to harvest my wheat, flax and barley fields. But just as I loaded up my farmhouses with workers, I noticed that the yields had fallen to about 6-12 units for each. These are fields of 2-3 morgen in size. The wheat and flax were sown at the end of the previous season, and the barley was sown in March. The fertility was at least light green for each. I noticed that the wheat and flax yields were each between 100-200 around early summer, while the barley was lower but definitely several times larger than it is now.
 
-I'm not in a drought as all the grass around is lush green and I can't recall being notified of one. Any ideas for what could have caused this? It's been a year of stomping brigands abroad so I've only glanced at the crops once or twice.",
-195z2xo,suitable land for crop/crop yield modelling,4,1.0,"hello! i’m completing an independent study with the intention of using ArcGIS as a means to analyze the suitability of land for a specific crop. as a beginner in GIS, i’m not sure how to go about this. ideally, i would like to complete a crop yield model to estimate how well a crop could grow on my study region.
+Professor Diane Hildebrandt lent her considerable support to the project soon after. She is a director of UNISA's IDEAS institute. She has been the recipient of a number of prestigious scientific awards including the Meiring Naude Medal, the Bill Neale-May Gold Medal, the Distinguished Woman Scientist Award and an AfricanUnion Scientific Award. She has been the author or co-author of over one hundred and fifty peer-reviewed scientific publications including three textbooks and an invited paper in Science. 
 
-but my PI suggested i could locate suitable areas for crops. it would likely be a binary index model or i could try multi criteria decision analysis to complete this. i’ve googled, not entirely sure what this means. the data i assume i will use is elevation, topology, soil type, rainfall etc..)  
 
-does anyone have any tips on how to begin? (please keep in mind i am novice at best in ArcGIS, i know my way around but still need to understand the theory behind many geoprocessing tools).
+By building chemical and thermal models of greenhouses as bio-reactors, we have been able to develop fundamental insights into cause-and-effect relationships in greenhouse design and operation. We found that greenhouse operation is constrained by the necessity of supplying adequate CO2 for photosynthesis. Since CO2 is highly dilute, this constraint demands a very high air-flow through a greenhouse which in turn causes excessive water evaporation and heat losses. Consequently, providing enriched CO2 can drastically reduce the heat and water requirements of a greenhouse. In a paper currently in the final stages of review, we showed that using membrane separation to partially enrich air as a feed can cut water usage considerably. 
 
-appreciate the help!",
-1b2a8ez,Pipelines may have long-term consequences for crop yields,21,0.85,,https://www.producer.com/news/pipelines-may-have-long-term-consequences-for-crop-yields/
-aca4z3,"Most crops are plagued by a photosynthetic glitch, and evolved an energy-expensive process called photorespiration that drastically suppresses their yield potential. Researchers have engineered crops with a photorespiratory shortcut that are 40% more productive in real-world conditions.",986,0.92,,https://www.igb.illinois.edu/article/scientists-engineer-shortcut-photosynthetic-glitch-boost-crop-growth-40
-bqa7v,Scientists explore Japanese farming legend that lightning increases mushroom crop yield. Finds out small pulses of electricity as that made by nearby lightning doubles crop yield.,157,0.97,,http://www.physorg.com/news190356559.html
-10hso0q,Fluke Discovery of Ancient Farming Technique Could Stabilize Crop Yields,44,0.74,,https://link.springer.com/article/10.1007/s13593-022-00832-1
-1ay8l6z,Obtaining Crop Yield Data for past years? ,10,0.43,I have inherited a few sections in Oklahoma recently and I am concerned that the longevity of these farms is in significant doubt due to climate change. I want to look at the yields on the farms going back as far as I can. Is there a way to access that information through the ag department or something similar? The family member who knew that info has died (hence inheritance) and so has the guy who farmed it up until two years ago so neither of those avenues are available. Thanks! ,
-1bfzwrl,100% yield on crops!,33,0.96,Took a screenshot of one of my favorite YouTube videos a good while ago when first starting but I wanted to share a good step-by-step process of field prep from the video and edited in the stone-picking step that he mentioned from it. Hope this helps some newbies just starting!!,https://i.redd.it/3m84863v5noc1.jpeg
-11b5psf,Crop yield,5,0.97,,https://v.redd.it/jfy9ff0k28ka1
-1bygn7t,Field trials reveal crushed rock boosts carbon removal and improves crop yields,21,0.97,"'Lead author of the study, Professor David Beerling, Director of the Leverhulme Centre for Climate Change and Mitigation at the University of Sheffield, said: “We have shown with hard-won data, the carbon removal potential of enhanced weathering practices in the real world. It’s a big step forward in understanding the enormous potential of this technology to mitigate climate change while simultaneously improving yields and soil health.”'",https://www.sheffield.ac.uk/news/field-trials-reveal-crushed-rock-boosts-carbon-removal-and-improves-crop-yields
-1cbqepv,Low maintenance high yield crops,44,0.93,"Preppers,
 
-I’m looking to draw from your experience with low maintenance and (hopefully) high yells crops. We can all do the google search and see that Jerusalem Yams and potato’s are a good start. 
+We also investigated the possibility of using power station flue gas as a source of enriched CO2. In a recent paper, we quantified the potential costs and benefits of diverting flue gases from gas-fired power stations into greenhouses, finding that this approach can achieve large-scale carbon capture without costly separation, while massively boosting agricultural output and drastically reducing water requirements.
 
-What has worked for you? What have you learned? What should/could we be planting and forgetting until the time comes?",
-1boowxw,Introduction to Crop Rotation: Maximizing Soil Health and Crop Yields,0,0.5,,https://www.loveandothertractors.com/post/introduction-to-crop-rotation
-ekx5wd,"Shutdown of Coal-Fired Plants in U.S. Saves Lives and Improves Crop Yields. Research found that between 2005 and 2016, the shutdown of coal-fired units saved an estimated 26,610 lives and 570 million bushels of corn, soybeans and wheat in their immediate vicinities",1152,0.9,,https://ucsdnews.ucsd.edu/pressrelease/shutdown-of-coal-fired-plants-in-u.s-saves-lives-and-improves-crop-yields
-1aum08p,Potassium depletion in soil threatens global crop yields,2,0.99,,https://phys.org/news/2024-02-potassium-depletion-soil-threatens-global.html
-1achob8,Active beehives increase crop yield,2,0.9,"I put a beehive next to my crops to enhance the look of my farm and found they buff your crops for a 50% yield boost in a four plot radius. Also you don't need to power the beehives to operate, that is for the add ons. Looks like the farming talents just got a little bit better.",
-uyo7a5,France's crop yields will be 'very poor' due to unprecedented drought,44,0.99,,https://amp.france24.com/en/environment/20220519-france-s-crop-yields-will-be-very-poor-due-to-unprecedented-drought
-wup9a4,"Ants can be more effective than pesticides at helping farmers produce food: they decrease the abundance of non-honeydew-producing pests, decrease plant damage and increase crop yield, decrease the abundance of natural enemies, and increase honeydew-producing pest abundance",129,0.96,,https://royalsocietypublishing.org/doi/10.1098/rspb.2022.1316
-195wt0c,Bootstrapping method for crop yield prediction,7,1.0,"I have four years worth of yield data on a field:
 
-|2020|2021|2022|2023|
-|:-|:-|:-|:-|
-|305 lbs/acre|861 lbs/acre|1005 lbs/acre|1635 lbs/acre|
+And so, we are here to field your questions as we advocate for putting greenhouse gases into actual greenhouses.
 
-I want to estimate the field's yield in 2024 using these few data points and prior knowledge. We know that:
+We'll be back at 12 pm ET to answer your questions, Ask Us Anything!
 
-\- the average yield of fields in the area is 1600 lbs/acre,
+Edit: Thank you to everyone who participated, and thanks to the mods for giving us this opportunity to talk about this project. We will be looking at this account periodically so if anyone has questions, don't hesitate to ask.",1515412822.0,
+crop AND yield,science,4451rm,"Science AMA Series: I'm Huw Jones, Professor of translational genomics for plant breeding at IBERS, Aberystwyth University. AMA about whether plant breeding is 'natural' or if we do indeed need new crop varieties",110,0.8,"Hi Reddit! I do research on plant genes to understand how modern biotechnology tools can be used for plant breeding to improve yields, make more nutritious food, and to reduce the environmental impacts of farming. I also conduct GMO risk assessments for the European Food Safety Authority. I think it's really important for scientists to talk about their science with non-scientists because what we do matters to everyone and the environment. I am on Sense about Science’s [plant science panel](http://www.senseaboutscience.org/pages/plant-science-expert-panel.html), where you can put questions and opinions for response from researchers. I will be back at 11am EDT (4 pm GMT, 8 am PST) to answer all your questions. Reddit, AMA!",1454588938.0,
+crop AND yield,science,9nreg,"Scientists map potato genome, hope to improve crop yield",0,0.38,,1253818499.0,http://www.physorg.com/news173020272.html
+crop AND yield,science,tbhbpn,"In East Africa and other regions, potato crops are currently threatened by a worm known as the potato cyst nematode. A simple pouch made of paper created from banana tree fibers has boosted potato yields fivefold and could dramatically reduce the need for pesticides.",10,0.95,,1646971124.0,https://newatlas.com/environment/banana-paper-potatoes-nematodes/
+crop AND yield,science,bjq3d,"Study shows that classical cross-breeding of plants can increase crop yield as dramatically as genetic engineering
+",4,0.69,,1269874395.0,http://www.reuters.com/article/idUSTRE62R1AZ20100328
+crop AND yield,science,4wdo0l,Crop yield changes induced by emissions of individual climate-altering pollutants - Shindell - 2016 - Earth's Future - Wiley Online Library,1,0.67,,1470445530.0,http://onlinelibrary.wiley.com/doi/10.1002/2016EF000377/full
+crop AND yield,science,2ouluy,"The largest meta-analysis to date comparing yields of organic and conventional agriculture concluded that the ""yield gap"" between the two is much smaller than previously claimed and for some crops, doesn't exist at all.",19,0.8,,1418202623.0,http://www.huffingtonpost.com/eric-holt-gimenez/agroecology-and-the-disappearing-yield-gap_b_6290982.html
+crop AND yield,science,nxhcn7,"The Green Revolution (the creation of high-yield crop) increased yields by 44% between 1965-2010, increased incomes, reduced population growth, and reduced the amount of land devoted to agriculture. If the Green Revolution had never happened, GDP per capita in the developing might have been halved.",7,0.82,,1623421916.0,https://www.journals.uchicago.edu/doi/10.1086/714444
+crop AND yield,science,67sq1u,Researchers introduced C4 photosynthesis genes into rice plants and showed that it carried out a rudimentary version of C4 photosynthesis. Engineering C4 photosynthesis into rice could increase crop yield by 50% per hectare.,6,0.85,,1493258444.0,https://www.technologyreview.com/s/535011/supercharged-photosynthesis/
+crop AND yield,science,867mn,Do GM Crops Increase Yield? The Answer is No,9,0.68,,1237566331.0,http://www.inteldaily.com/news/173/ARTICLE/10129/2009-03-20.html
+crop AND yield,science,6qzgv,"Higher CO2 Levels Boosts Crop Yields - Taxing the Gas that Plants Breathe, the New Tyranny",3,0.46,,1215626144.0,http://www.infowars.com/?p=3215
+crop AND yield,science,mbbrdl,"Quantum dots (QDs) are not only about QLED TVs, they are also about enhancing crop yields. QD films were used to down-convert ultraviolet/blue photons to red emissions centered at 600 and 660 nm, resulting in increased biomass accumulation in red romaine lettuce.",3,0.81,,1616495680.0,http://nature.com/articles/s42003-020-01646-1
+crop AND yield,science,b0q37z,Local Rocks Can Yield More Crops | New fertilizer recipes may benefit Africa and South America,1,0.6,,1552504974.0,https://www.scienceandtechnologyresearchnews.com/local-rocks-can-yield-more-crops/
+crop AND yield,science,b99ws,Indian law would make criticizing GM crops an imprisonable offense ,70,0.83,,1267724932.0,http://blogs.healthfreedomalliance.org/blog/2010/03/02/indian-law-would-make-criticizing-gm-crops-an-imprisonable-offense/
+crop AND yield,science,82xg1h,"A temperature change of just a few degrees is “closely related to yield reductions” in some of the most cherished California crops: almonds, wine grapes, strawberries, walnuts, freestone peaches, and cherries. Avocado production could plummet by the middle of the century.",19,0.88,,1520515486.0,https://www.motherjones.com/food/2018/03/strawberries-almonds-climate-change-drought-snowpack-california-yields/
+crop AND yield,science,7cgbz,A decline in bees and other insect populations is yet to impact on global crop yields,0,0.8,,1226326819.0,http://www.abc.net.au/science/articles/2008/11/10/2415186.htm?site=science&amp;topic=latest
+crop AND yield,science,3st0sm,Researchers use satellites to measure a special light emitted by plants to estimate crop yields with more accuracy than ever before. This advance will help scientists study how crops respond to climate change.,0,0.74,,1447525977.0,http://news.stanford.edu/news/2015/november/satellites-monitor-crops-111015.html
+crop AND yield,science,1zirvh,"Crop diversity decline 'threatens food security': fewer crop species are feeding the world than 50 years ago - raising concerns about the resilience of the global food system, a study has shown",34,0.88,,1393932133.0,http://www.bbc.com/news/science-environment-26382067
+crop AND yield,science,9fczgd,Researchers modulate the OsGRF4 gene to breed Improved Green Revolution Variants (GRV) of high-yield crops which use nitrogen more effectively and have a similarly high-yield compared to previous GRVs,0,0.64,,1536796029.0,https://www.nature.com/articles/s41586-018-0415-5
+crop AND yield,science,220cxc,"Climate change is here, now. Will the world act? Crop yields are down, deaths from heat are up. A U.N. panel's report should be a call to action.",4,0.55,,1396443714.0,"http://www.latimes.com/opinion/editorials/la-ed-climate-change-un-ippc-report-20140401,0,7095074.story#axzz2xinRwJ29"
+crop AND yield,science,9btczj,"Global Warming Means More Insects Threatening Food Crops — A Lot More, Study Warns | the rise in insect pest activity would increase wheat yield losses by a median of 46 percent, corn by 31 percent, and rice by 19 percent.",22,0.83,,1535720116.0,https://insideclimatenews.org/news/30082018/insect-damage-agriculture-food-crops-climate-change-wheat-corn-rice-study
+crop AND yield,science,1h1esv,PLOS ONE: Yield Trends Are Insufficient to Double Global Crop Production by 2050,0,0.67,,1372170768.0,http://www.plosone.org/article/info:doi%2F10.1371%2Fjournal.pone.0066428
+crop AND yield,science,rjcce4,Climate impacts on global agriculture emerge earlier in new generation of climate and crop models,6,0.72,,1639848984.0,https://www.nature.com/articles/s43016-021-00400-y
+crop AND yield,science,19geo3,"The decline of wild bees and other pollinators may be an even more alarming threat to crop yields than the loss of honeybees, a worldwide study suggests.",0,0.84,,1362131286.0,http://www.guardian.co.uk/environment/2013/feb/28/wild-bees-pollinators-crop-yields
+crop AND yield,science,gs5kli,"Study: Bt eggplant wins market and farmer acceptance in Bangladesh | Increased yield, income, reduced insecticides",22,0.72,,1590669751.0,https://allianceforscience.cornell.edu/blog/2020/05/study-bt-eggplant-wins-market-and-farmer-acceptance-in-bangladesh/
+crop AND yield,science,k1k9jg,"A team of international scientists have sequenced the genomes for 15 wheat varieties representing breeding programs around the world, enabling scientists and breeders to much more quickly identify influential genes for improved yield, pest resistance and other important crop traits.",3,0.92,,1606414341.0,https://news.usask.ca/articles/research/2020/landmark-study-generates-first-genomic-atlas-for-global-wheat-improvement.php
+crop AND yield,science,2tvinv,"Virginia Tech's international efforts to provide food and water to a growing population: Building capacity in developing nations, helping farmers boost soil productivity and crop yields, developing more resilient crops, overhauling curriculum, and researching ways to use more of the world's water",0,0.6,,1422388187.0,http://www.vtmag.vt.edu/winter15/sowing-the-future-part-two.html
+crop AND yield,science,5p31np,"New computer models predict U.S. crop harvests will be adversely affected by climate change. Scientists found for each additional day with temperatures above 86 degrees Fahrenheit, maize and soybean yields are reduced by 5 percent.",9,0.81,,1484905832.0,https://www.pik-potsdam.de/news/press-releases/harvests-in-the-us-to-suffer-from-climate-change
+crop AND yield,science,4mzgtc,"Researchers have developed rice crops with an improved ability to manage their own pH levels, enabling them to take up significantly more nitrogen, iron and phosphorous from soil and increase yield by up to 54 percent",15,0.87,,1465311835.0,http://phys.org/news/2016-06-scientists-protein-boosts-rice-yield.html
+crop AND yield,science,wrzaib,Food crops made 20% more efficient at harnessing sunlight | Increased photosynthetic efficiency,8,0.92,,1660868215.0,https://www.bbc.com/news/science-environment-62592286
+crop AND yield,science,5yeuy3,"Science AMA Series: I’m Christine Raines, a Professor of Plant Molecular Physiology at the University of Essex. I do research on increasing the efficiency of photosynthesis in wheat. AMA!",73,0.85,"Hi reddit!
 
-\- the farmer had issues growing the field in 2020 and 2021 and the field was more representable of a normal crop from 2022 onward.
+In order to feed a growing population, estimates suggest that world food production must increase by 70% by 2050. Wheat is a major crop grown worldwide and increasing its yields provides an opportunity to meet this demand. My colleagues and I at the University of Essex have worked closely with researchers at Lancaster University and Rothamsted Research to increase wheat yields by improving the efficiency of photosynthesis, where light energy is converted into biomass. We’ve done this by increasing the expression of an enzyme in the photosynthetic process. We will soon begin field trails at Rothamsted to evaluate the performance of the GM wheat in real world conditions.
 
-I bootstrapped the dataset three times (1000 resamples each) to develop a better understanding of the distribution of these data. The first bootstrap used the four datapoints from the original dataset. The second used datapoints from 2021, 2022, and 2023, assuming that 2020 was an outlier. The third replaced 2020 and 2021 datapoints with the average yield of crops in the area (1600 lbs/acre).
+I’m part of the [Sense about Science Plant Science Panel](http://senseaboutscience.org/activities/plant-science-panel/), an online group of over 50 independent plant science researchers. You can ask them any questions to do with plants, food or the environment on Twitter (@senseaboutsci #plantsci) Facebook or via the [website](http://senseaboutscience.org/activities/plant-science-panel/). Answers are sent back within a couple of days and posted online. The Panel has answered close to 400 questions over the last three years and it’s a great way to cut through the noise around what can often be very polarised debates.
 
-With each iteration, the standard error and CIs became smaller and in the third iteration the histogram approached a more normal shape.
+**I'll be back at noon EST to answer your questions, AMA!**",1489063818.0,
+crop AND yield,science,fdn6p6,"Researchers uncover more about how photosynthesis and sugar sensing works in plants in a step which may lead to higher yield transgenic crops and better tools to feed humanity as climate change brings hotter, drier conditions.",2,0.74,,1583370114.0,https://labdownunder.com/a-spotlight-on-photosynthesis-and-higher-crop-yields-in-the-age-of-climate-change/
+crop AND yield,farming,1b2a8ez,Pipelines may have long-term consequences for crop yields,21,0.81,,1709137764.0,https://www.producer.com/news/pipelines-may-have-long-term-consequences-for-crop-yields/
+crop AND yield,farming,1ay8l6z,Obtaining Crop Yield Data for past years? ,10,0.5,I have inherited a few sections in Oklahoma recently and I am concerned that the longevity of these farms is in significant doubt due to climate change. I want to look at the yields on the farms going back as far as I can. Is there a way to access that information through the ag department or something similar? The family member who knew that info has died (hence inheritance) and so has the guy who farmed it up until two years ago so neither of those avenues are available. Thanks! ,1708714713.0,
+crop AND yield,farming,1cj7oca,Satellite images of plants’ fluorescence can predict crop yields,0,1.0,,1714739978.0,https://news.cornell.edu/stories/2024/05/satellite-images-plants-fluorescence-can-predict-crop-yields
+crop AND yield,farming,1b1koav,"Best Definitive Resource(s) on crop yields, fertilizer amounts, and crop quality?",0,0.33,"I'm looking for a way to answer a handful of questions for 1000's of cultivated plants.
 
-**I would like to know if this is a statistically sound method to asses and alter data** (using prior knowledge) to better predict future yields. For this to be a repeatable procedure, I am thinking that standard acceptable values would need to be established. E.g. average yield = 1600 lbs/acre, acceptable 95% confidence interval = 750 lbs/acre, normality of distribution, etc. 
+Some of these plants are rare and are not farmed in vast commercial quantities. (but are still farmed in some quantities and sold) 
+
+I want to know, for a given plant:
+
+* yield per hectacre
+* suggested fertilizer amounts
+* harvesting methods/procedures
+* oil content of seed (if applicable)
+
+It's going to take a long time, but I want to make sure that I have some trusted resources for answering the questions I seek. 
+
+I've collated plenty of weird sources, like [this one](https://www.hort.purdue.edu/newcrop/afcm/meadowfoam.html), or [this one](https://aesl.ces.uga.edu/publications/soil/cropsheets.pdf), that are extremely helpful. But I'm wondering if there's the MEGA PLANT CULTIVATION DATABASE that would have all the plants ever harvested in the world. 
+
+Any help is greatly appreciated!!!",1709062352.0,
+crop AND yield,farming,15q23hm,Consumer prices when crop yields are low,6,1.0,"Help me understand the food supply chain from farmer to consumer, when crop yields are low due to natural disasters, climate, pests, etc and prices at the grocery stores go way up. 
+
+I see news articles about various prices going up, such as orange juice. When a prices go up, let’s say 10%, who in the supply chain gets a portion of that 10% and who looses?
+
+My assumption is that growers would actually lose more money and packaging or bottling company, such as Tropicana, would take the largest % of the price increase. But I don’t know and would love to understand.",1691941283.0,
+crop AND yield,farming,1ab8l45,The future of farming: Maine-developed soil test helps explain unstable crop yields,3,0.89,,1706239418.0,https://dailybulldog.com/outdoors/the-future-of-farming-maine-developed-soil-test-helps-explain-unstable-crop-yields/
+crop AND yield,farming,15ercaq,Estimated Crop Yields for Alberta Versus Final Estimates,0,1.0,,1690835853.0,https://www.dtnpf.com/agriculture/web/ag/blogs/canada-markets/blog-post/2023/07/31/estimated-crop-yields-alberta-versus
+crop AND yield,farming,10sv9d4,Phosphorus shortage could affect worldwide crop yields,1,1.0,,1675458354.0,https://phys.org/news/2023-02-phosphorus-shortage-affect-worldwide-crop.html
+crop AND yield,farming,10kqcfo,[Canada] AAFC's Estimated Crop Yields for 2023,0,1.0,,1674621976.0,https://www.dtnpf.com/agriculture/web/ag/blogs/canada-markets/blog-post/2023/01/24/aafcs-estimated-crop-yields-2023
+crop AND yield,farming,14kprx1,What if the “heat dome” over Texas was over the midwest? What effect on crop yields?,11,0.82,Just curious what you think happens to yields when a major heat wave like the one Texas is experiencing happens where a lot of our cereal crops are grown.,1687900496.0,
+crop AND yield,farming,11m5ldc,Weed-induced crop yield loss: a new paradigm and new challenges (PDF),0,1.0,,1678303780.0,https://www.cell.com/action/showPdf?pii=S1360-1385(22)00337-5
+crop AND yield,farming,1bztodt,Fertilizing my favourite crop,22,0.97,This is cereal rye that I no-tilled after corn silage. We will chop it for silage in the middle of May. Makes excellent heifer feed and the milk cows will get some too. After chopping I will notill soys into this and usually get the same yields as fields that went from corn into soys without the rye in the winter.,1712673231.0,https://www.reddit.com/gallery/1bztodt
+crop AND yield,farming,160jg21,NEW WORLD RECORD SOYBEAN YIELD!!!,60,0.95,"Hey there farmers of Reddit. I'm not sure if you guys heard but there's been just announced a NEW WORLD RECORD in soybean yield!!! Alex Harrell out of Smithville, Georgia broke Randy Dowdy's record of 191 bushels per acre with a astonishing 206.8 bushels per acre. What's your thoughts on this?",1692923131.0,https://i.redd.it/lf0oaoamh5kb1.jpg
+crop AND yield,farming,1812f1e,"In terms of farming, in general which type of crop makes for better yields annuals or perennials?",12,0.31,,1700633286.0,
+crop AND yield,farming,v3y6zk,"Less air pollution leads to higher crop yields, Stanford-led study shows",2,0.55,,1654258937.0,https://news.stanford.edu/press/view/43874
+crop AND yield,farming,1am94cv,Benefitting productivity and the environment: Current and future maize cropping systems improve yield while reducing nitrate load,0,1.0,,1707433707.0,https://acsess.onlinelibrary.wiley.com/doi/10.1002/jeq2.20537
+crop AND yield,farming,9xbpcz,Cover crops reduce nitrates without hurting yield,36,0.96,,1542292601.0,https://www.wallacesfarmer.com/cover-crops/cover-crops-reduce-nitrates-without-hurting-yield
+crop AND yield,farming,1c0db2w,Does crop insurance exist for diverse veg production?,13,0.79,"I run a 50 person CSA with extras for farmer's markets. This year I'm growing about 70 different varieties of all sorts. I've done some discouraging research and read that I need to show a history of yields, but my veg operation is too diverse to have meaningful data. I'm new to the game. Does anyone have any insight on this? Thanks for your time!",1712724641.0,
+crop AND yield,farming,adtfmj,Crop Yields and Taste,3,1.0,,1546947827.0,http://jaysonlusk.com/blog/2019/1/7/crop-yield-and-taste
+crop AND yield,farming,kskdg1,How to reduce soil compaction and optimise crop yields,1,0.67,,1610047002.0,https://www.fwi.co.uk/arable/land-preparation/soils/how-to-reduce-soil-compaction-and-optimise-crop-yields
+crop AND yield,farming,1b62lbt,Are you seeing signs of climate change? How is it affecting you and production?,112,0.69,"I can google the how climate change will affecting farming and find many articles suggesting crop yields will decline, we're at risk of multiple breadbasket failures, floods and drought are damaging crops. But I want to hear from the farmers first hand. Is this what you're experiencing? ",1709528754.0,
+crop AND yield,farming,1aes2c9,Statistics of drought - resistant GMO yields.,1,1.0,"Hello, could anyone point me in a direction of where i can find up - to - date information about how some drought - resistant GM crops have improved yields? Preferably showing effects at a larger scale, for an ""important"" crop like soy, wheat, rice, corn, potatoes etc. Thank you.",1706631173.0,
+crop AND yield,farming,wgc1ct,Lupin used as winter cover crop boosts summer sorghum yield,0,0.84,"Legumes like lupin make nitrogen available in the soil for other plants that would not otherwise have access to it. Due to its resilience, lupin has real potential as a winter cover crop for farmers: [https://www.crops.org/news/science-news/lupin-used-winter-cover-crop-boosts-summer-sorghum-yield](https://www.crops.org/news/science-news/lupin-used-winter-cover-crop-boosts-summer-sorghum-yield)
+
+![img](q5mo4cf2grf91 "" 📸: Bill Anderson
+ "")",1659646671.0,
+crop AND yield,farming,ok4m14,Crop rotation diversity improves yield resilience,3,1.0,,1626270193.0,https://soilsatguelph.ca/rotation-diversity-improves-resilience/
+crop AND yield,farming,17uk96h,Missouri Row Crop,3,1.0,"I am looking at getting into working in ag chemicals in Missouri and was just wondering if anyone that farms in the area could tell me what the typical farming practices are. Is it a lot of tillage or no till? What is your typical chem plan for corn and beans? What weeds are challenging for you? What are your target yields usually?
+
+Thanks for any that are willing to participate.",1699907937.0,
+crop AND yield,farming,5dixfl,Scientists tweak photosynthesis to boost crop yield,6,1.0,,1479423074.0,http://phys.org/news/2016-11-scientists-tweak-photosynthesis-boost-crop.html
+crop AND yield,farming,12uqvu8,So im working on my farm business plan and I cannot for the life of me understand why 95% of farmland around me is corn making a few hundred dollars an acre when theres local farms that are 2-5 acres making closer to 100+k an acre,448,0.78,"Like i genuinely dont understand why you would plant 100 acres of corn when you can plant 20 acres of garlic every year at 8000-10000lbs an acre yield at 8 dollars a pound wholesale to large buyers... like 30000 vs a million...
 
 &amp;#x200B;
 
-\##########################################################################
-
-R Code for First Bootstrap
-
-\##########################################################################
-
-original\_data &lt;- c(305, 861, 1005, 1635)
-
-num\_bootstraps &lt;- 1000
-
-num\_resamples &lt;- length(original\_data)
-
-set.seed(123)
-
-bootstrapped\_datasets &lt;- vector(""list"", num\_bootstraps)
-
 &amp;#x200B;
 
-for (i in 1:num\_bootstraps) {
+EDIT: WAYYYYYYY to many of you are getting hung up on garlic, it was simply an example for the question of why people choose cheap crops over fairly low labour high yield crops. And i wasn't dropped on my head, i know magical garlic buyers dont magically appear and tractors are free",1682128780.0,
+crop AND yield,farming,b9fgrx,Crop Yield in Maize Influenced By Unexpected Gene 'Moonlighting',0,0.67,,1554397774.0,https://seedworld.com/crop-yield-in-maize-influenced-by-unexpected-gene-moonlighting/
+crop AND yield,farming,17fbn8t,2023 National Wheat Yield Contest Winner Bins 211.98 BPA,26,0.95,,1698150631.0,https://www.dtnpf.com/agriculture/web/ag/crops/article/2023/10/23/2023-national-wheat-yield-contest-98
+crop AND yield,farming,10keoo1,Adapting growing seasons to climate change can boost yields of world’s staple crops,0,0.81,,1674590630.0,https://www.cimmyt.org/news/adapting-growing-seasons-to-climate-change-can-boost-yields-of-worlds-staple-crops/
+crop AND yield,farming,p0k4hf,U.S. Soybean Crop Ratings vs. Yield Estimates,1,0.85,,1628447622.0,https://www.dtnpf.com/agriculture/web/ag/blogs/fundamentally-speaking/blog-post/2021/08/06/u-s-soybean-crop-ratings-vs-yield
+crop AND yield,farming,hulk91,Limits of conservation agriculture to overcome low crop yields in sub-Saharan Africa,0,1.0,,1595252970.0,https://www.nature.com/articles/s43016-020-0114-x
+crop AND yield,farming,wmxu4b,U.S. farmers to harvest record soy crop on massive yields - USDA,0,0.6,,1660343124.0,https://www.reuters.com/article/usda-crops/update-1-u-s-farmers-to-harvest-record-soy-crop-on-massive-yields-usda-idUSL1N2ZO1LR
+crop AND yield,farming,f8jhit,Global meta-analysis of the relationship between soil organic matter and crop yields,0,0.75,,1582507594.0,https://www.soil-journal.net/5/15/2019/
+crop AND yield,farming,1argix7,Crop Insurance Costs Projected to Jump 29%,1,1.0,,1708006947.0,https://farmpolicynews.illinois.edu/2024/02/crop-insurance-costs-projected-to-jump-29/
+crop AND yield,farming,sh3ziv,Brazil soybean crop forecasts trimmed as bad weather hurts yields,0,0.76,,1643643300.0,https://www.agriculture.com/markets/newswire/update-2-brazil-soybean-crop-forecasts-trimmed-as-bad-weather-hurts-yields
+crop AND yield,farming,403dl6,"Cover Crops Improve Soil Quality, Crop Yields in Central Kansas Research",2,0.88,,1452291037.0,http://www.no-tillfarmer.com/articles/5347-cover-crops-improve-soil-quality-crop-yields-in-central-kansas-research
+crop AND yield,farming,14g87v7,Are there laws protecting farmers crops? What can be done about destroyed crops?,3,0.29,"I know 0% about farming aside from taking care of animals but what can be done for the farmers if say, someone were to deliberately destroy someone’s crops by either fire, poison, machine, etc? Say the local methhead decided to run through your corn field dousing everything in gasoline rendering the whole yield useless. What can be done about that if anything? Or say a jealous neighbor near by comes and plows through your whole vegetable field in the night, there goes your pay! Justice has to be served right??",1687451844.0,
+crop AND yield,farming,sy78rb,Argentine crops could keep losing yield until March due to drought,0,0.88,,1645484323.0,https://www.agriculture.com/markets/newswire/argentine-crops-could-keep-losing-yield-until-march-due-to-drought-exchange
+crop AND yield,farming,idn3ix,Square baling Timothy hay with JD 4430 and 346 to go to Japan. Crop yielding about 4 metric tons/acre,2,0.97,,1597972275.0,https://v.redd.it/bf2ykibz99i51
+crop AND yield,farming,14g87yu,Are there laws protecting farmers crops? What can be done about destroyed crops?,1,0.4,"I know 0% about farming aside from taking care of animals but what can be done for the farmers if say, someone were to deliberately destroy someone’s crops by either fire, poison, machine, etc? Say the local methhead decided to run through your corn field dousing everything in gasoline rendering the whole yield useless. What can be done about that if anything? Or say a jealous neighbor near by comes and plows through your whole vegetable field in the night, there goes your pay! Justice has to be served right??",1687451862.0,
+crop AND yield,farming,7s5ueb,New research shows cover crops support higher yields,18,0.98,,1516628921.0,https://www.realagriculture.com/2018/01/new-research-shows-cover-crops-support-higher-yields/
+crop AND yield,farming,tkhx1a,2021 Corn and Soybean Yields: Implications for Crop Insurance and Commodity Title payments,0,0.67,,1647996681.0,https://farmdocdaily.illinois.edu/2022/03/2021-corn-and-soybean-yields-implications-for-crop-insurance-and-commodity-title-payments.html
+crop AND yield,farming,3gmb2a,A Review of USDA Crop Yield Forecasting Methodology,1,0.8,,1439315772.0,http://farmdocdaily.illinois.edu/2015/08/review-usda-crop-yield-forecasting-methodology.html
+crop AND yield,farming,s38w1b,Brazil soy crop estimate cut as yields forecast to reach 6-year low,0,1.0,,1642105848.0,https://www.agriculture.com/markets/newswire/update-2-brazil-soy-crop-estimate-cut-as-yields-forecast-to-reach-6-year-low
+crop AND yield,farming,ogumid,"Farmers Willing to Spend Money on Crops if Yield Potential, ROI Are Promising",6,1.0,,1625834055.0,https://www.dtnpf.com/agriculture/web/ag/crops/article/2021/07/05/farmers-willing-spend-money-crops
+crop AND yield,farming,14jv8cs,How do farmers decide which crop is best to grow?,14,0.78,"I'm not a farmer or know much about farming but I had a question come up about how farmers decide which crops would be best for them to grow. I would guess that they obviously take into account cost of growing, price to sell for and rough yield but how do you determine what's best for a particular field? I heard that you can hire someone to professionally evaluate a field, but I wonder how they would do that and what tools are used; are measurements taken of soil nutrients and water content? Is that something farmers often do themselves? Is it really expensive to hire someone to do that? I also heard that sometimes after crops are planted some farmers will send destructive samples to a lab to assess plant health. What are the benefits / drawbacks of this and is this expensive? 
 
-  bootstrap\_sample &lt;- sample(original\_data, size = num\_resamples, replace = TRUE)
+Thanks in advance for any answers; I am very curious and know that a lot of farmers put a lot of thought into this kind of stuff.",1687818039.0,
+crop AND yield,farming,sh2e9y,AgRural trims Brazil's soybean crop forecast as yields seen at 6-year low,0,0.81,,1643639014.0,https://www.nasdaq.com/articles/agrural-trims-brazils-soybean-crop-forecast-as-yields-seen-at-6-year-low
+crop AND yield,farming,3zgyql,Peptide study suggests crop yields can be increased without more fertilizer,3,0.91,,1451945622.0,http://farmprogress.com/story-peptide-study-suggests-crop-yields-increased-without-more-fertilizer-8-135758
+crop AND yield,farming,jwu1c7,"Small coffee growers in Kenya are able to increase crop yields significantly by following simple guidelines, such as proper pruning, but many don't, because it seems counterintuitive.",8,0.66,,1605752433.0,https://en.wikipedia.org/wiki/Agriculture_in_Kenya#Coffee
+crop AND yield,farming,5iqtk4,Study shows wheat crop yield can be increased by up to 20% using new chemical technology,5,0.64,,1481923445.0,http://www.ox.ac.uk/news/2016-12-15-study-shows-wheat-crop-yield-can-be-increased-20-using-new-chemical-technology
+crop AND yield,farming,6mt67t,How to calculate or estimate yield per area of a certain crop.,16,0.92,"Hello, I am an architecture student currently researching on urban farming. I am here to ask, how do you calculate for the yield per area of a certain crop.    
+Listed here are the crops that I need the data of yield per square meter.   
+squash    
+turnips   
+baby carrot    
+Tomato   
+eggplant   
+I have tried researching online but they are not really that consistent.   ",1499856915.0,
+crop AND yield,farming,425rr7,Increasing pollinator numbers and diversity a possible way to increase crop yields,1,0.86,,1453473423.0,http://phys.org/news/2016-01-pollinator-diversity-crop-yields.html
+crop AND yield,farming,7rtfgi,This lab uses microbes as a natural fertilizer to increase crop yield and stress tolerance,0,1.0,,1516485346.0,https://www.youtube.com/watch?v=kHJh3SGnaGA&amp;t=2s
+crop AND yield,farming,eus0h3,Minimize yield-limiting factors for a winning corn crop,0,0.67,,1580149639.0,https://www.agrinews-pubs.com/2020/01/23/minimize-yield-limiting-factors-for-a-winning-corn-crop/ajrrjvv/
+crop AND yield,farming,x7xwnr,"What part of the world are you in, and how are your crops doing this year?",46,0.82,"I keep reading about potential food shortages in the US due to drought conditions. I'm hoping to hear ""straight from the farmer's mouth"". What crops are you growing and what are your projected yields compared to last year.
 
-  bootstrapped\_datasets\[\[i\]\] &lt;- bootstrap\_sample
+I am not a farmer but would like to get a sense of just how bad things are in the US and abroad. 
 
-}
+Thanks in advance and thank you for all of your hard work. My tummy appreciates each and every one of you.",1662532815.0,
+crop AND yield,farming,470rr2,Startup Bets Its Magic Touch on Seeds Can Boost Crop Yields,0,0.67,,1456146974.0,https://www.technologyreview.com/s/600831/startup-bets-its-magic-touch-on-seeds-can-boost-crop-yields/
+crop AND yield,farming,18vvokh,Happy New Year!,19,1.0,"May your crops yield, your animals healthy, and your prices profitable!",1704111590.0,
+crop AND yield,farming,z1aojr,What's your opinion of regenerative farmers like Gabe Brown?,80,0.96,"He promotes the idea of using cover crops with lots of diverse species, minimal tilling, and seems to have weened himself almost completely off of herbicides, fungicides, and pesticides while making a profit.
 
-&amp;#x200B;
+Quote I found online sums it up:
 
-bootstrap\_means &lt;- sapply(bootstrapped\_datasets, mean)
+&gt;Today, 20 years later, Brown has a highly successful 5000 acre ranch with crop yields 20-25 percent higher than the average yields in his county. His soil organic matter increased from 1.9 in 1991 to 6.1% and that has increased its water-infiltration rates tremendously. He was seeing rates of 1/2 inch per hour in 1991. Today it is 8 inches per hour. He also has done in-depth testing of his soil’s carbon-retention rates. His soils have 96 tons of carbon per acre in the top 48 inches. 10 to 30 tons of stored carbon is what is typical on conventionally farmed soils in the same region.",1669065735.0,
+crop AND yield,farming,tuu4wi,People riding atv in recently planted crops 🤦‍♂️,23,0.95,,1648935965.0,https://v.redd.it/d31oip4or6r81
+crop AND yield,farming,4z84j3,Commercial Crop Yields Reveal Strengths and Weaknesses for Organic Agriculture in the United States,2,0.73,,1471978699.0,http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0161673
+crop AND yield,farming,1xzeqp,Using satellites and software to conserve water and maximize crop yield,0,0.87,,1392476102.0,http://agfundernews.com/from-space-to-software-hydrobio-saas-furthers-water-sustainability.html
+crop AND yield,farming,3uuoy2,Harnessing a Peptide Holds Promise for Increasing Crop Yields without More Fertilizer,0,1.0,,1448891945.0,https://www.umass.edu/newsoffice/article/harnessing-peptide-holds-promise
+crop AND yield,farming,q9kr9c,I’m not a very knowledgeable person when it comes to farming. How do farmers survive when they have unsuccessful yields (they lose money) from their crops? What typically happens?,31,0.79,,1634418843.0,
+crop AND yield,farming,1benq0n,Effect of residual nitrate on N-fixation in pulse crops – will too much N hinder or help?,3,0.75,,1710429733.0,https://swatmaps.com/2024/01/31/effect-of-residual-nitrate-on-n-fixation-in-pulse-crops-will-too-much-n-hinder-or-help/
+crop AND yield,farming,j12n5u,"Four years ago I lost my dad, five days ago would have been his 50th birthday. Today I turned 29. This is my first crop that I am about to combine this AM. It was a good day. Good yield too.",10,0.99,,1601255145.0,https://i.redd.it/o1vy3xw3gsp51.jpg
+crop AND yield,farming,b10pqo,Sequenced genome of ancient crop could raise yields,0,1.0,,1552572234.0,https://news.unl.edu/newsrooms/today/article/sequenced-genome-of-ancient-crop-could-raise-yields/
+crop AND yield,farming,7ymslw,Rye cover crop impact on nitrogen leaching and corn yield,4,0.86,,1519048639.0,http://www.cornandsoybeandigest.com/cover-crops/rye-cover-crop-impact-nitrogen-leaching-and-corn-yield
+crop AND yield,farming,xgaz5y,Why do some bigger farmers always seem to have good crops and other bigger farmers down the road always seem to have bad crops?,17,0.92,,1663384012.0,
+crop AND yield,farming,hrzfqn,"Why grow GMOs? Over 23 years, biotech crops boosted farm income $225 billion, cut pesticide use and slashed carbon emissions",103,0.89,,1594858587.0,https://geneticliteracyproject.org/2020/07/15/why-grow-gmos-over-23-years-biotech-crops-boosted-farm-income-225-billion-cut-pesticide-use-and-slashed-carbon-emissions/
+crop AND yield,farming,a99cis,Kenyan farmers gear up for biotech crops to boost yields,2,0.91,,1545689801.0,https://www.newsghana.com.gh/kenyan-farmers-gear-up-for-biotech-crops-to-boost-yields/
+crop AND yield,farming,48gt8z,Future Grains: How NASA new method to predict crop yields can help stabilize global rice markets,0,0.72,,1456844234.0,http://www.nasa.gov/offices/oct/feature/future-grains
+crop AND yield,farming,r0vmom,In search of crop management software for a small orchard,14,0.92,"Pretty much what the title says. 
 
-bootstrap\_standard\_errors &lt;- sapply(bootstrapped\_datasets, function(x) sd(x) / sqrt(length(x)))
+I'm looking for something that's preferably self-hosted where we can track our trees on a 25 acre orchard.
 
-overall\_mean &lt;- mean(bootstrap\_means)
+by track, i think of everything from how we're caring for them to what their yields are each time they're harvested.",1637725761.0,
+crop AND yield,farming,q3qad3,Suggestions on crops to grow,10,0.9,"Hi, I'm not sure whether my post will attract the required input, but nonetheless. My farm is in a hot arid climate all the way in Pakistan. There is no issue of water supply, adequate machinery etc. I've tried my hand at growing maize, sugarcane, and rice previously. Apart from sugarcane, none of them have returned amazing yields and returns, and i have to switch over to something new.
+ Could anyone here kindly suggest any other crops i should try out now, or other farming techniques?
 
-conf\_interval &lt;- quantile(bootstrap\_means, c(0.025, 0.975))
+Any additional information required will also be provided.",1633667111.0,
+crop AND yield,farming,jbze83,Are farm yields decreasing?,18,0.8,"Disclaimer:  I am not a farmer, but I would like the perspectives of some farmers, or people who are familiar with the state of farming today.  
 
-&amp;#x200B;
+I've been getting more and more interested in permaculture, and have been listening to related podcasts.  During one, a guest claimed that it's getting harder and harder for farmers, particularly small farmers, to turn a profit.  He suggested that this is because modern agriculture is relatively brittle, and that this brittleness means that disturbances like extreme weather events and continuing environmental degradation (such as depleting soil quality) is either reducing yields or making them less reliable.   
 
-par(lwd = 2)  # Set default line width
+However, this is the only place I've heard of this.  Is it true, or is it garbage?  Are yields declining and/or crop failures becoming more common?",1602806946.0,
+crop AND yield,farming,51f76x,New Insights on Organic and Non-Organic Crops: USDA Data Show Organics Average 67% of Yield of Non-organics,22,0.89,,1473168637.0,https://tdaynard.com/2016/09/06/new-insights-on-organic-and-non-organic-crops-usda-data-show-organics-average-67-of-yield-of-non-organics/
+crop AND yield,farming,7tw3cl,Dealing With Early Weeds Can Yield Big Returns in Corn Crops,3,0.88,,1517264331.0,https://www.country-guide.ca/2018/01/29/dealing-with-early-weeds-can-yield-big-returns-in-corn-crops/52461/
+crop AND yield,farming,shj5xi,Benefits of adding wheat to regular crop rotation,5,0.85,,1643681365.0,https://www.wlfi.com/news/benefits-of-adding-wheat-to-regular-crop-rotation/article_f2b1da4e-82bc-11ec-863c-37e2726dc468.html
+crop AND yield,farming,136z33r,[Ontario] Can I reduce greenhouse gas emissions in my corn crop and increase profitability?,3,0.63,,1683146974.0,https://fieldcropnews.com/2023/05/can-i-reduce-greenhouse-gas-emissions-in-my-corn-crop-and-increase-profitability/
+crop AND yield,farming,svv4o2,Yinz got any predictions for the 2022 corn and soybean yield?,4,0.5,"Not too familiar with soy beans. I think corn will be a bumper crop
 
-hist(bootstrap\_means, main = ""Bootstrapped Yield Histogram - Capitol"",
+Edit: Midwestern US",1645225586.0,
+crop AND yield,farming,awwc4n,Effect of Seed Treatment and Foliar Crop Protection Products on Sudden Death Syndrome and Yield of Soybean,2,0.96,,1551635071.0,https://apsjournals.apsnet.org/doi/abs/10.1094/PDIS-12-18-2199-RE
+crop AND yield,farming,n7olbc,Alternatives to Clover in Cover Crop System,10,1.0,"I am looking to adjust my cover crop system a bit and would like some ideas from folks if you have any.
 
-xlab = ""Mean"", ylab = ""Frequency"", col = ""grey"", border = ""black"", xlim = c(0, 2300), ylim = c(0, 400))
+Currently corn, soybean, oat rotation.
 
-abline(v = overall\_mean, col = ""dark blue"", lty = 2, lwd = 2)  # Dashed line for the mean of the means
+Oats is under-seeded with medium red clover at planting, corn is inter-seeded with medium red clover at V4, bean ground is drilled with rye/radish/rape after harvest.
 
-arrows(overall\_mean - mean(bootstrap\_standard\_errors) / 2, 20, overall\_mean + mean(bootstrap\_standard\_errors) / 2, 20, angle = 90, code = 3, length = 0.05, lwd = 2, col = ""red"")
+As you can tell, I’m very heavy on the clover, I like the results I get, but it is difficult to terminate at times and I would like to have something else in the mix for variety and improved soil health.  What are some alternatives to the clover, especially for the corn inter-seeding?   Those of you who are using covers in corn, what kind of mix are you using and how are you managing it?
 
-abline(v = conf\_interval, col = ""green"", lty = 2, lwd = 2)
+Weather and temp wise, this is southern Minnesota, USDA Zone 4B. 
 
-legend(""topright"", legend = c(""Standard Error"", ""Mean of Means"", ""95% CI""), lwd = c(2, 2, 2), col = c(""red"", ""blue"", ""green""), lty = c(1, 2, 2), cex = 0.7, bty = ""n"", x.intersp = 1.5, y.intersp = 1.5)",
-1cq34tn,"Scientists unlock cyanobacteria's carbon secrets, may enable 'vastly improved crop yields'",3,0.99,,https://phys.org/news/2024-05-scientists-key-carbon-gobbling-major.html
-5a5qta,Doubts About the Promised Bounty of Genetically Modified Crops: genetic modification in the United States and Canada has not accelerated increases in crop yields or led to an overall reduction in the use of chemical pesticides.,217,0.81,,http://www.nytimes.com/2016/10/30/business/gmo-promise-falls-short.html
-1cad5mg,Potassium depletion in soil threatens global crop yields,2,0.83,,https://www.ucl.ac.uk/news/2024/feb/potassium-depletion-soil-threatens-global-crop-yields
-17kex4v,crop yields,2,0.5,,https://harisharandevgan.com/smart-farming-using-data-analytics-to-improve-crop-yields/
-wlccxy,'Crop yields will suffer': Fertilizer reduction targets pitting farmers against federal government (CA),114,0.75,,https://www.yahoo.com/now/crop-yields-suffer-fertilizer-reduction-113843757.html
-18e74pq,Maximum crop yields,0,1.0,The soil can grow multiple crops in one patch (bug),https://i.redd.it/5rr67ap9o75c1.jpg
-1ca5jje,Potassium depletion in soil threatens global crop yields,0,1.0,,https://www.ucl.ac.uk/news/2024/feb/potassium-depletion-soil-threatens-global-crop-yields
-17h4tja,"What does ""crop yield"" mean?",7,1.0,"I assume that the higher the percentage, the more resources each tile yields, but I swear grapes yield more than wheat even though they have the same value.",
-1cj7oca,Satellite images of plants’ fluorescence can predict crop yields,0,1.0,,https://news.cornell.edu/stories/2024/05/satellite-images-plants-fluorescence-can-predict-crop-yields
-18mujk7,How to boast about your crop yield as a successful cherry farmer,5,0.98,,https://i.redd.it/ka0tavnebg7c1.jpeg
-192k884,"Finally got the beet in, happy with the crop yield.",8,0.97,🚜,https://www.reddit.com/gallery/192k884
+Just looking for some food for thought, thanks!",1620478271.0,
+crop AND yield,farming,ckdiq5,Effect of Seed Treatment and Foliar Crop Protection Products on Sudden Death Syndrome and Yield of Soybean,0,0.5,,1564602948.0,https://apsjournals.apsnet.org/doi/10.1094/PDIS-12-18-2199-RE
+crop AND yield,farming,pa1cc0,"Recently inherited a farm from a relative, no idea what I'm doing and have some questions.",40,0.93,"I recently inherent a farm from a relative. It was a special place to me in my youth and want to keep it in the family. I myself am no farmer and know nothing of managing one.  I live to far from it to take on any of the responsibilities myself other than managing from a distance.  I have some questions and was hoping some of you could give me a head start? 
+
+1. How do I find someone in the local area to do the actual farming for me? 
+2. How do the usual sharing or profits between farmer and land owner work? 
+3. What financial considerations do I need to be aware of? 
+4. How do I calculate how much the land/crop yield I can make v the cost of the property/land
+5. How do I decide what crop is best? I believe this farm in the past generally rotated between soy and field corn. 
+
+Ultimately my goal is to make enough on the crop yields to cover the cost of the property/property taxes. Again a calculation question? How do I figure those sorts of things out. 
+
+What else am I missing that I need to consider? 
+
+Thank you",1629730167.0,
+crop AND yield,farming,peg2tg,"The Green Revolution was built on manipulating genes to breed higher-yielding, disease resistant crops. Here's an ode to one of its pioneers, Sanjaya Rajaram",0,0.85,,1630322396.0,https://geneticliteracyproject.org/2021/05/05/the-green-revolution-was-built-on-manipulating-genes-to-breed-higher-yielding-disease-resistant-crops-heres-an-ode-to-one-of-its-pioneers-in-emembering-world-food-prize-laureate-sanjaya-rajaram-s
+crop AND yield,farming,9k6qix,Pesticidal Plant Extracts Improve Yield and Reduce Insect Pests on Legume Crops Without Harming Beneficial Arthropods,1,0.84,,1538317726.0,https://www.frontiersin.org/articles/10.3389/fpls.2018.01425/full
+crop AND yield,farming,ep3wk5,"Researchers Move Closer to Developing Nitrogen-Fixing Cereal Crops- Crop Biotech Update (January 15, 2020)",9,0.75,,1579103097.0,http://www.isaaa.org/kc/cropbiotechupdate/article/default.asp?ID=17916#.Xh8foHB3w_E.twitter
+crop AND yield,farming,ohaqax,"The obligatory harvest post: PART 2…how a farmer feels when the wheat’s test weight, protein and yield dramatically improves on the next field. (Sound on!!!)",35,0.98,,1625886366.0,https://v.redd.it/d3856c2cxaa71
+crop AND yield,farming,oay48o,Tile drainage impacts yield and nitrogen,1,0.86,"Draining waterlogged farm fields helps crops but can leach nitrogen into waterways. A three-decade-long experiment is helping farmers strike the right balance when using tile drains. Read more: [https://www.agronomy.org/news/science-news/tile-drainage-impacts-yield-and-nitrogen?utm\_source=facebook&amp;utm\_medium=c586e982-18c2-42e5-960b-2ca098783c78](https://www.agronomy.org/news/science-news/tile-drainage-impacts-yield-and-nitrogen?utm_source=facebook&amp;utm_medium=c586e982-18c2-42e5-960b-2ca098783c78)
+
+[ 📸: J. Kjaersgaard](https://preview.redd.it/q8uvn60sue871.png?width=1200&amp;format=png&amp;auto=webp&amp;s=ccf470be616f0d8ee6b6cb57a4feb68b5ec526b4)",1625062227.0,
+crop AND yield,farming,b8ihhy,"Yield trends, variability and stagnation analysis of major crops in France over more than a century",0,0.81,,1554207621.0,https://www.nature.com/articles/s41598-018-35351-1
+crop AND yield,farming,wyio18,Smallest US Corn Crop Since 2019 Signals Higher Food Costs Ahead,2,0.85,,1661543896.0,https://www.bloomberg.com/news/articles/2022-08-26/smallest-us-corn-crop-since-2019-signals-higher-food-costs-ahead
+crop AND yield,farming,3t7hzo,Study shows how crop prices and climate variables affect yield and acreage,1,0.6,,1447794797.0,http://phys.org/news/2015-11-crop-prices-climate-variables-affect.html
+crop AND yield,farming,15thexi,Advances in the field of agriculture since 2005,36,0.33,"Since 2005, the field of agriculture has undergone notable advancements, marked by the convergence of technological, scientific, and sustainable practices. This period has witnessed a profound transformation in various domains of agricultural science and practice, driven by advancements in genomics, precision agriculture, agroecology, biotechnology, and digital innovation. These developments have collectively propelled agriculture towards enhanced productivity, resource efficiency, environmental stewardship, and global food security.
+
+Genomic advancements have engendered a paradigm shift in crop breeding and improvement. High-throughput sequencing technologies, coupled with bioinformatics tools, have expedited the identification and manipulation of key genetic traits governing yield, disease resistance, and stress tolerance. The advent of genome editing techniques, particularly CRISPR-Cas9, has facilitated precise and targeted genetic modifications, enabling the creation of novel crop varieties with enhanced traits, while mitigating the controversy associated with transgenic approaches.
+
+Precision agriculture has emerged as a pivotal strategy for optimizing resource allocation and crop management. Integration of remote sensing, Geographic Information Systems (GIS), Global Positioning System (GPS), and Internet of Things (IoT) technologies has enabled real-time monitoring of field conditions, pest outbreaks, and nutrient levels. Data-driven decision support systems have empowered farmers to tailor interventions with unprecedented accuracy, minimizing input wastage, reducing environmental impact, and augmenting yield.
+
+Agroecology has gained traction as a holistic and sustainable approach to farming. Fostering synergistic interactions between ecological processes and agricultural systems, agroecology promotes biodiversity, soil health, and ecosystem resilience. Incorporation of cover crops, crop rotation, and intercropping practices has enriched soil organic matter, curtailed erosion, and curbed reliance on chemical inputs. This systems-oriented approach prioritizes resilience and adaptability in the face of climate variability and changing pest dynamics.
+
+Biotechnology has experienced notable progress, characterized by novel biopesticides, biofertilizers, and biofortified crops. Harnessing the potential of beneficial microorganisms and naturally occurring compounds, these bioproducts offer sustainable alternatives to conventional agrochemicals, curtailing environmental contamination and reducing ecological imbalances. Additionally, biofortification initiatives have yielded crops with enhanced nutritional profiles, addressing malnutrition and enhancing food security, particularly in vulnerable populations.
+
+Digital innovation has revolutionized agricultural management through platforms like farm management software, predictive analytics, and blockchain technology. These tools facilitate data integration, supply chain traceability, and market access, enhancing transparency and accountability. Blockchain, in particular, has the potential to curb fraud and ensure fair compensation, particularly in complex global value chains.
+
+These developments have collectively driven the trajectory of agriculture towards increased productivity, reduced environmental impact, and improved global food security, underscoring the significance of interdisciplinary collaboration and innovation in shaping the state of the art in agriculture.",1692261381.0,
+crop AND yield,farming,cbfrv6,History of rainfall and wheat yield since 1956 from our family farm in South Australia,28,1.0,,1562759663.0,https://v.redd.it/3ahb3qrurg931
+crop AND yield,farming,vy30n8,Minnesota man accused of falsely selling crops as organic,5,0.83,,1657718207.0,https://www.kfyrtv.com/2022/07/13/minnesota-man-accused-falsely-selling-crops-organic/
+crop AND yield,farming,16sy4kk,Getting started farming,49,0.77,"Hello all and thanks in advance for reading any and all advice is greatly appreciated. So my grandparents recently passed and left all their assets to my brother sister and I. We are located in central Ohio and of these assets,  We inherited about 400 acres, 350 of which is tillable. We have always cash rent the land and it is always planted corn or beans. The land is zoned free and clear I have been extremely interested in farming my whole life. I also inherited about a $150,00. I am wanting to get into farming the land myself, and was wondering the best way to go about it should I buy a combine first with a corn head and being head then hire someone else to plant in the spring, and then harvest in the fall? All the while saving money to buy a tractor and planter? What kind of money can you make per acre? I know obviously depends on how well the crops yielding and what not, but was just curious on a ballpark thank you all in advance.",1695758221.0,
+crop AND yield,farming,3rrfdv,"Can small communities tackle global food security? - Climate change has profound impacts on growing seasons and crop yields, but local solutions have promise.",0,0.6,,1446817272.0,http://www.hcn.org/articles/can-small-communities-tackle-food-security
+crop AND yield,farming,197fab4,Net profit per for corn,62,0.91,"I did a rough calculation of the input costs on 10 acres or corn. 
+$2,000 chemicals
+$2,000 fertilizer - 200lbs per acre
+$640 seed - 4 units of FBN 101 day 
+$600 labor - $10 per acre plant and tillage, $20 per acre chemical application and harvest. 
+Input cost of $5280.
+
+150 bushel yield sold at $4 a bushel is $6,000
+
+Net profit per acre is $72 an acre.
+
+Is this close to reality, good, bad, reasonable?
+
+Got the seed and chemical prices from FBN website, fertilizer costs from local dealer. Land is owned, all crop work is hired.
+
+Edit: I'm basically just trying to see if my prices are somewhat realistic and $70ish per acre profit is realistic. Obviously a huge difference between 10 acres and 1000 acres.",1705341962.0,
+crop AND yield,farming,3rcw23,Breeding higher yielding crops by increasing sugar import into seeds,0,0.75,,1446562239.0,http://www.agprofessional.com/news/breeding-higher-yielding-crops-increasing-sugar-import-seeds
+crop AND yield,farming,18nmxx1,I need some help understanding liquid fertilizer (in large scale operations),21,0.64,"Hi folks!
+
+I am just getting up and running bringing a new fertilizer mixing technology to market (it’s a post processing step after aggregation mixing of solid compounds salts such as NPK &amp; urea with water). Effectively it breaks down the suspended salts in the water solution finer and in a more consistent way; this leads to increased absorption, higher crop yields, and less runoff (through a lower surface tension of the mixed solution). 
+
+Anyway, feel like I am sitting on a mountain of really not knowing anything about fertilizer’s application or when different types of fertilizers are used for what species.
+
+When is liquid fertilizer (of a NPK or similar blend) utilized over a solid fertilizer?
+
+Do you receive the liquid fertilizer (of NPK or similar type) pre-mixed in liquid or do you make it onsite?
+
+Any help would be most appreciated. 
+
+I am pretty new to this game so please go easy on me!",1703165021.0,
+yield AND wheat AND USA,farming,x5t4rm,"The United States produces almost 50% less wheat per hectare than China, and China produces 50% less/hectare than the Netherlands. Why is the US so inefficient? Could US farmers get the yield of Dutch farmers?",101,0.83,[Production Stats](https://ourworldindata.org/grapher/wheat-yields?tab=chart&amp;country=FRA~IND~NLD~DEU~MEX~OWID_WRL~CHN~USA).,1662313975.0,
+crop AND yield,ireland,p5nl08,Irish farmers widely using ﻿glyphosate (roundup) to ripen their food crops,241,0.82,"I was curious why farmers were spraying for weeds late this summer, days/week before it would be time to cut wheat, barley and rapeseed. All for human consumption. I spoke to one farmer and he told me it was glyphosate (roundup), that it helps ripen the crop and reduce moisture content. My jaw nearly hit the floor. In America Bayer agreed to $10 billion to settle existing Roundup suits and we're spraying it on our food!
+
+* [https://www.farmersjournal.ie/tillage-management-using-pre-harvest-glyphosate-smartly-639371](https://www.farmersjournal.ie/tillage-management-using-pre-harvest-glyphosate-smartly-639371)
+* [https://www.nytimes.com/2020/06/24/business/roundup-settlement-lawsuits.html](https://www.nytimes.com/2020/06/24/business/roundup-settlement-lawsuits.html)
+
+It looks like farmers are saying it's for weed control, but [teagasc](https://www.teagasc.ie/media/website/publications/2017/TillageNews-July2017.pdf) post instructions with titles like ""**Is my crop ready for glyphosate? ""** . Even the farmers journal wrote an article trying to tell farmers to cop on. And From my inquiries the practice the done thing for tillage farms in Ireland.
+
+**Edit:** It looks like the comments have been taken over by folks from outside of /r/Ireland who spend all day posting positive things about ﻿glyphosate, claiming there is no science showing ﻿glyphosate's are harmful. While I agree this isn't settled science yet, there ARE studies and evidence from reputable journals and studies that do link it to cancer.
+
+\&gt; Guyton  KZ, Loomis D, Grosse Y, El Ghissassi F, Benbrahim-Tallaa L, Guha N,  Scoccianti C, Mattock H, Straif K (May 2015). ""Carcinogenicity of  tetrachlorvinphos, parathion, malathion, diazinon, and glyphosate"". The  Lancet. Oncology. 16 (5): 490–91. doi:10.1016/S1470-2045(15)70134-8.
+
+\&gt; ""Glyphosate"" ([PDF](https://monographs.iarc.fr/wp-content/uploads/2018/06/mono112-10.pdf)).  IARC Monographs on the Evaluation of Carcinogenic Risks to Humans.  International Agency for Research on Cancer. 112. August 11, 2016.
+
+\&gt; Cressey D (March 25, 2015). ""Widely used herbicide linked to cancer"". Nature. doi:10.1038/nature.2015.17181
+
+Additional glyphosate (roundup) use during late summer, beyond killing weeds (herbicide), as a ""desiccant"" used to ripen the crop, rather than to kill weeds and boost yields. This use case is a convenience to farmers rather than a necessary use; shouldn't we make sure its safe before we use it for this?",1629143278.0,
+crop AND yield,ireland,uuju1a,"Climate Change, are you worried?",219,0.76,"[https://www.thejournal.ie/spain-heatwave-5769432-May2022/](https://www.thejournal.ie/spain-heatwave-5769432-May2022/)
+
+[https://www.bbc.com/news/world-asia-india-61242341](https://www.bbc.com/news/world-asia-india-61242341)
+
+[https://www.france24.com/en/environment/20220519-france-s-crop-yields-will-be-very-poor-due-to-unprecedented-drought](https://www.france24.com/en/environment/20220519-france-s-crop-yields-will-be-very-poor-due-to-unprecedented-drought)
+
+Just thought I'd brighten up your weekends with some doommongering. 
+
+It looks like climate change is kicking in at the moment with unprecedented extreme Spring heatwaves in Europe and India/Pakistan already. Crops are failing around the world because of strange weather patterns and this will lead to huge migration of people in future which will cause all kinds of political problems. 
+
+We will feel the consequences of this in Ireland too given we are a net importer of food, and even our farmed animals rely on imported grains somewhat, especially pigs and chickens. 
+
+I'm 41, my gf wants to have a kid, but I am terrified of the world we'd be bringing them into. 
+
+What's it like to be a young person with all this ahead of us? Do you see any hope?
+
+Governments only want to follow the capitalist machine, and the general population go nuts if any kind of measures that will inconvenience them are announced. 
+
+The fact is we would all have to take a pretty big hit on our opportunities and how we consume if we are to make any meaningful differences. 
+
+The climate is also linked to the destruction of every last bit of the natural world. The Amazon will probably be gone in my lifetime, in Ireland all the metrics when it comes to ecology are getting worse, water quality, birds, insects etc. 
+
+It's not looking good is it?
+
+Happy Saturday!",1653126372.0,
+crop AND yield,ireland,8w2rf5,"A Bleak, Or Sun-Bleached ,Outlook",10,0.55,"The year is 2028. Today is not only the 10th anniversary of the last drop of rain to fall on Irish soil, but also the opening ceremony of the first of a row of Desalination plants. Finally, after 6 years without fresh water, the Capital is swarmed by hundreds of thousands of refugees returning home, celebrating with freshly brewed pints and water fights.
+
+The year is 2026. Work has finally begun on a Desalination Plant for the greater Dublin area. Although it had been the aim of huge protests to get one built, the final push that sped up negotiations seems to have been that, after 4 years without running water anywhere else in the capital, there were no longer free pints to be had in the Dail's Private Bar.
+
+The Year is 2020. After 2 years of drought on the formerly Green Isle, the Sahara Desert has finally surpassed Ireland in terms of Annual Crop Yield.
+
+The year is 2018. The population of Ireland is stuck in a seemingly endless cycle of being excited to go to the beach, getting sunburnt, then complaining about the heat for the rest of the day before going out again the next day. Only a choice few Enlightened individuals are using their time to prepare what is to come.",1530720432.0,
+yield AND wheat AND ireland,ireland,p5nl08,Irish farmers widely using ﻿glyphosate (roundup) to ripen their food crops,241,0.82,"I was curious why farmers were spraying for weeds late this summer, days/week before it would be time to cut wheat, barley and rapeseed. All for human consumption. I spoke to one farmer and he told me it was glyphosate (roundup), that it helps ripen the crop and reduce moisture content. My jaw nearly hit the floor. In America Bayer agreed to $10 billion to settle existing Roundup suits and we're spraying it on our food!
+
+* [https://www.farmersjournal.ie/tillage-management-using-pre-harvest-glyphosate-smartly-639371](https://www.farmersjournal.ie/tillage-management-using-pre-harvest-glyphosate-smartly-639371)
+* [https://www.nytimes.com/2020/06/24/business/roundup-settlement-lawsuits.html](https://www.nytimes.com/2020/06/24/business/roundup-settlement-lawsuits.html)
+
+It looks like farmers are saying it's for weed control, but [teagasc](https://www.teagasc.ie/media/website/publications/2017/TillageNews-July2017.pdf) post instructions with titles like ""**Is my crop ready for glyphosate? ""** . Even the farmers journal wrote an article trying to tell farmers to cop on. And From my inquiries the practice the done thing for tillage farms in Ireland.
+
+**Edit:** It looks like the comments have been taken over by folks from outside of /r/Ireland who spend all day posting positive things about ﻿glyphosate, claiming there is no science showing ﻿glyphosate's are harmful. While I agree this isn't settled science yet, there ARE studies and evidence from reputable journals and studies that do link it to cancer.
+
+\&gt; Guyton  KZ, Loomis D, Grosse Y, El Ghissassi F, Benbrahim-Tallaa L, Guha N,  Scoccianti C, Mattock H, Straif K (May 2015). ""Carcinogenicity of  tetrachlorvinphos, parathion, malathion, diazinon, and glyphosate"". The  Lancet. Oncology. 16 (5): 490–91. doi:10.1016/S1470-2045(15)70134-8.
+
+\&gt; ""Glyphosate"" ([PDF](https://monographs.iarc.fr/wp-content/uploads/2018/06/mono112-10.pdf)).  IARC Monographs on the Evaluation of Carcinogenic Risks to Humans.  International Agency for Research on Cancer. 112. August 11, 2016.
+
+\&gt; Cressey D (March 25, 2015). ""Widely used herbicide linked to cancer"". Nature. doi:10.1038/nature.2015.17181
+
+Additional glyphosate (roundup) use during late summer, beyond killing weeds (herbicide), as a ""desiccant"" used to ripen the crop, rather than to kill weeds and boost yields. This use case is a convenience to farmers rather than a necessary use; shouldn't we make sure its safe before we use it for this?",1629143278.0,

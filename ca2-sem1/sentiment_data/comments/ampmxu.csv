@@ -1,0 +1,815 @@
+post_id,level,body,gilded,likes,num_reports,score,subreddit
+ampmxu,0,[Not a new idea](https://www.scientificamerican.com/article/grass-makes-better-ethanol-than-corn/). [And has been studied for alternative fuels since 1987](https://articles.extension.org/pages/26635/switchgrass-panicum-virgatum-for-biofuel-production),0,,,891,science
+ampmxu,1,"And they won’t do it because the government subsidizes food crops for this use and not praire grass. It’s better, but you can’t make as much money. ",0,,,481,science
+ampmxu,2,"this has been a story as old as the first plant biofuels. using corn for ethanol ~~costs more in terms of total environmental impact than just digging for oil~~ \**is very inefficient*. all sorts of alternatives have been proposed - pretty much any plant matter can be fermented and used as fuel, not a new technology. but the government wants it to be corn because corn farmers want it to be corn.",0,,,148,science
+ampmxu,3,Actually recent full life cycle analysis showed that corn ethanol reduces greenhouse gases by 43% vs petroleum based fuels.  https://www.usda.gov/media/press-releases/2017/01/12/usda-releases-new-report-lifecycle-greenhouse-gas-balance-ethanol,0,,,79,science
+ampmxu,4,"Also since that grass is already in the carbon cycle, wouldn't that mean the gasses count for nothing anyway?  
+
+Plants grow, absorb co2, plants turned into ethanol and burned, release co2. Plants grow again.  
+
+Unlike fossil fuels which are not part of the carbon cycle and so add excess carbon to the system when burned.",0,,,52,science
+ampmxu,5,"Energy is required to ferment, transport,  etc. With our current infrastructure this means there is a carbon cost associated with the grass",0,,,48,science
+ampmxu,6,"Yeeeeessss however, much of that cost is also a cost associated with extracted oil : exploration, pumping, transport, refining",0,,,10,science
+ampmxu,7,That's where the 50% savings comes from,0,,,1,science
+ampmxu,6,"The major inputs are fertilizer, planting and harvesting (tractor fuel) transport, then you start the fermentation  and finally transport the fuel to where it is needed. 
+
+It's debatable that we are actually getting a positive energy balance from biofuels. about the best of them are when we have a waste stream which is not being tapped - especially if it is being burnt off anyway to dispose of it. However it's also possible to use those with a conventional furnace/turbine to produce electricity. 
+
+It's always been possible to produce biofuels - there has been a LOT of money spent trying to make more efficient systems with a better energy payback - but the vast majority of them haven't really worked. 
+
+The subsidies have helped but at the same time other technologies have also improved which means they have never gained traction. Why build a biofuel plant when you can instead build a solar farm and turn sunlight directly to electricity at 20% efficiency? The Swanson effect is a powerful force to fight!",0,,,1,science
+ampmxu,7,Corn based biofuels were energy neutral at best in the 80s and 90s but recent studies have shown a 2 to 1 and up to 4 to 1 positive net energy balance for ethanol production due to advanced technologies https://www.eesi.org/articles/view/usda-energy-efficiency-of-corn-ethanol-production-has-improved-significantl,0,,,1,science
+ampmxu,4,"huh, hadn't seen that, I amend my position. still though, it uses more energy than prairie grass/switchgrass/etc",0,,,18,science
+ampmxu,5,"It does, but the total cost to break down cellulose (switchgrass, etc) into sugars that yeast can munch on and poop out ethanol is much higher than corn.  Corn-based ethanol is probably a net good thing, not awesome or terrible though. ",0,,,8,science
+ampmxu,4,"It's great to see an update like this. I've spent too much time trying to explain why previous studies were faulty claiming ethanol was worse than gasoline, etc. but I also hadn't really checked the literature on it much in the last couple years either for updates like this.",0,,,4,science
+ampmxu,4,"But what are the water costs? Biofuel is very costly in terms of water, especially compared to wind or PV solar.",0,,,1,science
+ampmxu,5,"It takes about 3.5 gallons of water to produce a gallon of ethanol which is about the same as making a gallon of gasoline.   As far as solar power goes, keep in mind that there is  heavy water usage and pollutants in the mining of base elements  for the production of batteries for electric vehicles.  Until society can move beyond 2 to 3% electric vehicles we are stuck using liquid fuels for a long time.   And ethanol is currently the best option to minimize greenhouse gases and toxic pollutants that come with petroleum based fuels.",0,,,1,science
+ampmxu,3,"One of the most cost-efficient ways of making biofuel is using microalgae from wastewater treatment plants that use algae. However these plants are not very common, and their use in biodiesel production is really the only major selling point of using microalgae over more traditional methods of water treatment. 
+
+
+Basically, it is very feasible and is a far more sustainable life cycle than current fuel production, but underperforms economically and therefore can't lobby the way the oil and gas industry can",0,,,54,science
+ampmxu,4,I wouldn't be surprised if the algae was also helping even more to capture CO². I know it's a tangent but I always like to wonder if using genetically modified algae en masse could be a good solution for capturing it and helping slow climate change,0,,,18,science
+ampmxu,5,Could we capture it from the atmosphere with collectors and feed it to the algae for improved growth?,0,,,4,science
+ampmxu,6,"I like to imagine a bunch of tanks of algae all stacked into a unit like maximized for surface area, with a constant flow of air from the outside.",0,,,4,science
+ampmxu,7,Many algae farms use [tuuuuubes](https://www.e-education.psu.edu/egee439/sites/www.e-education.psu.edu.egee439/files/chlorelle%20_%20Chlorella%20Benefits.jpg) to maximize surface area and ease of manufacturing.,0,,,5,science
+ampmxu,8,PBRs aren't all that great either as they get gunked up with algae growing on the light sources or the walls of those tubes. Algae are very sticky. Plus it's energy-intensive.,0,,,4,science
+ampmxu,9,"I wonder if a superhydrophobic surface inside the pipes would help?
+
+EDIT: Google says nope.",0,,,1,science
+ampmxu,8,"I was about to mention the algae farm tubes, thanks for mentioning. I agree and think it’s very feasible. ",0,,,1,science
+ampmxu,8,Some of the latest concepts use a dam/tank and fibre optics and mirrors to solve the light intensity problem. They were more efficient to build and more efficient per unit of land used than most pipe/bag racks in the study I worked on. ,0,,,1,science
+ampmxu,6,"Yes, but the cost of direct air capture of CO2 is still, even with optimistic assessments, around $300/ton CO2. Combine that with the expensive route of turning algal biomass to fuel and you've got a tough proposal economically.",0,,,2,science
+ampmxu,5,"It's not easy to modify algae for this purpose, as there is an inverse relationship between growth rate and lipid production. There are thousands of genes responsible for lipid production and modifying the right ones has been tried for many years, with only limited success recently using CRISPR/Cas9 and RNAi.
+
+Even when you do modify them for sufficient growth and lipid production, you still have issues growing them outdoors like disease, competing organisms, light/nutrient limitations, etc. Growing them in PBRs is very costly and demanding on energy, with other issues like light limitation due to algae growing and sticking onto light sources and such.
+
+Plus, you need to have several different organisms modified because the lipid profile is just as important for the end product as the total lipid amount. The more long-chain fatty acids in your algae, the better lubricity and cetane number of your biodiesel. More saturated FAs increase cetane number and oxidative stability, but at the cost of cold flow and lubricity, meaning you need more unsaturated FAs for biodiesel used in colder climates, but then your product degrades more quickly due to increased oxidation.
+
+TL;DR at best algae may be used for industrial applications on a moderate basis, but it won't trickle to personal autos at any kind of scale, and like many things in science it's always ""5-10 years away.""
+
+Source: I'm a scientist who worked on algal biodiesel for the Canadian government for almost 8 years.",0,,,6,science
+ampmxu,6,"What about the possibility of algae being used solely for carbon capture? As in, we didn't try to burn them, we just let them grow and then deposit them into a low-emission environment? ",0,,,1,science
+ampmxu,7,"I actually worked on that too, until the price of oil dropped and our industrial partners pulled out. The issues facing that are the toxicity of flue gases used i.e. The NOx and SOx gases need to be able to be absorbed without slowing algal growth too much or killing them, and also absorbing with enough efficiency to be useful at scale. Scale is always the problem with algae as there are problems scaling up past the bench level for most applications. It's more likely to be useful on a wider scale than biodiesel, but I'm unsure of the current state of how genetic modifications into this are panning out, namely modifying them to be more resistant to the toxins we want them to absorb. Like biodiesel, it always seems to be ~10 years away, sadly.",0,,,1,science
+ampmxu,8,"Whoa, so you actually tried to use algae in power plants? That's not actually what I meant, but it's way cooler.
+
+What I meant is that many people talk about how we will need to eventually capture atmospheric CO2 to bring down our levels. As in, stopping emissions isn't enough and once we have stopped then we need to produce negative emissions globally.
+
+Could you see algae in that role?",0,,,1,science
+ampmxu,9,"Well, using the effluent from industrial stacks but we didn't get much past simulated flue gas. Using it for atmospheric...thats a little bit more complicated because you'd need quite a bit of algae and enough surface area to grow it to make a difference. I'm not sure how much you would need to make a dent so I'm uncomfortable guessing.",0,,,1,science
+ampmxu,5,Actually that happens in my favorite ecosystem: the bog! Basically stuff does not survive too well inside the acidic peatlands of bogs and other wetlands. What this means is that when something dies and falls into a bog it stays in the bog for a very long time before being decomposed and sent elsewhere. This makes them an excellent source of carbon capture (moreso than even old-growth forests) and it is a shame they are often overlooked.,0,,,2,science
+ampmxu,4,"I am an algae scientist and let me tell you that it is true only on lab-scale studies. Large scale algae cultures are not rentable for fuel or food. See the prize of Spirulina food supplements, and they are only sold because they are a vegan source of B12. Imagine BURNING that. ",0,,,1,science
+ampmxu,4,Even the best assessments put algal biofuels at over 2X the cost of conventional thermochemical or biochemical conversion of lignocellulosic biomass.,0,,,1,science
+ampmxu,3,"Definitely. Plus Almost all prairie is already converted to farm land anyway. The new nuclear plants, solar, wind, and some natural gas is the way to roll. You can do biofuel with sugar but the US doesn’t have a lot of good land for sugar (Hawaii is good sugar land but it’s worth way to much for other things) corn isn’t efficient enough to compete with oil at anything near the current prices of corn and oil.",0,,,1,science
+ampmxu,3,"Sugar beets are, per acre, one of the most efficient fuel sources available and grow in much of the US. However, it's not subsidized like corn so...",0,,,1,science
+ampmxu,4,I don’t think Corn has been subsidized since 2011,0,,,1,science
+ampmxu,3,"Actually corn is used because it is very energy dense, can be stored for years, the infrastructure was already in place, and is technically feasible (moonshine anyone?).  As opposed to biomass like grass that has very low energy density, cannot be stored easily,  and the technology is not commercially viable yet.  Three different commercial scale biomass plants were built in the US at a cost of $1.5 Billion USD and two were mothballed and sold for scrap and the other is only producing demo quantities.  ",0,,,1,science
+ampmxu,4,doesn't explain why potatoes or other crops aren't used instead. corn takes a shitload of fertilizer to grow.,0,,,1,science
+ampmxu,5,"Any food based system faces the problem that the food value is much higher than it's value as a fuel source.
+
+By the time you process that feedstock into ethanol - even more so.
+
+Apart from places where we have a currently unused waste stream, we probably shouldn't be even trying to make biofuels and instead concentrate on other renewables. On the other hand we SHOULD be retrofitting every sewage plant and animal waste lagoon as biogas production. These naturally produce methane anyway which we want to remove from the atmosphere as it's a more potent greenhouse gas.",0,,,1,science
+ampmxu,3,What stops these farmers from switching to other crops if the markets make them just as lucrative ,0,,,1,science
+ampmxu,4,"because a) food crops are incredibly lucrative as is partly because b) the government massively subsidizes them in an attempt to stabilize prices and avoid famines and c) the markets do not currently make those other crops lucrative, if it did then they would have switched already",0,,,2,science
+ampmxu,3,"Also, what about the fact that ethanol fuel  usually reduces fuel efficiency?",0,,,1,science
+ampmxu,4,that I don't have numbers on.,0,,,1,science
+ampmxu,5,I found this. https://www.fueleconomy.gov/feg/ethanol.shtml,0,,,2,science
+ampmxu,3,"Can't the corn farmers just farm something else? Also, why are your corn farmers so bloody influential??",0,,,1,science
+ampmxu,3,"Well, yes, but before corn ethanol took off, the gov’t paid A LOT in subsidies to farmers because demand was squishy. That hasn’t happened for quite some time. We want farmers cranking out as much corn as possible: it’s good for the US and places we export it to. ",0,,,1,science
+ampmxu,4,">it’s good for the US and places we export it to.
+
+For the US - certainly. For the countries which it is exported to is far more dubious. US farmers producing crops at a price point they can afford because they are being subsidized by the government kills agriculture for local farmers. There is no way they can compete - the same is true for the EU which demands the rest of the world opens it's markets to production but pays it's farmers similar subsidies.
+
+Is it better for these local markets to depend on food produced in the US and Europe than on locally produced food? Perhaps in the short term consumers there get slightly reduced food costs, but if there are ever food shortages worldwide, it's not going to be the west starving, and local production in the rest of the world will have to scramble to try to increase production.",0,,,1,science
+ampmxu,5,Comparative advantage is a real thing. ,0,,,1,science
+ampmxu,6,"US ag is certainly efficient - and might well have actual comparative advantage on a lot of places - however it also has subsidies which distort the market. They have been a bit cleverer recently specifically with the bioethanol thing. It's not a direct subsidy, but at the same time has hugely pushed up demand for a product which frankly wouldn't make much sense without both price supports and mandated usage.",0,,,1,science
+ampmxu,7,How else are you going to add sufficient octane to straight gasoline? The molecule cost to do so with ethanol is currently unsurpassed. ,0,,,1,science
+ampmxu,8,I've heard some interesting things about tetraethyl lead???,0,,,1,science
+ampmxu,9,What could possibly go wrong?!?!? ;),0,,,1,science
+ampmxu,3,"Same deal with micro algae, it's the cost of processing that kills it. These will never beat crude oil in price. Them dinosaur squeezings are coming out the ground faster than we know what to do with it",0,,,1,science
+ampmxu,3,"The government doesn’t want it to be corn. I wouldn’t have a job if it did. The DOE is dumping tons of money into researching how to make biofuels from switchgrass and poplar trees. 
+
+It is actually really hard to do because yeast can’t metabolize cellulose and anything you do to break down the cellulose for the yeast tends to be expensive/energy intensive/toxic. 
+
+",0,,,1,science
+ampmxu,2,"Hasn't hemp and algae been determined to be among the most efficient sources of biofuel?  I really hope that with the recent farm bill, we see more active effort towards at least looking at it a bit closer.  As great as electric is, until we can have storage, charge times, and infrastructure established for it, it's not going to make a huge dent.  As a drop in replacement for diesel, biofuels would be a huge win.",0,,,7,science
+ampmxu,3,I believe I heard somewhere that the diesel  engine was originally not intended to burn petroleum based fuel. It’s designer intended for it to burn vegetable oil based fuel.  ,0,,,1,science
+ampmxu,2,"There's a federal government lab in Lincoln, NE who's primary focus is breeding switchgrass for biofuel and animal feed.",0,,,1,science
+ampmxu,2,"Which is why we could really do with a carbon tax. If we are going to subsidize farmers anyway, lets do it for a good reason.
+
+Carbon sequestration seems really easy to me. We pay people to grow  quick growing plants like miscantus or the prarie grasses described here. They are then cut and baled and put on trians to a desert region where they dont decompose. 4-8 tons per acre / year for miscanthus - although it works with almost any plant.",0,,,1,science
+ampmxu,2,"Inaccurate and disingenuous. Farmers going out of business is not good, so they get subsidies in bad years. However, that hasn’t happened for quite some time due to increased demand from ethanol production. ",0,,,1,science
+ampmxu,1,"Was about to mention i remember them talking about ""switch grass"" based fuels back when i was still in school in the 00s",0,,,89,science
+ampmxu,2,"We have a few acres of switchgrass monocultures at the place I work, it gets sold and put into ""socks"" that filter runoff water. We have a few in place and they are amazing for stopping erosion.
+
+The guy who buys the switchgrass is always talking about the amazing properties it has compared to other grasses. Not surprised it would be good for biofuel as well.",0,,,39,science
+ampmxu,2,Or lemon grass in the 90s.,0,,,8,science
+ampmxu,3,[removed],0,,,9,science
+ampmxu,2,And back when I was in undergrad in the early 90s,0,,,2,science
+ampmxu,2,"I remember this era too, and learning about Brazil as an example. 
+
+http://www.ipsnews.net/2007/10/energy-brazil-elephant-grass-for-biomass/",0,,,1,science
+ampmxu,2,"The problem with using switch grass is that it contains a lot of ""ash"" (inorganic stuff) that obliterates process equipment. Processing the stuff at scale is a reliability and cost nightmare.",0,,,1,science
+ampmxu,1,"The problem wasn’t a lack of the idea, it was the technology. They recently had a breakthrough with the bacteria or enzymes at the University of Arkansas that cuts the production time by like half. 
+I don’t know what I did with that professor’s paper but do a little more research next time you put up links to prove people wrong. I’ll try to find it.
+
+Edit: I lost that paper I had, but here’s an article explaining some issues with cellulosic. It doesn’t do a great job but it mentions the strides being made with conversion of plant fiber from parts of plants that were previously unusable. [link](https://knect365.com/energy/article/ef12a2ea-82be-43ee-b57d-d39f694c49bd/improvements-in-ethanol-production-technology-an-interview-with-scott-kohl)",0,,,40,science
+ampmxu,2,"No, it wasn't the tech.  As I pointed out somewhere else, they tried adding a tiny amount of corn-based biofuels to the gas in a small part of the US, and it ended up using 50% of the country's corn crop.  You'd need all the land on Earth to grow biofuels - and that wouldn't even replace oil completely (and it would leave no land for growing the world's food).
+
+The problem is far bigger than biofuels can solve.",0,,,16,science
+ampmxu,3,"Corn isn't even that great of a starting point for biofuels though. The reason it's been used is because subsidies made corn relatively cheap and abundant so there's  already a ton of R&D and infrastructure  around corn.  
+That existing infrastructure can't be wholly discounted, but there are alternatives to corn which would produce greater yield per land area, and there is research going with soghum and algae to try and get them to directly produce biofuels.  
+  
+Rejecting the biofuels out of hand is ridiculous, it's still a very viable path. Pretty much any single product is going to be part of a whole energy system to be sure.   
+The fact is that we *will* need hydrocarbon fuels for the forseeable future, and we can't rely on fossil fuels forever. It's better we start figuring out biofuels right now. ",0,,,14,science
+ampmxu,4,"Thank you.  I'm tired of seeing ignorant posts like the one above, dismissing biofuels as impossible when in fact they are the obvious solution for many of the problems we face. ",0,,,7,science
+ampmxu,5,"If you look at the current systems they are quite poor performers - and they have been captured by the current agricultural industry which makes good money from seeing what they currently produce - corn - get a better price. They have no interest in seeing a better system emerge - and have a powerful lobby and a decent population of farmers with serious money - which is a strong force in US politics.
+
+We need much more money spent on basic research - I agree biofuels have major potential, but at the minute people are seeing them as being just a political football to keep some people rich. That's why they get so much hate.",0,,,1,science
+ampmxu,6,"Anything enzymatic is going to perform poorly for a few reasons. 
+
+Enzymes perform poorly unless your feedstock stream is very clean, and it is very costly to clean up these streams to keep the enzyme efficiency high. Corn is a terrible starting point because of the low yield (unless you're processing the whole plant). A lot of biofuels use agriculture residuals which carry a ton of inorganic ash with them which 1) foul the enzymes and 2) destroy your processing equipment via erosion. Lastly, enzyme-based processes are very inefficient at attacking feedstocks which would be cleaner or more ""green"", like just straight up wood.
+
+All of this makes the opex of the enzymatic-based processes very high.",0,,,1,science
+ampmxu,7,"Nature takes years to break down a lot of materials, so it's not really surprising we have difficulty. The woodier it is, the more difficult so short of pyrolysis (which has it's own issues) building a system using a biological basis where we can rely on microbes producing their own enzymes is difficult. 
+
+If we research it enough it should be possible though and like I said, the current system which is more about ""How can we support corn prices"" than ""How can we efficiently produce biofuel"" is deeply unhelpful.",0,,,1,science
+ampmxu,8,"You can use hydrolysis to breakdown the woody biomass, which doesn't have the same issues as pyrolysis.",0,,,1,science
+ampmxu,4,"I’d like to add that the reason corn ethanol took off was because of how easily accessible the sugars are in corn kernels. We’re still throwing away the stalks of the corn because cellulosic ethanol has taken so long to advance. We already have pressure built into the Renewable Fuel Standard for cellulosic research, but it simply wasn’t doable yet. 
+Corn was a great start because of simplicity but cellulosic is the future. We’ve come leaps and bounds in the past couple of years with producing yeast which can convert the tough fiber of switchgrass and crop waste. I’m keeping my fingers crossed that we can switch to using unfarmable land for ethanol (switchgrass grows without fertilizer or irrigation) and saving the limited land and water resources for food production.",0,,,5,science
+ampmxu,3,"and by ""a tiny amount"" you mean 15-85%, almost no gas sold is less than E10 and almost all of it is E10.  
+
+""a small part of the US"" you mean the entire country, literally everywhere in the US.
+
+""50% of the country's corn crop"" actually 40% and not of food grade corn.    And corn is like, the stupidest, worst crop to use, soybeans are better and algae is FAR better yet.  
+
+""you'd need all the land on earth"" no actually we can grow enough biofuel to power the entire planet in roughly the land area of germany.
+
+The problem is significant, but biofuels will be a major part of our future, because they're literally the only way to power many things for the forseeable future, and they make a lot of sense to do.",0,,,28,science
+ampmxu,4,"Yep. Liquid fuels are the only game in town for a great many applications, and pushing the existing frontier of our knowledge on biofuel production is gonna be way easier and way cheaper than redesigning, rebuilding, and replacing every commercial and military aircraft in operation (a project which would come with its own, very non-trivial carbon footprint). There are a number of vectors to attack the problems of biofuels from. The number of feasible strategies to make planes not need liquid fuel is a big ol' goose egg.",0,,,5,science
+ampmxu,5,"Aircraft are indeed the least likely to be able to switch to electric propultion. We are already seeing that people will switch to electric vehicles for land transport 
+
+http://www.ev-volumes.com/country/total-world-plug-in-vehicle-volumes/
+
+For me the most interesting piece of the sales figures is China where there are cheap baseline vehicles available. In most of the world EV's have been a high end product - mostly aimed as competing with luxury car brands - there hasn't been a cheap entry level EV.",0,,,1,science
+ampmxu,4,"Your numbers are completely wrong. The area of 
+Germany is 137,988 square miles. The area in the US planted in corn is 137,500 square miles. If 40% of this provides about 10% of US gasoline (remember ethanol does not have the energy content of gasoline). Gasoline is about 5% of energy consumption in the US  and the US is at most 20% of the world energy consumption. This works out to 55 million square miles. This is approximately 93% of the land area of the Earth.
+
+Your claim about soybeans is also shaky since typical soybean yield is 53 bushels per acre while corn is 176.
+
+As others have pointed out the only thong that makes this possible is massive government subsidies.",0,,,1,science
+ampmxu,5,"Mostly accurate but a couple of points of clarification.  In the US, no subsidies for corn or ethanol since I think, 2011.  Also, while 40% of US corn is sent to an ethanol plant, only about 27% of corn actually goes into the fuel.  The rest is returned as very high quality feed and corn oil.  ",0,,,1,science
+ampmxu,6,"While the ethanol tax credit expired in 2011, there are numerous other programs to subsidize ethanol. The main one is the RFS/RIN system that forces refiners to buy from a politically selected list of biofuel suppliers at artificially inflated prices.
+
+The 27/40 ratio is merely the inefficiency of the process. It is like the byproduct petcoke that comes out of the oil refinery stream. It does not change the amount of land needed to produce a ton of ethanol. ",0,,,1,science
+ampmxu,7,"The RFS, Renewable Fuels Standard, was set up enhance energy security through additional domestic production of biofuels, support rural economies by expanding the demand for agricultural products, and expand the development and production of second-generation low–greenhouse gas transportation fuels.   It has accomplished all three.  The RIN system was set up to offer flexibility/make the RFS more profitable for refineries by allowing them to decide which facilities are best for blending ethanol.  It is just a tracking mechanism rather than any kind of subsidy.  
+
+The ""27/40 ratio"" is not really an inefficiency of the system and in fact can be argued the opposite.  The feed byproducts from ethanol production (DDG's) are actually a much higher quality feed product than straight corn that it replaces in feed rations.   That is why it is literally exported all over the world and replaces raw corn in rations.   Less raw corn is now required.    While not a one to one replacement, more land for ethanol production equals less land needed for straight raw corn production.  ",0,,,1,science
+ampmxu,8,"This is complete ADM propaganda from beginning to end.
+
+The RFS was a method to use government force to make people buy a product they would not buy at an fair market price. It is no different than a law saying all breakfast cereal had to be 10% corn flakes. All of your claims are either untrue (corn ethanol does not reduce greenhouse gases) or self-serving (prop up Iowa's economy at the all the other taxpayers expense)
+
+If the RIN system is so honest and fair, why are they priced at huge levels at time. If it is just a tracking mechanism, why have the refiners spent a fortune lobbying to abolish it. It is a way to direct money to a favored gang of RIN owners.
+
+Trying to pretend process losses are not inefficiency is just plain dishonest. If the by product sludge is so wonderful ,why isn't it made without the ethanol production?
+
+Given your extensive post I suspect you have a financial interest in the continued exploitation of the taxpayer.",0,,,1,science
+ampmxu,9,"Well the RFS was passed by a vast majority of congressmen except for those who were beholden to big oil.   It did reduce oil imports from the middle east and Venezuela, which I assume you would consider a good thing.  Nobody has been killed protecting a corn field vs thousands killed and billions spent protecting mideast oil fields.    RFS did help create about 80K direct jobs in the midwest where population and jobs were in decline, that is a good thing.   Gas with 10% ethanol also reduces the cost of gas by $.20-$.30/gallon (see any local gas stations that sells gas without ethanol) because refiners can use very low quality fuel and blend it with 113 octane clean burning ethanol  vs having to make 87 octane completely out of oil.  ",0,,,1,science
+ampmxu,9,"On your comment on greenhouse gases, recent full lifecycle analysis of ethanol showed a 43% reduction in greenhouse gases and an even great reduction in carcinogenic gases vs petroleum based fuels.     .[https://www.usda.gov/media/press-releases/2017/01/12/usda-releases-new-report-lifecycle-greenhouse-gas-balance-ethanol](https://www.usda.gov/media/press-releases/2017/01/12/usda-releases-new-report-lifecycle-greenhouse-gas-balance-ethanol) ",0,,,1,science
+ampmxu,3,As a side note:  E85 is glorious for those with turbocharged cars.,0,,,8,science
+ampmxu,3,Ethanol is already mixed into our gas... where do you think ethanol comes from?,0,,,5,science
+ampmxu,3,"Absolutely. But the idea is that if we are going to supplement our fuel we should be using the grass from the parts of fields that aren’t cultivated for food, like margins next to ditches of water or fields that don’t have good soil. Corn usually requires fertilizer, tilling, and irrigation; The draining of the Midwest aquifer and hypoxic zones at the mouths of rivers being my biggest issues. Cellulosic biofuels open the door to use all the thrown out plant fibers like stalks and leaves that aren’t being utilized by conventional biofuels.
+I’m not a supporter of ethanol production by ANY means but if we are going to use biofuels I’d be happy knowing they’re using a method that allows farmers to make cash from unused parts of their property and is said to release less lifecycle emissions. If we could stop destroying our farm land and river systems I’d be a happy man.",0,,,12,science
+ampmxu,3,"What about algae based fuels? Being able to grow them in tanks of any shape/size just about anywhere sounds extremely useful
+
+EDIT: Per Wikipedia: 
+
+> The United States Department of Energy estimates that if algae fuel replaced all the petroleum fuel in the United States, it would require 15,000 square miles (39,000 km2), which is only 0.42% of the U.S. map,[11] or about half of the land area of Maine. This is less than ​1⁄7 the area of corn harvested in the United States in 2000",0,,,2,science
+ampmxu,4,They don't get food subsidies unlike corn and you need new infrastructure. The navy can afford that but biofuel companies that have to compete with cheap oil and government-subsidized coal can't.,0,,,1,science
+ampmxu,3,"I don’t think anyone has suggested going 100% corn ethanol...even people who make the stuff. Ethanol is 10% of the US gas supply, and it consumes about 1/3 of the US corn crop (remember, though, that 1/3 of the corn used for ethanol is then fed to cows as distillers grains). ",0,,,1,science
+ampmxu,3,"Actually, the amount of land needed is approximately equal to the total world area used for grazing land, to an order of magnitude at least. As cattle already consume 50% of world grain production, if the world stopped eating meat there would be sufficient land to gro bio crops, plus a lot of spare grain available.",0,,,1,science
+ampmxu,4,Can you provide any sources for that assertion?,0,,,1,science
+ampmxu,5,"1. ""40 percent of world grain is being fed to livestock rather than being consumed directly by humans""  http://news.cornell.edu/stories/1997/08/us-could-feed-800-million-people-grain-livestock-eat
+
+2. ""Beef requires 30 million square kilometres of land to produce"" https://www.globalagriculture.org/report-topics/meat-and-animal-feed.html
+
+3. Bio-crops yield ~40 MWh/Ha  per annum https://www.forestresearch.gov.uk/tools-and-resources/biomass-energy-resources/reference-biomass/facts-figures/potential-yields-of-biofuels-per-ha-pa/
+
+4. ""In 2014, world primary energy supply amounted to 155,481 terawatt-hour""  https://en.wikipedia.org/wiki/World_energy_consumption
+
+5. 30 M sqkm= 3 Billion Ha, multiply by 40 MWh/Ha gives 120 Billion Mwh = 120,000 TWh.  
+
+Order of magnitude calculation shows it is a significant amount. A more detailed calculation that took into account grain fed to cattle properly and also the human dietary needs for more than just carbohydrates could give a better answer.",0,,,5,science
+ampmxu,5,r/myownveganwiki/wiki/environment ,0,,,3,science
+ampmxu,1,Hah. This idea is as old as I am.,0,,,21,science
+ampmxu,1,"Yea, this is why we are not pursuing sugar cane as a biosource and targeting switch grass or wood.   
+",0,,,5,science
+ampmxu,2,Doesn’t grow very well in the US. Not nearly as easy to transport as corn either. ,0,,,1,science
+ampmxu,1,"Switchgrass is a great idea, I wonder why it hasn't been implemented more. ",0,,,4,science
+ampmxu,2,"Reaaaaally expensive relative to corn.   Long story short, dry corn is awesome to transport and store...it’s dense and flows like a liquid. 
+
+Switchgrass isn’t dense, and once you have it to the plant, you have to hit it with acid, heat, and pressure before it is ready to enter the ethanol-making process. ",0,,,5,science
+ampmxu,2,It is being pursued heavily. The DOE is spending tons of money on bioenergy centers to make this stuff viable. ,0,,,2,science
+ampmxu,2,The ash content (inorganic stuff that destroys processing equipment) and the fact that there is no current supply-chain for the stuff.,0,,,2,science
+ampmxu,1,"Thank you for quoting it, thought the same.",0,,,1,science
+ampmxu,1,"Definitely not a new idea. There are lots of legitimate alternatives (algae for one, remarkable stuff) to using up massive amounts of resources to produce biomass based fuels in similar methods as traditional food crops, but they’re never discussed except among enthusiasts. It’s painful how much stuff like this resembles a conspiracy. ",0,,,1,science
+ampmxu,1,That’s relatively recent when it comes to research,0,,,1,science
+ampmxu,1,"I remember Obama banging the drum on this way back when. If I remember correctly, depolymerizing the cellulose and lignin was the big problem. Catalysts at the time were too expensive/inefficient I believe.",0,,,1,science
+ampmxu,1,"Biochar and biomass production has only become heavily researched in the last decade, I understand what your source implies but it was never cutting edge research ",0,,,1,science
+ampmxu,1,You are right. I remember seeing something on TV about this several years ago.,0,,,1,science
+ampmxu,0,"I think the idea with biofuels is that are carbon neutral, not that they don't pollute. The plants grown, especially algea, works by sequestering carbon dioxide until it is used. The carbon dioxide that is being put into the air came out of the are, not from deep underground where it's been sequestered for millions of years. ",0,,,112,science
+ampmxu,1,"Not enough people realize the significance of renewable vs nonrenewable fuels.
+
+It isn't just that we'll never run out it's also that it isn't permanently increasing the total environmental carbon.",0,,,47,science
+ampmxu,1,It also makes sense that native species do the best job when allowed to grow with no cutting and no tilling. Those species have adapted specifically to thrive in their native environment...why would we plant anything else?,0,,,7,science
+ampmxu,1,"This is what confused me as well with the title. 
+
+How can a crop generate more carbon than it pulls from the atmosphere? 
+
+They're likely not going to reverse the effects of climate change, but they'll certainly not add to it in their own.
+
+Or have I missunderstood things completely?",0,,,10,science
+ampmxu,2,"It takes carbon to plant, fertilize, harvest, dry, ship and process. And when you burn the crop, you release the carbon it sequestered.
+
+But what's an interesting fuel stock is algae. Some of the major oil players are exploring it as a feedstock for biofuels. The amount of carbon it can sequester is amazing, but it gets burned again. But the more biofuels we use, the less hydrocarbons we need to pull out of the ground ",0,,,15,science
+ampmxu,3,"Grass (as opposed to most food crops) store a lot of carbon in the ground when harveste, so not all the carbon it takes out of the air is let out when burned/eaten.
+
+I guess how much carbon it stores is dependent on the typenof grass an soil, and also on not using heavy machinery or tilling the soil when harvesting. 
+",0,,,1,science
+ampmxu,4,Corn is a kind of grass.,0,,,2,science
+ampmxu,3,"I did a big science project for a national competition in highschool about algae as a biofuel. Multilevel vertical algae farm next to some industrial plant whos carbon output is channeled into that would solve everything. But theres no money in it, so fossil fuels it is.",0,,,1,science
+ampmxu,3,"Of course, but if we assume the tractors planting and harvesting are are also running on the fuel they're producing, then the net sum should become 0. ",0,,,1,science
+ampmxu,1,"Plants also consume roughly 50% of the oxygen that they produce, as well as any other gasses.",0,,,1,science
+ampmxu,0,"Note that many food crops are grasses, and it is the action of *plowing*, and taking the food (the wheat seeds for example) and the *stem* and *leaves* of the plants from the ecosystem that leaves the soil exposed to erosion, generating desertification.
+
+No till and leave the un edible mass as mulch to protect the soil.
+",0,,,302,science
+ampmxu,1,"It's not just tilling that leaves it open for erosion. It makes things worse, sure, but even just cutting it down impacts the soil. Full blades of grass can store more water and protect the soil, and it chokes out weeds more effectively when it's tall. ",0,,,99,science
+ampmxu,2,"Mowing down the plants in a garden allows the worms and insects in the soil to break down the mulch to enrich the soil. The mulch will help protect the water content in the soil while still allowing the grass to not outcompete the crops you want.
+
+I’ve started using no-till to start growing cannabis for the first time and I can already see insects and worms break down the decomposing matter in my pot which enriched the soil and promotes biological activity that would be disrupted if I were to till the soil. I personally use Dutch white clover and consistently mow it back in my grow tent so that it doesn’t out compete my plants and purposefully cut it back so that it doesn’t create a situation where it “chokes out weeds more effectively when it's tall.”
+
+Edit: Grammar/spelling",0,,,32,science
+ampmxu,3,"I was watching This Old House and they went to a sod farm. The farm had switched to using clover and other native grasses to New England to keep water costs down as well as keep the lawns green during draughts. The clover keeps weeds from  growing, but doesn't upset the grass which has deeper roots. Using the two plants instead of just grass also led to better soil composition. The farm claimed to only needing to water only twice for the whole growth season.
+
+It was a really good episode.",0,,,32,science
+ampmxu,4,"I’ve noticed the same thing with my raised bed. Before The grass grew in, it held significantly less water; however after a few rounds of cutting and adding other things to the top dress it held a significant amount of water and held it longer overtime. On top of that, the humidity in the tent was significantly lower even after I had just watered it. 
+
+I think the mat of organic matter above the ground acts as a barrier for slow evaporation while the decomposing organic matter holds more water. 
+
+I think No-till has a lot more benefits than not when it comes to gardening.",0,,,6,science
+ampmxu,5,"I read somewhere that straw matting works well when starting a new seed bed - the matting protects & insulates the exposed soil, buffers moisture & ends up decomposing into nutrients. Was a little surprised it wasn't used more widespread; maybe its aesthetics?",0,,,1,science
+ampmxu,6,It might be more of a “tradition” introduced by producers of fertilizers... No Till is probably more of a way of doing things prior to inventions of tools that filled the soil.,0,,,1,science
+ampmxu,7,I found [this](http://theorganicsister.com/five-reasons-not-to-use-straw/). I guess it works better when you need cheap covering over a humongous area where it doesn't matter if it blows around some.,0,,,1,science
+ampmxu,8,"You don’t have to use straw. I have planted white clover (a perennial clover) that I just mow down with scissors in a grow tent. The worms in the tent will just chew up the clover leaf dressings. Since it is a nitrogen fixer plant, it maintains a colony of beneficial microbes in the roots and fixes nitrogen into the soil from the atmosphere.
+
+Straw is still an okay option to use in conjunction with other mulches and the use of worms will create castings from whatever they eat of the mulch.",0,,,1,science
+ampmxu,9,Could you use white clover in an outdoor garden? Would it help resist the usual weeds?,0,,,1,science
+ampmxu,6,Putting straw down over fresh grass or seed would be really expensive. Would take longer than putting the seed down and now they have spray seed that comes with cellulose material that does that plus they color it green so it blends more. ,0,,,1,science
+ampmxu,4,"This season is particularly relevant to the thread. If anybody is interested, they are building a net zero house with an out building covered with solar panels. ",0,,,3,science
+ampmxu,5,"Its been a really cool season. I think the majority of people wouldn't be able to even afford a quarter of what is going into this net-zero house, that is my only gripe.",0,,,2,science
+ampmxu,6,"Yeah, that's for sure, but that's the way the show always is. ",0,,,1,science
+ampmxu,3,Adding clover as a living mulch does wonders for biodiversity,0,,,1,science
+ampmxu,2,Agreed,0,,,1,science
+ampmxu,1,[deleted],0,,,11,science
+ampmxu,2,"""native"" does not mean they they will make deeper roots, plenty of commodity species have deep roots, alfalfa can go ten meters deep. It is the cutting of the plant that causes the plant to self prune its roots to equalize the foliage growth on top.",0,,,2,science
+ampmxu,1,"Interestingly, tilling also disturbs the bacteria and whatnot in the ground, causing a massive excretion of nitrogen and carbon compounds, which add significantly to pollution! In my area, there are incentives for farmers to stop tilling because it's so bad.",0,,,16,science
+ampmxu,1,"The solution is perennial poly-cultures. Check out: https://landinstitute.org
+",0,,,7,science
+ampmxu,2,"Yup, with zero-erosion techniques such as keyline plowing, and level-trench-and-berms with agroforestry. I got he website, I will check it out in depth on Monday, cheers.",0,,,2,science
+ampmxu,3,"Imagine perennial grains so never plow, mimicking native prairie. ",0,,,2,science
+ampmxu,4,"That would be awesome if we had a harvester that just shreds the tips (seeds) from the plant, and leaves the rest of the biomass to do its thing.",0,,,3,science
+ampmxu,1,"A product like saw grass can be mowed, leaving the root alive. It can be irrigated with sewage",0,,,7,science
+ampmxu,2,"When you mow the roots self prune too, I have evidence of this road in Edmonton in two locations. When the roots self prune, the whole top layer can slip right off. It only goes into the ditch in Edmonton, but landslides can and have wiped out sections of towns before with high mortality rate. 
+
+Mowing it also removes the buffer of biomass that protects the soil. meaning more water is needed, and more erosion will be the result. Plant clover, then you do not need to mow.",0,,,1,science
+ampmxu,3,"The sim here is to collect biomass   If you are concerned about the soul, don’t cut so low. This is grass we’re talkin here
+Also, the application would be for level ground most certainly not where removal of the biomass would endanger communities downhill 
+
+Aim, not sim",0,,,1,science
+ampmxu,1,I thought that was all worked out following the American dust bowl. ,0,,,1,science
+ampmxu,2,"Interestingly enough, the United States came up with a team called the civilian conservation corps, until they were sent to WWII (unfortunately). Their work can still be seen today, in person, and on satellite, of how they prevent some city (and more) from a flood. ",0,,,2,science
+ampmxu,2,[removed],0,,,2,science
+ampmxu,3,So we as a nation are Sisyphus.  Cursed to undo gains carefully garnered over years of planning and implementation within a few short years for a quick buck.  So much for stewards of the Earth. ,0,,,2,science
+ampmxu,1,"Also grasses like that for even your lawn produces oxygen. However plants consume 50% of the oxygen that they create in the long term so any (correction: a lot) human expansion helps stimulate expedited aging to the planet.
+
+However, not all human concepts are detrimental to the planet. We may be among the generations that solve issues regarding pollution (global warming is a generic picture), sustainability, etc. We also may be among the generations that make the leap around to the neareat star systems, the closest that are less than *only* 20 light years away. Not to mention, *xd*, we have thousands of 'WMD' asteroids floating around between mars and mercury, which earth is in the center of.
+
+Lets keep working guys, lets leave our differences behind.
+
+",0,,,1,science
+ampmxu,1,"Permaculture is the future of sustainable cultivation. People are going to have to start utilizing no-till methods and the soil food web to leave minimal or *no* negative impact on the biosphere. If anything, you'll be regenerating the land instead of just taking.",0,,,1,science
+ampmxu,2,"Yes, humans can be ridiculously beneficial for the environment. I moved into a 90m2 property and it went form 3 species to over 50 within the first year, with a resident lizard as the apex predator. ",0,,,1,science
+ampmxu,0,"Corn as a biofuel is a *horrible* idea, but unfortunately people have bought into it. Corn takes a lot of land, fuel, fertilizer and water. Even soybeans are a more efficient source of biofuel.",0,,,245,science
+ampmxu,1,"The food part of the corn is a terrible idea of biofulel, but we already produce so much corn for food that if we developed.technology to utilize the cellulosic part of the corn, i.e. the corn stalk, we would be able.to utilize a part of corn for fuel that currently is basically useless. I doubt that enough corn stalk to support all fuel usage, but diversity in fuel sources will be an important aspect of the energy economy in the future",0,,,16,science
+ampmxu,2,That's the bit we feed to cows.,0,,,7,science
+ampmxu,1,I wonder how much America's promotion of corn based biofuels is based on Iowa's primacy in the democratic and republican primaries.  ,0,,,90,science
+ampmxu,2,"Its america propping up corn *in general* that's the issue. Just any minor/useless ""purpose"" they can find for it cements it even more.
+
+Theres a reason we use corn syrup in *everything* for example. Subsidies ensures itd the cheapest option by far, specifically to choke out competing markets.",0,,,65,science
+ampmxu,3,"> Just any minor/useless ""purpose"" they can find for it cements it even more.
+
+The reason we have High Fructose Corn Syrup is because we needed something to do with all of the extra corn that was being produced annually.",0,,,2,science
+ampmxu,2,"Given how a small handful of states decide the result of the presidential election anyway, maybe they should just rotate? Like ""this year we're only counting votes from Maine, Nevada and Idaho.  Get ready for those lobster/prostitute/potato subsidies!""",0,,,33,science
+ampmxu,3,I like how you skipped legalizing prostitution and went straight for the subsidies or in your world does the rest of the nation keep it illegal but the working girls of Nevada get subsidized? ,0,,,11,science
+ampmxu,4,"The subsidies match with the states. So yes, Nevada susidizes prostitutes.",0,,,9,science
+ampmxu,4,Yeah it was just a silly example for how the priorities of the national government are driven by the interests of the subset of the electorate making the decision,0,,,3,science
+ampmxu,5,"If only there was a better way, oh well. 
+
+P.s we gave farmers a mere $12 billion to compensate for Trumps trade war.  This is enough money to ban giving cash to politicians and just hand them the money they need.  For four election cycles.",0,,,4,science
+ampmxu,2,That's insightful.  My guess is you're on to something there.,0,,,6,science
+ampmxu,2,"American presidential primaries start pretty soon.  All the candidates - Democratic and Republicans - will be making the trip to Iowa to make a pledge of allegiance to ""KING CORN"".  Even Al Gore did it (though he later apologized).",0,,,6,science
+ampmxu,2,"Lots. I considered this topic for my masters thesis, but passed because of the scope. ",0,,,2,science
+ampmxu,2,"Um, Big Oil? Maybe you’ve heard of it?",0,,,2,science
+ampmxu,2,"100% this. Even though California is the largest agricultural state. Iowa gets preferential treatment due to its primary position and swing state status. 
+
+",0,,,2,science
+ampmxu,2,Other states also make corn,0,,,1,science
+ampmxu,1,"[according to this](https://theconversation.com/no-palm-oil-is-not-responsible-for-40-of-global-deforestation-78482), off the 29% of global deforestation caused by agriculture, the biggest chunk goes to soybean (19%), then corn (11%) and palm oil (8%). So yeah, people need to watch out the corn and soybean fields",0,,,45,science
+ampmxu,2,Most cereal crops aren't grown for human consumption.,0,,,49,science
+ampmxu,3,"yeah for soybeans it's less than 10% that actually goes to make, like, tofu and veggie burgers and whatnot. another 20% goes to making soybean oil for commercial food production. 70% goes right into animal feed to make burgers and bacon. ",0,,,43,science
+ampmxu,4,"Its more like 10% go into making tofu, veggie burgers, etc. the remaining 90% gets used to make soybean oil. The biproduct of that process, soybean meal, is then fed to animals as a protein source.
+
+but unfortunately we are under the effect of that famous Albert Einstein quote ""95% of statistics on the internet are fabricated."" In 2014 ([according to the USDA](https://www.nass.usda.gov/Publications/Ag_Statistics/2015/Ag_Stats_2015_complete%20publication.pdf)) the US produced 3.927 billion bushels of soybeans in 2014. 1.843 billion bushels (47%) were exported. Of the remaining beans, 1.845 billion bushels were crushed, 20% of that became soybean oil, and 78% became soybean meal was used as feed for livestock (primarily chickens). and 2% was used for other things, mostly in food products. the ~6% of beans left over were either stored for use later or used as seed, whole feed, and etcetera. 
+
+so in reality <1% of the US's domestic soybean production is used to ""create tofu, veggie burgers, etc."" almost all of it is used either as a commercial fat source and animal feed.",0,,,3,science
+ampmxu,2,"People need to watch out why those crops are grown in such large quantities. Protip: not directly for human consumption.
+
+Add animal in front of agriculture and youre not far from truth. ",0,,,2,science
+ampmxu,2,"soybean and corn are primarily grown as animal feed. theyre actually incredibly efficient crops and an excellent use of land, it's just that we use them to feed cows, which are horrifically ineficient and a terrible use of land. If the world would reduce its meat consumption we would have far more land and food than we knew what to do with",0,,,2,science
+ampmxu,1,I believe you can blame lobbyists for that.,0,,,23,science
+ampmxu,2,"Yup. With the billions in subsidies for corn and soy, there is no way 'alternative' fuels like prairie grasses will be grown unless the govt stops the handouts for corn.
+
+And that won't happen anytime soon because of regulatory capture.",0,,,14,science
+ampmxu,3,Palm oil,0,,,3,science
+ampmxu,1,"Soybeans are _okay_ 
+
+And this chart does not take into account water use and labor... However...
+
+https://en.m.wikipedia.org/wiki/Table_of_biofuel_crop_yields
+
+Per acre there are much better sources of biofuel.",0,,,15,science
+ampmxu,2,"This is for biodiesel. At 150 bushels an acre (which is terrible in the Midwest but fair everywhere else) corn will do a bit over 400 gallons of ethanol. Treacle is supposed to be even better, but I am not familiar with it.
+
+(Also I would like to randomly mention that gmo corn takes way fewer field passes than regular)",0,,,5,science
+ampmxu,3,"Sugarcane ethanol has a 25% higher production per acre, about 560 gallons.",0,,,2,science
+ampmxu,4,It is perfect for central American and south North America.,0,,,1,science
+ampmxu,1,[deleted],0,,,14,science
+ampmxu,1,"But corn has actual uses besides just as a biofuel, so it makes the most sense overall",0,,,5,science
+ampmxu,1,"Something I've wondered about this is whether they could grow the corn for eating then use the leftover plant parts in a biodigester to create methane or bioethanol.
+It'd be making maximum use of the crop then and not wasting potential food farmland nor the parts of the plant that would otherwise be waste ",0,,,2,science
+ampmxu,2,"Wikipedia claims most corn based ethanol is made from drying then grinding the entire kernel.
+
+I suspect using the stalk and leaves would be more akin to using grasses.",0,,,1,science
+ampmxu,1,Also algae,0,,,2,science
+ampmxu,1,"The reason they ""prop up"" corn so much is because it is a lot more robust plant, and can handle severe weather alot better then other cash crops. Also you can grow alot more of it per acre then you can other crops. Corn used for biofuels end up as Dried Distillers Grains which are fed to livestock, so the corn isn't removed from the food supply completely.",0,,,2,science
+ampmxu,1,Don't we already produce a large amount of ethanol while processing corn for consumption? I've heard arguments that we could produce enough from processing corn to power most vehicles in America.,0,,,2,science
+ampmxu,2,"According to the state of Iowa, [39% of their corn production goes to biofuel](https://www.iowacorn.org/corn-uses/ethanol).  I cannot find a reference at the moment, but I believe it's feed corn that's used for biofuel, and not sweet corn.",0,,,3,science
+ampmxu,3,"That's what we are already producing directly for use as biofuel, right? What I've heard (in a video I can't recall the name of) is that we produce excess ethanol from corn processing for consumption that doesn't get used for much of anything besides a small amount that goes back into corn processing. They claimed in the video it was just being stored and practically wasted, and that it should be used for biofuel instead. The video is probably outdated by now, but I wonder if that claim holds any water.",0,,,2,science
+ampmxu,2,">we could produce enough from processing corn to power most vehicles in America.
+
+I attended a NREL workshop on biodiesel (back in 2002), and they pointed out that even if *every* kernel of corn was used for making ethanol, it would only replace something like 27% of all gasoline consumed.  If *every* soybean was used for making biodiesel, it would only replace a similar but lower amount of the diesel we consume.
+
+However, that's not to say there isn't a role for biofuels.  Collecting used fryer grease and the fats that accumulate at sewage treatment plants and converting them to biodiesel makes a lot of sense.  Using ethanol as an oxygenate makes sense.
+
+In the long run, we need to electrify our transport and use wind/solar to power it.",0,,,2,science
+ampmxu,1,"> unfortunately people have bought into it.
+
+They were literally bought into it by agrobusiness. Why do we subsidize them anyway?",0,,,3,science
+ampmxu,1,[deleted],0,,,4,science
+ampmxu,2,"Agreed!  Especially if we can figure out a way to use the algae to clean up watersystems, as well!",0,,,1,science
+ampmxu,1,"Yea, I said this in a middle school presentation like 15 years ago. If a middle schooler can easily find information showing how dumb of an idea it is why can't politicians? Oh yea, corporate lobbying. Just another issue that is not decided by the best idea but by the idea with most corporate money behind it. This will be the downfall of America. It affects everything we do. Campaign finance reform needs to be #1 issue. It will solve so many of our problems, giving us back the ability to solve problems with evidence based reasoning. ",0,,,5,science
+ampmxu,1,"While not perfect, corn based biofuel is a substantial improvement over the petroleum  fuels we use now.   We should always look towards new and better technologies but corn is the only at scale source today to reduce green house gases and toxic emissions of oil based fuels. ",0,,,0,science
+ampmxu,2,"I don't have the information available, but I've read multiple sources that say that once you factor in all the energy consumed to produce biofuel from corn, it's 1:1. The energy required to produce it is pretty much equivalent to what you get out of it.
+
+Soybeans are somewhere around 1:2 -- you get more out than you put in.  Other crops, such as sugar cane and switch grass, are even better.",0,,,14,science
+ampmxu,3,The 1:1 ratio is from the early 90s. It's gotten better since then. ,0,,,12,science
+ampmxu,3,There are also co-products produced along with ethanol like animal feed and corn oil. Ethanol plants aren't just producing ethanol. They also provide good paying jobs in rural areas. ,0,,,6,science
+ampmxu,4,I’m not advocating getting rid of biofuels. Instead try to shift to crops with better yields and less environmental impact. ,0,,,2,science
+ampmxu,3,Are you all factoring in burning down rain forests to clear land to save the planet? ,0,,,3,science
+ampmxu,4,"Burning down rain forests is an epic disaster, and one of the biggest problems with palm oil.",0,,,6,science
+ampmxu,3,"You’re thinking of the Argonne National lab study, which didn’t factor corn oil and distillers grains. ",0,,,2,science
+ampmxu,2,How does hemp seed oil compare. I hear talk of it as a biofuel.,0,,,3,science
+ampmxu,1,"The only reason we use corn for ethanol is that corn farmers tricked the voters who prioritize the environment into thinking it was good for the environment.  Politicians wanted those voters, so they pushed it.",0,,,1,science
+ampmxu,1,"Thank Iowa’a placement as the first caucus state for this, probably. It’s enraging.",0,,,1,science
+ampmxu,2,"Please, take away our first caucus, its stupid, everyone here hates having that much attention and frankly, Iowa is really divided itself so it doesnt really know how to decide. Its pointless to have us always be first.",0,,,1,science
+ampmxu,1,Isn’t it also bad for your car?,0,,,1,science
+ampmxu,2,Modern cars will pretty much all burn E15 without a problem.  E85 should only be burned in cars that are designed for it.,0,,,2,science
+ampmxu,1,"Got a source? No, you don’t. I mean really...what a worthless comment. No evidence, just a couple of opinions cobbled together for karma",0,,,1,science
+ampmxu,0,"What about hemp again? We already know how to turn it into fuel and plastics.  It has so many uses for food, fabric, paper and can inprove the quality of soils.",0,,,14,science
+ampmxu,1,"I've heard hemp fibre isn't all it's cracked up to be, apparently it's quite course like jute or hessian.
+
+I do think it has a lot of uses, though some of the things like fabric and plastics might be overrated and only useful for industrial uses. I can't see it being a panacea for everything like plastic, like those bioplastics are always used for basic uses like pens. It is a multipurpose crop though, just not a fix for everything as stoners try to claim.",0,,,5,science
+ampmxu,2,"Things dont need to be 100% hemp. You can use hemp + cotton. Very durable and comfortable clothes. Same thing with plastics. Or fuel. Biodiesel is quite cheap to make but you cant use B100 in winter, it will solidify so you mix it with winter diesel and some other chemicals that lower the solidifying temperatures. Also with B100 you need to change motor oil 3x more often. So everything has its cons and pros.",0,,,6,science
+ampmxu,2,I was in amsterdam and went into the marijuana museum. They had a display of 100% hemp fabrics made in different ways. The fabrics went across a spectrum from one of the softest shirts ive ever touched to something a blacksmith would wear that could very well stop a blade. Pretty astonishing tbh,0,,,2,science
+ampmxu,0,[removed],0,,,23,science
+ampmxu,0," I didn't realize cellulosic ethanol production had become efficient enough to be a viable at scale option. 
+
+If it has why not grow something that is constantly renewing like kudzu? All you need is the cellulose.
+
+Or hemp for that matter.",0,,,17,science
+ampmxu,1,"It’s not really. If you want to build a new corn ethanol plant, it cost about $2 per gallon of capacity. For a cellulosic ethanol plant, it’s about $20 per gallon of installed capacity. 
+
+A few companies are pitching products to existing corn ethanol plants to break the corn kernel fiber (cellulose) into sugar that can then be converted. That’s about $8 per installed gallon. ",0,,,7,science
+ampmxu,0,"I think it's pretty ironic how much hate the cornbelt has for welfare programs when they lobby for things like this. There is no more hypocritical welfare queen than the large scale grain farmer.
+
+Corn-Soybean ethanol is a net carbon polluter. Acre for acre it would make *far* more sense to put up solar fields and battery storage if you're trying to create joules for our use.
+
+Saying that to say this: All the funding for the biofuel lobby was by big agriculture. The Corn and Soybean lobby. When it turned out that switchgrass or other non-corn or soybean crops would make more sense all the funding for it dried up. Who would have thought?
+
+Every year solar panels make a better and better use case. Every year biofuel is worse and worse. If we all drove diesels and diesel fuel was $8 a gallon then it would make sense to run them on whiskey. In 5-10 years almost all new cars will be electric and there won't be near the demand for the fossil fuels it's competing with.
+
+It's long since time to put this to bed.",0,,,59,science
+ampmxu,1,"The even worse irony of this is that if we just went _back_ to railroads and away from cars and trucks and the massive interstate highway network, we could yield enormous energy savings with technology that has been around for decades.
+
+(Mass transit doesn't work everywhere, of course, like rural areas. But all those people sitting in traffic in rush hour every day and all of those tractor trailers clogging up the highways? Most of that could be solved with well-planned mass transit and freight rail.)",0,,,27,science
+ampmxu,1,"I can't help but to agree with this for the most part despite also seeing accuracy in the comments below.
+
+Unfortunately there are flaws with any fuel source but that doesn't mean that we shouldn't continue to improve them. In the long term, solar energy does make the most sense since we basically have an unlimited amount of it but collecting it and storing it also still require the use of nonrenewable resources for the time being. It's one of those give-and-take situations where you have to continue to damage the planet to set up the energy infrastructure that will benefit the planet but it's scary to think that we may have waited too long.",0,,,4,science
+ampmxu,1,"There aren't enough rare earths available for your electric car future to ever happen without trucking down asteroids.... certainly not enough without also absolutely distroying the environment to get at them as well.
+
+solar + methanol generation (chemical instead of electrical storage)  + normal ice engines is probably a workable solution.",0,,,3,science
+ampmxu,2,"There are enough materials on this planet to replace every single car with an EV, and then some.",0,,,5,science
+ampmxu,3,Most of the content of a li-ion battery is actually nickel.,0,,,2,science
+ampmxu,1,"Agreed, except that we will need liquid fuels for air travel.",0,,,1,science
+ampmxu,2,"We may not. Those ion drives look promising. Solar power, ion drives-traditional hybrid, and next gen batteries may be enough.",0,,,1,science
+ampmxu,1,"You’re nuts. Let’s see your proof that corn ethanol is a net polluter. That will take you a while. The fact that you mention ‘soybean ethanol’ reveals your ignorance: it’s just not done. 
+
+As for ‘Big Agriculture’ and shutting down green alternatives, have you heard of a little thing called ‘Big Oil’? Ag is outspent by Oil by a factor of at least 10. 
+
+How are biofuels getting worse and worse? Seriously, people like you are a problem, because you come to a forum like this with opinions you’ve shaped into fact in your head, then toss it out as a karma grab. ",0,,,1,science
+ampmxu,1,here here. let’s stop wasting good agricultural land and let’s not gut natural prairies. electric cars are the way,0,,,1,science
+ampmxu,0,"Journal Reference:
+
+Yi Yang, David Tilman, Clarence Lehman, Jared J. Trost. 
+
+Sustainable intensification of high-diversity biomass production for optimal biofuel benefits. 
+
+Nature Sustainability, 2018; 1 (11): 686 
+
+DOI: 10.1038/s41893-018-0166-1
+
+Link: https://www.nature.com/articles/s41893-018-0166-1
+
+Abstract
+
+The potential benefits of biofuels depend on the environmental impacts of biomass production. High-diversity mixtures of grassland species grown on abandoned agricultural lands have been proposed as enhancing climate mitigation potential, but can have low yields. Intensification might increase productivity, but might also cause negative environmental impacts. Here, we show that, compared with more intensive treatments, moderate intensification of high-diversity grasslands had as great or greater biomass yields, soil carbon stores and root mass, and had negligible effects on grassland stability, diversity and nitrate leaching. In particular, compared with untreated plots, the moderate treatment of irrigation and addition of 70 kgN ha−1 yr−1 resulted in 89% more yield, 61% more root carbon, 187% more soil carbon storage and, if biomass were used for bioenergy, twice the greenhouse gas reductions. Irrigation and 140 kgN ha−1 yr−1 had 32% lower greenhouse gas benefits, 10 times greater nitrate leaching and 121% greater loss of plant diversity than the moderate treatment. These results suggest that optimizing multiple environmental benefits requires sustainable intensification practices appropriate for the soils, climate and plant species of a region.",0,,,11,science
+ampmxu,0,"This is not new at all. The main problem is that most processes to generate biofuel use oils and sugar to produce biodiesel and ethanol, and these are exactly the substances that make plants food. People have been searching for economical and environmentally-friendly ways to make biofuels from cellulose, what plants are mostly made of, but to my knowledge there has been no breakthrough there, processes exist to do it, but they are often much too expensive and/or generate too much pollution so that they do not help in the end.",0,,,4,science
+ampmxu,0,"This still isn’t a great solution, right? I mean, wouldn’t you still need a lot of land to farm and harvest the grasses? And if you’re going to be disrupting an ecosystem by harvesting the grasses anyway, wouldn’t it be more efficient to just farm one kind of plant that’s already high in cellulose, as opposed to using a bunch of miscellaneous plant species?
+
+Also, while we’re on the topic of biofuels, is algae still a good potential resource? I remember hearing that it would greatly reduce land use for fuel if we could utilize it on a large scale. Is the research not going well?",0,,,3,science
+ampmxu,1,"The US is very,  very big, and switchgrass will grow in places that most other things won’t. 
+
+Algae is promising, but no one has figured out how to do it at scale. ",0,,,2,science
+ampmxu,1,glad to see i’m not the only one who things this isn’t a good solution. you hit the nail on the head regarding ecosystem disruption - the last thing we need is to farm every productive plot of land for food and harvest the remainder of the prairies aggressively for biofuel. ,0,,,1,science
+ampmxu,0,"Biomass energy is just a scam to burn up green energy grants and divert that money away from things like solar and batteries and grain based fuel. We have been making grain-based fuels for literally thousands of years and just the logistics of handling the material for biomass fuel production should be more than enough to convince people that it's a waste. Grain flows for the most part like water and can be easily transported with infrastructure that we already have. Biomass materials like corn Stover or elephant grass or any other similar material cannot be transported without using heavy equipment that burns fuel to pick the stuff up and move it around physically, and it is so light that you can't fully load transport trucks to be the most efficient use of fuel for hauling them. If you want to limit the negative environmental impact of Agriculture, you have to actually physically enforce the rules and investigate people breaking those rules. You can't just pass ever more restrictive regulations and hope people will follow them.",0,,,49,science
+ampmxu,1,"Biomass energy works great when you're not producing and transporting the biomass specifically for energy. Some Canadian lumber mills have re-tooled to be powered completely or partly by the biomass generated as waste from the milling process, which is a great application.
+
+There's definitely a lot of corruption and green-washing with grants and all that, but don't think that means that research is pointless.",0,,,76,science
+ampmxu,1,have people studied the [environmental impact of battery and possibly solar panels production](http://www.bbc.com/future/story/20150402-the-worst-place-on-earth)? How impactful it actually is?,0,,,12,science
+ampmxu,2,[deleted],0,,,12,science
+ampmxu,3,"I agree with you, I'm not undermining the direction toward ""green tech"", we need to phase out the petroleum, but statement like 'biomass is worst than battery and solar' needs to be verified. Productions of rare earth materials (which are not rare at all) that are heavily used for modern tech are actually very toxic and are only done in few place like Batou, Mongolia because they lax their environmental regulation",0,,,5,science
+ampmxu,4,"Compared to carbon in the earth's crust, they ate really rare in comparison ",0,,,1,science
+ampmxu,5,"so you picked arbitrary element for comparison, compared to carbon, lead and cobalt are rare in comparison, why don't you call cobalt and lead rare-earth?",0,,,1,science
+ampmxu,3,"If what you are trying to convey is ""we should lower our living standards"", you can't have a more wrong way to go about it.",0,,,1,science
+ampmxu,4,[deleted],0,,,1,science
+ampmxu,5,"Yeah. Even among the fossil fuel, not all fuels and not all uses are created equal. Compare coal and natural gas, or kerosene in planes and gasoline in cars.",0,,,1,science
+ampmxu,2,"That will always be an apples to oranges comparison. A lot of that is environmental impact from mining, and a lot of what we mine can be reused. To make things more difficult, we don’t really know exactly how much of battery materials will be reused in the future. 
+
+It’s also hard to estimate how long a battery or solar panels will actually be used. For cars, I’m guessing they’ll estimate that they’re used for the life of the vehicle. But there’s many demonstrations of using old EV batteries for grid storage. 
+
+In general I would say that solutions that approximate “mine once, use forever” are better in the long run than ones that are based on perpetually extracting/growing a source of energy. ",0,,,2,science
+ampmxu,1,"I really have to disagree on this one.  While it is valid to state that some biomass sources compete with food resources, current research has generally shifted to creating biofuel from agricultural and forestry waste products that serve no current reuse in industry.  Comminution of larger waste materials is as well easily accomplished so that transport of these materials is fairly simple.
+
+Source: masters student in the field of biofuels and biomaterials",0,,,20,science
+ampmxu,2,"My favourite is that some cities use human waste to create methane, which they then use to fuel their busses!",0,,,8,science
+ampmxu,3,"Liquid biofuels from sewage sludge have actually been investigated as well, but the issue becomes that during the pyrolysis process, some low boiling point metals and other potentially toxic materials can be released, leading to an increased requirement for treatment.  I haven't read into the methane production where my facility doesn't have the capabilities for dealing with biogas, but I think many methane production methods like that rely on bioreactors for breaking down the organic portion of the sludge.  Really interesting way of combatting sludge, which is a huge problem in wastewater treatment.",0,,,8,science
+ampmxu,3,You can even extract heat at low temperatures from wastewater pipes and use this to increase the water inlet temperature for the higher temperature systems in a district heating plant.,0,,,2,science
+ampmxu,4,"Heat exchangers, an engineer’s best friend. ",0,,,1,science
+ampmxu,2,"There is no ""waste"" plant matter in agriculture. Every bit of that plant that you remove from the land contains nutrients that have to be put back to maintain fertility of the land. And removing organic matter causes the soil to both erode more easily and pack down more easily requiring more tillage. ",0,,,3,science
+ampmxu,3,"But what about material removed during harvest that doesn't end up being sold?  I don't have all my literature with me right now, but things such as wheat straw, fruit pits, nut shells, corn husks, rice hulls, and other components separated in agricultural processing don't seem to be reused from what I have read.  Again, I am not of an agricultural background so I'm open for clarification there.",0,,,1,science
+ampmxu,4,Fruit pits and nut shells could be useful but but grain plant material that is normally separated in the field contains nutrients and organic matter that the soil needs to stay fertile or it needs to be replaced. That is why many landowners have it built into their rental contract that if a livestock farmer who rents their land removes the corn stalks and husk or oat or wheat Straw from the land they are required to haul manure on that land to replace the nutrients and organic matter.,0,,,1,science
+ampmxu,5,"Good to know. We don’t really have an agricultural industry in my province, so my university’s interactions with outside agricultural producers come mostly whenever someone wants to test material. We don’t gauge the soil health side as we’re on the chemical engineering side and don’t have the same expertises as the farm owners in terms of the value of the harvest byproducts ",0,,,2,science
+ampmxu,1,"You’re right on the logistical challenges, but in-field densification (pelletizing, etc) May get this figured out. At that point, the problem is the cost of pre-treatment needed to get the cellulose ready for the yeast to eat. ",0,,,2,science
+ampmxu,2,Yup. Can't convert if your biomass bridges in the tube or your pretreatment fails.,0,,,1,science
+ampmxu,2,All of that biomass contains nutrients and organic matter that need to go back into the soil or be replaced somehow.,0,,,1,science
+ampmxu,0,"Tbh harvesting plant-based chemicals from plants themselves is becoming old fashioned. Doing so requires huge swaths of land, and is time consuming/labor-intensive. An attractive alternative is synthetic biology and systems metabolic engineering — transferring plant-originating biosynthesis pathways into microbes = sustainable and economically attractive manufacturing. It’ll be like breweries that not only produce beer, but also fragrances, medicines, dietary supplements, materials, etc.",0,,,3,science
+ampmxu,0,"If you want to reduce the carbon in circulation, bury charcoal. Its 100% carbon, holds water and nutrients effectively and isnt degradable by bacteria.",0,,,3,science
+ampmxu,1,"Actually...there are quite a few ethanol plants investigating taking the CO2 they produce and selling it to fracking companies, which then inject it into the space that the natural gas they’ve extracted once was. 
+
+This kind of CO2 sequestration is awesome, because it’s never coming out!",0,,,1,science
+ampmxu,0,"The company ""Clariant"" developed a technology to make ethanol from straw/leftover cellulose materials in germany. I once visited the test facility, it's amazing!
+
+https://www.clariant.com/de/Business-Units/New-Businesses/Biotech-and-Biobased-Chemicals/Sunliquid
+
+A little bit of background: It's quite simpel to make ethanol from things like sugar beet or corn because there is a lot of sugar/starch (saccarides) in them. Ethanol from straw which mostly contains cellulose is more difficult because you first have to break down the cellulose. 
+
+
+",0,,,3,science
+ampmxu,1,"Yep, and that means heat, pressure, and acid.  Currently about 10x more expensive than corn ethanol",0,,,1,science
+ampmxu,0,"Annual crops have shallow root systems that don't amount to much biomass below the soil, even in a no-till system. The perennial grasses found in prairie ecosystems have a staggering percentage of their biomass below the soil. Removing the aboveground material for fuel only encourages more root growth and carbon sequestration.",0,,,3,science
+ampmxu,1,"The silphie /cup plant/ silphium perfoliatum would, in my opinion be a really good alternative for corn.  After it's planted it will regrow for at least 15 years. It only needs herbicides once in the year it's planted, later it is strong enaugh to grow over the weeds. It only needs a very low amount of fertilizer. It has a yield similar to corn (depending on location of course), and to top that all of it has beautiful yellow flowers.
+
+As it grows from the same roots every year again it has much more roots than corn. And as the soil is not moved in any way you save a LOT of energy (ever refueld a tractor after plowing for some hours? I have...) and the biological activity of the soil is increased.
+
+I actually wrote a research paper about it for my graduation and have some planted in my garden ;D
+
+
+Picture of roots:
+https://www.bmel.de/SharedDocs/Bilder/Fachbereiche/Landwirtschaft/Boden/TdMAugustAbb2.jpg;jsessionid=01ACFB745D518E2DD45D9F3DF74903F2.2_cid288?__blob=normal&v=5
+
+Here in germany silphium perfoliatum is becoming more and more interesting as biogas plants are restricted to using only 40% corn.
+
+When i began my research for my paper there was very little information, silphium perfoliatum was definitely no common sight. Now i see news articles about it every few weeks.
+
+I think, at least at my location, the silphie would be much more economic then grass, but also more envoirement friendly than corn.",0,,,1,science
+ampmxu,0,"Hi there, this is my area of expertise. Let me clear up some misunderstandings here.
+
+The important parameter here is fuel per land area per time, which can be increased in three ways: increase the amount of fuel you can get from each individual plant, increase the number of plants that can fit in a certain land area, and increase the number of times you can harvest the crop per year.
+
+Feedstock selection is a very important component of biofuels processes, because it essentially fixes the crop density, the harvest cycle length, and the amount of fuel you can get from each plant. As this research points out, it may also replace food crops. Corn ethanol is a terrible choice because it does not produce very much useful fuel, it can't be planted very densely, and it can't be harvested very many times per year. The other major competitors on the feedstock scene are prairie grasses like switchgrass, and actual forestry stocks like poplar.
+
+Prairie grasses can be planted further north than food crops, but there is only a narrow window before the cold cuts short the number of harvests, making them less useful when planted further north. This research makes it sound like they can be competitive with food-competing crops like corn ethanol, and can do it without actually competing with food. But that isn't the case, because you can only get enough production of switchgrass to compete with corn ethanol when the corn is planted on land that competes with food crops.
+
+The main obstacle to using woody biomass (trees) as a feedstock is that they take some startup time before you can use them. Forestry land must be developed, planted, and matured before there is any payback on the initial investment. Compared to switchgrass, they produce slightly less fuel per land per year once the forestry operation is made sustainable. But unlike switchgrass, trees can be planted so far north as to be completely non-competitive with food crops.
+
+Full disclosure, my work included work on switchgrass, on red oak, and on hybrid poplar. It was focused on getting more fuel out of each plant. I'm happy to discuss this subject further with anyone who wants to.",0,,,3,science
+ampmxu,1,">But unlike switchgrass, trees can be planted so far north as to be completely non-competitive with food crops.
+
+I think this is a really important factor that people overlook. Something like the UP of Michigan (especially the Houghton/Hancock to Copper Hook stretch) can't be used for foodstock, but has great potential for commercial biofuel refining in the forestry resources.
+
+Michigan has very little natural energy reserves (poor state for solar, little oil/coal/nat. gas, offshore wind power might be an issue due to freshwater freezing) and imports most of their energy. Being a cold-climate state dependent on the industrial sector, it uses a lot of energy too. Something like forestry biofuel could be a great boon for the state.",0,,,1,science
+ampmxu,0,[removed],0,,,3,science
+ampmxu,0,[removed],0,,,3,science
+ampmxu,0,Biofuels generally use the 'waste' parts of food crops.,0,,,3,science
+ampmxu,1,"This really needs to be highlighted. There is common confusion between 1st and 2nd generation biofuels. 
+
+1st generation (ie. bioethanol from corn) is generally being phased out in favour out of 2nd generation (ie. bioethanol from non-competing food sources). 
+
+Most of the research I’m taking part in looks to generate useful products from the massive amounts of biomass currently going to waste. Scientists understand the importance of an increased demand on food supply and want to be able to meet the needs of the current generations whilst not impacting the abilities of future generations to meet their own needs.",0,,,1,science
+ampmxu,2,"True, but we also have to remember that ~1/3 of the corn used for ethanol goes directly to cattle feed. ",0,,,1,science
+ampmxu,0,Worst thing about biofuels (biofuels guy here) is that they unintentionally delay the transition away from fossil fuels my supporting continued reliance on the internal combustion engine for transportation.  ,0,,,5,science
+ampmxu,1,"Something has to segue us to electric. The best bet right now is higher compression engines, but those need more octane (straight gasoline is 84). 
+
+Guess what? Ethanol’s octane rating is 113. ",0,,,1,science
+ampmxu,0,"... algae biofuels. They can/should be grown in the desert, they're carbon neutral, and they're less expensive/more efficient than e85.",0,,,5,science
+ampmxu,1,"How you grow algae, something that needs water, in the desert?",0,,,3,science
+ampmxu,2,"Grow it near the coast, use solar and wind to pump in brackish seawater.  Win win.",0,,,1,science
+ampmxu,2,"R&D companies that are currently working on this technology build concrete rivers inside greenhouses that are literally perfect for many species of algae. They build these rivers so that they flow at a slow, but steady rate, not allowing the algae to stagnate and die.",0,,,1,science
+ampmxu,3,I just would think solar panels in deserts would be a much better option,0,,,2,science
+ampmxu,4,"As far as the health of our planet goes, i agree 100%, but with the infrastructure we currently have, where most people are reliant on ICE's as means of transportation, i think this is the next step towards 100% EE transportation.",0,,,1,science
+ampmxu,3,There’s a reason we don’t have it yet. No one has figured out how to do algae at scale. You can make a lot of things happen in a five-gallon bucket. ,0,,,2,science
+ampmxu,3,Still need a ton of water...,0,,,1,science
+ampmxu,4,"Water is the most abundant resource we have. Desalination is getting cheaper by the year, and it's not like we're going to stop using brine anytime soon.",0,,,1,science
+ampmxu,5,And all this is cheaper and easier than growing terrestrial biomass?,0,,,1,science
+ampmxu,6,"It's not as cheap and easy as e85 from corn, but e85 reacts in a way that melts most rubbers in engines, not to mention its ridiculous inefficiency. As of 2015, algal biofuels ran about $8/gal, but much less is needed to create the same proportion of air to fuel for most engines (naturally aspirated) to combust, so one tank could last 800 miles, instead of 200 for e85. This makes it competitive.",0,,,1,science
+ampmxu,7,"You don't know what you're talking about. Algal biofuels aren't $8/gal. 
+
+Best State-of-Technology assessments put algal biofuels at about $14/gal, and that's assuming someone builds the plant.",0,,,1,science
+ampmxu,8,"https://www.rdmag.com/article/2015/10/carbon-neutral-fuel-alternative
+
+Dr. Rhona Stuart says different.",0,,,1,science
+ampmxu,9,"Look, this is the best, most reasonably optimistic assessment you're going to get on the cost of algal biofuels (pages 2-53 and 2-55): 
+
+https://www.energy.gov/sites/prod/files/2016/03/f30/mypp_beto_march2016_2.pdf
+
+And not trying to knock Rhona, I actually know her and she's alright. LLNL does good work.",0,,,1,science
+ampmxu,1,Aa far as I know any plant organism consumes 50% of the oxygen they use and produce various elements includint carbon.,0,,,1,science
+ampmxu,2,"Plants consume carbon dioxide to respirate. Carbon neutral means that they use carbon dioxide that was already presiding in our atmosphere, so they release nothing that was not already there when they are burned, whereas in fossile fuels, we are excavating carbon based fuels that were ""closed off"" from our atmosphere, and when they are burned, they are adding to the open loop.",0,,,1,science
+ampmxu,3,">so they release nothing that was not already there when they are burned
+
+Microbiology says otherwise. It is the basic life cycle. Plants consume oxygen, co2, and energy to produce more carbon than that what was not already there before any combustion is added to the equation.
+
+We need to think long term but that doesn't mean we shouldn't explore all of our options.
+
+We are among the generations that are responsible for pollution control, sustainability and travel. We have sent probes as far as roughly 10 billion miles out into space, yet we are almost 150 trillion miles away from the nearest star out side of our planetary system.",0,,,1,science
+ampmxu,4,"https://www.rdmag.com/article/2015/10/carbon-neutral-fuel-alternative
+
+Dr. Rhona Stuart says otherwise.",0,,,1,science
+ampmxu,5,"Pretty cool article especially about the *pond crashes*, glad we have intelectual people working in the field.
+
+Glad there are taking into consideration sustainability and development. 
+
+Though it would be economically viable in a near future, regardless, there's a net carbon gain with any plants.",0,,,1,science
+ampmxu,0,"Yeah, they're called bioenergy crops and there's multiple options already being used and improved. Prairie grass is one of many options for that. Not exactly new information at this point.",0,,,2,science
+ampmxu,0,Doesn't this come down to the same issue as land management and saving the rainforests? Aren't you asking people to give up their beef?,0,,,2,science
+ampmxu,0,Carbon neutral biofuels are better then carbon positive fossil fuels any day. Useing prairie grass is an awesome idea.,0,,,2,science
+ampmxu,1,Nothing is really carbon neutral including all plants. Plants use roughly half of the oxygen that they output. However science is limitless and we are the generation with potential to do a lot of change.,0,,,1,science
+ampmxu,2,"Biofuels are generally considered carbon neutral do to the fact that they only release carbon that was recently sequesterd in the plants from the current levels in the atmosphere rather then digging up and burning carbon that has been sequesterd for geological time scales. And living plants are more then carbon neutral, they are carbon negetive.",0,,,1,science
+ampmxu,3,"All plants produce a net gain of carbon. I'm not denying alternative fuels are without potential, i'm just stating the obvious.",0,,,1,science
+ampmxu,4,How? Because its not obvious. Its contrary to common sence and that's coming from an agricultural sciences major.,0,,,1,science
+ampmxu,0,"solar fuel generation by technological combination of microbial cells with solar panels has already given 10% efficiency, above the 1-2% of most plants and even the 8% of some of the most vigorous plants like sugar cane.    
+
+Some have said 80% efficiency has been achieved by nanotech solar panel + microbe cells, but I think that figure sounds suspiciously high.",0,,,2,science
+ampmxu,0,"There is a reason the dirt in Iowa is so good, and it has a lot to do with prairie grass.",0,,,2,science
+ampmxu,0,Algae is the only way to go as far as biofuels are concerned,0,,,2,science
+ampmxu,0,"In germany biogas plants are restricted to use only 40% corn as biomas. If they don't do so they don't get funding from the state anymore.
+
+What i find very promising is the silphie / cup plant / silphium perfoliatum. After it's planted it will regrow for 15 years. It only needs herbicides in the first year when it's planted, and very very little fertilizer. Depending on the location it has a little better or worse yields than corn, but is about the same. I actually wrote a research paper about it for my graduation and have it planted in my garden ;D",0,,,2,science
+ampmxu,0,"Great, lets plow down all those mega fields for native grasses and start growing everything hydroponically in skyscrapers.",0,,,2,science
+ampmxu,0,"Plant chestnuts and apple trees, use them for fuel, raise protein on the grass in mob grazing system. Way better It sequesters carbon and feeds the mycelium. ",0,,,5,science
+ampmxu,1,I suspect that unless we incentivise carbon fixation we aren't going to get very far. Even if it improves the soil.,0,,,4,science
+ampmxu,2,In Canada we just passed a carbon tax. So the money is there now. ,0,,,2,science
+ampmxu,3,"Cool. I know they were doing experiments in Australia measuring soil carbon and paying an incentive to increase it. 
+
+I suspect reliable measuring was a big issue. That and the fact that you have to charge people if their soil had reducing carbon contents. Otherwise, you have the Cobra effect.",0,,,1,science
+ampmxu,0,"And you can herd bison on the prairie, for sustainable, healthy, eco-friendly meat.  ",0,,,4,science
+ampmxu,0,"This is why I love this sub.  
+There is ALWAYS something interesting going on in the science community.  
+Also, /u/mvea is a freaking MVP for posting stuff.",0,,,3,science
+ampmxu,1,Sad to be a party pooper but this certain topic has been considered and studied on the 1970-1990 ( can't remember the exact year ) and has yet to yield any efficient results.,0,,,2,science
+ampmxu,2,"The paper seems to be extremely optimistic about how prairie grasses are better at growing biomass than corn, and then makes a leap to ""so we should use them for biofuels"".  Err, how do you turn regular grass into biofuels?  The whole point of using corn is the high yield of starch that's easy to convert into ethanol.  If you were going to grow stuff to burn in a pellet stove grass might be better than corn kernels, but most of us don't have wood powered cars yet.",0,,,2,science
+ampmxu,3,"You use heat, acid, and pressure to break down the C5 and C6 into ‘useable’ sugar. That is how. ",0,,,1,science
+ampmxu,0,"Biofuels aren't the answer.
+
+Remember years ago, when they started adding a tiny bit of corn-based ethanol to gasoline in a small part of the USA - and it ended up using 50% of the country's corn crop?
+
+Well, to replace fossil fuels with biofuels would require all the arable land on Earth, leaving nothing to produce food for 7 billion people (and a lot more animals).",0,,,3,science
+ampmxu,1,"Ignorant. No one has suggested switching to 100% ethanol. Not even ethanol producers. But sure, keep tossing your opinion grenades. ",0,,,1,science
+ampmxu,0,Yea let's just use electric and renewables. Why are we so obsessed with lighting things on fire to make energy...,0,,,3,science
+ampmxu,1,"Electricity comes from burning fossil fuels in most places. Why don't hunters buy meat at the store, where no animals have to die?",0,,,5,science
+ampmxu,2,"Our climate is already breaking down thanks to burning fuel. Yeah, electricity is great. But unless we change how we make it we're fucked. ",0,,,1,science
+ampmxu,2,"that’s a choice, and furthermore it’s changing rapidly. outside of the lazy north american market, europe and asia are going bananas with renewable electricity generation sources. ",0,,,1,science
+ampmxu,1,For the same reason people burn their fire places built in the 60s.,0,,,1,science
+ampmxu,0,Doesn’t this use a lot of fresh water though?,0,,,1,science
+ampmxu,0,"How about we suck CO2 from the atmosphere and convert that into hydrocarbon fuels? It can be  done, and is entirely carbon-neutral ",0,,,1,science
+ampmxu,1,Because the energy used to convert CO2 into hydrocarbons is more than the energy derived from burning hydrocarbons. ,0,,,1,science
+ampmxu,1,"Nothing we know of is carbon neutral indirectly prove me wrong.
+
+",0,,,1,science
+ampmxu,0,Google “soil carbon cowboys” it’s a 15min vid,0,,,1,science
+ampmxu,0,"This is how we get ethanol for our gasoline, however im not quite sure how they would make Diesel, JetA, and JP8 out of it. May be suprising.",0,,,1,science
+ampmxu,1,Easy-peasy. Most of the time it’s just a different yeast strain and/or enzyme cocktail. ,0,,,1,science
+ampmxu,2,"Ah yeah, i can see that.",0,,,1,science
+ampmxu,0,"How would they harvest prairie grasses? 
+Could it cause another Dust Bowl?",0,,,1,science
+ampmxu,1,"Well if you only trimmed the grass rather than uproot it, it could work",0,,,1,science
+ampmxu,2,I suppose. ,0,,,1,science
+ampmxu,0,How does prarie grass compare to wood though? Is it good enough to offset the related deforestation issues?,0,,,1,science
+ampmxu,0,"What about production remains ? so that we don't use more land, just make better use of what's considered waste/by product",0,,,1,science
+ampmxu,0,Why can't water fueled cars be a thing? ,0,,,1,science
+ampmxu,1,"You'd need electricity to split the water into hydrogen and oxygen, and use that as fuel, (to make exactly the same electricity) so you can't fuel it with water.",0,,,3,science
+ampmxu,2,So what about a battery/water combo? (serious question) ,0,,,1,science
+ampmxu,0,"and who paid for the ""research"". ",0,,,1,science
+ampmxu,0,"According to the documentary Fuel (2008) Brazil has been creating biofuel from their waste products that the land used to create food produces.
+
+So making biofuel means that you make more food, not less. For that matter any waste biomatter can be used to create biofuel it doesn't have to be a particular crop.",0,,,1,science
+ampmxu,0,But why? They still give off CO2 when used as a fuel.,0,,,1,science
+ampmxu,1,The idea is that you grow a field of something and it absorbs co2. You then harvest it and turn it into fuel that gives off co2 again but that's ok because the next year's crop absorbs that co2 and it keeps going on - plant and harvest the crop and keep releasing and reabsorbing the same amount of co2 in theory (though it's more complex than that obviously and the plants may actually take in more or less when you account for machinery harvesting and fertilisers).,0,,,3,science
+ampmxu,1,"Plants give off CO2 and consume half the oxygen they output, lets stop planting plants in the places we displace it?",0,,,1,science
+ampmxu,0,"Hey science, yall know we can build up right? You know, vertical real estate?
+
+
+Take a normal plot of farm land, build a two story building on it, replant. Now you got 2x the amount of whatever tf you planted. ",0,,,1,science
+ampmxu,1,"Yeah, and those vertical farms always end up growing non-staples like lettuce and leaf veg as opposed to the main crops humanity actually needs for its calorific intake such as wheat, rice and potatoes because those things don't do so well growing like that.
+
+Vertical farming is a nice idea on a small scale, a pipe dream on a large scale and only ever going to be a tiny, niche part of it ever catches on to feeding people.
+It's a nice space saver to grow a few veggies for a smallholder, but then a cordon trained fruit or but tree is about as good a use of space.",0,,,1,science
+ampmxu,1,"there is a limit per acre of even vertical growth thanks to this thing called sunlight, you can use the fibonacci numbers to maximize (branches on trees) but youre still going to limit growth beneath you top layer ",0,,,1,science
+ampmxu,2,"There's this crazy thing called artificial UV which allows you to do things with stuff. Also, mirrors. Science is crazy. ",0,,,1,science
+ampmxu,0,"How exactly is biofuel made from plants anyway?  Do they essentially mince up the plants with a food processor, add yeast, wait for fermentation to happen, and then distill the liquid to get a high-alcohol content fluid that can then be used as a gasoline?
+
+&#x200B;
+
+I know my city has a program where you get a green trash can you can use to put yard clipping and food waste in it, with the idea being that the city makes a ginormous compost batch and sells the compost off.  If the plant based biofuel is just using the unused parts of plants that's fine, but if it's replacing usable farmland for food with farmland for fuel then we got a problem.",0,,,1,science
+ampmxu,1,"When I've read about biogas the idea is you put that sort of waste in but unlike compost it isn't exposed to air. The microbes break it down as they would in a cow's gut and turn some into methane as a biproduct (gas) and the waste that comes out is compost-like, so overall not bad and an efficient system.
+
+Though if it didn't undergo this process I don't think the methane would have been produced in the first place (a greenhouse gas), but other things would have.",0,,,1,science
+ampmxu,0,Isn't oil mostly plants anyway? ,0,,,1,science
+ampmxu,0,"Why does the title only consider emissions?
+
+Leaving fossil carbon as fossil is the goal here. Carbon taken from plants is carbon that is already part of the active carbon cycle, it would not add to the net amount because {presumably} your new fuel plants would be taking up carbon emitted from use of the old fuel plants. And if you grow more than you use every few years, and just turn over the extra into soil, you should come out even or ahead.",0,,,1,science
+ampmxu,0,It wouldn't work cos you'd need FAR too much last to keep up with the fuel demand 24/7 we're better going for electric cars it's a lot better for the earth in the long run too having zero emissions. ,0,,,1,science
+ampmxu,0,"Of course they would compete for land use with food but in reality we produce far more food than we actually need anyway, we are just really, really bad at utilizing it. Also we're picky and throw away a lot of food for no good reason. If we actually look at things there is no real reason that anyone (in a first-world country) should be going hungry and we could use the land to produce things like bio-fuels be they food based or grass based.
+
+This is also very utopian thinking unfortunately because in the real world if the government or private companies are not making massive, immediate, profits off of the things they produce then they aren't deemed worth looking at. It's ignored that in the long term these things are more sustainable and therefore would actually offer more sustainable profit as well because they aren't immediately seeing the money from it. I grew up in a capitalist society like most people though so there is that stupid part of me that says you can't blame a business for wanting to make money.",0,,,1,science
+ampmxu,0,Bio fuels will would be a good step toward decarbonization because they should in theory be carbon neutral... But I think we need to start skipping steps at this point.,0,,,1,science
+ampmxu,0,Compete with land for food? Since when does land eat?,0,,,1,science
+ampmxu,1,"The title is mixed up, it's obviously ""compete with food for land""",0,,,1,science
+ampmxu,1,"i am so glad i was not the first to ask this, very misleading",0,,,1,science
+ampmxu,0,Has anyone tried using kudzu? It grows very quickly in the wild in the southern US.,0,,,1,science
+ampmxu,0,"Too late now. Thanks to all the subsidies that is put on ""clean fuel"" Bio diesel is now cheaper than regular diesel where I live. Everyone loves it... just not for the reasons we might hope for.",0,,,1,science
+ampmxu,0,"This is really nothing new I was taught this 15 years ago in my second year biology.
+
+Think about how plants turn solar power into chemical energy. It is about 1% then you only use some parts for fuel, and then the efficiency of burning is really low. The average effeciency of solar panels is about 15%. And you don't have to compete with any agricultural land.   Basic calculations have showed this is a very bad  idea. But at a certain point there were to much investors and politicians involved.",0,,,1,science
+ampmxu,0,This is part of the reason the “eating meat is bad for the environment” argument seems so misguided to me. Plant based monoculture and vegan diets are being pushed very hard these days when in reality regenerative livestock practices and permaculture are the direction food production needs to move in order to strike a balance with natural habitats while sequestering more carbon. ,0,,,1,science
+ampmxu,0,Algae skyscrapers farms would be far better.,0,,,1,science
+ampmxu,0,You can make a low co2 burning fuel using seaweed,0,,,1,science
+ampmxu,0,"Elif what does this mean
+",0,,,1,science
+ampmxu,0,MAybe it would balance out if we stopped feeding livestock and used that for fuel,0,,,1,science
+ampmxu,0,"Also, bio-fuel can be made of any discarded plant parts not used for consumption.",0,,,1,science
+ampmxu,0,"I seem to recall Bush being ridiculed for saying this at his state of the union, can't wait to read the reactions about how it's such a wonderful idea now.",0,,,1,science
+ampmxu,0,Why not just use algae? ,0,,,1,science
+ampmxu,0,Biofuels aren’t as power dense as fossil fuels. Plain and simple. ,0,,,1,science
+ampmxu,0,"I’m actually doing my thesis on bioremediation techniques and biochar seems to allow bacteria to breakdown organic pesticides and compounds, it makes allows bacteria to thrive but the only barrier is the resulting waste products that are difficult to mitigate and could affect overall crop growth. Saying that, it really could be the way of the future. The only thing that concerns me is that it’s not thoroughly studied and most papers push the implications it could have. If we find a way to implement it correctly it really could change our world for the future.",0,,,1,science
+ampmxu,0,Yes this is just what society needs - using farmland for gas instead of for food.,0,,,1,science
+ampmxu,0,"I'm ready to believe that all those (bio)fuel companies are lobbying and promoting a vegan lifestyle so they can use all those plants even more efficiently than just food, making even more money out of them.",0,,,1,science
+ampmxu,0,"Isn’t the fact that fossil fuels aren’t easily replaceable and very finite the reason these are considered alternatives? 
+
+Just because they also have problems doesn’t mean they’re not a useful alternative to one of our bigger issues concerning fossil fuels. ",0,,,1,science
+ampmxu,0,"It's not good idea to mow prairie grass. It will turn medows into deserts, because the grass roots loosen up the soil.
+
+&#x200B;",0,,,1,science
+ampmxu,0,This is NOT true. 1. Oil is stored polution deep in the earth. 2. Biomass is grown and burnet in a cycle on the surface. What a complete lie. ,0,,,1,science
+ampmxu,0,That's why one of the research fields is into cellulose production for non-food biomass. It allows us to get food and biofuel materials at the same time. ,0,,,1,science
+ampmxu,0,Isn’t ethanol also not very good for your car?,0,,,1,science
+ampmxu,1,"Ethanol is 113 octane vs the 84 octane of petro gas that is blended with ethanol.  Most race circuits including NASCAR use ethanol for its higher horsepower production and because it burns so much cleaner than oil based gas ie less toxic gases for pit crews, etc.  But you need a higher compression engine to take advantage of this octane.  And car companies are still mostly engineering cars for a 87 octane world.   ",0,,,1,science
+ampmxu,0,E-85 burns way faster than regular gas ,0,,,1,science
+ampmxu,0,"As a biologist who has dabbled in biofuel production, I think this area of research is a dead end.  Energy density hasn't really risen in the last 10-15 years and is still well behind even tough to get at crude oil.  Besides, the winds seem to be blowing towards the renewable energy sector anyway(solar, wind, etc).  We've also got an increasing rate of investment in fusion.  I think people should stop wasting their time in this research.",0,,,1,science
+ampmxu,0,Time to move on from this crap and expand our nuclear power. Bill Gates has the right ideas.,0,,,1,science
+ampmxu,0,"I was on a scholastic debate team and lost to that argument 10 years ago. I was a 'specialist' at crushing ethanol, but someone discussed a type of ragweed that grows nearly anywhere without needing proper irrigation with only a slightly lower energy yield than corn-based ethanol. By the end it was all I could do to not ask my opponent why we aren't using it already.",0,,,1,science
+ampmxu,1,Banks invested in the oil companies with tons of printed out of thin air cash.,0,,,1,science
+ampmxu,0,Why was Hemp not tested?  Did these guys not have that one friend that has been saying for decades that hemp was an excellent biofuel that required less land to grow?,0,,,1,science
+ampmxu,0,Biofuels are a stupid idea. Any biofuels raise the consumer price of the crop or plant that they are based from. And they are often less efficient and contain less energy per volume amount. ,0,,,1,science
+ampmxu,0,"Prairie and bison is beautiful and ecofriendly, win win. Tatonka.",0,,,1,science
+ampmxu,0,"Because of agreements made through the World Trade Organization, the US has had to cut subsidies on farm crops because it gives US crops an unfair trade advantage. The US can however subsidize emerging technologies like biofuels, which raise corn prices (with about 40% of current corn production going to biofuels). Biofuels were never really consided a real fossil fuel alternative, they are just a roundabout way to subsidize farmers.",0,,,1,science
+ampmxu,0,"The main result from biofuels is the cost of actual food has gone up because so many farmers are raising crops for Ethanol. It's an inefficient, ridiculous waste that we are now stuck with for the rest of your life because now it's about ""the farm vote "" and no politician would even think of bringing it up. Ever.",0,,,1,science
+ampmxu,0,"Good transition material, before we fully adopt Renewables.",0,,,1,science
+ampmxu,0,"I thought one aspect of algal bio fuels was that you could set up a closed system in the desert or some other non arable soil, therefore it wouldn't be pushing out food crops.",0,,,1,science
+ampmxu,0,"Yes, but Prairie Grass won't enrich anyone…",0,,,1,science
+ampmxu,0,"Back when I used to research this, the problem with biofuels was always EROEI or energy returned on energy invested.  The amount of energy needed to raise and process biofuels vs.  The amount of energy returned was negative, so you might as well just use that energy to power electric cars instead and using it for biofuels is just a waste.",0,,,1,science
+ampmxu,0,Don’t use plants for fuel. Let’s make this tech available and affordable. www.carbonengineering.com/about-a2f/,0,,,1,science
+ampmxu,0,"I've been hearing this for years.
+
+&#x200B;",0,,,1,science
+ampmxu,0,why do fuels need food? why does land need food? this competition can't be very intense...,0,,,1,science
+ampmxu,0,"ok, this is also not a solution. 
+
+There are two key problems. the amount of native prairie left unadulterated by human use is relatively small; generally crops cover virtually everything that is farmable. not only are unfarmed  prairies a relatively small resource compared to the expansive reach of agriculture, but more importantly, they are ecologically valuable. this is just another example of how nature gets last consideration. “oh, the land isn’t being used for residential land *and* it isn’t being used for agriculture? better use it to fix our carbon problem”. no, natural ecosystems already have to share way too much land with farms and suburb expansion. 
+
+prairies aren’t just a convenience for you to plunder because you don’t want to share agricultural land with biofuel crops. maybe what we’re seeing is that biofuel crops are just a dead-end. maybe it would be wiser to pursue electric vehicles and be done with it.",0,,,1,science
+ampmxu,0,Whatever happened to vertical algae farms?,0,,,1,science
+ampmxu,0,"Studies show that we loose most of our effective calories for human consumption through the very inefficient use of crops to feed and grow livestock for meat. In one such study,  [Cassidy, West, Gerber, and Foley (2013)](https://iopscience.iop.org/article/10.1088/1748-9326/8/3/034015/pdf) report that a solution to worldwide increased demand for crops secondary to population growth, and situations like increased demand for bio-fuel production, can lie in altering our dietary consumption habits.  They continue to note that:
+
+>""36% of the calories produced by the world's crops are being used for animal feed, and only 12% of those feed calories ultimately contribute to the human diet.""
+
+and posit
+
+>""growing food exclusively for direct human consumption could, in principle, increase available food calories by as much as 70%, which could feed an additional 4 billion people \[with what we are currently growing\]""
+
+&#x200B;
+
+i.e. - this wouldn't be a problem if we stopped inefficiently squandering our crops to feed livestock.  This is just one facet of why animal product consumption is deleterious to our environment and wholly unsustainable; especially if industrializing nations adopt animal product consumption habits similar to those in the contemporary western diet.  This hasn't even added the carbon emissions and waste products associated with animal agriculture either.
+
+&#x200B;
+
+TL;DR: competition for land with crops destined for food wouldn't be a problem if people adopted a plant-based diet.  Just one more reason people need to go vegan for the environment.",0,,,1,science
+ampmxu,0,"I think everything should be electric as possible however if we do need fuels we should consider using ice distillation as a cheap effective way to make biofuels, use yeast to get to 15%, then ice distill to 30-60%, then use heat distillation to finish it off into bio fuel.  We can cut the energy requirements to make biofuels in half at least in the winter time.  From fermuation alone will also help out in the summer time.",0,,,1,science
+ampmxu,0,"Wasn’t it something like if 100% of US crop land was used fo ethanol production, it’d only account for 80% of our energy needs?  That may be wrong but I remember this discussion from awhile back and how it isn’t really viable.",0,,,1,science
+ampmxu,0,"End goal is the complete elimination of non renewable fuels, which will likely come from battery technology.",0,,,1,science
+ampmxu,0,"I'm glad that advancements and discoveries (new ones; or, as mentioned in this post, re-discoveries) are happening. But, I wish that true, well-educated scientists had more governmental influence in order to do what's best for our environment and the future of our world. It's disappointing that scientific discoveries seem to be swept under the rug by the government and media due to ""more pressing (mainstream) issues"" that concern politicians more. It's sad that when push comes to shove, the government may finally allow their scientists to have more influence. Though, I do wonder what this shove will end up being....",0,,,1,science
+ampmxu,0,Be nice if I could use my grass clippings for fuel. ,0,,,1,science
+ampmxu,0,I thought we all decided algae was better?,0,,,1,science
+ampmxu,0,"How relevant  will this be in the coming decades as companies switch to EV? Walmart will save tens of billions of dollars every year. Their investment in renewable energy will quickly pay for itself. In the not so distant future we will have solid state batteries.  The country should invest in EVs not for the environment but for national security & economical reasons. In the not so distant future home owners and business won't need to spend money on fuel for the most part.
+
+",0,,,1,science
+ampmxu,0,This has been known for a while the main problem from my perspective is to create supply for the demand that will surge if this gets to happen at a wide scale. Even some airlines are planning to replace fossil fuel for biofuel in the incoming years.,0,,,1,science
+ampmxu,0,Stop trying to replace gasoline with another fuel.,0,,,1,science
+ampmxu,0,"I did a research paper on this a few years back. Assuming all arable land in the world was ideal for growing corn based ethanol (it's not) it would take more farmland than exists on the planet to replace the gasoline consumption of the US alone. Not to mention that Biofuels are more expensive to grow than the ethanol is worth (without subsidies on the farming and directly on the ethanol) and are still just burning fuel and releasing just slightly less emissions. My guess is that this study (its not mentioned in the article) did not find that this other kind of grass (corn is highly related to grass) is not 1000s of times more potent than corn.
+
+&#x200B;
+
+I found in my research that algae is actually a possibility for ethanol and that conditions are perfect for it in the oceans thanks to climate change (yay). It is both more potent than corn and uses no farmland, plus it does not require fertilizer! It does still burn though, so the discussion of whether we could save the planet by burning something that is slightly less bad for the environment is kinda moot.
+
+&#x200B;
+
+The only true way to replace our energy consumption (at least for gasoline) is to create electric cars that are powered by a combination of solar, wind, nuclear in places that are not prone to earthquakes and tsunamis (looking at you, Japan), and hydro.
+
+&#x200B;
+
+tl;dr: ethanol in any form doesn't make sense environmentally nor economically in this form.",0,,,1,science
+ampmxu,0,"Historically about 1/3 of land use has been for transportation, we didnt always use cars people used to ride horses use oxen etc etc  ",0,,,1,science
+ampmxu,0,"Hemp in Wyoming. We have the room, trust me.",0,,,1,science
+ampmxu,0,You can turn the stocks and roots from sugarcane  into biofuel. But instead the stocks and roots are burned in massive fires that cover miles and miles with black smoke. ,0,,,1,science
+ampmxu,0,Is this in anyway more efficient that multi-story vertical algae farming for biofuels?,0,,,1,science
+ampmxu,0,"If only there were other super accessible renewable sources such as light, wind and wave....",0,,,1,science
+ampmxu,0,Or just set up solar farms and convert excess to ammonia to burn later. Its more efficient per m^2 and can be put in the otherwise useless desert.,0,,,1,science
+ampmxu,0,Anything but electric is an extremely stupid idea. Also a lot more nuclear power plants.,0,,,1,science
+ampmxu,0,"I've been working in biofuels for 10 years, so I know a good amount about this subject. People often mistakenly assume that crops used for biofuel are taken from the food supply. Corn used in ethanol production only has the starch removed, and the rest of the corn is remaining. The remaining pieces of the corn are dried and made into DDG's (Dried Distillers grain) and fed to livestock. In most cases that corn would have went to those livestock regardless, so the corn used for biofuels isn't completely lost from the food supply..The purpose of biofuels isn't necessarily to produce less CO2 then gasoline, it is to only release CO2 to the atmosphere that was already there. CO2 released from gasoline is CO2 that has been trapped beneath the earth, and is being reintroduced thus increasing the net CO2 in the atmosphere. CO2 from ethanol is CO2 that was already in the atmosphere, and was captured by the plant...As for the prairie grass. Most of the land that is fertile enough to grow prairie grass is already used to grow crops we consume. You can grow some grasses in less desirable areas which are either steeper, or rockier then farm land we use to grow crops. Neither of which are advantageous for collecting the grass. Most of the hope for the future of biofuels has been placed in cellulosic ethanol, which involves breaking down cellulose, and hemicellulose by a variety of methods to expose the starches inside. This is ideal because you can use the parts on the plants that would otherwise go unused as a feed source. The problem is it has been a huge failure, and many companies have closed there doors within the past 4 years trying to produce cellulosic ethanol at a production level. Imo, at this point biofuels are a good transitional fuel as they can be used in combustion engines of cars that are on the road today, but electric cars are the long term future.",0,,,1,science
+ampmxu,0,If we didn't use as much soy and grain on livestock this really wouldn't matter. ,0,,,1,science
+ampmxu,0,"1. Grass is hard to turn into fuel
+2. There is plenty of other waste sources that can be used. Waste streams from sewage plants and green matter from foodproduction.
+3. Ofcourse it doesnt reduce carbon emissions. Over some time you store co2 in vegitation and then release it again. Its carbon neutral which is still way better than fossil fuels.",0,,,1,science
+ampmxu,0,"This isn't complicated, we need to restore nature back to the condition it was in four hundred years ago, to the best of our ability.",0,,,1,science
+ampmxu,1,Yeah it’s not that simple ,0,,,1,science
+ampmxu,2,"It's not a simple task to accomplish, but it's simple to see what needs to be done.",0,,,1,science
+ampmxu,3,That’s all that matters bro. Ideas are just ideas. Implementing them is reality. Reality is not that simple. ,0,,,1,science
+ampmxu,4,"It's good to know which direction you're walking towards, ere you miss a step and fall from the path.",0,,,1,science
+ampmxu,0,"Biofuels are mostly a scam. Still takes loads of energy to produce the fuel, can harm land, does not really offer many benefits. I have a flex fuel vehicle and I've never even seen a station that offers it. That being said, perhaps one day we can make it viable, I have my doubts though. ",0,,,1,science
+ampmxu,1,"Scam I think is a little harsh. I think they’re dishonestly marketed as a current solution when there’s a lot of work to be done, but you also can’t improve those resources if you don’t put money into them. ",0,,,1,science
+ampmxu,0,"No. BURNING fuels is the problem. We need to stop burning things, not just burn something else. ",0,,,1,science
+ampmxu,0,[removed],0,,,1,science
+ampmxu,1,Can we get some peer reviewed proof of this? Because it’s an amazing concept. ,0,,,2,science
+ampmxu,0,Two words; Elephant grass. ,0,,,1,science
+ampmxu,0,"I hate to be that guy but, why are we not investing in more promising alternative energy sources like nuclear and solar? Imagine if a company as big as Exxon invested in solar/nuclear instead of algae based fuels. This isn’t really a rhetorical question either. I just see biofuels as a waste of time and kind of counter intuitive especially with far superior options.",0,,,1,science
+ampmxu,1,[deleted],0,,,6,science
+ampmxu,2,"In your free energy scenario you could make the fuel from co2 from the atmosphere, making it carbon neutral. ",0,,,1,science
+ampmxu,1,Good on a small scale though like on a farm with abundant manure for methane or a rural house turning waste into gas.,0,,,1,science
+ampmxu,0,"Are you saying that all those heavily subsidized biofuels from rapeseed and soybean are doing more harm than good? That we subsidized destroying of environment while stuffing our taxes into deep pockets of green apostles?
+
+This is heresy, this is something only evil republican conservatives would ever say.",0,,,1,science
+ampmxu,1,I agree with you and I am far from calling myself a republican these days. ,0,,,1,science
+ampmxu,0,This would still be bad environmentally. Between this and mass farming of crops you leave little land for local wildlife not to mention how many animals are killed through these practices.,0,,,1,science
+ampmxu,0,"I don’t know about this, I prefer having relatively cheap food.",0,,,1,science
+ampmxu,0,"As I understand it, Coal plants generating the same amount of power would release orders of magnitude less greenhouse gas than a biofuel burning plant.",0,,,1,science

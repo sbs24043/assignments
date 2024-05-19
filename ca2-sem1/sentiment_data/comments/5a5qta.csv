@@ -1,71 +1,71 @@
 post_id,level,body,gilded,likes,num_reports,score,subreddit
 5a5qta,0,"These graphs are bit ridiculous. Pesticide use in the France was measured in thousands of metric tonnes of active ingredient. For the U.S., it was million pounds of what we can only assume is final product (edit: it's actually pounds active). Why would anyone report yields in hectograms per hectare? Can someone explain to me what the scale on the last graph is supposed to mean? 
 
-Furthermore, growing conditions in both continents never received a single mention; GxE is *the* buzzword in plant breeding right now and the biggest factor in ""E"" is climate. No mention of no-till (for which there is a known yield lag at best, and decrease at worst), which is [hardly used in Europe](http://www.fao.org/ag/ca/CA-publications/China_IJABE.pdf). No mention of the various pesticides allowed in North America but banned in the EU, the timing of which I suspect would line up with several of France's usage decreases. ",0,,,299,science
-5a5qta,1,"On hectograms per hectare, that's the measurement we always use for scientific publications. In the US, bushels/acre means more to farmers, but you have an added variable of seed weight. You could have the same bushels/acre but have 25 lbs of a really big but light seed, and 50 lbs and a tiny but dense seeds. When you calculate true yield, you want the total weight produced, not bushels.",0,,,62,science
-5a5qta,2,"Makes sense w.r.t. bushels, good point! Not a common unit in scientific writing anyway unless it's a US publication. I don't think I've ever come across hectograms in any of my reading though. Kilograms or tonnes are the unit of choice since that's what farmers (anywhere but Canada and the US at least) use and is what we can realistically measure with large equipment. ",0,,,5,science
-5a5qta,3,"True, I don't see hectograms that often, but I don't consider a big deal as hectograms and kilograms are used for measuring weight in metric.",0,,,7,science
+Furthermore, growing conditions in both continents never received a single mention; GxE is *the* buzzword in plant breeding right now and the biggest factor in ""E"" is climate. No mention of no-till (for which there is a known yield lag at best, and decrease at worst), which is [hardly used in Europe](http://www.fao.org/ag/ca/CA-publications/China_IJABE.pdf). No mention of the various pesticides allowed in North America but banned in the EU, the timing of which I suspect would line up with several of France's usage decreases. ",0,,,300,science
+5a5qta,1,"On hectograms per hectare, that's the measurement we always use for scientific publications. In the US, bushels/acre means more to farmers, but you have an added variable of seed weight. You could have the same bushels/acre but have 25 lbs of a really big but light seed, and 50 lbs and a tiny but dense seeds. When you calculate true yield, you want the total weight produced, not bushels.",0,,,56,science
+5a5qta,2,"Makes sense w.r.t. bushels, good point! Not a common unit in scientific writing anyway unless it's a US publication. I don't think I've ever come across hectograms in any of my reading though. Kilograms or tonnes are the unit of choice since that's what farmers (anywhere but Canada and the US at least) use and is what we can realistically measure with large equipment. ",0,,,6,science
+5a5qta,3,"True, I don't see hectograms that often, but I don't consider a big deal as hectograms and kilograms are used for measuring weight in metric.",0,,,6,science
 5a5qta,3,Wouldn't you also need to include moisture content?,0,,,1,science
 5a5qta,4,"Moisture content is relatively uniform for commodity crops. For example, yellow corn number 2 is traded at 14% maximum moisture if I recall correctly. Don't pay attention enough to the markets to give you a better answer. ",0,,,2,science
-5a5qta,1,"Also, in my area at least, GMO efforts are currently being researched and hopefully implemented to resist a foreign disease that we have little to no defense against. All else is pointless until this issue is resolved or the crop's industry will literally go extinct. Gotta pull yours pants up before you buckle your belt. ",0,,,17,science
-5a5qta,2,Bananas?,0,,,14,science
-5a5qta,3,"If you don't know the context, this seems like the most random and ridiculous reply. I had a chuckle. ",0,,,12,science
-5a5qta,4,Maybe he is just a minion,0,,,6,science
-5a5qta,1,"Furthermore, judging success by quantity of pesticide used is a bit disingenuous. A significant goal of genetic engineering has been to create crops resistant to a particular type of pesticide so that it can be used widely without damaging yields. We shouldn't expect such work to result in lower overall pesticide use.",0,,,20,science
-5a5qta,2,"To be specific, Monsanto wanted plants to be resistant against Monsanto's RoundUp.",0,,,8,science
+5a5qta,1,"Also, in my area at least, GMO efforts are currently being researched and hopefully implemented to resist a foreign disease that we have little to no defense against. All else is pointless until this issue is resolved or the crop's industry will literally go extinct. Gotta pull yours pants up before you buckle your belt. ",0,,,19,science
+5a5qta,2,Bananas?,0,,,16,science
+5a5qta,3,"If you don't know the context, this seems like the most random and ridiculous reply. I had a chuckle. ",0,,,13,science
+5a5qta,4,Maybe he is just a minion,0,,,7,science
+5a5qta,1,"Furthermore, judging success by quantity of pesticide used is a bit disingenuous. A significant goal of genetic engineering has been to create crops resistant to a particular type of pesticide so that it can be used widely without damaging yields. We shouldn't expect such work to result in lower overall pesticide use.",0,,,18,science
+5a5qta,2,"To be specific, Monsanto wanted plants to be resistant against Monsanto's RoundUp.",0,,,10,science
 5a5qta,3,"Brought to you by Monsanto®.
 
-""Monsanto. Whether you want it or not.™""",0,,,12,science
-5a5qta,3,"I'm no fan of Monsanto, for lots of reasons, but it's hard to blame them for engineering a plant to be resistant to their particular pesticide. Obviously their goal is to make money.",0,,,4,science
+""Monsanto. Whether you want it or not.™""",0,,,9,science
+5a5qta,3,"I'm no fan of Monsanto, for lots of reasons, but it's hard to blame them for engineering a plant to be resistant to their particular pesticide. Obviously their goal is to make money.",0,,,2,science
 5a5qta,4,"Yes, that's my position as well. The law is to blame if a product can be sold but does not comply to ethical understandings (generally spoken).",0,,,2,science
-5a5qta,2,But one of the main arguments for GMO crops is that it's going to decrease the use of pesticides.,0,,,6,science
+5a5qta,2,But one of the main arguments for GMO crops is that it's going to decrease the use of pesticides.,0,,,4,science
 5a5qta,2,Shouldn't 'widely used without damaging crops' necessarily increase yield? Or taste? Or something?,0,,,1,science
 5a5qta,1,"Yeah, the axes are a bit strange and make comparing across charts difficult. I'm not sure why they used the units they did - if I had to guess, probably because that's how the units were reported in the different reports on which the charts were based.
 
 I think the story they are trying to tell lies in the trendline, though - and that comparison wouldn't be confounded by the unit choices.
 
-Why wouldn't someone report crop yield as hectogram per hectare?",0,,,16,science
+Why wouldn't someone report crop yield as hectogram per hectare?",0,,,20,science
 5a5qta,2,"The units should reflect the precision of the machines we use to measure yield, whether that's a yield monitor or the scale at an elevator. A hectogram difference across an entire hectare is just noise. I realize you can just convert the units, but to me making a conscious decision to use non-standard and unrealistic units says something about the intent of the article and the author's understanding of agriculture. Combined with a few other comments, like bringing up the Nazis and Agent Orange, this story feels like more of a hit piece against GMOs than an accurate summary of the pros and cons. 
 
-I did some more reading into the [source USGS data](https://pubs.usgs.gov/ds/0907/pdf/ds907.pdf) for the American trendlines and it looks like it is in fact measured in pounds of active ingredient, so you are right that the units don't make a difference. My concern was that if the source data was based on retail sales, then the low concentration of AI in some products (read: glyphosate herbicides) would skew the data. ~~I can't find the host for the raw data referenced in the link above but~~  (edit: linked it in a reply to another comment) Converting everything to the same units would have been easy for the NYT to do, and once again this was a conscious decision on behalf of the editor. ",0,,,36,science
-5a5qta,2,"Uhhhh, unit choice manipulation is practically standard operating procedure for confirming your own bias.",0,,,6,science
-5a5qta,3,But they didn't manipulate anything. And the units chosen don't have a material impact on how you interpret the results.,0,,,-3,science
+I did some more reading into the [source USGS data](https://pubs.usgs.gov/ds/0907/pdf/ds907.pdf) for the American trendlines and it looks like it is in fact measured in pounds of active ingredient, so you are right that the units don't make a difference. My concern was that if the source data was based on retail sales, then the low concentration of AI in some products (read: glyphosate herbicides) would skew the data. ~~I can't find the host for the raw data referenced in the link above but~~  (edit: linked it in a reply to another comment) Converting everything to the same units would have been easy for the NYT to do, and once again this was a conscious decision on behalf of the editor. ",0,,,35,science
+5a5qta,2,"Uhhhh, unit choice manipulation is practically standard operating procedure for confirming your own bias.",0,,,8,science
+5a5qta,3,But they didn't manipulate anything. And the units chosen don't have a material impact on how you interpret the results.,0,,,-4,science
 5a5qta,4,"The units do matter. Read this: http://weedcontrolfreaks.com/2016/10/the-tiresome-discussion-of-initial-gmo-expectations/
 
 I would argue that not taking the time to apply some basic scientific rigor and overlook something as important as units of measure while cherry picking individual countries to confirm your bias is dangerous and irresponsible.",0,,,43,science
-5a5qta,5,"/end thread. I don't think anyone here can provide a better rebuttal than that. I was about to attempt my own re-creation of his first graph. If you look at the USGS data, everything is actually in kg so if the NYT had to convert units anyway, why would they convert to pounds? ",0,,,10,science
+5a5qta,5,"/end thread. I don't think anyone here can provide a better rebuttal than that. I was about to attempt my own re-creation of his first graph. If you look at the USGS data, everything is actually in kg so if the NYT had to convert units anyway, why would they convert to pounds? ",0,,,12,science
 5a5qta,4,You are correct. Also it is doubtful the group researching this used just those two graphs to work it out.,0,,,1,science
 5a5qta,2,usually in day to day operations people use tones/HA at least in Europe for main crops. ,0,,,1,science
-5a5qta,1,"Reading it this morning, i assumed that they controlled for growing conditions because it would be laughable if they didn't (essentially a giant batch effect). Guess it really is that laughable. ",0,,,4,science
+5a5qta,1,"Reading it this morning, i assumed that they controlled for growing conditions because it would be laughable if they didn't (essentially a giant batch effect). Guess it really is that laughable. ",0,,,5,science
 5a5qta,1,"Thanks for bringing this up. The data is presented very strangely here. 
 
- Could you explain what you mean by GxE? I come from a genetics background and I'm unfamiliar with plant breeding buzzwords",0,,,1,science
-5a5qta,2,"Genotype by environment interaction. Simply, in one environment a gene has x effect, but in another environment that same gene has y effect. That's a 10,000 ft view and it is much more complicated, but generally that's the idea.",0,,,11,science
+ Could you explain what you mean by GxE? I come from a genetics background and I'm unfamiliar with plant breeding buzzwords",0,,,4,science
+5a5qta,2,"Genotype by environment interaction. Simply, in one environment a gene has x effect, but in another environment that same gene has y effect. That's a 10,000 ft view and it is much more complicated, but generally that's the idea.",0,,,12,science
 5a5qta,3,Ok that is what I assumed but thank you for clarifying,0,,,2,science
 5a5qta,1,"not to mention that some GMOs don't limit the use of pesticides / herbicides, they just make the plant to to be immune to them while everything else is not...",0,,,1,science
 5a5qta,1,"Yeah this seems biased - I know that per acre yields of corn have trended up rather impressively over the last few dacades, but I would also say that as growth in use of pesticides and herbicides we have witnessed a following trend line of neurological diseases in the US from infants to adults - we are hurting ourselves with our food supply.",0,,,-5,science
 5a5qta,2,Show it.,0,,,7,science
 5a5qta,2,lul,0,,,2,science
-5a5qta,0,[removed],0,,,6,science
+5a5qta,0,[removed],0,,,8,science
 5a5qta,1,"Kniss is great. This needs to be at the top of this thread, it does a great job of refuting the NYTimes article.",0,,,3,science
 5a5qta,0,"This article fails to mention developing countries where the benefits of gmos are shown the most. Places like India and China where bt cotton has increased yields drastically since 2002. In fact some estimates show India's cotton yields increased 2 fold.  
   
 Also while it may be true that chemical usage hasn't gone down ,which I'm skeptical about at best, the chemicals used have changed to ones that are safer.  
 For example we have shifted from chemicals that can reside in the soil for lengthy periods, don't easily breakdown, or ones that leach into the ground water to now using mostly chemicals like glysophate which breaks down easily, is a broad spectrum, and doesn't leach as easily.   
-By broad spectrum I mean that one chemical can kill multiple types of weeds or pests. So instead of in the past how you'd have to spray 2 or 3 chemicals you now use 1. ",0,,,97,science
-5a5qta,1,Proof that it increased yield? ,0,,,8,science
+By broad spectrum I mean that one chemical can kill multiple types of weeds or pests. So instead of in the past how you'd have to spray 2 or 3 chemicals you now use 1. ",0,,,100,science
+5a5qta,1,Proof that it increased yield? ,0,,,12,science
 5a5qta,2,"[graph](http://ras.org.in/articles/97/images/fig1.jpg)
 
 [(source)](http://ras.org.in/cotton_cultivation_in_india_since_the_green_revolution#fig1)
 
-Pretty dramatic really. ",0,,,19,science
+Pretty dramatic really. ",0,,,20,science
 5a5qta,1,"Almost every sector of agriculture, G.E. or not has made the same shift away from environmentally persistent chemicals. Precision application of pesticides is now a well researched subject and is implemented by most modern farms.",0,,,2,science
-5a5qta,1,"Why do you think GM technology has improved crop yields in India and China, but not in the US?",0,,,3,science
+5a5qta,1,"Why do you think GM technology has improved crop yields in India and China, but not in the US?",0,,,4,science
 5a5qta,2,"American farmers make 100x more than Indian farmers, but pesticides don't cost 100x more in the US. Per Google, the average American farmer makes $61k.  The average Indian makes $600. 
 
 There are chemicals available to fix pretty much every agricultural problem. The decision to apply them is a business decision. Assume a caterpillar infestation that will half your yield if you don't treat.  Treatment costs $500.  The Indian farmer expecting $600 for his crop is better off letting caterpillars eat half the crop, the American farmer expecting $61k for his crop is better off applying treatment.  You would expect Indian farmers to start with much lower yields.
 
-GM crops help guarantee yields.  US farmers were already using chemicals to guarantee yields so I wouldn't expect much improvement in that department.",0,,,51,science
+GM crops help guarantee yields.  US farmers were already using chemicals to guarantee yields so I wouldn't expect much improvement in that department.",0,,,49,science
 5a5qta,3,"So you're saying that in India they don't use insecticides because they cost more then the crop is worth ?  But if they use GMO seeds which are resistant to roundup, now they can spend the money ? And that's why yields are up ?  I don't follow your logic, maybe I missed something. ",0,,,1,science
 5a5qta,4,"Not all gm crops are round up ready. Some are toxic to specific types of insects, or better suited to certain environments.",0,,,3,science
 5a5qta,4,"> But if they use GMO seeds which are resistant to roundup, now they can spend the money
@@ -73,8 +73,8 @@ GM crops help guarantee yields.  US farmers were already using chemicals to guar
 That's not the main GMO introduced in India. Their big advancement is Bt cotton, which dramatically reduces the need for insecticides.",0,,,1,science
 5a5qta,5,"Until resistance developed and white flys opportunisticly stepped in.
 http://news.agropages.com/News/NewsDetail---19805.htm",0,,,1,science
-5a5qta,2,[deleted],0,,,59,science
-5a5qta,3,"Not to mention the original focus was on survival, not yielding significant bounties. By making the crop more resilient you have a larger yield, because you lost less crops. You only reap what you sew though. If there aren't many new farmers, and the same crop size is planted, you'll yield roughly the same as last year. In the developing world you get new farmers and larger crops so the numbers keep climbing.",0,,,15,science
+5a5qta,2,[deleted],0,,,56,science
+5a5qta,3,"Not to mention the original focus was on survival, not yielding significant bounties. By making the crop more resilient you have a larger yield, because you lost less crops. You only reap what you sew though. If there aren't many new farmers, and the same crop size is planted, you'll yield roughly the same as last year. In the developing world you get new farmers and larger crops so the numbers keep climbing.",0,,,14,science
 5a5qta,2,"Mainly because most GM traits are yield protecting traits, not yield increasing traits. That's why the yield no increase argument is such a misunderstanding of agronomy at best (and a complete strawman at worst). If you're already protecting near 100% of your potential yield, you can't increase your actual yield much higher. In the US, we already utilize methods that protect the yield from weeds, insects, etc. The gain for growers here is that the previous methods were often more costly, labor intensive, higher ecological impact, etc.
 
 If you go to India and China, you're more likely to have areas where people are losing yield without protection measures in place. That's why actual yield gains are expected in such areas for traits like Bt.",0,,,24,science
@@ -83,7 +83,7 @@ If you go to India and China, you're more likely to have areas where people are 
 
 Edit: Just to further illustrate how different it is, let's say you want to get a couple pounds of flour for a bunch of baking that needs to be done. Over a 100 years ago in some farming areas of the U.S., that would mean walking (or riding a horse if you were lucky) 10, 20, or even 40 miles away from your home to a general store while making at a day trip out of it. To get that same amount of flour now, I need to only hop in my car and drive only a few miles away in just a few minutes to get it.
 
-If this line of questioning were going to continue, you would hypothetically be asking why I'd bother driving to get my flour when I could just walk all day to where that general store was / still is and get the same amount of flour there. I hope you see how absurd that would be.",0,,,5,science
+If this line of questioning were going to continue, you would hypothetically be asking why I'd bother driving to get my flour when I could just walk all day to where that general store was / still is and get the same amount of flour there. I hope you see how absurd that would be.",0,,,7,science
 5a5qta,2,My guess is that part of it is public opinion. Go to the grocery store and see how much products tout when they are 'gmo free'. People are afraid of them because they don't understand them and I'd wager that their resistance towards genetic engineering makes the development process harder and more expensive and restricts the potential market for gm products.,0,,,8,science
 5a5qta,3,"The worst part about the ""Non-GMO"" movement is that there are only about 9 gmo crops in the US. 
 
@@ -92,20 +92,20 @@ For example you might see banana labeled as ""non-GMO"" when in reality there ar
 ",0,,,28,science
 5a5qta,4,"Well sure. And chicken gets labeled growth-hormone free like it's some big deal when it's in fact *illegal to sell any poultry with growth-hormones*. 
 
-Food marketers are always trying to distinguish goods that are essentially commodities even if there's nothing special about them.",0,,,24,science
+Food marketers are always trying to distinguish goods that are essentially commodities even if there's nothing special about them.",0,,,26,science
 5a5qta,4,"For the lazy:  
 The most prevalent gmo crops in the USA are corn, soybeans, and cotton. Others that are much less common are potatoes, papaya, squash, canola, alfalfa, apple, and sugarbeets.  
-[Source](http://time.com/3840073/gmo-food-charts/)",0,,,5,science
+[Source](http://time.com/3840073/gmo-food-charts/)",0,,,4,science
 5a5qta,4,"Unless you consider artifical selection a form of genetic modification, then there is almost no such thing as a gmo free crop",0,,,6,science
 5a5qta,5,Genetic modification refers specifically to the alteration of an organism's genome using biotechnology.,0,,,3,science
-5a5qta,6,Explain how genomic selection occurs without the use of biotechnology.,0,,,4,science
-5a5qta,3,"I understand gmo technology and I'm still afraid of certain aspects of them. But every time I say that people jump all over it and get pissed off, which I still don't understand. Why can't we question the safety of our food supply being changed in fundamental ways? It's not even the genetic modification itself that makes me question its safety, I do believe the studies that say it is not causing direct problems, but the use of these poisons that the modifications allow is what scares me. I get that there are potential benefits in a lot of situations especially in developing countries, but if we are seeing problems with super weeds, a lack of biodiversity, poisons in our food supply, and not necessarily a rise in yield, it's something we need to strongly consider (and allow for consumers to make the decisions themselves). ",0,,,1,science
+5a5qta,6,Explain how genomic selection occurs without the use of biotechnology.,0,,,3,science
+5a5qta,3,"I understand gmo technology and I'm still afraid of certain aspects of them. But every time I say that people jump all over it and get pissed off, which I still don't understand. Why can't we question the safety of our food supply being changed in fundamental ways? It's not even the genetic modification itself that makes me question its safety, I do believe the studies that say it is not causing direct problems, but the use of these poisons that the modifications allow is what scares me. I get that there are potential benefits in a lot of situations especially in developing countries, but if we are seeing problems with super weeds, a lack of biodiversity, poisons in our food supply, and not necessarily a rise in yield, it's something we need to strongly consider (and allow for consumers to make the decisions themselves). ",0,,,3,science
 5a5qta,4,"Because none of these issues is about GMOs. Monoculture, pesticide use and resistances happen equally to conventionally enhanced crops, as well as ""organic"" farming. There are no large-scale farms that don't use chemicals or that plant multiple crops in the same field at the same time.  
 
-Because singling out GMO crops, compared to crops enhanced via chemical and radiation mutagenesis is similar to only wanting a house held together by manually tightened screws, because you distrust the possibilities that electric screwdrivers allow.  ",0,,,9,science
+Because singling out GMO crops, compared to crops enhanced via chemical and radiation mutagenesis is similar to only wanting a house held together by manually tightened screws, because you distrust the possibilities that electric screwdrivers allow.  ",0,,,10,science
 5a5qta,5,[deleted],0,,,3,science
 5a5qta,6,"Yeah, but why doesn't that apply to new seed varieties made by other methods?",0,,,6,science
-5a5qta,7,It still does to a lesser extent. Private control over the food supply and market-driven destructive farming practices are bad in general. GMOs just amplify the potential problems and make it much easier for private parties to justify stricter control over the bedrock of human civilization. Remove the profit motive and align research towards fulfilling human needs sustainably and GMOs aren't all that bad.,0,,,1,science
+5a5qta,7,It still does to a lesser extent. Private control over the food supply and market-driven destructive farming practices are bad in general. GMOs just amplify the potential problems and make it much easier for private parties to justify stricter control over the bedrock of human civilization. Remove the profit motive and align research towards fulfilling human needs sustainably and GMOs aren't all that bad.,0,,,0,science
 5a5qta,5,There's one small concern I have for GMOs. There's a certain chemical in one food that causes people with a latex allergy to react. The chemical that causes the reaction is also an antifungal. If seeds are made that have this built in resistance they could cause a reaction. I think that this is probably something that wouldn't happen but don't know enough.,0,,,0,science
 5a5qta,6,"Thats actually the first legitimate, concrete concern I've ever heard about gmos. But I'd like to point out we could just use it and label it. We also use gluten and phenylalanine product, despite people having strong reactions to those.",0,,,1,science
 5a5qta,7,I'm basically against labeling (I'm in GMOLOL) but this is the only one tiny itty bitty situation that makes me question it. ,0,,,1,science
@@ -116,7 +116,7 @@ Your concerns are valid and aspects of them are most certainly specific to G.E. 
 5a5qta,3,"I'm not personally not ""afraid"" of GMOs, I'm against monoculture, patenting life and the monopoly control of food by huge corporations. There's plenty of harm in that side of GMOs which never gets mentioned when you people call critics ignorant or anti-science. You people are just as guilty of ingorance because you assume it's about being anti science. I'm against cluster bombs and chemical warfare and I bet you are too. Does that make you or I anti science? No. 
 
 Stop saying people who are anti-gmo are anti science as if there are no other reasons to be anti gmo. It's not very scientific.",0,,,-1,science
-5a5qta,4,"Your criticisms against GMOs are applicable to pretty much all of agriculture throughout the developed world, but I rarely see them leveled against conventional crops. ",0,,,14,science
+5a5qta,4,"Your criticisms against GMOs are applicable to pretty much all of agriculture throughout the developed world, but I rarely see them leveled against conventional crops. ",0,,,12,science
 5a5qta,5,"No they are not\*, there was/is no patent and monopoly control on non-GMO seeds. The fact that farmers have to pay royalties on every crop is an innovation brought by the GMOs.
 
 \* Actually you are right for one of them, the ""monoculture"" argument is applicable to non GMO.",0,,,1,science
@@ -128,12 +128,12 @@ Prior to the introduction of GM corn, more than 95% of corn grown in the US came
 
 There are lots of sleazy practices in agricultural commerce, but they aren't unique to GMO crops by any means.",0,,,1,science
 5a5qta,5,"Conventional crops are not patented.
-There is plenty of opposition to mega agribusiness if you look for it but as usual, they have very little funding to get their message out as compared to agribusiness's multi billion dollar PR budgets.",0,,,-6,science
+There is plenty of opposition to mega agribusiness if you look for it but as usual, they have very little funding to get their message out as compared to agribusiness's multi billion dollar PR budgets.",0,,,-3,science
 5a5qta,6,"Direct patents of plant species have been around since 1930, well before GMO crops existed.  Crop-specific patents have been around since the 1800s.  Not that I'm arguing in **favor** of plant patents or the like, just that it's criticism equally applicable to pretty much all crops (and even more so for monoculture farming) which aren't really a talking point outside of GMOs.
 
 Abundance of nutritious food is an important step toward advancing the quality of human life, and GMOs are a fantastic tool to that end, particularly if they can be decoupled from mega-corporations.
 
-A particularly pernicious example of the anti-science and mindless opposition to GMOs is the reactionary struggle against golden rice, which has no profit motive and can improve the health of millions of people.  Being against GMO crops purely on the basis of genetic modification *is* anti-science.",0,,,10,science
+A particularly pernicious example of the anti-science and mindless opposition to GMOs is the reactionary struggle against golden rice, which has no profit motive and can improve the health of millions of people.  Being against GMO crops purely on the basis of genetic modification *is* anti-science.",0,,,6,science
 5a5qta,7,The argument against golden rice is that the malnourished people who need the beta carotene lack the dietary fats to facilitate its absorption.,0,,,1,science
 5a5qta,7,[removed],0,,,0,science
 5a5qta,8,"Way to dodge the actual point by getting offended. For the record, once all your arguments have been shown to be false, continued resistance is at least unfounded, and at worst a mindless knee jerk reaction.  
@@ -155,8 +155,8 @@ Lower cost from pest control in the US drives the pricing model towards marginal
 
 It's the difference between a finely tuned machine and a basic machine. A race engine may only benefit 0.02% in horsepower from a given technology, but save a lot of fuel, where a basic engine may see a 30% boost in horsepower from the same addition. ",0,,,1,science
 5a5qta,1,[removed],0,,,2,science
-5a5qta,2,[removed],0,,,3,science
-5a5qta,2,[deleted],0,,,0,science
+5a5qta,2,[removed],0,,,4,science
+5a5qta,2,[deleted],0,,,1,science
 5a5qta,3,"Glyphosate disrupts the shikimate pathway in plants, which in turn kills them.  The bacteria in the human GI tract also have the shikimate pathway.",0,,,0,science
 5a5qta,4,[citation needed],0,,,1,science
 5a5qta,4,Do you have a source for this?,0,,,1,science
@@ -167,35 +167,35 @@ It's the difference between a finely tuned machine and a basic machine. A race e
 
 I'll take highly misleading titles for 500, Alex.
 
-Crop yields are under no obligation to continually increase, and implying that they are is ridiculous. If yields are continuing to increase *because* of gmo's then that statement paints actual gmo efficacy as a failure.",0,,,89,science
-5a5qta,1,This is what happens when a journalist tries to misinform the public about science. ,0,,,26,science
+Crop yields are under no obligation to continually increase, and implying that they are is ridiculous. If yields are continuing to increase *because* of gmo's then that statement paints actual gmo efficacy as a failure.",0,,,83,science
+5a5qta,1,This is what happens when a journalist tries to misinform the public about science. ,0,,,27,science
 5a5qta,1,"> If yields are continuing to increase because of gmo's then that statement paints actual gmo efficacy as a failure.
 
 
-What science are you basing that off of?",0,,,3,science
-5a5qta,2,"I would guess because GMO's tend not to change, so if the yield is increasing (year over year, using the same organism) then that implies the GMO is not responsible for the increase in yield, and something else is influencing yield, ie climate, sunlight, etc.",0,,,17,science
-5a5qta,0,"I wonder what would have happened if, after the first bacterial infection that wasn't cured by penicillin, we said ""Whoops! So much for this *antibiotic* idea. It just didn't work out."" ",1,,,126,science
+What science are you basing that off of?",0,,,4,science
+5a5qta,2,"I would guess because GMO's tend not to change, so if the yield is increasing (year over year, using the same organism) then that implies the GMO is not responsible for the increase in yield, and something else is influencing yield, ie climate, sunlight, etc.",0,,,19,science
+5a5qta,0,"I wonder what would have happened if, after the first bacterial infection that wasn't cured by penicillin, we said ""Whoops! So much for this *antibiotic* idea. It just didn't work out."" ",1,,,125,science
 5a5qta,1,"To be fair, the technology we are talking about is over 40years old at this point - glyphosphate, for example, was brought to market in the early 1970s. So I'm not sure your penicillin analogy really works.",0,,,15,science
-5a5qta,2,glyphosphate isnt a GMO,0,,,40,science
+5a5qta,2,glyphosphate isnt a GMO,0,,,42,science
 5a5qta,3,"Good point, but glyphosphate resistant plants have also been available for decades. So the point still stands.",0,,,-29,science
-5a5qta,4,"The first GMO crops were created in the early 80s and didn't reach commercial availability till 1994 so it really is a new technology. its been around for decades yes, but only 2 ",0,,,11,science
+5a5qta,4,"The first GMO crops were created in the early 80s and didn't reach commercial availability till 1994 so it really is a new technology. its been around for decades yes, but only 2 ",0,,,13,science
 5a5qta,5,Not to mention the fact that GMOs have suffered from a lot of attacks on them that has reduced their ability to develop as a technology.,0,,,1,science
 5a5qta,4,"Not all GMOs have anything to do with glyphosphates either. 
 
 
 they arent the only GMO and resistance to it isnt the only kind of modifying",0,,,25,science
-5a5qta,5,I don't think anyone is claiming that.,0,,,-12,science
-5a5qta,6,"There's also non-GMO glyphosate resistance traits through breeding, so it actually is a valid question of why glyphosate keeps getting brought up in these discussions.",0,,,12,science
+5a5qta,5,I don't think anyone is claiming that.,0,,,-10,science
+5a5qta,6,"There's also non-GMO glyphosate resistance traits through breeding, so it actually is a valid question of why glyphosate keeps getting brought up in these discussions.",0,,,13,science
 5a5qta,6,then why did you mention it in a comment that implies differently?,0,,,1,science
 5a5qta,7,Mentioning the most used GM trait-herbicide pairing as an example of GM technology isn't the same as saying all GMOs are linked to glyphosphate.,0,,,3,science
-5a5qta,2,"GMOs have been happening long before these companies. Just because you do it naturally doesn't make it any less of a GMO, because it took human interference to create. Most fruit and vegetables were created and bred over long periods of time. It's the pesticides that do damage, and over processing food.",0,,,9,science
-5a5qta,3,"Technically your [puppy is a GMO](https://www.geneticliteracyproject.org). Selective breeding is a form of genetic modification. Also, the Native Americans [genetically modified corn](http://www.nativetech.org/cornhusk/cornhusk.html) to be editable to humans. ",0,,,5,science
+5a5qta,2,"GMOs have been happening long before these companies. Just because you do it naturally doesn't make it any less of a GMO, because it took human interference to create. Most fruit and vegetables were created and bred over long periods of time. It's the pesticides that do damage, and over processing food.",0,,,11,science
+5a5qta,3,"Technically your [puppy is a GMO](https://www.geneticliteracyproject.org). Selective breeding is a form of genetic modification. Also, the Native Americans [genetically modified corn](http://www.nativetech.org/cornhusk/cornhusk.html) to be editable to humans. ",0,,,6,science
 5a5qta,4,"Can this argument be stricken from r/science please?
 
-It's like arguing all food is 'organic' because it has carbon.",0,,,4,science
+It's like arguing all food is 'organic' because it has carbon.",0,,,5,science
 5a5qta,4,"> Selective breeding is a form of genetic modification
 
-This is where you are going to lose the trust of the people you are trying to convince to get on your side. They know there is a difference, the companies know there is a difference, the scientists know there is a difference but when an advocate for more genetic modification makes the argument that there is no difference the public paints all of you as manipulative liars who can't be trusted to be honest.",0,,,8,science
+This is where you are going to lose the trust of the people you are trying to convince to get on your side. They know there is a difference, the companies know there is a difference, the scientists know there is a difference but when an advocate for more genetic modification makes the argument that there is no difference the public paints all of you as manipulative liars who can't be trusted to be honest.",0,,,6,science
 5a5qta,5,"There's also a difference between genetic engineering, genetic modification, selective breeding, and natural selection. The point is they all manipulate DNA to an end. Simply painting all of this as GMO and labelling it all as bad is mistake. Some of it is good, some of it is bad, some of it is harmless, and all of it needs to be taken on a case by case basis. 
 
 Also I'm not sure which ""all of us"" I'm supposed to be part of. I fix industrial machinery for a living. I just find the topic interesting and had the daft to share, I suppose. ",0,,,0,science
@@ -217,12 +217,12 @@ You also said there was no difference. Which is it?
 
 ",0,,,1,science
 5a5qta,4,"My puppy is not a GMO, technically or otherwise. You are trying to blur definitions and cause confusion. GMO means something, and it's not selective breeding. ",0,,,-4,science
-5a5qta,3,You are trying to redefine the term GMO and it's not working. GMO is not synonymous with breeding. ,0,,,0,science
-5a5qta,4,"That's your opinion, and I have mine. I would consider breeding a new strain of something the same as modifying it, because that's the entire reason behind breeding new plants. It's all about desired traits in the end.",0,,,3,science
+5a5qta,3,You are trying to redefine the term GMO and it's not working. GMO is not synonymous with breeding. ,0,,,-2,science
+5a5qta,4,"That's your opinion, and I have mine. I would consider breeding a new strain of something the same as modifying it, because that's the entire reason behind breeding new plants. It's all about desired traits in the end.",0,,,2,science
 5a5qta,5,"You can redefine things all you want, but GMO is commonly understood to refer to using biotechnology to modify organisms. Here let me google it for you. 
 https://en.m.wikipedia.org/wiki/Genetically_modified_organism",0,,,2,science
 5a5qta,5,The method of achieving the new trait varies greatly between breeding/hybridizing and genetic modification. They are not the same thing. ,0,,,1,science
-5a5qta,3,"Words mean what people collectively decide they mean. When we talk about GMOs, we're talking about organisms that have been directly altered on the genetic level. The whole point is to create something that could never be achieved through traditional, ""natural"" breeding practices. That distinction is important, and it's the reason why we don't call every agricultural product a GMO.",0,,,-4,science
+5a5qta,3,"Words mean what people collectively decide they mean. When we talk about GMOs, we're talking about organisms that have been directly altered on the genetic level. The whole point is to create something that could never be achieved through traditional, ""natural"" breeding practices. That distinction is important, and it's the reason why we don't call every agricultural product a GMO.",0,,,-5,science
 5a5qta,4,"Modern genetic engineering doesn't 'create things not possible with breeding', it directly inserts exact genetic material instead of breeding for several generations and waiting for the gene to be incorporated.
 
 Its a time scale issue. Then the resulting plants are tested for viability and safety for many years in many different ways before they get grown. 
@@ -241,15 +241,15 @@ Someone will probably point out that bushels is a measure of volume, not weight,
 
 Additionally, the USDA crop production reports have said twice now in their estimate that this year will be the biggest production level in US history for corn. (Don't get me started on USDA crop reports, but it bears mentioning) 
 
-It has happened in wheat varieties, soybean varieties, and corn varieties. These new breeds produce so much, that we are currently in a supply glut on corn and wheat. There's literally more in storage than the world is demanding. ",0,,,7,science
-5a5qta,0,[deleted],0,,,3,science
+It has happened in wheat varieties, soybean varieties, and corn varieties. These new breeds produce so much, that we are currently in a supply glut on corn and wheat. There's literally more in storage than the world is demanding. ",0,,,10,science
+5a5qta,0,[deleted],0,,,5,science
 5a5qta,1,"This is a great point. This is reddit, not an academically rigorous scientific journal. I think too many expect the posts here to be screened for bias and are willing to accept what they see at face value.",0,,,1,science
-5a5qta,0,"There are other reasons for GM crops. Storage life for soybeans, is one. No one expected the use of pesticides to be gone forever, and resistance to them was always expected, just not to what extent, or when. There is no argument there. The 'see, I told you so' just doesn't work here, folks.",0,,,28,science
+5a5qta,0,"There are other reasons for GM crops. Storage life for soybeans, is one. No one expected the use of pesticides to be gone forever, and resistance to them was always expected, just not to what extent, or when. There is no argument there. The 'see, I told you so' just doesn't work here, folks.",0,,,27,science
 5a5qta,1,"I think you are shifting the goalposts a bit. Increased yields and reduced dependency on pesticides have always been some of the biggest arguments in favor of GM crops. Trying to deny that seems a bit silly.
 
 I think it may be better to say, GM plants have delivered in certain areas (i.e. storage life).
 
-It would also probably be fair to say GM plants haven't delivered on some of the biggest fears.",0,,,20,science
+It would also probably be fair to say GM plants haven't delivered on some of the biggest fears.",0,,,21,science
 5a5qta,2,"One of the major GM crops are the roundup ready variety. They actually increase the amount of herbicide used because the GM crops are ""immune"" while other plants are not.
 
 I've not heard anything about roundup ready crops being extra resistant to pests.",0,,,10,science
@@ -261,7 +261,7 @@ The adoption of no-till that became possible thanks to effective herbicides has 
 
 With BT stacked corn, granular insecticide use has disappeared. Before the 1980's there wasn't a corn planter sold in the U.S. without insecticide boxes. Now most manufacturers don't even have them as an option.  
 
-Yes, non-GMO soybeans will yield right with a modern GMO number. Many farmers, me included, are going back to public varieties because they are cheaper and can be retained for seed. Being able to use glyphosate as a post spray is slowly losing its advantage because of resistant pig weeds anyway. We are back to the days of yellowing soybeans with Cadet or other strong tanks mixes at post application in hopes the weeds will die and the soybeans will pull through.",0,,,15,science
+Yes, non-GMO soybeans will yield right with a modern GMO number. Many farmers, me included, are going back to public varieties because they are cheaper and can be retained for seed. Being able to use glyphosate as a post spray is slowly losing its advantage because of resistant pig weeds anyway. We are back to the days of yellowing soybeans with Cadet or other strong tanks mixes at post application in hopes the weeds will die and the soybeans will pull through.",0,,,13,science
 5a5qta,4,"Would you say it was Bt that eliminated granular insecticides more than seed-applied chemistries? I'm not old enough to remember when the latter really took over. In Ontario, Canada there are farmers that joke about digging out their old insecticide boxes now that neonic-treated seeds are restricted. ",0,,,3,science
 5a5qta,5,"You have a good point. I'd say that on-seed treatment for rootworm and BT-traiting for corn borer have both contributed to the change in cultural practices.  
 
@@ -270,36 +270,36 @@ I really feel for those guys in Ontario. There are only a half dozen furrow inse
 Most interesting thing to me is that according to a study in Nature, farmers growing non-BT corn actually benefitted more (dollar wise) than the farmers using it. The natural corn borer population has been suppressed so much that they aren't a huge threat in most areas. Think herd immunity. Problem is they will come back with a vengeance if everyone decided to save money and plant non-traited corn.
 
 Let's just hope we don't return to the days of granular herbicide too. I don't have the patience to maintain a Gandy box like my Uncle did back in the day.",0,,,2,science
-5a5qta,3,"RR crops reduce herbicide use, promote the usage of no-till farming, and allow for the use of a minimally toxic herbicide (glyphosate) instead of its much more toxic predecessors. The LD50 of glyphosate is a staggering 5000 mg/kg. The surfactants are more toxic than the herbicide itself!",0,,,6,science
+5a5qta,3,"RR crops reduce herbicide use, promote the usage of no-till farming, and allow for the use of a minimally toxic herbicide (glyphosate) instead of its much more toxic predecessors. The LD50 of glyphosate is a staggering 5000 mg/kg. The surfactants are more toxic than the herbicide itself!",0,,,7,science
 5a5qta,3,"It says right in the article that traits are often ""stacked"", so if you purchase RR corn it will more than likely contain at least one Bt trait as well. ",0,,,2,science
 5a5qta,3,"Did you mean ""decrease the amount of herbicide used""?",0,,,1,science
 5a5qta,3,"BT corn is a pest resistant variety. I'm not 100% sure, but I don't think there are any crops that are both roundup ready and BT. ",0,,,1,science
 5a5qta,2,Yeah all the pro GMO people have stated that increased yield through GMOs was the only way to feed the planet. I've heard that argument a million times. ,0,,,3,science
-5a5qta,2,"I guess it depends on who is doing the arguing. I was in on the Flavr Savr at one point. Technology gets developed, and it gets that 'wow, think of things we can do with this'. But your comment is fair. Thanks.",0,,,2,science
+5a5qta,2,"I guess it depends on who is doing the arguing. I was in on the Flavr Savr at one point. Technology gets developed, and it gets that 'wow, think of things we can do with this'. But your comment is fair. Thanks.",0,,,3,science
 5a5qta,2,"Actually I think it's the article, and you, trying to shift the goal posts to show failure.  Certainly those two things were probably listed somewhere as one of the potential benefits of GMO research but so we're a lot of other things like increasing crop resiliency and improving nutrient content, both of which you'd be hard pressed to argue against.  You can't look at the one area that hasn't succeeded like you'd like and call it a failure.  ",0,,,1,science
 5a5qta,0,"The article is in part based on research recently published in the National Academies Press, [*Genetically Engineered Crops: Experiences and Prospects*](https://www.nap.edu/read/23395/chapter/1).
 
-",0,,,13,science
+",0,,,11,science
 5a5qta,1,"It's a really terrible article based upon obfuscation of facts, hello units of measurement differences, and ignoring the quantity/prevalence of *actual* GMOs and what the intent of the genetic modifications were, such as *increasing* crop resistance to chemicals to enable stronger applications to remove parasites.
 
-This is nothing more than intellectual dishonesty/misdirection and cherry picking of the sort more commonly associated with climate change deniers.",0,,,24,science
-5a5qta,2,Intellectual dishonesty and cherry picking is standard for NYT these days. ,0,,,10,science
-5a5qta,2,Your last paragraph describes your own post well. ,0,,,-18,science
+This is nothing more than intellectual dishonesty/misdirection and cherry picking of the sort more commonly associated with climate change deniers.",0,,,22,science
+5a5qta,2,Intellectual dishonesty and cherry picking is standard for NYT these days. ,0,,,11,science
+5a5qta,2,Your last paragraph describes your own post well. ,0,,,-15,science
 5a5qta,3,"My last paragraph describes the entire article, without disguising intent or comparisons. So it can be neither cherry picking, nor intellectual dishonesty/misdirection.
 
 If you're going to try and apply spin, don't use asinine ""I'm rubber you're glue"" replies.
 
 Edit: auto correct got me on a word.",0,,,5,science
-5a5qta,1,Only a very small part. The NAP publication gets one reference while the rest of the NYT analysis is their own based on different data. ,0,,,16,science
-5a5qta,2,Yes. The NYT references the other sources as well. I just couldn't find the electronic reports to link.,0,,,6,science
+5a5qta,1,Only a very small part. The NAP publication gets one reference while the rest of the NYT analysis is their own based on different data. ,0,,,14,science
+5a5qta,2,Yes. The NYT references the other sources as well. I just couldn't find the electronic reports to link.,0,,,5,science
 5a5qta,3,"[Link to USGS Pesticide National Synthesis Project homepage](http://water.usgs.gov/nawqa/pnsp/)
 
 [Link to official USGS summary of methodology for 2008-2012] (https://pubs.usgs.gov/ds/0907/pdf/ds907.pdf)
 
 I couldn't find the stats from France either. Seems to be from their pesticide lobby group.
-",0,,,9,science
+",0,,,10,science
 5a5qta,1,"""In part"" is the key part. It seems to take the NAS report out of context quite a bit.",0,,,2,science
-5a5qta,0,This article is very poorly referenced and heavily paraphrases it's quotes from the articles it does reference. Best just to read the National Academies Press report.,0,,,10,science
+5a5qta,0,This article is very poorly referenced and heavily paraphrases it's quotes from the articles it does reference. Best just to read the National Academies Press report.,0,,,7,science
 5a5qta,0,"How is New York Times talking about an issue based on their own analysis of data, a published peer reviewed research article or a brief media summary of that? 
 
 You know that New York Times is not a legitimate scientific organization producing research, there is no peer review for these claims, but an obviously biased, slanted newspaper outlet. Why is this subreddit not enforcing its rules? Is it going to be something that will happen with other outlets or only with New York Times? Are we going to keep seeing links to to newspaper outlet leaning X side making claims about Z issue, with out any relevant peer review or legitimate scientific publication involved? 
@@ -313,13 +313,13 @@ Should the claims of journalists be discussed somewhere? Sure. But the rules of 
 The only positive of this endeavor is that the top posts talk about some of the flaws of their methods or conclusion. But a journalist would lie and try to manipulate the meaning of data to present a dishonest picture?! Or would be more interested in presenting a narrative, or worse and often the case, especially with outlets like the New York Times or worse, interested in a narrative that alligns with the outlet's biases. While the priority of a scientific publication shouldn't be clicks, providing a narrative, but the truth. And should value scientific rigor.
 
 What a big surprise. ",0,,,3,science
-5a5qta,0,"Apart from the points made about developing countries and not so fertile planting grounds, GMOs will also show their strength as we transition to indoor vertical growing operations and modifying these plants primarily for rapid and quality growth in that specific type of environment, an environment that doesn't really need to worry about pests or weather.",0,,,5,science
+5a5qta,0,"Apart from the points made about developing countries and not so fertile planting grounds, GMOs will also show their strength as we transition to indoor vertical growing operations and modifying these plants primarily for rapid and quality growth in that specific type of environment, an environment that doesn't really need to worry about pests or weather.",0,,,6,science
 5a5qta,1,"Doesn't need to worry about weather, but there's a high cost associated with keeping a greenhouse or other indoor operations at the right environment all year long. Pests can often get worse indoors too. Talk to anyone that's managed a greenhouse and it's not quite so easy.
-",0,,,3,science
+",0,,,6,science
 5a5qta,2,"Greenhouse is different from this idea, these are metal and cement structures like other buildings in the city, meant to grow food right within the densest locations that need food. By building floors, you save massive amounts of land. It's an expensive investment, but in the long-run you start to save, you throw away a lot less food, don't have to buy pesticides, don't have to fertilize your land, you just give the exact nutrients needed into the hydroponics systems, and you also don't need to ship the food around the country, it just spreads right out to the local markets.
 
 At the moment it's not entirely viable, but with emerging green energy technologies that look to lower energy costs in the future, and advances in robotics and material sciences that will allow these buildings to be built and managed cheaper, it will absolutely become quite viable, and it has to be, because it truly is the proper way to deal with food growth going into the future. (Not just plants, but synthetic meat growing as well)",0,,,2,science
-5a5qta,3,"You missed the large energy costs, pest pressure requiring fertilizer, fertilizer, etc. There are simply just fundamental issues that can't be washed away by waiting for technology improvements. Someone sure can do it small scale for high end specialty crops, but what people often claim or picture (even involving hydroponics) is extremely overhyped if you are familiar with agronomy.",0,,,5,science
+5a5qta,3,"You missed the large energy costs, pest pressure requiring fertilizer, fertilizer, etc. There are simply just fundamental issues that can't be washed away by waiting for technology improvements. Someone sure can do it small scale for high end specialty crops, but what people often claim or picture (even involving hydroponics) is extremely overhyped if you are familiar with agronomy.",0,,,2,science
 5a5qta,4,"I didn't miss the energy costs, I talked about that in the second paragraph. The problem is you're imagining the issues with doing this right now versus what our capabilities will be with advances in tech coming down the pipeline for the future.
 
 You don't require fertilizer... it's hydroponics. You don't need pest control because you treat it as a sealed environment with a low grade air-lock and decontamination.
@@ -329,8 +329,8 @@ Japan is already testing out such facilities. They're not overhyped, they just a
 5a5qta,4,"You use a low-grade air-lock and decontamination room with clean suits. Though ideally you wouldn't need much human entry in a proper grow house of the future as you'd just have robots doing the work inside and sending it out, but that's a little bit further into the future than the initial implementation of this...
 
 And since you can carefully control the climate in these buildings, fungicides aren't generally needed, it especially helps that there is no soil to help facilitate the growth of fungus.",0,,,1,science
-5a5qta,0,How about herbicides? Roundup is so prevalent in the US that traces of it are found in groundwater nationwide.,0,,,4,science
-5a5qta,1,[removed],0,,,2,science
+5a5qta,0,How about herbicides? Roundup is so prevalent in the US that traces of it are found in groundwater nationwide.,0,,,3,science
+5a5qta,1,[removed],0,,,1,science
 5a5qta,2,"""One specific inert ingredient, polyethoxylated tallowamine, or POEA, was more deadly to human embryonic, placental and umbilical cord cells than the herbicide itself – a finding the researchers call “astonishing.”
 “This clearly confirms that the [inert ingredients] in Roundup formulations are not inert,” wrote the study authors from France’s University of Caen. “Moreover, the proprietary mixtures available on the market could cause cell damage and even death [at the] residual levels” found on Roundup-treated crops, such as soybeans, alfalfa and corn, or lawns and gardens.
 The research team suspects that Roundup might cause pregnancy problems by interfering with hormone production, possibly leading to abnormal fetal development, low birth weights or miscarriages.""
@@ -360,34 +360,34 @@ It also draws on several government reports (they appear to be older than 6 mont
 It is definitely peer reviewed (see page *xi* of preface for list of external reviewers).
 
 I don't think this sub has ever developed a great definition of ""primary research"". It certainly seems closer to meta analysis rather than a review, since it is trying to synthesize multiple pieces of evidence to reach a broader conclusion.",0,,,1,science
-5a5qta,0,"To be fair, there's been so much (mostly uninformed) opposition to it...",0,,,2,science
-5a5qta,0,Yeah I bet it would be pretty hard to develop a solution that works when you have so many dissenters trying to prevent you from improving.,0,,,-4,science
-5a5qta,1,"The article isn't critiquing GM plants because they haven't performed ""perfectly"". It is critiquing them because (based on their analysis) GM plants have not offered even incremental improvements in two of the areas where the most promises were made: crop yields and pesticide use.",0,,,20,science
-5a5qta,2,Do you have an example of a crop that has been engineered to improve yield directly?,0,,,5,science
-5a5qta,3,Almost all of them.,0,,,-5,science
+5a5qta,0,"To be fair, there's been so much (mostly uninformed) opposition to it...",0,,,0,science
+5a5qta,0,Yeah I bet it would be pretty hard to develop a solution that works when you have so many dissenters trying to prevent you from improving.,0,,,-6,science
+5a5qta,1,"The article isn't critiquing GM plants because they haven't performed ""perfectly"". It is critiquing them because (based on their analysis) GM plants have not offered even incremental improvements in two of the areas where the most promises were made: crop yields and pesticide use.",0,,,18,science
+5a5qta,2,Do you have an example of a crop that has been engineered to improve yield directly?,0,,,4,science
+5a5qta,3,Almost all of them.,0,,,-3,science
 5a5qta,4,"I said an example, not a blanket statement lacking any scientific merit.",0,,,2,science
-5a5qta,5,Ok BT corn.,0,,,-1,science
-5a5qta,6,Nope. Not a direct manipulation of yield. Try again.,0,,,5,science
+5a5qta,5,Ok BT corn.,0,,,0,science
+5a5qta,6,Nope. Not a direct manipulation of yield. Try again.,0,,,4,science
 5a5qta,7,"In that case I'm not really sure what ""direct manipulation of yield"" means or why it matters.",0,,,0,science
 5a5qta,8,"The original argument was that GM plants have not offered improvements in yield. I would like to see examples where a direct genetic modification in a widely used crop targets a biological response in yield. I don't see any examples, therefore the original argument that the journalist is exploring is not real. He made up an argument to have with himself to discredit GM technology. Can you follow that?",0,,,3,science
 5a5qta,9,"No, because the main purpose of these gene modifications is to increase yield. ",0,,,1,science
 5a5qta,6,"BT corn improves pest resistance. It doesn't improve yield. If there aren't any pests that year, BT corn yields equally to non BT corn, assuming the only difference is presence of the BT gene. That's what they mean by improving yield directly.",0,,,0,science
 5a5qta,7,"Yea I know what he's getting at, my point is that every genetic modification that increases yields does so only under the right environmental conditions.",0,,,1,science
 5a5qta,8,"In plant breeding there is considered a difference between traits that increase yield potential and traits that protect yield potential. Insect and disease resistance protect yield potential instead of increasing it. If you put the battery gene in a variety with low yield potential, it doesn't make it yield more, it just protects yield from being reduced if there are a lot of insects. A trait that produces more ears of corn or makes each ear bigger directly increases yield. [Source](https://www.soybeanresearchdata.com/Project.aspx?id=7102) [Source](https://gmoanswers.com/ask/why-do-you-claim-gm-crops-will-improve-crop-yields-when-truth-long-term-affect-much-lower-crop)",0,,,1,science
-5a5qta,1,Why are dissenters a bad thing? Can poor ol Monsanto not handle some public criticism?,0,,,1,science
-5a5qta,1,GM crops are wildly successful in the sense that they are in widespread use and have made certain people very rich and nobody is really preventing them from improving; certainly not a bunch of shouting hippies on the internet or new york times readers. Folks can and do vote with their wallets and buy organic but other than that Monsanto et all still get the lions share of the market and have carte blanche to develop whatever GM crops they want.,0,,,-3,science
-5a5qta,0,"People who get in the way of GMO progress are a HUGE contributor to the lack of progress of GMOs.  So stop propagating information like this and mind your own business.  You may be thinking, ""But being critical is a part of being scientific"".  Too true, too true, but why don't you look up how well studied the safety of GMOs are, then start doing your questioning.  You'll find they're much safer than other food crops *especially* organic.",0,,,-3,science
-5a5qta,1,[removed],0,,,-8,science
-5a5qta,2,[removed],0,,,-9,science
+5a5qta,1,Why are dissenters a bad thing? Can poor ol Monsanto not handle some public criticism?,0,,,4,science
+5a5qta,1,GM crops are wildly successful in the sense that they are in widespread use and have made certain people very rich and nobody is really preventing them from improving; certainly not a bunch of shouting hippies on the internet or new york times readers. Folks can and do vote with their wallets and buy organic but other than that Monsanto et all still get the lions share of the market and have carte blanche to develop whatever GM crops they want.,0,,,-4,science
+5a5qta,0,"People who get in the way of GMO progress are a HUGE contributor to the lack of progress of GMOs.  So stop propagating information like this and mind your own business.  You may be thinking, ""But being critical is a part of being scientific"".  Too true, too true, but why don't you look up how well studied the safety of GMOs are, then start doing your questioning.  You'll find they're much safer than other food crops *especially* organic.",0,,,-2,science
+5a5qta,1,[removed],0,,,-7,science
+5a5qta,2,[removed],0,,,-7,science
 5a5qta,0,"I'm not really concerned about crop yields of GMO plants in regions with a lot of arable land, such as Canada and USA. I'm concerned with the crop yields of GMO plants on lands that are otherwise not considered arable. And I'm concerned with the success of GMO trees in areas under serious threat of desertification or coastal erosion (where tree lines can reverse such trends).",0,,,1,science
 5a5qta,0,"I think it's true that the folks who were originally trying to convince people that we should explore the application of GM technology explicitly promised that we would see higher yield and lower pesticide use.  The problem is that most of these folks were not the actual scientists doing the work.  We keep seeing these studies presenting it as an important news item that GM technology has failed to produce increases in yield.  While that is true, if you look at the traits that have successfully made it through field testing and into the hands of actual farmers, none of them (with the exception of a drought tolerance trait Monsanto has out) is designed to increase yield.  
 
 So, giant news item, all this work to produce traits that were not intended to increase yield ---- has failed to increase yield.  The scientists who made these things could have told you that in advance.
 ",0,,,1,science
-5a5qta,0,"Finally a GMO post that makes sense and doesn't ignore real science. I am so tired of people repeating ""GMOs have higher yields, GMOs use fewer pesticides"", completely sold on biotechnology propaganda while totally unaware they've been duped and totally unacquainted with the science involved. Thank you for posting this. ",0,,,-8,science
-5a5qta,0,[deleted],0,,,-2,science
-5a5qta,1,Please tell me about potatoes.,0,,,5,science
-5a5qta,0,[removed],0,,,-2,science
-5a5qta,0,Thank you for this post. The green revolution was accomplished by putting countries like India into massive debt by getting them to take loans from the IMF and World Bank to buy modern farming equipment.,0,,,-6,science
-5a5qta,0,"This ""smells like"" conservation of energy and thermodynamics in action.  Just saying expecting shortcuts to give you miracles is seldom justified by the laws of physics.",0,,,-4,science
-5a5qta,0,[removed],0,,,-14,science
+5a5qta,0,"Finally a GMO post that makes sense and doesn't ignore real science. I am so tired of people repeating ""GMOs have higher yields, GMOs use fewer pesticides"", completely sold on biotechnology propaganda while totally unaware they've been duped and totally unacquainted with the science involved. Thank you for posting this. ",0,,,-6,science
+5a5qta,0,[deleted],0,,,-1,science
+5a5qta,1,Please tell me about potatoes.,0,,,4,science
+5a5qta,0,[removed],0,,,-1,science
+5a5qta,0,Thank you for this post. The green revolution was accomplished by putting countries like India into massive debt by getting them to take loans from the IMF and World Bank to buy modern farming equipment.,0,,,-5,science
+5a5qta,0,"This ""smells like"" conservation of energy and thermodynamics in action.  Just saying expecting shortcuts to give you miracles is seldom justified by the laws of physics.",0,,,-3,science
+5a5qta,0,[removed],0,,,-15,science

@@ -1,0 +1,705 @@
+post_id,level,body,gilded,likes,num_reports,score,subreddit
+oczl75,0,"Welcome to r/science! This is a heavily moderated subreddit in order to keep the discussion on science. However, we recognize that many people want to discuss how they feel the research relates to their own personal lives, so to give people a space to do that, **personal anecdotes are now allowed as responses to this comment**. Any anecdotal comments elsewhere in the discussion will continue be removed and our [normal comment rules]( https://www.reddit.com/r/science/wiki/rules#wiki_comment_rules) still apply to other comments.
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/science) if you have any questions or concerns.*",0,,,1,science
+oczl75,0,"University agricultural scientist here. First, thanks for the summary article *actually* giving [a link](https://iopscience.iop.org/article/10.1088/1748-9326/ac0fa4) to the study itself so we can go read it instead of trying to do guesswork to hunt down a possible title.
+
+> Here we empirically estimate the effect of four key pollutants (ozone (O3), particulate matter (PM), sulfur dioxide (SO2), and nitrogen dioxide (NO2)) on maize and soybean yields in the United States . . .
+
+Each of those pollutants make sense, but I'm really glad they included sulfur dioxide. There actually is discussion now about how some fields may not be getting enough sulfur now because we aren't getting as much acid rain as we used to and increased marketing to farmers saying buy more sulfur in your fertilizer mix. Some fields do need more sulfur, but there's also a lot of selling without good merit for the addition going on too. It's a bit of a complicated discussion to get into, but at least using this paper, it is a good lead-in to say that yields overall are actually increasing with decreasing SO2 levels to help pump the brakes a bit in sulfur-related discussions.",0,,,226,science
+oczl75,1,"And dear god is there a lot of sulfur in the air, globally. I used to check it daily and grew tired of seeing it in the red+ for years. Just looked and wow! Even China's air is improved remarkably, if still the worst on the map (earth.nullschool.net)-press the ""earth"" button for overlays.",0,,,15,science
+oczl75,1,"I have read some research a while back on how global warming also boost plant growth due to higher CO2 content and higher temperature, at least for some crops in some areas. From just a quick scan of the paper, it seems they use various field data but I don't see how they isolate these variables to support the hypothesis that the reduction of pollutants helps plant growth. If they have a lab trial with different control groups then it'd be very clear, but I don't see any.",0,,,25,science
+oczl75,2,"One of my roommates has been working on a project for the last couple years as the IT guy and one of the outcomes of the study was that higher temperatures at night is creating smaller wheat. So while it may be boosted a bit initially, here in a few years it's probably gonna have a reverse effect over all. They've expanded their study to several states even.",0,,,6,science
+oczl75,2,"Higher temperature contributes to higher organic rates of decomposition in the soil which ultimately make it harder to retain water in soils and for it to support biodiversity. In essence we are growing more dependent on fertilizers and applied water by wanting to bypass microbiologically assisted growing, and we are depleting our soils. Focusing on discrete variables in the atmosphere is not telling the whole story. We end up getting  sense of a certain contribution but not of the overall picture. The theoretical gain in dollars may in fact never have been realized if heating effects cancelled it all out.",0,,,7,science
+oczl75,2,"I actually addressed this in another comment (on mobile right now, otherwise I'd try to link some actual papers with graphs):
+
+> In this case not so much. Corn is a [C4 plant](https://ripe.illinois.edu/blog/difference-between-c3-and-c4-plants). It's already CO2 saturated and increasing concentrations due not improve its growth. Soybeans on the other hand, are a C3 plant that does benefit from increased CO2 concentrations to a point. It varies by condition and crop, but we're really past a point where any C3 crops would significantly benefit from any additional CO2.
+
+In short though, increased assimilation of CO2 is not unlimited. We're already at a point for C3 plants where the rate is no longer on the roughly linear part of the curve.",0,,,3,science
+oczl75,2,"I read a similar paper on three grouth and the longer growth season and the increase in CO2 lead to up to a 20% growth increase per year compared to 1990 . Yes not all wild tree types but all got a increase in growth rate.
+So if if we see such a behaviour in other plants it's not surprising. Not to mention there might have been small improvements in agricultural technology and If GMO were used that Alne could have increased yeald.",0,,,2,science
+oczl75,1,Came here to mention this about SO2 (PhD soil scientist). There’s a lot of guys still light on S application to crops around. Almost everything I have on the research farm gets gypsum or ammonium sulfate. Manure would be better.,0,,,5,science
+oczl75,1,But what about C02 don't plants grow from that? So the more C02 the more they can grow?,0,,,1,science
+oczl75,2,"Well sort of, in general biological systems are more complicated than just ""more is better"". CO2 concentration would increase the rate of part of the process, but there are other limiters on the front end of that process and increased CO2 levels would only increase that reaction rate to a point. Now how this affects **yield** in crops is outside of what I know.",0,,,4,science
+oczl75,0,"I think it's amazing how they can use satellites to pinpoint the exact pollutants and the difference between two farms next to one another.
+
+I wrote an idea for r/scificoncepts that had this in mind, I just didn't know it was already being used like this. I was thinking how if we could track all the pollutants given off by companies then that would be an airtight way of forcing them to pay compensation.
+
+Even just forcing compensation for the loss in yields in other industries would be great. Food scarcity will become a huge issue with climate change. We will need every percentage of that yield very soon.",0,,,1536,science
+oczl75,1,"You should not be worried about food scarcity anytime soon (at least in the US).
+
+It's a common misconception that corn and soybeans are used for food or that the modern American farmer ""feeds America"". The majority of American corn is used for ethanol and livestock feed, and we still have huge surpluses that government subsidies buy and then dump. The small amount of corn that we do eat is in the form of high fructose corn syrup. https://www.scientificamerican.com/article/time-to-rethink-corn/
+
+The ag policies of the US government for the last 80+  years have centered around constant production to ensure supply in times of war. These policies have been distorted then lobbied for by big ag and farm groups like Farm Bureau to the point that the majority of farmland is used not for human food but for other purposes. https://scholarworks.uark.edu/cgi/viewcontent.cgi?article=1006&context=jflp",0,,,843,science
+oczl75,2,We also have a cave full of cheese,0,,,110,science
+oczl75,3,"Is it _strategic_ cave cheese? If so, you have my attention!",0,,,78,science
+oczl75,4,"Perhaps, but we will never equal Canada who have a strategic maple syrup reserve",0,,,57,science
+oczl75,5,"Actually Canada’s maple reserve is with $200million usd, America has a reserve worth $1.4 billion.",0,,,50,science
+oczl75,6,[deleted],0,,,25,science
+oczl75,7,Google them both. No single resource. Don’t be that lazy brah,0,,,-48,science
+oczl75,8,Footnotes or I'm deducting points my sir,0,,,13,science
+oczl75,9,Lazy,0,,,-11,science
+oczl75,8,You're lazy. You make a claim you back it up.,0,,,13,science
+oczl75,9,Google it,0,,,-10,science
+oczl75,8,">	the earth is flat and the moon is made of cheese
+>>source?
+>>> Google them both. No single resource. Don’t be that lazy brah",0,,,13,science
+oczl75,9,"based and cheesepilled.
+
+correction tho, the earth is OBVIOUSLY hollow and filled with cheese, and the moon is just pure cheese, just **waiting** to be eaten.",0,,,4,science
+oczl75,6,Not sure I'd trust US syrup,0,,,0,science
+oczl75,7,Good call. There’s a decent chance the US’s is just pallets of obsoleted Aunt Jemima bottles.,0,,,3,science
+oczl75,8,"Aunt Jemima isn't make syrup.
+
+And there's nothing wrong with Vermont syrup. Or cheese. Or whiskey.",0,,,4,science
+oczl75,9,"Or beer!
+
+‘Twas a joke at the expense of the large number of clueless Americans who don’t know the difference. It seemed funny to imagine that the US government wouldn’t recognize the difference either. I make real maple syrup so I am fully aware that the real stuff is also made in the US.",0,,,2,science
+oczl75,4,It is.,0,,,6,science
+oczl75,5,"Oh!
+
+Oh my!",0,,,5,science
+oczl75,3,I thought they sold all that off?,0,,,13,science
+oczl75,4,No one wants that much government cheese. That’s why whole blocks were given away in to 80s as a part of food stamp,0,,,27,science
+oczl75,5,I’d take all the cheddar. The grading requirements for government cheese to be accepted was pretty stringent so the cheese is quite good stuff.,0,,,24,science
+oczl75,6,I grew up with that cheese.  It was fantastic.,0,,,12,science
+oczl75,6,Amazon sells it,0,,,9,science
+oczl75,6,"I used to make cheese / whey stuff at a place called Dairy Farmers of America. We made really great cheeses which would be packaged as several different brands, including ones sold in Mexico. Sometimes we would pack them up as ""government cheese."" This wasn't too long ago though. I guess my point is that at least *some* government cheese must be damn good if it came from that factory.",0,,,2,science
+oczl75,5,"Yeah, given away, not sold. Still, my understanding is that the cave is now empty. I think it was on the Planet Money podcast recently.",0,,,11,science
+oczl75,5,"Global warming accelerated by cheese farts. Yup, thats how we're all going to die",0,,,3,science
+oczl75,5,I actually have fond childhood memories of the government food stamp cheese.,0,,,4,science
+oczl75,4,It's an ongoing program. Because it is a subsidy to American dairy farmers the strategic cheese reserve is periodically sold off or given away but then it fills up again to keep farmers on subsidies and government welfare.,0,,,11,science
+oczl75,5,"Sure, there may be some reserve, but I think they keep it in warehouses now. The cave thing was just because they went way too big with the subsidy at first and ended up with more cheese than they could store, so they had to rent the cave space.",0,,,2,science
+oczl75,3,"Multiple caves, actually",0,,,6,science
+oczl75,4,Multiple *strategic* caves,0,,,8,science
+oczl75,5,"Well, sure. What kind of idiot keeps all their strategic cheese in one cave? That's just poor planning.",0,,,7,science
+oczl75,3,What if enemies release the mighty mice?,0,,,3,science
+oczl75,2,It’s way better for the environment and more efficient to use land to grow food directly for humans as opposed to livestock feed. The incentives in place that promote animal ag and ethanol will need to be nixed in order to make anything happen. The amount of money going to farms that grow plants for humans is almost nonexistent by comparison.,0,,,313,science
+oczl75,3,"Out here in CA we subsidize alfalfa farmers. Most of the alfalfa goes to farms in China. One of our senators made the case a few years ago, that due to the amount of water they are using, it would actually save the state money to give them a second subsidy to not plant the alfalfa..... We are still planting alfalfa in a desert :(",0,,,299,science
+oczl75,4,"Interestingly enough, alfalfa is one of the crops that grows best in the desert because it needs flat ground and doesn’t need good soil quality.
+Of course, you are still growing in the desert,  and crops still need water..",0,,,62,science
+oczl75,5,"Alfalfa farmer here. Yep, it originated in the middle east and handles a drought no problem. The thing is, there's a big difference between the plant not dying and the plant producing a profitable crop. If you want it to produce, it needs literally tons of water.
+
+We're in Nebraska and grow as crop rotation for nitrogen fixing and all our hay goes to  nearby local dairies.",0,,,97,science
+oczl75,6,That’s awesome. How does it compare vs lentils for nitrogen fixing?,0,,,22,science
+oczl75,7,"To be honest, I don't know. The downside to our area is that there isn't much of a market for stuff besides field corn and soybeans. Today we cut 60 acres of wheat for an elderly neighbor but we had to haul it 40 miles down the road instead of 4 because that was the nearest grain facility taking it. Their logic is, if they get all the wheat in a 40 mile radius, thry can justify the cost of a train to haul it to Chicago. If everyone went to their nearest grain elevator, there may be only 4-5 train cars worth at each location. We have the same problem with milo and white corn. Want to grow sunflowers and popcorn? It's a 3 hour drive one way. 
+
+We'd like to diversify more, but we don't have anywhere to take it. Dry edible beans are very popular in western Nebraska however",0,,,60,science
+oczl75,8,I'm curious - what types of beans?,0,,,4,science
+oczl75,9,"Kinds like pinto and kidney beans. In the 30's my grandma and her siblings went out there to help harvest sugar beets, those are still grown too. Every Christmas she made jars and jars of pickled sugar beets that would stain your fingers a neon red",0,,,6,science
+oczl75,4,"As this demonstrates, legislation that doesn't take a holistic view of the system can make good intentions have negative consequences that outweigh the good. On one hand the legislative process is slow af for a lot of things, and on the other hand it feels rushed and shortsighted at the same time.",0,,,126,science
+oczl75,5,"""slow"", pff congress has been in a full on stalemate for two full decades at this point",0,,,33,science
+oczl75,6,And let’s not forget if they really wanted to do things quickly they can. Like the pandemic assistance and replacing a Supreme Court judge.,0,,,20,science
+oczl75,7,"Even pandemic assistance was slow, it was just fast compared to their normal time frame. Remember, they took their normal break during the 2nd relief stimulus discussions, then they patted themselves on the back at how fast they were when they finally got to it. 
+
+  
+
+
+Both were a crapshow of typical argument, pushing unrelated issues and costs in the bills to try and piggyback onto a bill they knew had to be passed eventually. It shows just how bad it really is there that they took advantage of a global catastrophe, and delayed the bills at the expense of common people. Most of them care very little, if at all, about society in comparison to their ideological, monetary, and corporate agenda's.",0,,,12,science
+oczl75,6,"A congress that can't agree is something I can agree with. 
+
+It does have downsides but it's not all bad.",0,,,-4,science
+oczl75,7,It is all bad. The goal is to have better government even if it means less government.,0,,,5,science
+oczl75,4,Alfalfa is a very realistic plant to cultivate in a desert that can sustain it. Without groundwater though it's a waste of time.,0,,,10,science
+oczl75,4,What does China need the alfalfa for?,0,,,11,science
+oczl75,5,No clue. Probably pig or cow feed,0,,,14,science
+oczl75,4,Alfalfa is nitrogen fixing and used in crop rotation to improve the soil for other crops.,0,,,38,science
+oczl75,5,"It is, and that's not why it is grown there. It is grown there specifically to be exported as hay for animal feed. Its nitrogen content is used to balance nitrogen poor hays like corn stover",0,,,47,science
+oczl75,6,"I mean they wouldn't only grow it to grow it, crop rotation is to be more productive and natural keep the soil suitable for crops. Just because they grow it specifically to sell to China doesn't invalidate its use as a rotating crop",0,,,2,science
+oczl75,7,"The invalidating point for growing alfalfa in CA though is not the productivity of the soil, but the deficit of water such that the crop must be irrigated (and the political systems that prioritize irrigation water for crops not used for human consumption and used for export)",0,,,4,science
+oczl75,5,"So why have the same farms been growing it continuously for the last 3 decades at least? Especially when there are other crops that use way less water and are native to the desert out here? If I were still living in the Midwest or really anywhere East of the Mississippi, I could see that. This is just a huge waste of our rather limited water.",0,,,39,science
+oczl75,6,"i was reading yesterday on reddit about arizona doesn't have the same kind of water rights as most western states. you can buy desert land cheap, dig a 600 foot deep well, pump out all the water you can, grow alfalfa, sell it to china. meanwhile your neighbors' wells are going dry because you are draining the aquifer.
+
+maybe california is similar?
+
+i'm reading sanda day o'connor's book ""the lazy b"" about growing up on a ranch in arizona, where keeping the wells going was life or death thing for her cattle.",0,,,24,science
+oczl75,7,Poland Spring ran my sister’s well dry in Maine.,0,,,7,science
+oczl75,7,"Happening in rural Oregon with pot farmers too. Yay, now the people who've lived there for over 30 years can't get water.",0,,,3,science
+oczl75,6,"You generally can't grow alfalfa continuously. After about 3-4 years, an alfalfa stand is typically diminished where you need to rotate to a different crop. You can't replant to alfalfa again right away due to what we call [autotoxicity](https://fyi.extension.wisc.edu/forage/understanding-autotoxicity-in-alfalfa).",0,,,9,science
+oczl75,6,Because it's a perennial...,0,,,1,science
+oczl75,4,"When I was a kid, we had guinea pigs and they loved the fresh alfalfa we cut from behind my dad's work, with permission, the land was owned by his employer and alfalfa was grown on bits they didn't need for the manufacturer. They loved it way more than the store bought stuff we used when we ran out of the good stuff.",0,,,7,science
+oczl75,4,"There's a lot of it being grown in AZ as well, it gets stuffed into shipping containers where people like me take it to the port in LA/LB and it gets put on a big boat and sent off to China. It also goes to Japan. I looked up the end user at one point and it was some pharmaceutical company. 
+
+I'm not entirely sure how alfalfa can be used in a medicinal application, but somebody apparently does.",0,,,4,science
+oczl75,4,">One of our senators made the case a few years ago, that due to the amount of water they are using, it would actually save the state money to give them a second subsidy to not plant the alfalfa
+
+That's something they've already done for ages though, I walked past an alfalfa farm to go to school and asked the owner (you could tell it was him cuz he was a full grown man who'd ride a mini dirt bike all around his fields) why he didn't plant half the land he had. He said DWP paid him more not to work than the government paid him to work.",0,,,3,science
+oczl75,3,"Very true. It is also ridiculous that economies of scale / subsidies replaced local produce options. When free trade makes subsidized apples grown in Washington State cheaper in Mexico City than apples grown in Mexico, the environmental implications are also huge.",0,,,35,science
+oczl75,4,"IIRC, most corn used to make tortillas/tamales, etc. in Mexico is grown in the US. Culturally, at least, that’s a greater travesty.",0,,,10,science
+oczl75,5,"I dont know the details,but Ive heard that globalization, generally, was bad to Mexico.   I think whatever class textbook said this compared it to SOuth Korea, who managed to build their own companies, educate their populace, do their own research and development, etc, and are now a full blown thriving well off country, whereas Mexico is sort of like a politically independant, economical colony of well to do countries, as in, they mostly just give their resources to companies owned by other countries, maybe have some factories, but they dont own the factories, or have the higher income people be from their own population.",0,,,11,science
+oczl75,6,"South Korea also didn't get fucked by the US's war on drugs, it has taken a pretty big toll on Mexico though.",0,,,7,science
+oczl75,7,"A lot of Americans are aware of the social and political impact of our war on drugs, and even how it affects some aspects of life in Mexico.
+
+I bet *very* few of us are aware of how big a negative impact it has on the Mexican economy. Mexico is a beautiful nation with lots of resources and a rich history. But who in their right mind wants to move there? Why would anyone build more factories there when the threat of death is so high?
+
+Among nations with a significant number of murders, Mexico has the highest murder rate. It's over 5x the world average rate. The number is so high that it's actually a meaningful percentage of total world homicides.
+
+Edit: Just to be clear, I'm aware that it's not a homogeneous problem - obviously some states are worse than others, and there are plenty of nice places to live in Mexico. That doesn't change the overall situation.",0,,,3,science
+oczl75,5,"This is also a huge reason why there are so many migrants coming from Central America. Small farmers south of the border can't compete with the industrial quantities of artificially cheap crops coming south, so they can either become itinerants in their own country, or look abroad for work.",0,,,3,science
+oczl75,3,Permaculture principles can allow for strong feed grasslands in rotation and fruit and vegetable growth. I’d love to see more integrated systems as livestock can be a part of the solution but not how it’s done currently,0,,,12,science
+oczl75,4,These livestock systems use a ton of land. Only sustainable if we dramatically reduce meat consumption.,0,,,-1,science
+oczl75,5,Absolutely part of the solution is social change. Producers can limit quantity and use market forces to regulate. Subsidy programs are what need to change first in my opinion,0,,,5,science
+oczl75,3,"Yup, there is more than enough unsaleable produce to use as feed",0,,,5,science
+oczl75,4,"I work in a cereal plant and all the food that fails quality check but isn’t harmful gets marked as animal feed. Somethings we have spills too. One day we got rid of 6 tons of cereal as animal feed.
+
+I’m sure a lot of places have similar policies but I doubt everywhere does. I wish we would stop wasting so much food.",0,,,6,science
+oczl75,3,"> It’s way better for the environment and more efficient to use land to grow food directly for humans as opposed to livestock feed.
+
+Generally no. Especially when it comes to grasslands, plowing that up for row crops instead is getting rid of a great carbon sink, releasing CO2, and often increasing runoff due to the often poorer or susceptible soil types in those biomes. Grazing it, especially when it like wide areas of the Unites States where that grassland is historically natural (unlike what's going on in the Amazon), is by far usually the best option in terms of food production efficiency. Especially considering that most beef cattle in the US spend the majority of their life on pasture, that's a pretty significant factor in play. Then you have to factor in other things like how we often use alfalfa in row crop rotations where that crop itself is going for livestock feed, but that crop being planted for multiple years fixes nitrogen instead of needing to add fossil-fuel based fertilizer and also breaks weed seed cycles to help avoid problems with herbicide use.
+
+Then you get into row crops themselves. Some like wheat are largely direct to human use, but they have a limited market, and it's difficult to make a living if at all just growing wheat. Other crops, like corn and soybeans, are multiuse. Often times we extract our human uses first (food, oils, fuel, etc.), and then the livestock get the leftovers. They're also eating the parts of the plants we cannot use like leaf tissue, stems, etc. When you total all that up it basically amounts to [about 86% of the things livestock eat don't compete with human use.](http://www.fao.org/ag/againfo/home/en/news_archive/2017_More_Fuel_for_the_Food_Feed.html)
+
+So for us university educators, it's extremely common for this conversation to head towards some map a newspaper put out saying X acres go towards livestock without partitioning out things like pasture, multiple uses of crops, etc. vs often risker crops like fruits and vegetables that are normally direct to human use. Grains and livestock instead, tend to be multi-purpose and part of a very complex network that is easily overlooked that can't be easily partitioned into such an oversimplified map.",0,,,23,science
+oczl75,4,It's also worth noting that the manure from livestock production goes back on the ground that is used to grow the feed lowering dependence on artificial fertilizer and increasing soil organic mater.,0,,,13,science
+oczl75,4,"This being said, the natural grasses of the plains were some of the best carbon sinks due to their long long roots.
+
+Only something like 1% of the great plains has their original grasses, and that is mostly in the national parks.
+
+The best thing we could do for carbon sinks in the Great plains is allow the grasses to return. Cut beef production down (meaning less corn and soy needed). Return to nature.
+
+But that ain't gonna happen.",0,,,4,science
+oczl75,4,[deleted],0,,,4,science
+oczl75,5,"> I don't understand how almost doubling current meat production fits in with the UN's Strategic Development Goals (of which the FAO is affiliated)
+
+ Because most people outside developed countries is malnourished. Main reason is underconsumption animal products.
+
+ FAO goal is simple, reduce meat overconsumption in rich countries, increase meat consumption in poor countries, improve animal agriculture, make it more sustainable.",0,,,2,science
+oczl75,4,That article you linked reeks of bias,0,,,2,science
+oczl75,5, Do you now FAO is? It is far better source than vegans source used to discredit animal agriculture.,0,,,1,science
+oczl75,3,"My neighbours work a few thousand acres of cash crops every year. The majority of those fields they rent because nobody else can be bothered to do it. You may think that's a big farm and that they're rich. But they aren't. 
+
+I know people running a few thousand square feet of tomato greenhouses that make more money than the guys working 2000 acres of corn and soy. 
+
+And the tomato guy leaves the soil in much better shape at the end of the season than the cash cropper.",0,,,4,science
+oczl75,3,Yup exactly.,0,,,2,science
+oczl75,3,But meat is way tastier,0,,,0,science
+oczl75,2,"> we still have huge surpluses that government subsidies buy and then dump
+
+University agricultural scientist here. This is pretty misleading and part of very old misconceptions about what agricultural subsidies are even used for. You can go right here to learn about [the main ones: ARC and PLC](https://www.fsa.usda.gov/programs-and-services/arcplc_program/index). You basically only have two main supports that kick in as a farmer in the US, and you can only elect to be [in one of the programs.](https://agecon.ca.uky.edu/arc-vs-plc-%E2%80%93-basics). 
+
+Those basically boils down to crop insurance for if you have a major disaster like drought, hail, flooding, etc. or if the market drastically tanks.
+
+So for major disasters, those tend not to be something for the most part out of our control. That form of crop insurance doesn't really give incentives to increase production, but buffers the other end of the spectrum when you would otherwise have a major crop loss year. 
+
+The other is for major market drops. The trouble with this one is that many farmers do not see any payment out of this even when crop prices are below break even because it wasn't a large enough market drop. That program tends to only kick in when prices are really horrible rather than ""not so great"".
+
+Beyond that, that's really the only main subsides farmers can get on the production end of things for field crops, and you are not making bank off either. Farmers are definitely not just getting regular checks simply for growing X acres of a certain crop or any easy handouts as often portrayed by those not familiar with farming.
+
+> The majority of American corn is used for ethanol and livestock feed
+
+That also gets to a bit of an apples to oranges comparison, usually because people often omit what actually goes into ethanol or livestock feed. Basically, [about 86% of the things livestock eat don't compete with human use.](http://www.fao.org/ag/againfo/home/en/news_archive/2017_More_Fuel_for_the_Food_Feed.html) That's often because crops are multi-use. For something like ethanol, that corn is being used for both fuel and the remainder leftover from that process is used for livestock feed. Likewise, livestock mostly eat crop residue we have already extracted our use from, or simply cannot use well in the first place. Then you get into the fact that livestock like cattle are using grassland, which definitely should not be used for row crops whether it's in terms of carbon sinks, land use efficiency, row crop fertilizer pollution, etc.",0,,,23,science
+oczl75,3,"What about subsidies for dairy products? Isn't the reason why there are so many dairies in California because it's as far away from Menomonie, Wisconsin as you can get in the continental US and therefore the most subsidized?",0,,,2,science
+oczl75,3,"> apples to oranges
+
+But you can still compare them.",0,,,3,science
+oczl75,2,"[This information has been removed as a consequence of Reddit's API changes and general stance of being greedy, unhelpful, and hostile to its userbase.]",0,,,41,science
+oczl75,3,"We have crop surpluses of very specific crops grown in environments where those crops need significant aid to make them viable (water, nutrients, govt guarantees, etc). 
+
+Climate change isn't making drought occur everywhere equally and/or in the same way. I think what you linked about Central America is certainly important to note. But globally, research suggests wetter places are getting wetter overall, dryer places are getting dryer overall, and precipitation rates aren't occuring as they have been traditionally (more rainfall at once, less often; less rainfall, more often; or a combination of all these unique patterns).  https://www.sciencedaily.com/releases/2016/12/161212084456.htm
+
+While climate change continues to hurt current agricultural processes around the world, wealthy nations (like the USA with a vast wealth of different ag ecosystems and, also, actual monetary wealth [and the country that I specifically mentioned earlier]) will be able to adapt what is grown, how it is grown, and where it is grown to ensure an adequate nutrition supply for the country's population (it may be very different than the current diet). I truly believe food scarcity is not a realistic concern for the USA any time soon.
+
+I argue that ctizens of wealthy nations should be mindful of food scarcity for poorer nations (like those in Central America) while spending their energy enacting more pressing legislation to ensure long term effects of climate change are diminished both domestically and globally. Someone in the USA should not spend mental energy worrying about food scarcity; spend it a hundred different ways thinking about solutions to problems that are more likely to occur much sooner and much harsher.",0,,,19,science
+oczl75,4,"It is a multifaceted issue. A decent chunk of land is under Cropland Reserve Programs to preserve topsoil and resources.
+The aquifer that the cornbelt, originally called 'The Great American Desert', uses recharges at a slower rate than it refills at. There are already areas that have subducted due to being too dry.
+The main issue is that we are running a risk of not having enough water to support food crops.
+There are probably points somewhere that I am missing but that is the issue with how we currently farm.
+There is promise to having food crops growing in fields under solar farms and vertical farming for more water intensive  crops.",0,,,3,science
+oczl75,3,> cop growth,0,,,4,science
+oczl75,4,i think we can live with a deficit here,0,,,1,science
+oczl75,3,"If we start having food scarcity, I have to hope that they'll just stop feeding all our crops to cattle",0,,,0,science
+oczl75,4,"I think we should do it now, because there is plenty of food that gets wasted everyday that could be used for animal feed. The factory I work in thankfully puts all of its spills into animal feed and ships it out. But not everywhere does, and I think that if they started that we could cut down drastically on how much land we use to feed animals.",0,,,0,science
+oczl75,2,"Except for us farmers who grow, and have grown white corn for years.  And that number is getting bigger every day.",0,,,5,science
+oczl75,2,Lake Powel is at 37%. Lake Meade is also very low. When the water runs out so do the fruit and vegetable crops from southern CA. Not to mention no water for humans.,0,,,10,science
+oczl75,3,Ethanol is a joke. You get less mpg so you have to burn more. I'd like to see a study on whether it's less polluting that straight gas.,0,,,7,science
+oczl75,4,"Well efficiency is a concern. However, ethanol isn't added to gasoline for carbon dioxide pollution. Gasoline is blended using a wide range of hydrocarbons with varying octane values. High octane gasoline is usually comprised of higher amounts of hydrocarbons that are more harmful to people. The obvious example here is benzene, a known carcinogen. There are also hydrocarbons with sulfur and nitrogen in them, which when burned produce compounds that cause acid rain. To combat this, the US has strict sulfur concentration requirements. To meet this, we use a process called hydrotreating that breaks the sulfur and nitrogen out of the hydrocarbons and makes for a cleaner product. A side effect of this is that you reduce the natural octane rating of the treated gasoline. To make up this octane loss, a clean, cheap, and easily produced additive was needed. At first this was the now notorious lead additive, but now we use ethanol. Ethanol increases octane ratings to the minimum required for you car engine while  allowing for intensive hydrotreating of the gasoline. It IS cleaner, by virtue of removing the need to add dirty or harmful compounds into the gasoline. As for efficiency, that's easy enough to calculate. The average BTU value of gas is 116,000 BTU per galine vs 76,300 for ethanol. 10% ethanol gives us .9x116 + .1x76.3 = 112.03. 112.03/116=.965. So ethanol gasoline is 96.5% as efficient with massive environmental benefits that are admittedly hard to quantify on my phone.  The benefits are geared towards pollution concerns outside of carbon dioxide. Some of which are actually much worse as greenhouse gases. Of course, a clean burning car will convert it to CO2 anyway.",0,,,13,science
+oczl75,4,"Ethanol has purposes.
+
+One good use would be for very high compression engines meant for very high efficiency. Unfortunately it's not very good in cold temps and making ethanol from corn uses lots of water.",0,,,5,science
+oczl75,4,"E85 is 108 octane. 100 octane gasoline / racing fuel exists, but it’s not widely available. The most you generally get in the US is 93, and my last car recommended 95, with most European drivers opting for 98. There’s a community of US owners that modify & tune them to run pure E85, since the car won’t hit top performance without racing fuel otherwise.",0,,,4,science
+oczl75,3,"California will never run out of water. It is on a ocean. We just haven’t reached the point where it is necessary to use desalination to preserve the economy. California and the southwest are not short of water they have millions of people living in a desert, and then acting surprised that there is no water in a desert. This area was never meant to support this many people",0,,,1,science
+oczl75,4,San Diego now has a desalination plant.,0,,,2,science
+oczl75,5,I would guess that in the near future most California city’s will have to switch to this. I am kind of surprised it’s not law already. It is expensive but Nee technologies should bring down the cost in the next ten years or so.,0,,,2,science
+oczl75,2,This is so not understood by the US population.  The Nixon corn subsidy appears to have destroyed the diversity of American farming.  It really is a shame.  And the HFCS has played a big role in the obesity epidemic.  *”Rockin’ Rollin’ Cola Wars! I can’t take it anymore!”* —Billy Joel,0,,,3,science
+oczl75,2,But we eat the cows that eat the corn,0,,,9,science
+oczl75,3,"Yes. But if you are worried about food scarcity, then you wouldn't be eating meat. It is much more efficient for land to be used for human food.
+
+Modern humans eat significantly more meat than even 100 years ago. There's a reason why we have a tradition of Christmas ham or Thanksgiving turkey... it was a special event and special food was eaten. Americans didn't eat ham sandwiches everyday for lunch. 
+
+So much caloric energy is used by livestock that doesn't transfer to humans when it's eaten. If you are worried about food scarcity, cutting meat consumption would be one of the first steps to ensure a continued food supply for humans.",0,,,27,science
+oczl75,4,"when my dad was a kid, his pet was the dog, which was the one animal that didn't get eaten. his sisters had pigs named christmas and easter. he also had the chore of feeding the chickens. i don't know if they had a turkey.",0,,,6,science
+oczl75,4,"And saving land and water usage.
+
+If you saw Eastern Oregon 20 years ago compared to today, I think most people would stop eating meat.  It has become a disgusting waste land of methane and crap that has wiped out massive farming lands, and ruined perfectly good land.  Water usage is beyond what they can sustain so it has to be imported.  All for a hamburger.",0,,,9,science
+oczl75,3,"Which is a poor usage of the calories produced from farming. It also wastes a tremendous amount of water and energy inputs. Cattle are also very high producers of the GHG methane, which is 4x more heat captive than just CO2 on an equal weight basis.
+
+I say this as person who very much enjoys meat: we need to reduce our meat consumption.",0,,,21,science
+oczl75,4,"If we're going to keep eating meat, we should also eat more of the cow or animal while reducing consumption. No one seems to eat things like liver or tongue or heart much now but they are all edible and can be pretty good source of vitamins",0,,,2,science
+oczl75,5,"If you think we dont use almost all of that cow... just because *you* dont eat head meat or cheek, doesnt mean other people arent. Or that it isnt ground down into the ground beef and the sausage. You can find alot of these cuts at a proper butcher or any more ethnic grocery, asian market, carniceria etc.",0,,,14,science
+oczl75,5,I mean lengua tacos definitely help there,0,,,6,science
+oczl75,5,Meat.. let's eat bugs,0,,,4,science
+oczl75,5,What do you think dog and cat food are made from?,0,,,2,science
+oczl75,4,As am I.,0,,,0,science
+oczl75,3,"The way trophic levels work is that every level you go up, you lose 90% of the energy. In other words, if you have 100 calories of corn, you can eat it yourself and get 100 calories, or feed it to a cow and only get 10 calories of beef.",0,,,2,science
+oczl75,4,"In this case though, the cows are eating the parts of the plant we generally cannot eat. Beef cattle for instance, are mostly eating forage. It's only a subset, feeder cattle, that go on to a hay/grain mix for the latter half of their life. That grain is typically things like corn, but often already processed to extract whatever human use we want to take out of it first. In ethanol for example, there's distiller's grain that the cattle are then fed after the fact. I suggest giving [this summary a read](http://www.fao.org/ag/againfo/home/en/news_archive/2017_More_Fuel_for_the_Food_Feed.html) since simply mentioning trophic levels is often vastly glossing over what actually happens in raising livestock. It's to the point that about 86% of what livestock eat doesn't compete with human use.",0,,,6,science
+oczl75,5,"> 86% of what livestock eat doesn't compete with human use.
+
+This is close to a fallacy: that doesn't mean that they don't *also* compete with human use.
+
+Also, the enormous land use of livestock competes with biodiversity, and we desperately need to preserve habitat.",0,,,-2,science
+oczl75,2,"I like your first paragraph, it gets the point across. Your second paragraph is a bit contentious. 
+
+I’ve never heard “big Ag” in my time spent in the agricultural industry. There will always big farmers, but no large corporations run agriculture like you might hear about pharmaceutical companies who are pulling the strings in the background. The Illinois farm bureau has 400k members alone. Agriculture supports 10.9% of the US workforce. 
+
+U.S. agriculture has been subsidized for many years. I can’t say what would happen if the subsidies were gone, but a lot would probably change if the money wasn’t there. 
+
+Also small gripe on your second source. It mentions the reasons for farm consolidation are not from economies of scale and etc. I’d like to mention the average new corn/soybean harvester costs around $300-500k, most people buy their homes for that amount. You can’t make any money off of 80 acres when corn is selling for $5 a bushel and you get 200 bushels an acre. You’re making 80k gross and still need to factor in seed and/or adding fertilizer, herbicides, fungicides, insecticides, and lime. Not to mention a tractor and wagon to haul corn and a planter and cultivator for planting. Farming has a huge initial upfront cost and only makes sense when you’re farming lots of land. 54% of crop land is rented, meaning a farmer will rent land to grow crops. Lots of small farmers have given up and opted for leasing out their land. Or a wealthy individual will buy land and lease it out. Small farms (~400 acres and below) are too much work for the hassle. 
+
+TL;DR Farming costs a lot upfront, and “big Ag” isn’t really a thing. 
+
+[US At workforce stat source](https://www.ers.usda.gov/data-products/ag-and-food-statistics-charting-the-essentials/ag-and-food-sectors-and-the-economy/)
+
+[Illinois Farm Bureau ](https://www.ilfb.org) (number at bottom of page)
+
+[Farm Land Renters](https://www.ers.usda.gov/topics/farm-economy/land-use-land-value-tenure/farmland-ownership-and-tenure/)
+
+Edit: typos. and also I’m an agricultural engineer :)",0,,,2,science
+oczl75,3,"Illinois Farm Bureau is small potatoes compared to Iowa's Farm Bureau.... The farm bureau that runs the for-profit insurance fund for nearly every farm bureau in the country.
+https://www.desmoinesregister.com/story/opinion/columnists/iowa-view/2018/06/22/iowa-farm-bureau-insurance-company-voice-farmers/714274002/
+
+You are totally right about the price of harvesters. It's crazy high because companies like John Deere and IH know they can charge ridiculous prices, large farmers know they can finance ridiculous prices at rates that are backed by govt guarantees then do tax write offs on the equipment financing, and they then rent land at high prices to further justify buying the expensive equipment. This cycle contributes to ever higher land prices until only commodity crops for large-scale farmers make sense. Farmers that want to buy land and grow food for people are not easily able to because of big ag's market influence. 
+
+I am way too tired to discuss the existence of big ag (the combined lobbying efforts of farm equipment manufacturers, seed genetic companies, ag insurers, processed food companies, etc). I urge you to research how modern processed food conglomerates rely on the insanely massive federal farm bill that is passed every five years. Especially how it relates to SNAP benefits (food stamps) and what food qualifies for it. Also, please research the seed genetic monopolies enforced by literally four companies that control nearly all commodity crop seeds across the world.",0,,,3,science
+oczl75,2,Great information. What happened to the quality of consumer corn? Corn has been awful the last ten years. You’d think with modern ag and surpluses the consumer would be able to purchase high quality corn???,0,,,5,science
+oczl75,3,"Over 99% of corn grown in the USA is commonly referred to as ""field corn"". Sweet corn is grown and harvested much differently. To be honest with you, I'm from Iowa and have always had locally grown sweet corn, so I'm not sure what factors have led to your experience. It's likely that the corn you're buying was harvested too early to allow for first market access and to allow for successive plantings (two harvests) in one season.",0,,,20,science
+oczl75,4,"I’m seriously considering finding a friend in Iowa that will send me decent corn. I’d reciprocate with Idaho russet potatoes and some slappin Oregon onions. I’m going to check into shipping, probably ridiculously expensive.",0,,,6,science
+oczl75,5,Need some of those old timey tubes across the country. Get a 'thoomp' pod with corn in it,0,,,5,science
+oczl75,5,Fresh corn doesn't last long. You'd be better off going down there and cutting off the cob and freezing it,0,,,4,science
+oczl75,3,"If you've got a yard, corn is a very easy crop to grow. 
+
+The corn isn't really different than it used to be, but harvesting times and grain storage has changed a lot. Food travels a lot further than it used to which has lead to it getting picked way earlier. Canned food is surprisingly better since they have the ability to process large quantities and can therefore order it picked closer to peak ripeness.",0,,,16,science
+oczl75,4,Corn has definitely changed.,0,,,0,science
+oczl75,5,"What I'm saying is that genetically it's not very different, but you are getting greener and greener corn at the grocery store that ripens off the plant. That affects flavor a lot. Go to a farmers market during peak season and you'll get much better corn simply because it's had more time to grow.",0,,,2,science
+oczl75,6,"I did some research after posting my question and reading some of the replies. 
+
+US Farmers had over 300 varieties of corn seed to choose from 100 years ago. Today farmers have a dozen varieties. Today’s corn varieties are GMOs engineered for high yields and profit. My research started leading me down the GMO rabbit hole so I noped out before I got sucked in. Sounds like a lot of scientists are alarmed about the loss of so many varieties, even more so in many fruits that have lost 1000s of varieties. 
+
+My research, and some of the commenters in this thread, confirm that I need to start growing my own corn from heirloom or heritage varieties of corn. Gonna buy some coveralls and a straw hat and get my ass farming. Too late for me this year but I can start researching and buying seed varieties.",0,,,-1,science
+oczl75,3,"Go to like ... Illinois/Indiana/Iowa during harvest season. There's plenty of really good sweet corn everywhere you look. Grill it up with the husk still on, then peel the leaves off and add butter and salt ... Simple and delicious.",0,,,12,science
+oczl75,4,"I live in the PNW. There’s huge corn fields everywhere, all feed corn. The stores all sell the same kind of corn that has multiple colored kernels that are tough and tasteless. Ironically Walmart has sweet white corn on occasion. People swoop it like its crack. 
+
+Yep on grilling the corn in the husk. I soak the corn in water for a couple hours before throwing it on the smoker. Frustrating that I can’t find high quality corn. Gonna hit the farmers market this fall to try to find some decent corn.",0,,,4,science
+oczl75,5,"Corn season tends to be august-september. Probably don't find tons of fresh stuff outside of that window. I don't think I've ever seen people eat the multi-colored stuff. It's more ""dry it and make it to Thanksgiving decorations"". Possibly ""dry it and mill it to corn meal/corn flour"".",0,,,6,science
+oczl75,5,"I figure the switch to growing for transport and storage has caught up to corn, like it has changed fruit for the worse before.
+
+So those Washington apples and California/Georgia peaches you are eating right now were harvested last fall and have sat in cold storage under gas to prevent spoilage since. This took modifying the original fruit to survive this treatment, so the eating experience has changed over time as these techniques have been in use.",0,,,5,science
+oczl75,6,"As a Georgia native, it saddens me to say that your peaches are probably from South Carolina.",0,,,8,science
+oczl75,7,"That's what I heard, you'd been dethroned but I was trying to be nice. ;)",0,,,2,science
+oczl75,8,"Nah, we just eat them all ourselves.",0,,,2,science
+oczl75,7,Posted using RIF is Fun. Steve Huffman is a greedy little pigboy.,0,,,2,science
+oczl75,3,"I can't answer for grocery stores, but I can for restaurants. There is a law in the US that restaurants have to buy from an ""approved vendor"". There are only 4 major vendors we can buy ingredients from, so all the food tastes the same, and the quality of our ingredients has diminished greatly. I'd love to stock my restaurant with farmers market produce. I would lose my license if I did.",0,,,9,science
+oczl75,4,Can you point me to that law? My friend's family owns a restaurant and they absolutely serve food made with ingredients bought from the farmer's market.,0,,,16,science
+oczl75,5,"May not be a federal reg. I thought it was having worked in 49/50 states, and being told by health inspectors that, ""yes you can get the occasional shortfall ingredient at either the farmers market or a grocery store, but that cannot be your primary supplier"".
+
+This may be how they're getting around it.
+
+http://www.pickyourown.org/CottageFoodLawsByState.htm",0,,,6,science
+oczl75,6,I dont think youre at all correct.  Many restaurants entire selling point is they only use fresh local ingredients from local farms with rotating seasonal menus. And ive been to places like that in at least 5 states...,0,,,13,science
+oczl75,7,"I am not a lawyer, so I may have been misinformed by health inspectors, but I have opened 5 restaurants myself, rather than just being the food saftey manager, and inventory manager, and in all 5 states I had to prove that I was primarily getting my ingredients from an approved vendor to get my restaurant licensed, and in all 44 other states (never been to HI) when I asked about procuring veggies through the farmers market, I was told that was flatly not allowed as a primary source of produce.
+
+I am just a pot farmer now. Better pay, shorter days, and I only deal with one ""customer"".",0,,,0,science
+oczl75,6,"That looks like that applies to pre made food products, like if someone was selling their self-made jam or sauce. I wasn't aware that there may be barriers to a farmer selling you, say, a tomato direct.
+
+I'm curious because I plan on starting a small scale farm next year.",0,,,5,science
+oczl75,7,"So, things may have changed in the last 2 years since I left the industry, but the health inspectors all said the same thing for the previous 24 years, namely: ""if you run out of X, let's say tomatoes, and just need some to cover the shift till your delivery, feel free to buy them at a store/ farmer's market, if however you are buying the majority from the grocers, or farmer's market, then you get into trouble if they decide to audit your receipts""
+
+Funnily enough, I quit to start a pot farm, myself.",0,,,1,science
+oczl75,4,I have so many questions as to how that makes any sense.  That's just legally blocking competition from smaller companies and farms...,0,,,11,science
+oczl75,5,I don't think what he stated is true for all of the US and probably just his state. I know in my area they can get from local farms and such.,0,,,7,science
+oczl75,5,"That's what capitalists do. Create monopolistic conditions, and prevent innovation or competition",0,,,12,science
+oczl75,6,"Capitalists own restaurants and try to find ways to better their customers’ food experience. Regulations are what you’re thinking of when it comes to restricting who you can buy from. In this case, likely benefiting whoever had the closest ties to the regulators. Easy way to know if it’s capitalism affecting you or if it’s overburdening regulations affecting you is to ask yourself if you chose the outcome or if you were forced to comply with the outcome.
+
+>	 I'd love to stock my restaurant with farmers market produce. I would lose my license if I did.
+
+Pretty easy question to answer",0,,,-14,science
+oczl75,7,"Who do you think lobbies for those regulations? I'll give you a hint, it's not small restaurant owners.",0,,,16,science
+oczl75,8,I think that's what they call crony capitalism,0,,,2,science
+oczl75,9,Which is still the most popular form of capitalism.,0,,,3,science
+oczl75,8,"What’s needed is a more-free market, not a market with regulations that were built to cater to lobbyists. Lobbying shouldn’t be allowed. Full stop. To add, there should be fewer policy makers willing to institute regulations that get in the way of deciding where small restaurant owners can purchase their goods.
+
+Edit: the amount of people who disagree that lobbying should be stopped is actually pretty surprising to me. In an unfortunate way.",0,,,-1,science
+oczl75,3,"The opposite- when your product is subsidized for aninal feed or fuel, you're optimizing for cost, not quality for humans",0,,,2,science
+oczl75,4,people don't eat field corn.,0,,,5,science
+oczl75,5,"I think you mean that people don't eat field corn directly, but it is processed as corn starch, corn flower, corn flakes, corn syrup etc.  
+source [here](https://nebraskacorn.gov/issues-initiatives/your-food/field-corn-vs-food-corn/)",0,,,7,science
+oczl75,2,"Sheep, cattle, chicken, pigs did not evolve to subsist primarily on corn.",0,,,1,science
+oczl75,2,Where do you expect food for America to come from when crops fail globally?,0,,,1,science
+oczl75,2,"There is no government program to buy and dump crops. If you have evidence otherwise, please provide it. Most subsidies are now in the form of subsidized crop insurance. The main reason why grains are subsidized and fruits and vegetable are not is that whatever you subsidize, you will tend to produce more of. Fruits and vegetables are high profit, high risk crops, and generally do not store well, so if you have a surplus, you quickly increase food waste. You could foreseeably wind up with a surplus of high value, high subsidy crop, with no way to recover the costs because the value will fall as the crops spoil. Grain crops can be stored for long periods with little loss in quality or value, so they can weather short variability in supply and demand and their marketing and use is more flexible.",0,,,1,science
+oczl75,2,Damn this is effed up...,0,,,0,science
+oczl75,2,"You can make tortillas, homily and tamales from feed corn.
+
+We can easily live off it in times lf famine lasted for years and years. So its not a bad plan.",0,,,0,science
+oczl75,2,"Tip from northern Italy: you guys need to learn to make polenta. Corn meal, water and salt, cooked about 35-40 minutes all by itself with a self stirring pot attachment. Great with melty cheeses and cured or brazed meats, and you seems to really love both those.
+
+You can even dial it up to 11 by making polenta taragna.",0,,,0,science
+oczl75,1,"Yep, they're necessary now we just need to manage them better. Getting crowded up there",0,,,37,science
+oczl75,1,Get companies to sue each other to solve pollution. It's so disgustingly liberal it just might work!,0,,,34,science
+oczl75,2,*capitalistic and also that’s the greatest idea ever!,0,,,8,science
+oczl75,1,"A guest lecturer at the Royal Astronomy Society of Canada one month was Dr. John MacDonald of MacDonald, Detwiller and Associates, the satellite technology company.
+
+
+He demonstrated how good radar satellites were at mapping, and various sensing tasks.
+
+
+One was to locate a lost vehicle on the Antarctic. They found it after 2 passes of a satellite.
+
+
+The one that impressed me was the mapping mission they were paid to do by the European Union on crops by scanning over the stubble left after harvest to determine how much was planted of certain crops. They could tell by the radar return the difference between peas and various legumes in various countries.",0,,,5,science
+oczl75,1,"Yet it's constantly frustrating that they refer to it all as ""pollution"" in the media.  Heat is pollution, so is poison.   Which one do you mean?",0,,,11,science
+oczl75,2,"Yep. Carbon dioxide is often called pollution, but plants thrive with more of it.",0,,,1,science
+oczl75,3,"Yes and no, they produce more carbs and fiber with it but this comes at a cost for protein production and mineral uptake. 
+
+So you are right they grow faster and bigger but they don’t contain as much other nutrients.
+
+Edit: look at the comment below/above me. It seems my statement isnt true for all plant metabolisms, and even the ones where it had an effect seem to have so much excess that more would not matter if there was even more. 
+
+The lower amount of protein is per dry mass and compared to samples from the 1960’s. Since over half of **all** human carbon emissions happened during the last 25 years that still seemed like a reasonable time to compare to. But it seems this trend would not continue since plants are maxed out on CO2 already.",0,,,6,science
+oczl75,3,"In this case not so much. Corn is a [C4 plant](https://ripe.illinois.edu/blog/difference-between-c3-and-c4-plants). It's already CO2 saturated and increasing concentrations due not improve its growth. Soybeans on the other hand, are a C3 plant that does benefit from increased CO2 concentrations to a point. It varies by condition and crop, but we're really past a point where any C3 crops would significantly benefit from any additional CO2.",0,,,7,science
+oczl75,3,Literally heat is pollution,0,,,0,science
+oczl75,1,In Dune the Fremen buy all of the satellite time over Arrakis/Dune specifically so no one else can observe their crops.,0,,,2,science
+oczl75,1,Well negative population growth will be enforced by mother nature. If we had done it ourselves we wouldn't have reached this point,0,,,-2,science
+oczl75,2,"“This point” is where we can educate billions of people, provide more food than we consume (we can’t seem to distribute it perfectly), and cut the amount hungry people since the 1970s despite the population doubling. The human race is better equipped to handle its challenges than ever before. We are safer and more prosperous the more of us there are. 
+
+Does progress track population growth or decline? Are famines more common in more developed or less developed places? Are we producing all the food we can, or is there room for increases?",0,,,7,science
+oczl75,3,Not really relevant. Most of the problems we have to solve are directly or indirectly due to too many humans. The easiest solution is fewer humans.,0,,,-4,science
+oczl75,4,"Sure it's true, but what are our options? Round people up and kill them? Alright let's start with _your_ friends and family. You won't like it, but there are (7 billion - your family) people that agree with me. Now do you see the problem? That's why people won't accept it. And they're doing it for _your_ sake.
+
+And I'm not saying ""oh just don't address the population thing at all"" because that's just as idiotic. And no not one of two polar extremes. Something in the middle that makes sense. No I don't know what that is because why would I. Do what makes sense. Killing people does not make sense because it's too open for abuse. Just assume things will be abused, that's humanity.",0,,,3,science
+oczl75,5,"Well of course we need to do what we can but no one wants to talk about the need for negative population growth. Nothing else needs to be done but education. Let people know that if they limit themselves to one or two kids, the problem will take care of itself. Then make birth control available to everyone free or very cheaply",0,,,2,science
+oczl75,1,Found the guy who wants government to force people to do things,0,,,-9,science
+oczl75,2,Sounds like he actually wants the government to force people to not do certain things.,0,,,1,science
+oczl75,3,">red isn't blue
+
+>sounds like you're saying blue isn't red
+
+Have you had your morning coffee yet?",0,,,3,science
+oczl75,0,[deleted],0,,,453,science
+oczl75,1,"The title and press release do specify that it was a 20% increase **in yield gains**, not a 20% increase in yields.",0,,,195,science
+oczl75,2,[deleted],0,,,115,science
+oczl75,3,"Thank you, I was just about to raise the point that science and big agri constantly adjust crops, growing strategies, science makes "" new and better pesticides "" to increase yield. I would think it's extremely difficult to tease out these different factors. In the Western us, for example, how do you separate out the impact of wildfires.",0,,,20,science
+oczl75,4,"Breeding gains are making major progress because we're learning more about genomic landscapes and genetic by environmental influence. Teasing these is difficult, but we're getting there. Also learning more about heterosis and advantageous alleles during climate change (drought, higher Temps, etc).",0,,,6,science
+oczl75,2,That’s also wrong still. It should say “20% of the yield gains”. Which actually translates to a 25% increase in yield gains when compared to a base case without pollutant reduction.,0,,,15,science
+oczl75,2,So how much were the yield gains…? So we can do the simple division and talk about the more interesting number of how much improvements in pollution benefitted crop yields.,0,,,2,science
+oczl75,2,The other 80% is increased CO2 concentration in the atmosphere.  More plant food - more plants.,0,,,-13,science
+oczl75,3,"The majority of modern yield gains are the result of [continued improvements in genetics and crop production technologies](https://www.agry.purdue.edu/ext/corn/news/timeless/YieldTrends.html). 
+
+It's also not that straightforward to estimate the impacts of increased CO2 concentrations on crop yields since it will also affect the temperature. [This 2020 study](https://doi.org/10.3390/cli7030040) looked at the theoretical impact of climate change on crop yields in the United States:
+
+>The model shows that warming temperatures will significantly decrease corn and soybean yields, but will not have as strong of an influence on rice. Before accounting for CO2 fertilization, crops in the high-emissions scenario are predicted to produce 77%, 85%, and 96% of their expected yield without climate change for corn, soybeans, and rice, respectively. When a simple CO2 fertilization factor is included, corn, a C4 plant, increases slightly, while the yields of the C3 plants (soybeans and rice) are actually predicted to increase compared to today’s yields.",0,,,9,science
+oczl75,1,"How do we know this isn't from increased CO2 concentrations?
+
+I've suspected this climate change / carbon credits thing was dreamed up by the likes of Bayer to ensure that commercial growers always need fertilizer and special seeds. Plants in the dinosaur era were much squatter and heavier, because their food was more readily available, right?
+
+More free food for plants means less reliance on artificial supplements.",0,,,3,science
+oczl75,2,"...or even from something else entirely.  
+
+There's literally no control group.",0,,,3,science
+oczl75,0,"20% is huge, that really surprised me.",0,,,157,science
+oczl75,1,"To clarify it’s 20% of the gains, not a 20% gain from reduced pollution. I misread it the first time and I bet others did too. 
+
+So if yields grew by 5% over 20 years the pollution would be responsible for a 1% overall yield increase. Note: I’m making that 5% number up….I have no idea how much crop yields have changed over the last 20 years….nonetheless it’s still a significant positive impact!",0,,,155,science
+oczl75,2,"Yup, that's the right logic. Here are the exact numbers from the press release:
+
+>In fact, the reduction in air pollution contributed to an estimated 4 percent growth in corn yields and 3 percent growth in soybean yields – increases that equal 19 percent of corn’s overall yield gains during the timeframe and 23 percent of soybeans’ overall yield gains.
+
+Based on those numbers, corn yields grew 21% and soybean yields grew 13% over the 20-year period.",0,,,61,science
+oczl75,2,The reddit title is very misleading.,0,,,1,science
+oczl75,1,Still blows my mind that people don't see the clear benefits to cleaner energy sources.,0,,,55,science
+oczl75,2,">Still blows my mind that people don't see the clear benefits to cleaner energy sources.
+
+Probably because it's hard to quantify, or at least has not been well quantified to date. This kind of data is a step forward.",0,,,29,science
+oczl75,3,Look up how many people die yearly due to air pollution. And that’s just one out of many reasons. I mean “do you want clean air” seems like a no brainer here.,0,,,17,science
+oczl75,4,"I mean to the people who still deny climate change they don’t think it’s real until it affects them. These are the same people who think covid is a hoax then their relative dies and suddenly it’s real, or that you should go to hell if you’re gay, then their son comes out and all of a sudden they are accepting.
+
+So all that needs to happen is people close to them die to climate issues then they will learn. Maybe",0,,,6,science
+oczl75,4,"Depends on the cost. I totally agree it's a good goal to go for, but everything is a grey area.
+
+We could have totally ""clean air"" if we go back to living like cavemen, pre-fire. But nobody wants that. So we have to compromise somewhere.",0,,,2,science
+oczl75,3,"They've been putting numbers on things for decades, with good evidence. Like, take a nap and plot the location of people with every disease. You'd kinda expect the rates to be similar, so any disease that has distinct clusters where the rates are higher than average is interesting. Now plot sources of pollution... Any correlations?
+
+But now you have a data set that says like ""3 extra people per thousand within 50 miles of X will get disease Y"" and you've got a clear coat to associate with X. But you've also got some side that says ""if we have to pay it, we have to charge more and that affects everybody"" or ""we have to close and all these jobs go away"" tied with 99.7% of the population who doesn't feel the effects of the cost.",0,,,4,science
+oczl75,1,The title is incorrect; it’s 20% of the gains.,0,,,3,science
+oczl75,1,"Also america, ""Let's turn that 20% in to gasoline and diesel.""",0,,,3,science
+oczl75,2,Corn-based ethanol is such a scam.,0,,,2,science
+oczl75,3,Just a place to put all that corn the American government is subsidizing,0,,,2,science
+oczl75,1,"Just imagine the increase in skin cancer.
+
+Edit; oops are we not supposed to acknowledge that lowering anthropogenic aerosols leads to increased solar radiation at the surface? Is that taboo? Or against some sort of secret court order?
+
+Edit wow: [Have some Science kiddos.](https://www.reddit.com/r/xrmed/comments/hgn7xv/could_covid19_be_linked_to_early_arctic_ice_melt/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)",0,,,-52,science
+oczl75,2,"A slight uptick in skin cancer that can be prevented by wearing sunscreen, or the collapse of current civilization and death of billions... Man, that's a hard decision to make, alright.",0,,,25,science
+oczl75,2,Less cancer affiliated toxins in air means more cancer? Hyper brain stuff there.,0,,,7,science
+oczl75,3,Suspended particles in the atmosphere block some light from reaching the surface.,0,,,0,science
+oczl75,4,They absorb light and disperse it as heat. Into the rest of the atmosphere.,0,,,1,science
+oczl75,2,"Or that higher levels of CO2 are beneficial to plants. Lower sulphur equipment for ocean going vessels will likely increase global temperatures. It's a very partisan ""science"" sub.",0,,,-25,science
+oczl75,3,">Lower sulphur equipment for ocean going vessels will likely increase global temperatures.
+
+Citation needed.",0,,,14,science
+oczl75,4,"It's very widely know https://www.bloomberg.com/opinion/articles/2019-12-22/new-shipping-fuel-rules-are-good-for-health-bad-for-climate
+
+It's actually one of the geo engineering ways to fight climate change.",0,,,-7,science
+oczl75,5,"That's an opinion piece from a pro-business site, and it's behind a paywall.  Do you have an actual source?",0,,,5,science
+oczl75,6,"Look I know you all like to play like you're a bunch of morons as a debate point, but you can just type it into Google / Google scholar. It's not some niche thing that's hard to find.",0,,,-2,science
+oczl75,7,Why the hostility for someone asking for a source for your claim?,0,,,2,science
+oczl75,8,"Because it's not in good faith. You asked for one and were immediately dismissive. That gave you all the information you needed to confirm for yourself. If you can read scientific articles, I'm sure you will figure this widely known phenomenon out from the article provided.",0,,,0,science
+oczl75,9,"You didn't provide a scientific article though?  Not quite sure why you're being defensive/insulting the person responding to you for asking for a source on a science sub?
+
+A paywall article rather than a scientific study doesn't give the info that I'm assuming they were looking for.",0,,,4,science
+oczl75,3,[deleted],0,,,19,science
+oczl75,4,Literally a Captain Planet villain.,0,,,3,science
+oczl75,3,"Increased CO2 is only beneficial to a point after which it becomes detrimental to many plants, especially reproductive cycles.",0,,,8,science
+oczl75,4,It's also much much higher than any predicted atmospheric increases.,0,,,-4,science
+oczl75,5,The increased temperature from CO2 greenhouse effect counteracts the potential benefit on growth rate. Increased CO2 also causes lower amounts of nutrients despite increased growth.,0,,,6,science
+oczl75,6,No it doesn't you just made that up... That's not at all true globally for every region.,0,,,-4,science
+oczl75,7,"https://cfaes.osu.edu/news/articles/higher-carbon-dioxide-levels-prompt-more-plant-growth-fewer-nutrients
+
+https://yaleclimateconnections.org/2020/12/more-co2-in-the-atmosphere-hurts-key-plants-and-crops-more-than-it-helps/
+
+https://news.stanford.edu/pr/02/jasperplots124.html",0,,,4,science
+oczl75,3,"That maritime rule went into effect the day after Covid-19 was announced. 
+
+The entire planet has already been effected by the combination.  
+
+The new rule had science behind it.  The paper warned, on the first page, that GHG *AND* Aerosols would have to decrease *together*.  
+
+That part of the document was obviously ignored.",0,,,0,science
+oczl75,4,Just need to pat ourselves on the back because we did *something*.,0,,,-6,science
+oczl75,0,I wonder how many people reading this article stopped to think how much it was also affecting people's lungs?,0,,,14,science
+oczl75,1,It’s published every year so many thousands of people die from air pollution.. not as flashy as man burns to a crisp in Tesla or something along those lines,0,,,3,science
+oczl75,0,"Really discredits the false dichotomy of ""economy vs environment""",0,,,56,science
+oczl75,1,"Yeah that really a bad conception.
+
+Economy actually is the ecology of the human species.(and its no coincidence that they both start with eco- derived from the word oikos which is Greek for house).The fact that we haven't considered the true value of ecosystems to humanity is exactly what is wrong with the current state of the economy.
+
+The way some people value the Amazon rainforest by it price for wood and potential agricultural land  is as stupid as valuating Apple Co by the price of the meat of its employees and the floorspace of its offices.",0,,,30,science
+oczl75,1,"It definitely cost more than $5 billion to clean the air. Of course it’s worth it though, mostly for human health reasons.",0,,,2,science
+oczl75,2,And that is the constant argument some make against requiring environmental regulations. That there costs don't translate to increased profits. And that we already live in a time if general surplus so why force the change.,0,,,2,science
+oczl75,1,"I mean, to truly discredit the notion, you would actually need to weigh the pollution abatement costs vs. pollution abatement gains.  That's not what occurs here.",0,,,1,science
+oczl75,0,"[D. B Lobell and J. A Burney, Cleaner air has contributed one-fifth of U.S. maize and soybean yield gains since 1999, *Environmental Research Letters* (2021).](https://doi.org/10.1088/1748-9326/ac0fa4)
+
+>**Abstract:** Crop productivity is potentially affected by several air pollutants, although these are usually studied in isolation. A significant challenge to understanding the effects of multiple pollutants in many regions is the dearth of air quality data near agricultural fields. Here we empirically estimate the effect of four key pollutants (ozone (O3), particulate matter (PM), sulfur dioxide (SO2), and nitrogen dioxide (NO2)) on maize and soybean yields in the United States using a combination of administrative data and satellite-derived yield estimates. We identify clear negative effects of exposure to O3, PM, and SO2 in both crops, using yields measured in the vicinity of monitoring stations. We also show that while stations measuring NO2 are too sparse to reliably estimate a yield effect, the strong gradient of NO2 concentrations near power plants allows us to more precisely estimate NO2 effects using satellite measured yield gradients. The presence of some powerplants that turn on and others that shut down during the study period are particularly useful for attributing yield gradients to pollution. We estimate that total yield losses from these pollutants averaged roughly 5% for both maize and soybean over the past two decades. While all four pollutants have statistically significant effects, PM and NO2 appear more damaging to crops at current levels than O3 and SO2. Finally, we find that the significant improvement in air quality since 1999 has halved the impact of poor air quality on major crops and contributed to yield increases that represent roughly 20% of overall yield gains over that period.",0,,,23,science
+oczl75,0,[removed],0,,,34,science
+oczl75,1,[removed],0,,,-47,science
+oczl75,2,[removed],0,,,27,science
+oczl75,3,[removed],0,,,-7,science
+oczl75,0,Wouldn't more co2 in the air boost growth?,0,,,15,science
+oczl75,1,"Was looking for this comment. CO2 causes plants to grow bigger, faster, but it also dilutes nutrient value. Crops grown in high CO2 typically yield more calories in the form of carbohydrates but at the expense of minerals and protein density.",0,,,6,science
+oczl75,2,Thanks for explaining.,0,,,2,science
+oczl75,1,No one ever answers this question,0,,,2,science
+oczl75,1,Sure. So long as it's not accompanied with all of the pollutants that accompany CO2 emissions like known cancer-causing benzene and nox.,0,,,0,science
+oczl75,0,"I read the whole article but it doesn't seem to say *how* the various air pollutants affect the crop yields, only that it does so negatively. Can anyone elaborate on how. I think I understand particulate matter, that's going to result in some blocked light that would otherwise benefit the plants.  I think sulfur dioxide was also mentioned and that causes acid rain right?",0,,,4,science
+oczl75,1,"How pollutants affect maize and soybeans have been studied extensively for decades, so most people reading this article would already know, so to save on limited page space the  article's authors just put in citations for that. The four pollutants studied in this study are:
+
+ozone (O3): ozone dissolves the water in plant leaves and kills cells, which reduces the rate of photosynthesis. More details from the USDA here: [https://www.ars.usda.gov/southeast-area/raleigh-nc/plant-science-research/docs/climate-changeair-quality-laboratory/ozone-effects-on-plants/](https://www.ars.usda.gov/southeast-area/raleigh-nc/plant-science-research/docs/climate-changeair-quality-laboratory/ozone-effects-on-plants/) 
+
+ particulate matter (PM): blocking light thereby reducing photosynthesis rate, plus harming farm workers (in the short term, coughing, phlegm, chest tightness, and breathlessness, and in the longer term, asthma, chronic bronchitis, decreased lung function and other respiratory symptoms, heart attacks, and premature death) which diminishes productivity.
+
+sulfur dioxide (SO2): induces leaves to lose water, reducing the rate of photosynthesis. Even worse effects when in combination with NO2 and ozone, not least by forming acid rain. More info: [https://www.tandfonline.com/doi/abs/10.1080/10643387909381667](https://www.tandfonline.com/doi/abs/10.1080/10643387909381667) 
+
+nitrogen dioxide (NO2): low levels in the air can act as fertilizer, but at higher levels nitrite accumulates, plant cells acidify, and plants grow less or die. Plus it harms farm workers' respiration which diminishes productivity.  More details here: [https://www.mdpi.com/2223-7747/8/2/45/pdf](https://www.mdpi.com/2223-7747/8/2/45/pdf) or here: [https://environment.govt.nz/facts-and-science/air/air-pollutants/nitrogen-dioxide-effects-health/](https://environment.govt.nz/facts-and-science/air/air-pollutants/nitrogen-dioxide-effects-health/)",0,,,2,science
+oczl75,2,Thanks! It seems my intuition/recollection was right. Thanks for filling in the gaps for me.,0,,,2,science
+oczl75,0,"And given that we're discussing better performance in a large swath of growing bio-mass, it would be interesting to see what uptick in carbon dioxide absorption was increased in said bio-mass due to this uptick in growth. 
+
+Then the depressing reality that it won't offset what this is used for...feeding cows and making high fructose corn syrup.",0,,,15,science
+oczl75,1,"> the depressing reality that it won't offset what this is used for
+
+Well, it wouldn't offset carbon if you fed it to humans, either. The second that bio-mass is digested or rots, the CO2 is put right back into the atmosphere. 
+
+The only way this could be used for carbon sequestration would be to grow a bunch of soybeans and then bury them in an anoxic environment.",0,,,9,science
+oczl75,2,"A lot of bio-mass is integrated into soil, so it retains some of it's captured co2 for years. The sheer volume of Co2 captured by grasslands is highly overlooked. 
+
+So yeah, handled properly, turned into fertilizer, tilled into the soil? This actually could help over-all in that context.
+
+The percentage of this material that's used to feed cattle _or_ humans is a very small percentage of the actual bio-mass.",0,,,2,science
+oczl75,1,Gotta produce that 100kg (220lbs) of meat per American per year somehow.,0,,,3,science
+oczl75,0,[removed],0,,,12,science
+oczl75,0,I'm skeptical of this due to beans being engineered to increase yields over that same time. I live in the Midwest and yield is everything.,0,,,4,science
+oczl75,0,"The biggest problem with trying to implement ""solutions"" to climate change is trying to convince the farmers that doing so will actually benefit them when it come to $$$. This study gives some hope",0,,,5,science
+oczl75,0,"During that period, atmospheric CO2 went from 370 ppm to over 400. How much of the increase in crop yields was due to the effect of higher CO2 levels?",0,,,3,science
+oczl75,1,"Growth limited by the nutrients available. The abundance of CO2 can actually bring nutrient deficiencies. Needing more water as well, which can wash away more nutrients. 
+
+It's not like growing cannabis in a shed at all. Source: I grow cannabis, but also 
+https://www.nasa.gov/feature/goddard/2016/nasa-study-rising-carbon-dioxide-levels-will-help-and-hurt-crops",0,,,2,science
+oczl75,0,Are there any studies that show the gains because of the increase of CO2?,0,,,4,science
+oczl75,1,If you want a $cientific study you need to produce the cash! Stop asking questions and get in line!,0,,,5,science
+oczl75,0,"Funny they don’t mention CO2 emissions, which actually improve crop yields",0,,,2,science
+oczl75,0,Hey how about all that land used in making the extremely unhealthy high fructose corn syrup be used to plant trees? I mean it's not like this country would not benefit from less sweets.,0,,,2,science
+oczl75,0,"Good ol’ Indiana, lots of corn and soybeans being held back by an addiction to coal power plants.",0,,,6,science
+oczl75,1,Coal use has already dropped by more than half since its peak in 2007 or so.,0,,,4,science
+oczl75,0,"Ok, but I’m still mad.",0,,,4,science
+oczl75,0,"Funny how increased CO2 makes plants grow,  but hasn't seemed to quite do any of the other crap that politicians say it is supposed to do.",0,,,6,science
+oczl75,1,There was never a lack of CO2 for plants. All extra CO2 produced just goes into the atmosphere and messes with how the sun affects the earth. That is very important to remember,0,,,3,science
+oczl75,0,"If we produced less corn (since we don’t actually need that much and it’s not a good crop) and less soy beans (since the fiasco that’s the “trade war”) would could increase air quality further. 
+
+Maybe plant some crops that are extra good at binding carbon dioxide and can be used.",0,,,3,science
+oczl75,0,"Haven't read the article, but sincerely, the huge improvements in pest control, fertilization and GMOs cannot be put aside.",0,,,3,science
+oczl75,1,"They're not! But just think how much higher (well, probably about 20% higher) those increases in corn and soybean yields would be if we had both improved technologies AND cleaner air.",0,,,-3,science
+oczl75,0,Bulshit. Do they really think that there are no genetic advantages/farming practice advancements gained among soybean and corn crops between 1999 and 2019?,0,,,3,science
+oczl75,1,My thoughts exactly,0,,,1,science
+oczl75,0,sounds like one more reason we need to cut subsidies for these crops.,0,,,2,science
+oczl75,1,There's no subsidies for these crops. Govt subsidizes crop insurance for 7 years now - no direct payments.,0,,,1,science
+oczl75,0,Imagine that. Cleaner air makes crops grow bigger and makes more money. Who would’ve thought? Probably just another liberal conspiracy.,0,,,2,science
+oczl75,1,Or it could just be misattribution,0,,,1,science
+oczl75,0,Aren’t they also two of the most subsidized crops?,0,,,2,science
+oczl75,0,How do we know the 20% is a direct result of cleaner air and not other factors? Such as genetics,0,,,1,science
+oczl75,1,Read the study and find out...,0,,,2,science
+oczl75,0,Does this mean the air is cleaner than it was in 1999 or that it’s cleaner than it would have been if no effort had been made to curb air pollution?,0,,,1,science
+oczl75,0,"what about climate change? how'd climate change played into this? w/ climate change, would the yield even better or opposite?",0,,,0,science
+oczl75,1,"As a farmer, believe what you want, but this is a result of genetic improvements to our seed and nothing else. Mapping the corn and soy bean genome is why were are growing better crops. Let's hear it from the GMOs are bad nimrods now..",0,,,11,science
+oczl75,2,"I recommend reading the paper, or at least the abstract or article about the paper. It isn't saying that GMOs, fertilizers, etc have had no impact. It takes all those improvements into account and estimates we could have even bigger improvements with lower ozone , particulate matter, sulfur dioxide, and nitrogen dioxide levels.",0,,,3,science
+oczl75,3,"And which paper would that be exactly? Or just ""read the paper""?
+
+ Seeds are producing better yields now, sure. Not the case when crops won't germinate due to heat, or when food grows but then gets burnt to a fresh crispy nothing in sweeping crop fires.",0,,,0,science
+oczl75,4,Name fits. It's obvious you're not a farmer or even educated in the matter.,0,,,2,science
+oczl75,0,Too bad the nutrition value isn't going up at all. Still just awkwardly giant plants with the same net nutrients as the smaller plants.,0,,,1,science
+oczl75,1,Actually it's gone down.,0,,,2,science
+oczl75,0,"I'm very surprised at the effect size… 20% seems like a lot.  
+
+I'm wondering if other things than air quality might driving this effect.  What if farmland closer to pollution sources like power plants has higher economic burdens… smaller field sizes, different tax and zoning issues, etc.  These economic burdens in turn lead to slower uptake by farmers in these areas of yield-enhancing technologies such as fertilizer, or pesticide use due to these technologies higher capital costs.  
+
+This is ultimately a correlation study, and I can think of lots of chains of causality in multiple directions connecting air quality and crop yields.  The high spacial resolution of their air quality measurements, combined with known operation timelines of power plants and known predominant wind speeds and directions should allow for testing of a lot of those alternate explanations however.",0,,,1,science
+oczl75,0,"That is neat, but the cynic in me cannot help but retort: great, more corn and soybeans... just what the American diet needs.",0,,,1,science
+oczl75,0,"I’m sure crops like cotton, sunflower and rapeseed experience similar gains too. Just the tip of the iceberg.",0,,,1,science
+oczl75,0,Fascinating research! I'm curious if these findings might impact policy to help improve income farming communities. You'd think less pollution would be non-controversial but here we are.,0,,,0,science
+oczl75,0,"Good news, now start reducing monoculture.",0,,,0,science
+oczl75,0,Clean environment good?? But Exxon said…,0,,,0,science
+oczl75,0,Does that mean the government gave 20% less subsidies?,0,,,0,science
+oczl75,0,Hmmmm I wonder if cleaner air helps yield human expectancy by a large percentage as well...,0,,,0,science
+oczl75,0,"Commercial viability of environmentalism is what will save the planet. So this type of increased yield is great news! What farmer is going to want LESS profit? 
+
+Just like Elon and making electric cars some of the most luxurious and conveted.",0,,,0,science
+oczl75,0,"Most of the corn grown is for biofuel, which takes more energy to grow than it yields afterward.  But it's heavily government subsidized, so it has that going for it, which is nice.",0,,,0,science
+oczl75,0,What pollution reductions?,0,,,0,science
+oczl75,1,Air quality has improved. Carbon emissions have not.,0,,,1,science
+oczl75,2,Ahhh gotcha,0,,,0,science
+oczl75,0,CornGuy is going to be estatic,0,,,0,science
+oczl75,0,Well that's a welcome change of pace.,0,,,0,science
+oczl75,0,Wow almost like you get out what you put in....,0,,,0,science
+oczl75,0,At last. Clean air has a 'value' that economists understand. Time to make it a commodity and trade it.,0,,,0,science
+oczl75,0,"How is pollution reaching these rural areas? I understand it's wind, but wouldn't it be more localized near pollution sources? Did they study a field in a likely pollution zone vs. a field away from everything?",0,,,0,science
+oczl75,0,"I wonder if that was an expected outcome, or if it is something that makes sense afterwards but that no one projected 20 years ago.",0,,,0,science
+oczl75,0,"What???!! Taking care of the environment can be profitable??  Who, oh who could have possibly predicted this?!?!?!",0,,,0,science
+oczl75,0,"More proof that whether or not you believe/care about climate change, cleaner air (which is a by product of greener policies and technologies) helps humanity.",0,,,0,science
+oczl75,0,"Wait a minute....So you're saying that taking better care of the earth won't hurt profit margins but will increase them?!?!  This surely must be a filthy ploy to hurt the fine oil gas and coal industries which have done so much to keep environmental activists in good paying jobs and now we got this stuff that aims to put these fine people out of work!  EDIT: ok just read it, it's true. Oil & Gas are gonna die it's inevitable.",0,,,0,science
+oczl75,0,"I will read it later hit I hope it was a covariate analysis that involves pollutants, soil fertilisers and strain efficiency (and any more variables that can be measured within the experiment).",0,,,0,science
+oczl75,0,And it will only get better. Now we just have to get the Chinese on board.,0,,,0,science
+oczl75,0,The corn and soybean industry will be a greater threat to US ag and farm agriculture. The concept of this industrialized farming ravishes acres upon acres of land with consistent tilling and no real vegetation growth.,0,,,0,science
+oczl75,0,"Cute, but problem is we already over produce too much corn and soy. So much so that there’s barely space left to store it. So much of it ends up rotting.",0,,,0,science
+oczl75,0,Stupid question: don’t we have too much corn as it is? Corn syrup is in everything.,0,,,0,science
+oczl75,0,Just what we all need - more corn and soybeans,0,,,0,science
+oczl75,0,Wait i thought climate change was just a liberal hoax,0,,,0,science
+oczl75,0,Am I really supposed to believe this because it’s on the internet?,0,,,0,science
+oczl75,0,just what we need more corn and soy beans,0,,,0,science
+oczl75,0,You mean that one Republican politician that argued having high co2 levels in the air was good for plants wasn't a scientist?,0,,,0,science
+oczl75,0,"Cool. 
+
+We don’t want more corn and soybeans in food though, thanks.",0,,,0,science
+oczl75,0,"If pollution reductions are occurring due to technological advances, is there really a “climate emergency” taking place?",0,,,0,science
+oczl75,0,BS population increase caused an increase in farmers planning more.,0,,,0,science
+oczl75,0,Who cares about corn and soybeans?,0,,,0,science
+oczl75,0,Plants also do better with more CO2.,0,,,0,science
+oczl75,0,"“A key factor in America’s prodigious agricultural output turns out to be something farmers can do little to control: clean air.”
+
+not voting republican and advocating for environmental issues should help. also, refusing to grow or sell products that go directly towards animal agriculture",0,,,-7,science
+oczl75,0,[removed],0,,,-1,science
+oczl75,0,"Unfortunately, the richest aren't in the farming industry, something crucial to making. Instead they are in fossil fuels, which destroy the world.",0,,,-1,science
+oczl75,0,"It's pitiful that these kinds of reports have to exclaim the potential monetary benefits in order for them to be taken seriously.  It should be enough to stop at ""hey, we can get more material yield, which, alongside requisite policy, can end hunger.""  But no...  Only that last part matters in our current society.",0,,,-1,science
+oczl75,0,"False this is a global effect to more co2 being in the atmosphere than ever before. It's call  the green earth cycle and has been happening since time out of mind. More CO2= less nutrients per plant, but more volume and more produce.",0,,,-1,science
+oczl75,0,But oil lobbies make money machine go brrrrrrrrrrrrrrr,0,,,-1,science
+oczl75,0,"Only worth 5B of they have some to sell it to. And Trump drove away their best customer and put Soy farmers on social assistance because their market collapsed.
+
+Win some ya lose some.",0,,,-1,science
+oczl75,1,Soybeans and corn are at record high prices.,0,,,0,science
+oczl75,2,That is a very recent development.  Corn was at a 10 year low last August.  Soybeans were at a 10 year low in may 2019.,0,,,0,science
+oczl75,3,I'm aware because I grow both those commodities. The fact in my comment remains true.,0,,,0,science
+oczl75,4,"Your comment was disingenuous.  OP said trump fucked up the bean market and forced the government to pass a bailout for farmers. Which is true and occurred in 2018 before covid, government aid for farmers more than doubled under Trump. You replied ""prices are high now"", which is true but completely misses the point and side steps the argument entirely.  Prices for everything other than fuel is at at record highs right now.",0,,,0,science
+oczl75,0,Except that most of the corn and soybeans are GMO and are sprayed with roundup all the plants life.,0,,,-1,science
+oczl75,0,[deleted],0,,,-5,science
+oczl75,1,Uh yes it does. Farming subsidies are done partially to make sure the army can always be fed no matter what.,0,,,3,science
+oczl75,0,Add it to the list of things these idiots vote against themselves on.,0,,,-5,science
+oczl75,1,That is a bit of an oversimplification,0,,,2,science
+oczl75,2,There wasn't any simplification at all.,0,,,-1,science
+oczl75,0,[removed],0,,,-2,science
+oczl75,1,"Air pollution usually refers to particulates, sulfur, etc. Not greenhouse gases.",0,,,2,science
+oczl75,0,"I work with a Ag professor from NC State and he said the higher yields from both soy and corn,  is from warmer ground temps occurring earlier and educating farmers on widely held beliefs about which is planted first, between the two. This expert sends out a weekly commodity report too.",0,,,-2,science
+oczl75,1,"Besides the warmer ground, there is also the increased moisture in the midwest.",0,,,1,science
+oczl75,0,Is that a good thing? People are getting fatter because of all this corn.,0,,,-2,science
+oczl75,0,The amount of corn and soy we grow to feed farm animals is the leading cause of deforestation,0,,,-2,science
+oczl75,1,"The US has kept its forest cover steady for over a century. You're thinking of Brazil, they need to stop what they are doing to their land.",0,,,4,science
+oczl75,2,"I was talking globally, clearing land for animal feed is the leading cause of deforestation.
+
+But yeah, South America currently have the highest rates of deforestation. 
+
+Though I can’t see anything supporting your claim.
+
+Last year 1.59 million ha of natural forest was lost in the US. Forest are being grown but the rate of decline still exceed the rate of rehabilitation.
+
+75% of the US virgin forests are already gone.",0,,,-1,science
+oczl75,3,"You shouldn't talk globally. Policies are local, by individual nations. And solutions are local. Lumping the complexities of every nation into one single global statistic is a fantastic way to manipulate data. 
+
+You will see some slight forest loss here and there each year, as population increases and zoning expands. Losing 0.1% of forest cover in 20 years is remaining steady. There is also ample reforestation programs keeping up with it for the most part.",0,,,2,science
+oczl75,4,"In regard to pollution reduction, policies aren’t just local, have you not heard of the Paris agreement? There is international cooperation on this issue because it very obviously is a global issue.
+
+Agriculture (corn and soy crops) is factually the leading cause of deforestation in the US, as it is everywhere in the world. Timber isn’t in such a high demand that we’re tearing down virgin forests, it is specifically because of the demand for feeding a billion farm animals.",0,,,-1,science
+oczl75,5,"Not sure what you are trying to say with your first paragraph, we know it's a global issue. But you can't understand the details of what needs to change, if you lump everything into single global statistics.
+
+And also, no, we aren't losing our forests left and right. I'm sorry to be the one to inform you.",0,,,1,science
+oczl75,0,[removed],0,,,-22,science
+oczl75,1,[removed],0,,,7,science
+oczl75,0,Where can you see the research methodology?  It seems to me that the cultivation methods and technique influenced this much more.  Maybe pollution just coincided with the introduction of new technologies?,0,,,1,science
+oczl75,0,[deleted],0,,,1,science
+oczl75,1,"Air quality, yes. Not carbon emissions.",0,,,1,science
+oczl75,0,"These kind of pieces of information are extremely important, as they may sway big interests in core industries such as agriculture to turn environmentally friendly.
+Counting just on their goodwill and moral responsibility is a fool's dream.",0,,,1,science
+oczl75,0,I leaned in school that some greenhouses are flooded with CO2 to increase the yield but polutions are a lot more than just CO2...,0,,,1,science
+oczl75,0,Ironic that both are used as feed stock of ethanol and biodiesel respectively.,0,,,1,science
+oczl75,0,"The researchers estimated that total yield losses from the four pollutants averaged 5.8 percent for maize and 3.8 percent for soybean over the past two decades. Those losses declined over time as the air grew cleaner. In fact, the reduction in air pollution contributed to an estimated 4 percent growth in corn yields and 3 percent growth in soybean yields",0,,,1,science
+oczl75,0,[removed],0,,,1,science
+oczl75,0,"So the 'worth $5 billion dollars more' statement has me wondering who ate the increased production and more importantly, who paid $5 billion more?",0,,,1,science
+oczl75,0,But did they control for climate change?,0,,,1,science
+oczl75,0,More corn ethanol and soy bean oil diesel to burn.,0,,,1,science
+oczl75,0,No wonder my corn is popping like a mofo this year.,0,,,1,science
+oczl75,0,"2021 on the other hand, is a severe drought year almost nationwide. The corn is stunted in most places without irrigation.",0,,,1,science
+oczl75,0,These findings appear to be at odds with an article that was posted a few weeks ago that indicated the speeding up of the Earth's rotation in recent years due to global warming caused fewer crop yields. IIRC the yields of wheat and maize dropped by 5% and soy and rice dropped by 2%.,0,,,1,science
+oczl75,0,"Increased carbon in the atmosphere is actually good for growing things too. It's bad in general obviously, but in the meantime it should make growing things a little easier.",0,,,1,science
+oczl75,0,"Can someone explain how we're seeing increased yield from a 20yr span of decreased pollution, but we're also cooking the earth due to pollution? I assume the two outcomes are caused by different types of pollution? Still seems odd though..",0,,,1,science
+oczl75,0,This is actually pretty great news,0,,,1,science
+oczl75,0,"Yay, more corn and soy.",0,,,1,science
+oczl75,0,Imagine what it's doing to all the humans...,0,,,1,science
+oczl75,0,I have two giant lychee trees and I’m within a few hundred yards of I95. This has been the best yield I’ve ever seen in my 7 years of living in the house. 2020 pollution reduction is the likely the reason.,0,,,1,science
+oczl75,0,Did the researchers calculate how much additional pollution this increased yield is causing due to corn ethanol production?,0,,,1,science
+oczl75,0,Heck yeah that is great news!!,0,,,1,science
+oczl75,0,"While cleaner air might play a small part in the increase in yield, GMO and improved processes are the main driver in increases.",0,,,1,science
+oczl75,0,"I really dislike how everything is measured by its monetary value. I would personally like to know how many more people will be fed by this increase, how many new jobs are created, or how much of at wage increase workers will get.",0,,,1,science
+oczl75,0,"Wait,I thought pollution was getting worse.
+Are eggs good again??!!",0,,,1,science
+oczl75,0,That coupled with increased carbon dioxide levels will have yields be pushed higher and higher and plants get bigger and bigger,0,,,1,science
+oczl75,0,Oh hell yeah more soy,0,,,1,science
+oczl75,0,Did they check to see if that made up for the reduction in yield from lower sulfur deposits on crops with the shift to lower sulfur coal in the preceding decades?,0,,,1,science
+oczl75,0,Ironically enough the mass tilling of land for corn and soy crop is a major factor in climate change.,0,,,1,science
+oczl75,0,So...  environmental protection actually HELPS big business?  The Republicans LIED to me!?  *shocked pikachu face*,0,,,1,science
+oczl75,0,"I wonder what effect that change has had on human health? 
+
+it seems like common sense that breathing in things like car exhaust on a daily basis have a detrimental effect peoples health, but has anyone been able to quantity it?",0,,,1,science
+oczl75,1,"Yes. There are yearly scientific conferences, grants, journals, and several fields of study just on the health effects of pollution. ""Environmental health"" is a big catch-all term, but there are others.   
+The scientific community has been clear that industrial pollution has adverse health effects for over a hundred years.  In particular, sulfur dioxide, particulate matter, and nitrogen dioxide cause respiratory and cardiovascular disease and death in humans like asthma, heart attacks, and infant mortality.  To your question about car exhaust: there's a very linear relationship between car exhaust and mortality, such that for every 10 µg/m3 increase in very fine particulate matter there's around a 3.4% increase in daily deaths. [https://ehp.niehs.nih.gov/doi/abs/10.1289/ehp.00108941](https://ehp.niehs.nih.gov/doi/abs/10.1289/ehp.00108941) I linked one relatively recent study from the US, but there are hundreds of studies from different parts of the world you could find if you wanted (location and time matter because it matters exactly what that fine particulate matter is made of and what other pollutants are present).",0,,,2,science
+oczl75,0,More like GMO adaptations for the increase…,0,,,1,science
+oczl75,0,So did crops naturally yield more for 2019 because of lockdown?,0,,,1,science
+oczl75,0,"Wait, so the green initiatives of the political left are helping the economic livelihoods of the base of the traditionally political right? While the people that base puts in office traditionally has taken money from large polluters and in turn fought environmentally friendly policies? Wow, that sounds crazy!",0,,,1,science
+oczl75,0,"What if cleaner air is also helping to accelerate global warming? I mean, at least compared to the industrial revolution.. coal is so dirty. Think about all the particles that got into the air and how that would have reflected sunlight. Cleaner air is great, but when it comes to temp, it’s not great specifically when combined with greenhouse gases… because not only are those gases trapping heat in, but fewer reflective particles in the air means that more sunlight is getting through to BE trapped..",0,,,1,science
+oczl75,0,Shouldn’t that mean the price for both crops will be lower?,0,,,1,science
+oczl75,0,"so I have a question, is this correlation of pollution to yields? or an actual connection? since I don't really see anything stated in the article that says there's a connection between the selected pollutant densities(is it the density?) and actual crop yield",0,,,1,science
+oczl75,0,I’m not sure what’s going on is climate change worse or better?,0,,,1,science
+oczl75,0,BuT Co2 iS nEeDeD fOr CrOpS tO gRoW!,0,,,1,science
+oczl75,0,"so let's invest in industries that contribute to clean air less pollution solutions. More food, less hunger (theoretically).",0,,,1,science
+oczl75,0,"Imagine the effect on people, what if pollutants are decreasing human life expectancy by 20%",0,,,1,science

@@ -1,0 +1,58 @@
+post_id,level,body,gilded,likes,num_reports,score,subreddit
+cbfrv6,0,"For reference: 5 bags/acre = 1 ton/hectare = 15 bushels/acre (ish)
+
+I got this data from my late grandfather's note book. He wrote a page of notes on every year including yields, area sown, weather and livestock information, including a list of every piece of machinery he ever bought in the back.
+
+The farm is located in the mid-north of South Australia",0,,,21,farming
+cbfrv6,0,"Those darn Emus.
+
+From what I understand they can be quite destructive.  Are they dangerous?",0,,,16,farming
+cbfrv6,1,"Nah they're not very dangerous, they'll always run away from you in the wild and they're pretty curious but timid animals 
+The only way an emu would ever hurt you is if you cornered it, they've got very powerful legs so they could definitely rip your guts out but that's extremely rare",0,,,9,farming
+cbfrv6,2,obligatory /r/Emuwarflashbacks,0,,,7,farming
+cbfrv6,0,"It’s good to see data like this. I laugh when i see farm articles about some hotshot who got into farming 3 years ago, “learned from his mistakes” and is now raising record yields. That’s not how it works. The “noise” in yield data is horrendous. It takes decades to see any significant trend.",0,,,7,farming
+cbfrv6,1,"Yeah definitely, yield is completely dependant on the weather which is so variable it's hard to see any differences short term",0,,,3,farming
+cbfrv6,0,Very interesting!,0,,,5,farming
+cbfrv6,0,slow upward trend in yields - what do you think is making your yield better over time?,0,,,3,farming
+cbfrv6,1,Probably genetics and tech advances in equipment and chemicals and techniques,0,,,4,farming
+cbfrv6,2,"Yeah it's a combination of all those things
+
+I think one of the major changes was a switch from a wheat-fallow rotation to a wheat-legume rotation with zero till",0,,,1,farming
+cbfrv6,3,[deleted],0,,,2,farming
+cbfrv6,4,"It happened before I was born so I'm just guessing based on the notebook but it looks like a slow transition in late 80s early 90s
+
+The first year growing Peas was 87, vetch in 90 and lupins in 94. The last mention of sowing on fallow was in 91",0,,,2,farming
+cbfrv6,3,We do  A wheat canola pea rotation in Canada here. Been zero till since 82 actually.,0,,,2,farming
+cbfrv6,1,It is actually less of an upward trend than the trend in rainfall. Which is concerning.,0,,,2,farming
+cbfrv6,0,consider posting to r/dataisbeautiful,0,,,5,farming
+cbfrv6,1,Thanks I'll do that!,0,,,1,farming
+cbfrv6,2,Very interesting btw,0,,,2,farming
+cbfrv6,0,"It is strange that you have an upward trend in rainfall that tracks almost perfectly with the trend in yield. My understanding was that many farms (in WA especially) had yield trends that were going up despite declining rainfall, due to better management and new wheat varieties.",0,,,2,farming
+cbfrv6,1,"2018 production in washington state was 70.8 bushels/acre.   a bushel of wheat is 60 pounds,  so
+
+that's 4248 lbs an acre, or 1927 kilograms per acre, or 4760 kilograms per hectare.    it's up a little from 2017.",0,,,2,farming
+cbfrv6,2,"Sorry WA = Western Australia in my comment. OP is in SA (South Australia), which is the neighbouring state.
+Edit. And I pity the archaic units you still need to use. These days it is tonnes per hectare which is a convenient unit. Especially since a Ton and Tonne are very close, and one Hectare is ~2.5 acres.",0,,,2,farming
+cbfrv6,3,how does his yields compare with the yields from washington state?,0,,,1,farming
+cbfrv6,4,"Your numbers work out to around 4.75 T/Ha 
+
+
+Western Australian average yield (which accounts for most export wheat) is currently 2 T/Ha
+
+
+OP's farm most recent year is 1.2 and peak is 3 T/Ha. 
+
+Most Australian production is dry grown and they can only do 1 crop per year. Rainfall is around 350 mm (13.5"") in the wheat growing areas (per annum).",0,,,1,farming
+cbfrv6,5,"pretty similar to the conditions in washington state; it's dryland farming there.  one area gets 9"" of rain and 21"" of snow each year.",0,,,1,farming
+cbfrv6,6,"Well both are dryland farming, however precipitation and temperature are vastly different. e.g. you can grow 2 wheat crops per year in washington state.",0,,,2,farming
+cbfrv6,7,"I don't think you can get two crops in.  ""winter"" wheat is planted in the fall and harvested in the summer, ""spring"" is planted in the spring and harvested in the fall.  there's not enough moisture to plant a 2nd crop and have it mature in the same year.  virtually no rainfall from mid july to mid september.",0,,,1,farming
+cbfrv6,1,"Yeah I thought that was really interesting as well, I think it shows how truly water limited we are and that yield is very heavily dependant on rainfall
+
+I also think the 6ish years of shit yields in the millennium drought kinda skew the long term trends a bit",0,,,2,farming
+cbfrv6,2,"Yes but compare to [this graph](https://www.agric.wa.gov.au/sites/gateway/files/styles/original/public/Wheat%20area%20and%20production_2.png?itok=O_T9TZ3F) which shows a significant upward trend in yield in WA while land area remains stagnant (since ~2000) and rainfall (not shown on graph) is reducing and becoming more variable.
+
+My point is that your family farm likely has significant potential to increase yield further through new varieties and improved practices.",0,,,2,farming
+cbfrv6,3,"That's interesting! Not really sure why there's a difference
+
+There's always room for improvement and I think there has been some improvement in the last 5 or so years since my uncle took over the farm",0,,,2,farming
+cbfrv6,4,The GRDC is putting in a lot of effort to develop better varieties that give high yields in low rainfall. A lot of the difference is likely down to farmers picking the best variety for their environment.,0,,,2,farming

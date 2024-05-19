@@ -1,0 +1,305 @@
+post_id,level,body,gilded,likes,num_reports,score,subreddit
+4451rm,0,Can you explain risk-based vs hazard-based regulatory policy for GMOs? Which one is better in your opinion and why?,0,,,13,science
+4451rm,1,"A hazard is something that could cause harm. Any specific hazard could be relatively mild (like a paper cut to your finger) or severe (like for instance an explosive volcano eruption). To consider the risk to any individual of these things causing harm, we must also consider the ‘exposure’ ie. how often do you handle paper in a way it could cut you or how frequently does any specific volcano erupt and how much time do you spend close by etc. Most people would accept the risks of both these scenarios. In one, the exposure to paper-handling is high but the hazard is low. In the other, although the hazard is extremely severe, the chances of it happening are low so we accept risks of the occasional visit to an active caldera. 
+Any sensible regulatory policy must be based on a transparent and logical analysis of the risk which takes into account both the hazard and the exposure. Any regulatory oversight of biotechnology based purely on hazard removes the power of the individual to choose. All aspects of life are based on balancing risks and benefits and I prefer to keep that power in the hands of the consumer. This also means that there should be complete transparency with regards to labelling etc. 
+",0,,,7,science
+4451rm,2,"> This also means that there should be complete transparency with regards to labeling etc. 
+
+If only the labels proposed were actually designed to do this and similar products also had the equivalent labeling.",0,,,8,science
+4451rm,2,"How are lay people able to judge risks and hazards of a product based on a label showing a breeding technique?
+
+That makes no sense to me.",0,,,1,science
+4451rm,0,"I'm curious about using GMOs to resolve deforestation and food shortages. In Haiti, both are huge problems but attempts to simply plant fruit trees are largely failures because goats eat the saplings and what survives is used to build structures and make charcoal, both of which are necessary things. One proposed solution has been [edible jatropha](http://haitiinnovation.org/en/2010/09/22/jatropha-and-economic-development-haiti) because goats don't like the saplings, its fruits can be used for cooking oil, and the mash for chicken feed. I've read about genetically modifying this tree to maximize yields and encourage growth in poor soil.
+
+How are scientists thinking about resolving problems like this with GMOs? Do you think these kinds of solutions will work?",0,,,9,science
+4451rm,1,Plant breeders use a wide spectrum of methods to ‘capture and sort variation’ to generate improved varieties.  Genetic modification tends to work well only when the trait to be altered is under simple genetic control.  Yield is complex and I doubt there will be an easy GM solution to significantly increasing yield of edible jatropha. I would look at other strategies first.,0,,,5,science
+4451rm,2,"There are certain things that could be rapidly introduced, as far as domestication traits (like the shattering genes in cereals, dwarfing gene, and in this case perhaps things like premature drop) that would put ease of harvest up, effectively improving yield. You are correct though. Genomewide selection would be an interesting place to start, especially as it has had some success in rapid wild germplasm domestication.",0,,,1,science
+4451rm,0,[deleted],0,,,9,science
+4451rm,1,"In theory it could be possible to make a risky GMO. For example, there are genes that encode known allergens or toxins. However, the major seed companies are multinational corporations with reputations to maintain (some already more tarnished than others). Thus there is a massive in-house screening process to take forward only those genes / events that result in plants that are both commercially promising and substantially the same as the non-GM from a nutritional point of view.  It is appropriate that these products are independently assessed but the fact that the EC has currently authorized about 60 different applications for import of GM crops into the EU shows how rarely it finds negative issues in the applications. ",0,,,9,science
+4451rm,2,"As a follow up question, does the commission consider hazard or risk to ecosystems through altered competitive ability or non-target effects of GMO genes, plants, or cropping systems? Or does your authority only consider direct threats to human health? If not, is there any body that examines the ecological impacts of GMO crops in Europe?",0,,,2,science
+4451rm,0,"I study BSc plant science, and throughout my studies it seems as though the (in my opinion) under utilisation of GM crops in Europe is mostly political rather than evidence based, often times with legislation not making sense from a scientific and practical point of view. To what extent do you think GM technology has a 'PR' problem, and what do you think we as scientists (or future scientists) can do to change it? ",0,,,9,science
+4451rm,1,"> I study BSc plant science, and throughout my studies it seems as though the (in my opinion) under utilisation of GM crops in Europe is mostly political rather than evidence based, often times with legislation not making sense from a scientific and practical point of view. To what extent do you think GM technology has a 'PR' problem, and what do you think we as scientists (or future scientists) can do to change it?
+
+GM crops were first commercialized just as the EU was suffering a series of major food/ health scares such as BSE, salmonella etc. and understandably, these new crops were caught up in the reaction to improve EU food safety generally. It’s a highly polarizing topic and of course there is a lot of politics involved. I think researchers should be open and transparent in discussing the potential benefits and risks. To understand that any problem will have many solutions and science is only one of the many drivers in policy making. ",0,,,3,science
+4451rm,2,How would BSE be related to GMOs? This was a spurious correlation I take it?,0,,,2,science
+4451rm,2,"How much of it would you say is a concern about American farmers flooding Europe with cheap GM grain?
+
+I've had a long running theory that much of the GM import approvals are tariffs or trade blockades that are economically based, but disguised under the auspices of ""Healthy, organic food""",0,,,2,science
+4451rm,0,"Are there currently any programs, that are having any success in protecting citrus from ""greening""?",0,,,6,science
+4451rm,1,"I am not an expert on citrus greening but as with all insect-spread plant diseases, they are best tackled using many approaches simultaneously. For example; preventing spread of the insect, new chemical treatments or management strategies targeting either the insect or the bacterium, and the development of novel, resistant citrus varieties. I am not personally aware of any breeding programmes but this crop is very important and I am certain there is active research using a range of breeding tools to develop resistant citrus varieties ",0,,,5,science
+4451rm,0,"Hello,
+
+Thanks for doing this AMA and I just have one opinion based question as a fellow scientist who has worked in agronomy. 
+
+Do you think it is viable to produce genetically modified crops that would work best in a permaculture setting rather than our modern monoculture system? For example, developing Fabaceae plants better at nitrogen fixation to benefit Triticum spp. growth? ",0,,,4,science
+4451rm,0,"Does the artificial breeding of plants upset the equilibrium of a natural ecosystem?
+
+What are the ethical considerations involved in translational genomics? What are the legal limits?",0,,,3,science
+4451rm,0,What are your thoughts on the political controversy surrounding Monsanto and other similar corporations?,0,,,7,science
+4451rm,1,"I don't think it's a fair question. Any favourable or unfavourable answer will be viewed as a conflict of interest later on if the person will ever have to take part in any panel that assesses the proposal of this company or its competitors. 
+At the same time, focusing questions on actual industry wide practices and scientific aspects of the issues, or phrasing them from the perspective of the consumers, then these questions will cover those things that might relate to any particular company's activity - but it will be Q&A that deals with specifics rather than individual companies... ",0,,,1,science
+4451rm,1,"I'd love an answer to this, because while I don't think genetic modification is inherently wrong, I -do- have a problem with Monsanto's ethics toward distribution and, well, dishonesty.",0,,,-2,science
+4451rm,2,"Could you cite a factual, timely and relevant examples of these bad ethics and dishonesty?",0,,,3,science
+4451rm,3,"Moran, Shannon (2014) ""Agricultural Patenting: A Case Study of Monsanto,"" Pepperdine Policy Review: Vol. 7, Article 4.
+Available at: http://digitalcommons.pepperdine.edu/ppr/vol7/iss1/4
+
+Ethics and the Business of Bioscience By Margaret L. Eaton, Chapter 3. Ethics Analysis Applied to Monsanto and the labeling of rbST
+
+Effects of field-realistic doses of glyphosate on honeybee appetitive behaviour.
+Herbert LT, Vázquez DE, Arenas A, Farina WM.
+J Exp Biol. 2014 Oct 1;217(Pt 19):3457-64. doi: 10.1242/jeb.109520. Epub 2014 Jul 25.
+
+I will try to find more, but in essence, as any big business enterprise is focused on, it's about making money and not saving the world. I struggle with the idea that Monsanto provides GM seeds to developing and underdeveloped countries, where seed saving is illegal under their patent and most of their seeds only produce once. That causes a level of dependence and therefore a continuous market in food insecurity, doesn't it?
+
+I also struggle with the fact that they do not, by law, have to publish their findings. The fact that it is not explained anywhere on their website simply adds to this mystery. As a consumer, I want to see their plans, their actions, and their safety nets. 
+
+As I said, I do not have a problem with genetic modification as a science. Humans have been doing that for as long as agriculture has been a thing. I get that. I struggle with one entity holding the cards. I struggle with their legal practices. I struggle with their lack of transparency. 
+
+",0,,,-2,science
+4451rm,4,"> it's about making money and not saving the world.
+
+How many for-profit corporations are about saving the world?
+
+>where seed saving is illegal under their patent and most of their seeds only produce once. 
+
+Seed saving is almost never practiced in the modern world, GMO or not, because most seeds are hybrids which don't produce stable offspring. Farmers willfully sign contracts preventing seed saving the same way you agree to not burn a CD when you buy it.
+
+>I also struggle with the fact that they do not, by law, have to publish their findings
+
+Why should they be forced to release private data? Importantly, though, Monsanto allows researchers anywhere to study their products and publish results without requiring approval.
+
+> I struggle with one entity holding the cards.
+
+The seed market [really isn't a monopoly](https://i.imgur.com/VVpF3go.jpg).",0,,,7,science
+4451rm,4,"Wow, that was a total fail on your part to show ANY bad ethics or dishonesty.
+
+Lets take your claims apart....
+
+>Moran, Shannon (2014) ""Agricultural Patenting: A Case Study of Monsanto,"" Pepperdine Policy Review: Vol. 7, Article 4. Available at: http://digitalcommons.pepperdine.edu/ppr/vol7/iss1/4
+
+Patenting plants has existed LONG before Monsanto.  Specifically, in the US it was officially law in the 1930 Plant Patent act.  Monsanto isn't even the largest company in the seed business, there certainly is no monopoly in the seed business  Lastly, it is anti-GMO activists that have erected such restrictions that only large companies can participate in this market.
+
+This has nothing to do with ethics or dishonesty.
+
+>Ethics and the Business of Bioscience By Margaret L. Eaton, Chapter 3. Ethics Analysis Applied to Monsanto and the labeling of rbST
+
+Yes this is a title of a paper.  What was the outcome?  Was it ethical or not?  The court certainly thought that labeling was neither legal or necessary, that is why they struck down mandatory rBST labeling.  PS, this isn't even a Monsanto product.
+
+This has nothing to do with ethics or dishonesty.
+
+>Effects of field-realistic doses of glyphosate on honeybee appetitive behaviour. Herbert LT, Vázquez DE, Arenas A, Farina WM. J Exp Biol. 2014 Oct 1;217(Pt 19):3457-64. doi: 10.1242/jeb.109520. Epub 2014 Jul 25.
+
+Again, this has nothing to do with ethics or dishonesty.  
+
+Honeybees do not typically pollinate nor are associated with GM crops that use glyphosate so the premise of the study is deeply flawed.  The fact is that honeybees don't have the receptor by which glyphosate works on plants.  I guess you didn't actually read this paper either because they didn't find any hard facts either way.
+
+>Monsanto provides GM seeds to developing and underdeveloped countries, where seed saving is illegal under their patent and most of their seeds only produce once. 
+
+False, the vast majority of seeds to developing countries are free of this restriction.  However, it is nearly irrelevant since seed saving, even in poor countries is not effective since hybrids don't breed true.
+
+This example isn't even an issue with Monsanto because it is a false claim, where the exact opposite in the case.
+
+
+>I also struggle with the fact that they do not, by law, have to publish their findings. 
+
+Where do you get this crazy idea?  GM seeds have been studied and developed by 1000s of universities.  Every company has to present huge amounts of research to public agencies get GM seeds approved.  There is a HUGE amount of oversight and it takes years to get a new varietal approved.
+
+>I struggle with their legal practices. I struggle with their lack of transparency. 
+
+What you are struggling with is a complete misunderstanding of this issue.",0,,,6,science
+4451rm,0,"This AMA is being permanently archived by *The Winnower*, a publishing platform that offers traditional scholarly publishing tools to traditional *and* non-traditional scholarly outputs—because scholarly communication doesn’t just happen in journals.
+
+To cite this AMA please use: [https://doi.org/10.15200/winn.145458.89403](https://www.thewinnower.com/papers/3395-science-ama-series-i-m-huw-jones-professor-of-translational-genomics-for-plant-breeding-at-ibers-aberystwyth-university-ama-about-whether-plant-breeding-is-natural-or-if-we-do-indeed-need-new-cro)
+
+You can learn more and start contributing at [*thewinnower.com*](https://thewinnower.com)
+",0,,,3,science
+4451rm,0,"Could gene modifications have side effects on the plant itself, i.e. reducing the amount of vitamins when trying to improve yields? ",0,,,3,science
+4451rm,1,"> Could gene modifications have side effects on the plant itself, i.e. reducing the amount of vitamins when trying to improve yields? 
+
+Of course it is possible to alter the nutritional balance of a crop by all other forms of plant breeding. It is actually less likely when using genetic modification because there is an understanding of the changes that a specific alteration will cause. There is a pre-market authorization step for GMOs, so changes to nutritional composition of the new crop are analyzed. This does not happen for other types of plant breeding because they have a ‘history of safe use’ – whatever that means
+
+",0,,,6,science
+4451rm,2,"So what happens if the nutritional balance of the fruit/vegetable/cereal is altered? Are they still allowed to commercialise the product, do they have to use a different name for it since it has a different nutritional value? 
+",0,,,1,science
+4451rm,1,"Not the AMA person but this has actually been documented in traditionally bred crops such as tomatoes. Flavor is also something that tends to be ignored when the focus is to breed for yield (which is why so many people hate tomatoes -- try an heirloom breed from a local farm and you'll change your mind about them). If anything, GMO would give the opportunity to increase yield and retain nutritional content, better than traditional breeding, because only specific genes are affected rather than relying on breeding where crossing over can result in loss of one allele at the gain of another. ",0,,,7,science
+4451rm,2,"I think it's interesting to note the effect that market forces have to play in this. It's certainly possible to create a more nutritious or tastier GM tomato, but they're nearly impossible to sell to farmers because profit is based primarily on yield. GM companies are stuck producing what their customers want: plants with bigger fruits. The market isn't really there for premium tomatoes. It's a bit of a chicken-and-egg problem.",0,,,3,science
+4451rm,3,"But with GM, there's a potential to have both high yield and to preserve flavor -- everyone wins.",0,,,3,science
+4451rm,4,"Absolutely. But there's not really an incentive for the GM corporations to focus on flavor since it's zero-sum. Increasing flavor pulls resources away from increasing yield, both in terms of engineering time and effort and in metabolic load on the plant.",0,,,3,science
+4451rm,5,Fair point.,0,,,2,science
+4451rm,5,"Not familiar with industry practices in the food industry, but as in any other field, someone has to come up with a better product that both maintains production costs low and offers the end-consumer what they need. The problem with agriculture is that it is disconnected by the end consumer by a wall of distribution and retailer companies, but it's not an uncommon situation in western nations. It gets balanced naturally when a company decides to be disruptive and combines innovation with smart marketing, preferably good word-of-mouth (because that implies satisfied end-users).",0,,,1,science
+4451rm,2,"There are no GM tomatoes on the market.  The boring flavor of many tomatoes is because they were picked too early so they can be shipped to market.
+
+All tomatoes are hybrids. Heirloom is an artificial distinction for an older hybrid version.",0,,,2,science
+4451rm,3,"> Heirloom is an artificial distinction for an older hybrid version.
+
+I mean, ok, but I don't know what you mean by ""artificial distinction"". An heirloom plant is one whose origin dates to (at least) WWII, that has historical or localized significance, and that is not bred for large-scale cultivation. It's more than just an old hybrid.",0,,,5,science
+4451rm,4,"Just for clarity, among plant scientists there's no strict definition of what an ""heirloom"" is. A colleague of mine worked on heirloom beans for 3 years, and came to the conclusion that it's really more of a public perception thing. Oftentimes we refer to them as landraces, which are generally post-domestication germplasm that is specifically adapted to a region, rather than a breeding variety (which tends to be more widely adapted, but have a smaller specialty boost)",0,,,3,science
+4451rm,4,"There are no tomatoes that are not hybrids, we don't eat ""natural"" tomatoes.
+
+You point out the artificial distinction yourself.  They really are just an older hybrid plus regional or historical significance.",0,,,1,science
+4451rm,5,"I didn't say it's not a hybrid or that it's ""natural"". I mean that they are an actual thing. Calling something by its name, or an apt descriptor is the correct thing to do. To say ""an antique car"" is not an ""artificial distinction"" because it's ""really just a car"". Adjectives. 
+",0,,,1,science
+4451rm,6,"Hybrid is an arbitrary distinction, just like ""Labrador Retriever"". ",0,,,1,science
+4451rm,7,[deleted],0,,,2,science
+4451rm,8,"While that is true, if you had a hybrid and self pollinated it consistently, you would have similar genetic stability as in the heirloom. ",0,,,1,science
+4451rm,5,"> There are no tomatoes that are not hybrids, we don't eat ""natural"" tomatoes.
+
+Are you confusing or conflating selective breeding and hybridization?  They are two different things.",0,,,1,science
+4451rm,6,"Nope, even the heirlooms with have some hybridization",0,,,0,science
+4451rm,7,"Ok.  I'm going to assume that you are using hybrid in a colloquial sense and not in a genetic sense.  There are many types of tomatoes that breed true, and are therefore not hybrids in the genetic sense of being heterozygous. ",0,,,1,science
+4451rm,8,"No,  am assuming that every tomato, including heirloom, has been crossed at some point.  I think this is a pretty good assumption considering where tomatoes started naturally.",0,,,-1,science
+4451rm,9,"Then you are using a colloquial definition rather than the genetic definition of the word.  
+
+In genetics hybrid is a well defined term with a specific meaning.  In colloquial use it is pretty fluid and can pretty much mean what the speaker wants it to.
+
+Tomatoes, along with potatoes, peppers, and eggplants are all derived from nightshade. ",0,,,1,science
+4451rm,5,"You're both right, and arguing arbitrary distinctions from different sides if I am to understand what you're saying is correct.
+
+ /u/adamwho's assertion that there's no such thing as a distinct heirloom hybrid is like saying there's are no breeds among dogs. They are all one species. Ok fine you're right but there are ways to designate one breed of dog from another and further a wolf from a dog (*Canus lupis [familiaris]*), although granted arbitrary ones. 
+
+Nonetheless in this argument preWW2 cultivars of tomatoes are like wolves, which are way cooler although less adorable than domesticated dogs. One I would let my toddler play with",0,,,0,science
+4451rm,6,"> Nonetheless in this argument preWW2 cultivars of tomatoes are like wolves, which are way cooler although less adorable than domesticated dogs. One I would let my toddler play with
+
+To be clear: I'm am not making the assertion that heirlooms are somehow better than non-heirlooms. ",0,,,1,science
+4451rm,7,i wouldnt argue wolves are better than dogs or vice versa either,0,,,1,science
+4451rm,6,"> /u/adamwho 's assertion that there's no such thing as a distinct heirloom hybrid is like saying there's are no breeds among dogs. They are all one species.
+
+That is a wrong assessment of my argument and terrible analogy.
+
+A better way of using your dog analogy.  ""Pure Breed"" dogs are arbitrarily defined and only have that title for historic reasons.  Similarly, heirlooms which are also arbitrarily defined as just an older varietal.  In both cases, significant selective breeding and hybridization has occurred.",0,,,0,science
+4451rm,7,">That is a wrong assessment of my argument and terrible analogy. 
+A better way of using your dog analogy. ""Pure Breed"" dogs are arbitrarily defined and only have that title for historic reasons. 
+
+I like most of what you're saying and generally agree with you. But sir, that's exactly what i said and how I was thinking actually",0,,,1,science
+4451rm,8,"> I like most of what you're saying and generally agree with you. But sir, that's exactly what i said and how I was thinking actually
+
+Well then I guess we are not communicating well with each other. ",0,,,1,science
+4451rm,9,"I guess the point is: we all agree that the distinctions alluded to, whether they are arbitrary biologically and with speciation, are important for the end user. 
+
+Would rather eat heirloom tomatoes instead of overbred watercontainters but keep a domesticated dog rather than a wolf.
+
+Your point about tomatoes is interesting and many people don't realize how much breeding over the millenia has occurred. Much like the wolf -> dog or any 'natural' crop -> today's crop",0,,,1,science
+4451rm,3,"Little known that most if not all sweet corn you get at the store is non-GMO as well. 
+
+GMO corn becomes fructose syrup, starch, flour, feedstock etc",0,,,2,science
+4451rm,4,"This is a point that is made all the time. Most people have never seen, much less purchased GM fresh produce.  But they imagine that every fruit and vegetable is GM.
+
+Of course there are people on the otherside confusing the issue with all selective breeding is genetic modification *in the way activists define it.*",0,,,3,science
+4451rm,3,"Picking before ripening is not the only reason. [Selection for breeds that exhibit even ripening has also resulted in a loss of flavor](http://www.npr.org/sections/thesalt/2012/06/28/155917345/how-the-taste-of-tomatoes-went-bad-and-kept-on-going)
+
+
+Do you mind expanding on what you mean by ""hybrid"" here? In genetics a hybrid is heterozygous at a given locus. Hybrid for what? I'm not sure how you think it is relevant without being more specific. Many heirloom varieties don't exhibit even ripening, which means that their nutritional content and flavor profile are more diverse than varieties that do exhibit even ripening (i.e. Pretty much everything you get in a grocery store).
+
+
+There are no GM tomatoes currently on the market, but there has been in the past, and many are currently under development to improve on nutrition and taste -- exactly the point I was making above about the potential for GMO crops. ",0,,,4,science
+4451rm,0,"In your opinion, what is the most common or most potentially damaging misconception held by the layperson regarding GMOs?",0,,,5,science
+4451rm,1,"> In your opinion, what is the most common or most potentially damaging misconception held by the layperson regarding GMOs?
+
+That they are all one thing.... Actually, one GMO can be more different from another than either of them are to their non-GM counterparts.. If that make any sense? I thought it did to me until I wrote it down! ",0,,,5,science
+4451rm,2,"If you consider that each of two different GMOs focuses on a very different aspect of the plant, I could see how that works. Maybe someone could graph several GMOs and non-GMs in 2-D or 3-D space, with the values of the coordinates representing different aspects of the plant to show two GMOs with a larger distance between them than what lies between either of them and the non-GMs? Or maybe if we thought of it as the non-GMs generally being ""average"" or ""in the middle"" of a set of plants, with the GMOs being the ""outliers?""
+
+It actually makes sense if you consider that GMOs can be made to serve a number of different (and possibly mutually exclusive) functions e.g. one is cold-resistant but would probably require a high chill period to blossom and the other is heat-resistant but would require a low chill period to blossom.",0,,,1,science
+4451rm,0,"Could you please explain ""sporting"" as witnessed for example in Red Delicious apple trees? How common is this behavior in different plants and what precipitates it (can it be induced)?",0,,,2,science
+4451rm,1,I am not an apple expert but I know a nice one when I eat it. Apple trees are all clones from one specific tree – often many tens of years old. I assume ‘sports’ are off-types from the original clone that give a different type of apple. They are examples of natural mutations. ,0,,,2,science
+4451rm,2,"Pretty much.  If a new bud on a plant forms a branch that has a genetic difference that produces something noticeably different than the parent plant it is a sport.  It isn't just different versions of the same fruit, but we can end up with similar, but distinct, fruit from the parent plant.  All nectarines are clones from a sport on a peach tree.    ",0,,,2,science
+4451rm,0,"Is there any impact on the soil from growing a GE (or GMO?) crop?  I'm thinking of the arguments I've heard about organic vs the standard way most farming is done, and how NPK depletes the nutrients in the soil. ",0,,,2,science
+4451rm,1,"> Is there any impact on the soil from growing a GE (or GMO?) crop?  I'm thinking of the arguments I've heard about organic vs the standard way most farming is done, and how NPK depletes the nutrients in the
+
+Soil is hugely important – and can be very different in different locations but the agronomy / inputs/ farm practices have a far bigger impact on soil quality that the breeding methods used to develop the specific variety being grown. 
+",0,,,2,science
+4451rm,0,"Were you  part of this study (published in the journal Nature) or have you read it...  also can GMO technology (not talking about corporate greed)  exist peacefully alongside organics?
+
+
+...study...Organic agriculture key to feeding the world sustainably  
+
+It is the first such study to analyze 40 years of science comparing organic and conventional agriculture across the four goals of sustainability identified by the National Academy of Sciences: productivity, economics, environment, and community well being.http://www.eurekalert.org/pub_releases/2016-02/wsu-oak020116.php  
+
+
+
+",0,,,2,science
+4451rm,1,The term Organic is an artificial distinction and can be defined how ever we want.  Currently organic is defined as non-gmo but there is no reason that GM crops couldn't be raised with organic farming techniques.,0,,,5,science
+4451rm,1,"Thanks for the great Q but, ironically, I am about to run out of time.. If Reddit allows me to continue after 5.00pm I will :-)",0,,,2,science
+4451rm,2,"> Is plant breeding natural or do we need new crop varieties
+
+The simple answers are ‘no’ and ‘yes’! 
+All plant breeding needs human intervention, intuition and intelligence but there is a spectrum of methods and those that utilize marker-assisted selection or other biotechnologies need a good knowledge of genetics and more active human intervention than the more traditional methods (described by some- but not me cos I know too many excellent breeders) as ‘just to cross the best with the best.. and hope for the best!
+Also we certainly need a constant supply of new crop varieties to meet the ever-changing challenges of pests/diseases, abiotic stresses and improved yield and quality characteristics.
+",0,,,2,science
+4451rm,0,"Hi Huw. As an Aberystwyth alumni, I was wondering if you could give any insight into how the university is addressing its rapidly falling standards? It seems that Aber is dropping lower and lower in pretty much all ranking systems, including student satisfaction (where it used to reign supreme!). ",0,,,2,science
+4451rm,0,"Hey there! I'm a geologist, and I'm interested in learning the ""basics"" of botany. Plants are part of the natural world, and interact a lot with rocks and soil, but introductory biology courses inevitably focus on bacteria and animals. Do you have any suggestions for textbooks or online courses aimed specifically at teaching ""botany 101""?",0,,,2,science
+4451rm,0,Cross breeding plants have been around for a long time and has sometime been good and sometimes bad but it was always done plant to plant.  Now with some GMOs plants are being grown with other species DNA mixed in (for example I know of a study using frog DNA in tomatoes to make the skin tougher so they can be machine picked)  do you think these type of GMOs plants are worse then what Mandela did or even the Golden Rice Project? Can GMOs save biodiversity or hinder it further? How does all this affect our health positively and negatively? ,0,,,3,science
+4451rm,1,"> You cover a lot of ground here and I’ll work from the bottom up. 
+> Of course diet has massive influences on our health but the ‘method’ used to make new crop varieties has no direct impact on the nutritional quality of the food. You refer to GMOs which (unlike other types of plant breeding) are highly risk-assessed and regulated for safety. Lots of wild plants can kill you but GM crops are safe and are substantially similar to the non-modified form of the same crop. I have never heard of your ‘frog-skinned tomatoes’ project but GR is a great example of bio-fortification to improve human nutrition where Vit A is otherwise lacking. Maintain access to a diversity of seed types is important so it’s vital to keep samples all current and old heritage varieties because we never know when we may need this biodiversity / specific gene combinations in the future. However if you are talking about the biodiversity in a particular agricultural field, then it’s the cultivation methods that are highly significant. For example, organic cultivation with minimal hoeing or other intervention will have a greater range of non-crop plants (so-called weeds) and invertebrates living within it compared to a conventional /intensively-farmed field whether its growing a GM crop or not. Obviously the yields and maybe the quality of the resulting food will be lower in the organic crop too.
+
+",0,,,5,science
+4451rm,2,"Here's the so called frog DNA in tomatoes study
+
+http://link.springer.com/article/10.1007%2Fs00122-005-2056-y",0,,,1,science
+4451rm,1,">Now with some GMOs plants are being grown with other species DNA mixed in (for example I know of a study using frog DNA in tomatoes to make the skin tougher so they can be machine picked) do you think these type of GMOs plants are worse then what **Mandela** did or even the Golden Rice Project?
+
+FYI [Gregor Mendel](https://en.wikipedia.org/wiki/Gregor_Mendel) was the father of genetics
+
+[Nelson Mandela](https://en.wikipedia.org/wiki/Nelson_Mandela) was a civil rights leader
+
+edit: Regarding your question that Dr. Jones didn't mention, BT crops and roundup ready crops incorporate genes from other species which people find scary because humans are doing it. Gene transfer between species happens in nature and may be more common than we think. We're just doing it in ways that hurt pests and benefits us. It's called horizontal gene transfer and it goes all the way back to why we have mitochondria. [Horizontal Gene Transfer in Plants](http://jxb.oxfordjournals.org/content/58/1/1.full.pdf)",0,,,4,science
+4451rm,0,"I am quite curious is it is possible to generate a plant that yields food of some sort that has no seeds or sterile seeds, whether it is fruit or grain.  I am worried corporations could move in that direction to increase their profits, controlling the supply of food.",0,,,2,science
+4451rm,1,"Most crops are grown from purchased seeds every year. Seed saving is very uncommon, GE or non-GE, because most commercial seeds are hybrids which do not produce stable offspring.",0,,,3,science
+4451rm,2,"Is that done deliberately for one reason or another, or merely a result of the process of making them?",0,,,1,science
+4451rm,3,[Hybrid vigor](https://en.wikipedia.org/wiki/Heterosis); most commercial seeds are [F1 hybrids](https://en.wikipedia.org/wiki/F1_hybrid).,0,,,2,science
+4451rm,4,Thank you very much!,0,,,1,science
+4451rm,0,"Don't know if you have the answer to this, but would growing more food actually solve any hunger problems? A lot of of studies i've seen suggest that larger crops would just end up in the hands of those who already have all the food they need.",0,,,1,science
+4451rm,1,"Increasing yield means less farmland can be used to grow the same amount of food.
+
+Less farmland = fewer emissions, less water use, less habitat destruction.",0,,,3,science
+4451rm,1,"Even if it doesn't directly help, the existence of the industry is important to move the technology and our understanding of the science and logistics forward. There are other GM initiatives to directly address hunger, such as [removing cyanide from cassava](http://researchnews.osu.edu/archive/cassava.htm) and [drought-resistant maize](http://wema.aatf-africa.org/about-wema-project).",0,,,2,science
+4451rm,1,Or end up as part of the amazing [*100 million tonnes of food waste in Europe every year.*](http://ec.europa.eu/food/safety/food_waste/index_en.htm) How likely are GMO interventions to address shipping and storage issues?,0,,,0,science
+4451rm,2,"Let me counter with another argument. If we take plants that are locally adapted for a region, and then load them up with a selected set of genes that are useful (say, maybe some root architecture genes that protect against drought, some insecticides, etc) and then distribute them back into the region, would this not solve transport and wastage issues?
+
+Breeding traditionally is long, slow, and expensive. GM is faster, but only works if you know what you're putting in and the trait is qualitative. If we could slot in useful traits into locally adapted germplasm, we'd be able to have regions of the world that are self-sufficient, rather than importing food from somewhere else.",0,,,2,science
+4451rm,3,"It was a question, not an argument. But if I *were* to make an argument, it might be that our immediate and future food problems aren't with plant breeding of any type, they are with agricultural and commodity systems (i.e., economic). The debate over GMOs seems primarily, to me, to be taking attention away from deeper, systemic issues with our food systems. Nothing wrong with GM to me in principle, but I'm not part of the ""GM will save the world"" orthodoxy. Why? Because our (currently most-pressing) problems with food have very little to do with plant breeding.",0,,,1,science
+4451rm,4,"It vaguely irritates me when the ""Feed the world"" line is used too, to be honest. Agriculture is devalued in western society because we haven't had famine in quite some time. The cost of food production is currently externalized, and we are going to run into trouble soon. It's not a matter of feeding the world at this point, but moreso ""How do we manage to stop making large withdrawals from the environmental stability bank while still making agriculture affordable to the farmer?""
+
+I do disagree, and maybe it's just the job talking, but plant breeding is a big part of a solution to a more looming problem of sustainability. I do agree with you about the economics, though, but am focused on another problem.",0,,,1,science
+4451rm,5,"> plant breeding is a big part
+
+We don't disagree at all! Plant breeding (of all types) is a *part* of the solutions we need. My own work has taken me into the field of systems ecology when it comes to plants, and it pains me a bit when we ignore other aspects of our problems with agriculture for the sake of future technological 'solutions.' It's kind of like climate change. Do we make tough choices now, or do we bank on someone inventing carbon sequestration technology to save us later?
+
+Let's do *both*. :) Cheers.",0,,,1,science
+4451rm,6,"It does drive me up the wall when an engineer gets a giant cover story for inventing a 1,000 dollar device that sounds like something fancy and new in agriculture.
+
+Yeah, I need that to be 10 dollars, and I need probably half a million of them. And also they need to be easily used by people who still think GPS tractors are the work of the devil. But plants are boring, and nobody cares if you've created a new cultivar that requires 10% water. It's all, OOOOOOOH. SHINY TOY.",0,,,1,science
+4451rm,0,"Science AMAs are posted early to give readers a chance to ask questions and vote on the questions of others before the AMA starts.
+ 
+
+Guests of /r/science have volunteered to answer questions; please treat them with due respect. Comment rules will be strictly enforced, and uncivil or rude behavior will result in a loss of privileges in /r/science.
+
+
+If you have scientific expertise, please verify this with our moderators by getting your account flaired with the appropriate title.  Instructions for obtaining flair are here: [reddit Science Flair Instructions](http://www.reddit.com/r/science/wiki/flair) (Flair is automatically synced with /r/EverythingScience as well.)
+",0,,,1,science
+4451rm,1,,0,,,1,science
+4451rm,0,"Bore da Huw! (Actually it'll be P'nawn Da by the time you read this)
+
+What sort of things do you look at when performing a risk assessment?  Are you only looking at GE or all crops?  ",0,,,1,science
+4451rm,1,"> Bore da Huw! (Actually it'll be P'nawn Da by the time you read this)
+> 
+> What sort of things do you look at when performing a risk assessment?  Are you only looking at GE or all crops?  
+
+The European Food Safety Authority is an independent scientific body tasked by the EC to conduct an analysis of GMO applications for import or for cultivation in EU. Only the tiny proportion of crop types that fall into the definition of a GMO require this type of authorization. The GMO panel of EFSA uses a comparative approach and considers three main areas; a molecular characterization of the inserted DNA and the resulting ‘event’, an analysis of the food and feed implications of the genetic change and a critical appraisal of the environmental risks. After considering all the available data, the GMO panel produces an opinion on whether the GM plant is equivalent to its non-GM counterpart.",0,,,2,science
+4451rm,0,Whats your favorite gmo plant and why,0,,,1,science
+4451rm,1,We make lots of different GM plants in the lab to understand how genes work. I love them all equally; but those that give us a high impact reaseach paper- I love a little bit more!:-),0,,,1,science
+4451rm,0,What trait modifications do you think have the most promise for improving yields?,0,,,1,science
+4451rm,1,"> What trait modifications do you think have the most promise for improving yields
+
+Yield is hugely genetically complex and I doubt that any simple, single gene modifications will have traction. Getting C3 plants to do C4 photosynthesis is a long-shot but would generate step-changes in yield if successful.",0,,,2,science
+4451rm,0,How are scientists thinking about resolving problems like this with GMOs? Do you think these kinds of solutions will work?,0,,,1,science
+4451rm,0,Have you considered incorporating designer genes to mass-produce medicinal active chemicals and what would you do to prevent the rise of resistance to it? ,0,,,1,science
+4451rm,0,What do you think about today's business models of GMOs?,0,,,1,science
+4451rm,0,What do you think is the biggest threat GMOs could potentially have to the environment and human health?,0,,,1,science
+4451rm,0,"Thanks for taking the time to do this!
+
+In academia there are a great number of GMOs created, but many are of no commercial benefit and help boost fundamental understanding instead. If they were to become more socially acceptable, where do you see GMO varieties coming from, as many commercial breeders seem to have stayed away from the technology? Or do you think there could be a reduced role for traditional breeders in the future?
+
+Also, everyone has their own ideas of what future GM crops may look like. If GM were to become more common, would we see an avalanche of new beneficial traits that couldn't be achieved previously? What kind of areas do you think will be the first targets for breeders (e.g. Rooting, disease resistance, photosynthetic capacity etc.)?",0,,,1,science
+4451rm,0,What can be done in the GMO community to engineer plants that don't need much if any pesticide/herbicide/ect? ,0,,,1,science
+4451rm,0,"What is your opinion on gene patents? Seeing as you work in the industry, these would help further a single company, but could very well put others out of business.",0,,,1,science
+4451rm,0,Do you feel there is a point where GMO can go too far?,0,,,-1,science

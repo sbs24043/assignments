@@ -1,0 +1,279 @@
+post_id,level,body,gilded,likes,num_reports,score,subreddit
+2mujav,0,"Hey guys, I am the lead-author of this paper and would be happy to answer any questions, or do an AMA if there's enough interest.
+
+Josh",0,,,23,science
+2mujav,1,If you message the mods and give us some proof of who you are we can highlight you as the author. That way users know you're who you say you are and that you're answering questions.,0,,,4,science
+2mujav,1,"Could you share more details about the full model that provided the 25% figure? i.e. adjusted r^2, F statistic, p value, and list of covariates. 
+",0,,,2,science
+2mujav,2,"Sure. The 17-25% statistic is based on a comparison to another study (Graven et al., 2013 Science) that used inverse modeling to estimate the total additional seasonal carbon exchange necessary to replicate the observed patterns of atmospheric CO2. Our work estimated the annual increase in seasonal carbon exchange just from four crops (maize, wheat, rice, and soybeans) using a carbon accounting model of our own design. That model provided the additional carbon exchange and associated uncertainty, calculated via a Monte Carlo approach reflecting parameter uncertainty. 
+
+Happy to provide additional details if you like. While we didn't seek to simultaneously estimate the contribution from other sources, another independent effort in the same issue (Zeng et al) answered the same question using a process-model. They found that agricultural changes probably are responsible for 45% of the total enhanced seasonality. The differences between our studies are mostly due to the fact that Zeng and colleagues considered total ag production for the entire globe, while we looked specifically at maize, wheat, rice and soybeans in the Northern Hemisphere's extratropical lands. It's encouraging that two different methodologies arrive at the same conclusion: increases in cropland productivity play a substantial role in increasing atmospheric CO2 seasonality.",0,,,2,science
+2mujav,1,"Have you compared the carbon emissions effects of monoculture vs polyculture? From what I've read, small scale polyculture produces overall higher yields per acre than monocultures, but I honestly don't know much about farming staples on an industrial scale. It seems like the study focuses on American farming, which (I think) was already very heavily monocultured by 1961. I would be very curious to see how this ""breathing"" has changed globally since 1961, as monoculture has become more popular internationally since the Green Revolution. And has the study looked at all at the effects of chemical fertilizers on these emissions ""breaths""? (Considering the way that such fertilizers run off with the rain rather than trapping carbon in the soil, and thus contribute to soil that is overall less nutrient-rich); I'm also curious about how industrial monoculture, especially the use of herbicides, might have affected the process of wild plants growing in cultivated fields (which would presumably affect this process?) ",0,,,2,science
+2mujav,2,"These are all great and interesting questions. We did not compare carbon storage/release in monocultures vs. polycultures. We started at production numbers and made our way to total carbon taken out of the atmosphere. In this regard, it doesn't really matter how it was accomplished, just that more carbon was removed/released to the atmosphere because we produced more food on the same land. Now, the reason it doesn't really matter is because the emissions associated with farming (running tractors, making nitrogen, pumping water, etc.) just don't have a strong seasonality. These farming practices are large contributors to the overall growth rate of CO2 in the atmosphere, but these emissions are fairly constant throughout the year. Therefore, they don't impact the ""depth of the biosphere's carbon breath"" very much. Another potential difference among cropping systems is the amount of carbon that remains in the soil for the long-term. While practices such as no-till may (and I emphasize ""may"" here) lead to more carbon stored long-term in the soil, it's a very small amount (maybe 2-4% of annual NPP) and so likewise doesn't strongly affect the annual seasonality. Of course, if you store 2% over a large land area for a long time, it can help mitigate emissions, it just won't affect the seasonal exchange of carbon very much.
+
+Certainly fertilizers and chemical weed/pest management is a big part of how these croplands have managed to become so much more productive over the last fifty years, and your'e absolutely right to point out the long-term effects this may have on soil nutrients as well as water quality. That was not a part of our study, although it does receive quite a bit of research attention.",0,,,4,science
+2mujav,3,thanks! Good to know. Ecology is complicated. In an awesome way.,0,,,1,science
+2mujav,0,[deleted],0,,,44,science
+2mujav,1,"This is (likely) offset, however, by higher emissions in the overall production process. ",0,,,27,science
+2mujav,2,It is offset by higher emissions in the overall production process. Agriculture accounts for over 10% of human greenhouse emissions.,0,,,3,science
+2mujav,3,"Just the meat industry alone is a bigger contributor to global warming than the entire transport sector (all cars/planes/boats/trains/what have you combined). Mind you, this is not only due to carbon dioxide but also methane. At least based on reports from the U.N.",0,,,12,science
+2mujav,4,"This phenomenon is a bit more complicated than such reports suggest. First because animals release carbon that is already in the carbon cycle (carbon they harvest from plants and then turn into farts etc, vs coal and oil, which, previous to burning, were not part of the cycle). Second because herd animals are a critical part of keeping water in the soil in plains ecosystems, which thereby reduces desertification, which thereby helps plants grow in those ecosystems, which thereby reduces the CO2 in the atmosphere because plants are growing there. But an overabundance of herd animals, especially when raised unsustainably, can contribute to greenhouse gas emissions",0,,,7,science
+2mujav,5,"My understanding is that emissions from herd animals are negligible, it's the industry surrounding their food production, transport and processing that makes the meat industry such a huge contributor. I don't know that the benefits you outlined from the animals themselves would significantly offset that.",0,,,2,science
+2mujav,6,"that might be the case, but I don't believe so. I'm pretty sure that housing and killing animals is relatively light on fossil fuels as compared to running a tractor over 1000 acres of land... the reason that animals create high emissions is that you have to take up a lot of land to produce a relatively small number of calories--land that might otherwise be occupied by forests--and the animals themselves are converting carbon trapped in plants into carbon that can be released into the atmosphere",0,,,1,science
+2mujav,1,Industrial carbon emissions aside - wouldn't over-cleaning the atmosphere be just as bad for climate change as carbon pollution?,0,,,10,science
+2mujav,2,"Yes, but burning stuff to compensate is easy ",0,,,3,science
+2mujav,2,"Fortunately we have easy ways of releasing co2 into the atmosphere. 
+
+",0,,,3,science
+2mujav,3,Such as eating the food we produce ;),0,,,1,science
+2mujav,2,"Even worse actually. Once the available co2 in the atmosphere goes away, plants will die, and then we all die.",0,,,6,science
+2mujav,3,Seems as its self correcting since we constantly produce CO2. ,0,,,8,science
+2mujav,3,"I am pretty sure we will run out of so much other raw materials before atmospheric CO2, especially when we are currently running net positive CO2 emissions. ",0,,,3,science
+2mujav,3,"It seems that more we ""screw up"" the circle of life and natural cycles and, the more we mess it up by trying to fix things. It's complicated alright.",0,,,4,science
+2mujav,4,I wouldn't worry too much. Life has evolved past greater milestones. ,0,,,3,science
+2mujav,5,No one thinks all life on earth is about to end. Whether humanity will survive is a completely different question.,0,,,8,science
+2mujav,6,"Humanity would survive, the question is how and in what quantity.",0,,,4,science
+2mujav,5,"Yeah, you just can't help but get a bit scared, though. I'm sure we'll manage somehow, but _how_ is another matter entirely.",0,,,2,science
+2mujav,5,"This is an incredibly unprofound statement. Life will go on, but not necessarily human life.",0,,,2,science
+2mujav,6,"Don't act so entitled. All I meant was if consciousness is to exist in a sustainable way (in whatever form, be it human), it needs to cross all the necessary bridges. If it can't, as is possible in our case, then there is nothing we can do; we were doomed since our origin. My previous comment was meant to instill hope that it (consciousness) does reach a point where it can coexist with its 'sustenance' in a sustainable way. Make it mean whatever you want it to mean.",0,,,2,science
+2mujav,7,Hey man maybe life will even shift towards conditions that will favor the rise of the sasquatch species,0,,,3,science
+2mujav,7,"There are most definitely things we could do. We don't have to be ultimate beings of consciousness to set up an asteroid defence system, pump out a bit more solar and start colonising worlds.",0,,,2,science
+2mujav,8,I never said those things were impossible.,0,,,1,science
+2mujav,5,[deleted],0,,,1,science
+2mujav,6,Most certainly. ,0,,,1,science
+2mujav,5,But humans haven't. I wonder if we're smart enough to prevent our own extinction.,0,,,1,science
+2mujav,6,"We're more like to prematurely destroy ourselves artificially via nuclear war, denying ourselves the chance to prematurely destroy ourselves artificially via environmental destruction.
+
+Stupid humanity, we keep trying to one-up ourselves in the race for the Darwinism award.",0,,,1,science
+2mujav,7,"Sauce?
+",0,,,1,science
+2mujav,8,Cold War?,0,,,1,science
+2mujav,6,"While I am all on board with the idea that we need to fix our emissions problems. When you stop and think about it, humanity managed to survive the [Younger Dryas](http://en.wikipedia.org/wiki/Younger_Dryas) glacial period.  At the time, our greatest technological achievements were fire, and [triangularly shaped rocks](http://en.wikipedia.org/wiki/Microburin_technique).  Given that our technology has advanced a bit since then, I suspect we'll adapt and survive.  However, that adaptation period is going to suck very, very badly and we really should be trying to avoid to alleviate it.",0,,,1,science
+2mujav,1,"Yes, but that carbon typically ends up being put back after the grow season (via farts, for example).  So it's not like they're contributing to an overall reduction in CO2, they're just making the seasonal swings more drastic.",0,,,2,science
+2mujav,1,More than a rainforest? The jury's still out on that one. ,0,,,2,science
+2mujav,2,[deleted],0,,,3,science
+2mujav,3,"Not really; because the rainforest stores the carbon so long as it stands, but the food we grow gets eaten almost right away, and the rest of the foliage gets mulched/composted. That's ""fixing"" for half a year at best, and exactly the reason the curve has those jaggies.",0,,,2,science
+2mujav,4,[deleted],0,,,1,science
+2mujav,5,"> Free CO2 is not re-released from this process except thru flatulence and exhalation or the burning of waste, right?
+
+The vast majority of these plants is stalk, leaves and roots.  We only eat a small portion.  So the most of the CO2 is re-released when the none edible portions of the plant rot, which takes about 6 months give or take.",0,,,1,science
+2mujav,1,"Yes, but since we eat all the food we produce, and compost/mulch/burn all the rest of the plant material, the scrubbing is just temporary, and we're just contributing to the height/depth of the jaggies in the curve.",0,,,1,science
+2mujav,0,ELI5 good discovery or bad?,0,,,13,science
+2mujav,1,"It's good in that we've started to solve what was a bit of a puzzle: what is causing the Earth to take deeper breaths? This improved understanding should help us better understand what role natural ecosystems are playing as well, and therefore have improved projections of the global carbon cycle and its linkage with the climate system.
+
+I think you're asking about climate change and overall environmental ""goodness"", though. What we've found is that ecosystems occupying a very small footprint have a really outsized impact on the carbon cycle because of intensive management seeking to optimize productivity. While this alters the seasonal course of atmospheric CO2 concentrations, the year-on-year increase in annual average concentrations driven by emissions is MUCH bigger and has a MUCH larger effect on climate. However, the increased seasonal carbon exchange is being driven by farming practices that themselves are very energy intensive, and so are a very substantial source of emissions themselves. Simply put: the deeper breaths of the biosphere probably have only a slight or no impact on climate, but the root cause of this deeper breath certainly does.",0,,,17,science
+2mujav,2,So we're discovering the Earth breaths after we've already given it emphysema? We'll... Gotta' start somewhere!,0,,,1,science
+2mujav,3,It's more like we're discovering why the Earth is hyperventilating.,0,,,4,science
+2mujav,4,"It's those damn stomata, isn't it.",0,,,1,science
+2mujav,5,That's where the magic happens!,0,,,2,science
+2mujav,1,"Not good.
+
+>The study ends with a look ahead. Population projections suggest global food production will have to nearly double over the next half century, calling for increases in cropland and cropland productivity and ""imposing an even stronger signal of human activities.""
+
+>The study is titled ""Direct human influence on atmospheric CO2 seasonality from increased cropland productivity.""",0,,,9,science
+2mujav,2,Thanks ,0,,,2,science
+2mujav,2,"The earths population is going to plateu before long and perhaps even start to decrease, yet for some reason crop production needs to double?
+
+Typical hysteria.",0,,,5,science
+2mujav,3,"That estimate is provided by the FAO and is based on the fact that while population is leveling off, diets are changing. Simply put, newly moneyed people in the developing world would like to eat higher on the food chain. Since a lot of our grain production goes towards feeding livestock, production has to increase a lot more than population.
+
+Perhaps it needs to double, maybe not quite. In any case, we definitely need to produce more food and we've run out of resources to do it. All the best land is already cultivated or being lost to urban expansion, and the only places to expand are currently occupied by tropical forests. We also use 70-90% of the annually consumed freshwater, so there's not a lot of opportunity to use more water.",0,,,8,science
+2mujav,3,World population is set to plateau at 9 billion. However as people get wealthier their meat consumption increases and meat has about 1/10 of the land use efficiency of direct agricultural products. ,0,,,6,science
+2mujav,4,"""...as people get wealthier their meat consumption increases...""
+
+Is that necessarily true, though?  Most of the people I know eat less meat today than they did even a decade ago.  Certainly, there were no vegetarian/vegan menu choices when I was a kid, and there sure are now.
+",0,,,1,science
+2mujav,5,"> In 1980, when the population was still under one billion, the average Chinese person ate 20kg (44lbs) of meat; last year, with an extra 300 million people, it was 54kg. The country as a whole now 
+
+http://www.theguardian.com/environment/2008/may/30/food.china1
+
+There are more people who can now afford meat instead of surviving on grain and cabbage than there are hipsters going to vegetarian restaurants",0,,,1,science
+2mujav,3,"It may be a hard truth, but much of the world's population isn't fed enough *right now.*
+
+*edit* as others have pointed out, the most pressing issue with feeding the hungry is a function of distribution, not production, and I won't argue that. 
+
+
+Returning to the initial point of ""this is a sensationalist statistic"", I'd like to say that, while it sounds like it, face value, I bet there's a solid source for it. I've an exam in a few hours to study for so I won't look into it, but as this was published in Nature, I bet it holds *some* water.",0,,,10,science
+2mujav,4,[deleted],0,,,8,science
+2mujav,5,Pretty much this. And it's not because of warlords in failed states. Poor countries often export popular food stuffs to rich nations even though they could use it to feed their own population. But the average citizen there can't afford their own food that's priced on an international market. This is not new. The Irish potato famine was caused in large part to the British requiring potato quotas be met or increased to fix markets during a blight. They did the same thing in India. Every major famine in India during British occupation was due to market fixing. Not because the Indians weren't producing enough food for their own population.,0,,,3,science
+2mujav,4,"Right, but we have enough crop production globally to feed all of them. It's a logistics and wastage issue. Growing masses more works as a brute force fix, but it's not the only possible fix.",0,,,2,science
+2mujav,3,"The largest fraction of crops produced is used as animal feed for animal agriculture operations. These articles suck, they never target the ""why"". No article dealing with environmental sustainability EVER mentions animal agriculture as the root cause.",0,,,2,science
+2mujav,3,"I think your point is definitely valid. Statistics show that as education increases birth rates plummet. As you said, typical misguided hysteria.",0,,,0,science
+2mujav,2,Sounds neutral to me. Stronger signals of human activity are not inherently good or bad.,0,,,1,science
+2mujav,3,"From the standpoint of minimizing atmospheric CO2, it's bad.",0,,,1,science
+2mujav,4,"You misunderstood this: carbon is being fixed for half a year and then released again, in a cycle. The net effect, averaged out, is zero.
+
+But that's not accounting for the carbon being released to power the actual work of food growing.",0,,,1,science
+2mujav,1,"Considering all the variables, I think we still don't really know if the global effect will be  god or bad...",0,,,1,science
+2mujav,1,"Good because it makes us smarter: to the people who say, ""nah, us puny humans don't affect the world's CO2"" we can say, ""Do so! Nyah nyah!""
+
+As for the effect discussed in the article: Not sure. The steady upward trend is bad for sure, but that's not what we're talking about. We're not sure if ""upward with saw teeth"" is worse than ""smoothly upward,"" so we're not sure if ""bigger saw teeth"" means ""worse.""",0,,,1,science
+2mujav,1,Looks good http://www.nature.com/nature/journal/v515/n7527/full/nature13957.html,0,,,0,science
+2mujav,2,That abstract says a not good increase.,0,,,3,science
+2mujav,3,I believe the word you are looking for is ungood.,0,,,6,science
+2mujav,0,">What agricultural 'ecosystems on steroids' are doing to the air
+
+Really tired of the ""on steroids"" intensifier... seriously, who is impressed by this?",0,,,21,science
+2mujav,1,"Not I, but it's better than EXXTREME.",0,,,11,science
+2mujav,2,"One more cap 'X' and you're got a porno there.
+
+I prefer ""X-Treme"".",0,,,1,science
+2mujav,1,"I wish there were some way for me to say that this compliant seems to be more complain-y than most other complaints. 
+It's almost as if this complaint has been enhanced in some way. ",0,,,5,science
+2mujav,1,"Well we're also not all starving to death, so there's that.",0,,,2,science
+2mujav,1,"Sorry! It's tempting to use anthropomorphisms when communicating with broad audiences, particularly when the story is about the ""breath"" of the biosphere. However, intensive management's effects on ecosystems aren't unlike the effects of steroids on humans; these ecosystems are hyper-productive when they otherwise wouldn't be.",0,,,2,science
+2mujav,2,"It glorifies steroids quite a bit as some sort of universal superserum for making everything... super.
+
+Funny thing is probably more people take ""steroids"" for eczema and arthritis.  I know, different steroid...  corticosteroid vs anabolic.  But the saying isn't ""like such-and-such on anabolic steroids"".  I need to know this, otherwise I assume the subject is being treated for a skin condition.",0,,,1,science
+2mujav,1,Redditers ,0,,,-2,science
+2mujav,0,"I'm curious... Does the increase in crop yield having a measurable effect on the CO2 in the atmosphere  (during the upswing) lend credit to humans having a grander effect on the atmosphere's CO2 level from fossil fuel burning than those who argue against it say we do? From what I understand,  many people I've seen argue against global warming is mostly about humanity's part in it. It seems like logically, if you see that amount of CO2 fluctuation (though small) increasing from the crop yield, doesn't it stand to reason that the CO2 from other sources can actually have a profound effect because of how much greater the amount is from fossil fuels? Or is it arguable that even then, these CO2 amounts from fuels and such are negligible enough to dismiss as causing that much of a change?",0,,,5,science
+2mujav,1,"Fossil fuels are adding to the total amount of CO2 in the biosphere. Plants are taking it out of the atmosphere when alive, but releasing it again when they decompose. They don't affect the total in the biosphere.",0,,,4,science
+2mujav,2,Gotta remember that nearly all fossil fuels were airborne CO2 at one point.  ,0,,,1,science
+2mujav,2,[deleted],0,,,1,science
+2mujav,3,"Yes, but what typically happens with dead plants, especially in agriculture, is that they're plowed into the soil, where bacteria eat them as food, effectively convertig dead foliage into airborne CO2 and earthbound minerals.
+
+Of course some of that carbon ends up in the body mass of bacteria and other critters, but that's just delaying the dying-and-being-respirated-as-CO2 effect by one or a few critter generations.",0,,,3,science
+2mujav,4,[deleted],0,,,0,science
+2mujav,5,"One of us must be badly misunderstanding this! The only way for a plant's sequestered CO2 *not* to return to the atmosphere is for that foliage not to rot or burn. The processes that turned some prehistoric jungles and their inhabitants into coal and oil were the exception, not the rule.",0,,,3,science
+2mujav,6,[deleted],0,,,0,science
+2mujav,7,"> Tiling it into the soil doesn't cause a mass release of co2.
+
+You would be wrong about that:
+
+----
+
+> The carbon released as CO2 during the 19 days following the moldboard plow, moldboard plow plus disk harrow, disk harrow, disk harrow, chisel plow and not tilled treatments would account for 134%, 70%, 58%, 54% and 27% respectively of the carbon in the current year's crop residue.  
+([source](http://link.springer.com/article/10.1023%2FA%3A1009766510274#page-2))
+
+----
+
+> When it decomposes it becomes compost
+
+Correct so far. And most of this CO2 release already happens during the composting process:
+
+> Composting is the natural biological breakdown of organic material into a more stable organic substance. During the process of aerobic composting (presence of oxygen), microorganisms consume organic matter (carbon) and release heat and carbon dioxide (CO2 )  
+([source](http://www1.agric.gov.ab.ca/$department/deptdocs.nsf/all/cl3014))
+
+----
+
+> During composting, microbes degrade the original waste materials into organic compounds
+through a variety of pathways. During this decomposition, **approximately 80 percent of the initial
+organic matter is emitted as CO2** (Beck‐Friis et al., 2000).  
+([source](http://www.epa.gov/climatechange/wycd/waste/downloads/composting-chapter10-28-10.pdf))
+
+Down the line, compost is further decomposes into humus.
+
+You're correct (and I stand corrected) insofar as *some* carbon actually stays in the soil:
+
+> The remainder of the organic compounds
+eventually stabilize and become resistant to further rapid microbial decomposition (i.e., recalcitrant)
+(Francou et al., 2008). Mature compost is characterized as containing a high percentage of these stable,
+humic substances.  
+(same source).",0,,,2,science
+2mujav,2,"No, this is wrong. Look up carbon sequestration. Trees and plants do not release all of the carbon they took up during their lifetime when they decompose. If what you said is true then coal, oil and natural gas wouldn't exist.
+",0,,,0,science
+2mujav,1,"These results don't say anything about the rise in annual average concentrations of CO2, the cause for that rise, or the consequences of that rise for climate. The seasonal uptake/release of carbon by photosynthesis and decomposition means that the concentration of CO2 in the air is a bit lower in the summer because a lot of carbon is temporarily stored as plant parts, and a bit higher in the winter as some of those plant parts decompose and return the carbon to the atmosphere. That increase/decrease has been getting bigger, meaning that more carbon is exchanged seasonally between the biosphere and the atmosphere. That's really interesting because it indicates that there have been some large scale changes in the way the biosphere operates, but this seasonal ""wiggle"" in CO2 concentrations is dwarfed by the overall rise in annual average concentrations, and that is what should have the largest climate impact. However, we've shown that a lot of the increase in the size of this seasonal wiggle is because of human management of croplands, and those practices are associated with a lot of emissions themselves (e.g. nitrogen production/transport, pumping for irrigation, farm mechanization).",0,,,3,science
+2mujav,2,"Firstly, thanks for your answer. Secondly, does the fact that human's management of these seasonal crops causing a small increase in that wiggle by about that 1/3 of a petagram help show that the 10 petagrams produced by us people might have more of an effect? Or is the point still in whether or not that 10 petagrams is affecting us hugely?",0,,,1,science
+2mujav,3,"I'm not sure what this says about anthropogenic emissions in general, except to say that the farming practices that have enabled this remarkable increase in productivity (and subsequent effect on CO2 seasonality) are associated with a large amount of emissions in creating nitrogen, pumping water, farm mechanization, etc. However, it does provide yet another indication of how humans are modifying the global carbon cycle. It's surprising, at least to me, that such a small area can have such an outsized impact. It also indicates that we need to have some focused attention on improving agricultural representation in Earth system models.",0,,,1,science
+2mujav,0,..area grown often by cutting down trees somewhere,0,,,5,science
+2mujav,1,"Land use conversion for croplands is largely a story in the tropics where there are still unused cultivable lands. While the maize, wheat, rice, and soybean planted area has increased in the NH extratropics some 18% over the past 50 years, the overall area of croplands has actually decreased a small amount. This means that MWRS must have expanded onto existing croplands, and that there is actually very little forest conversion associated with these changes. We're simply getting a lot more food out of the same land area. This is not to downplay the importance of land conversion in other parts of the world, it's just not that big of an issue within the context of our study.",0,,,2,science
+2mujav,0,[removed],0,,,4,science
+2mujav,1,"That is exactly what is happening, the interesting thing is that it's been taking deeper and deeper breaths!",0,,,3,science
+2mujav,0,"Is there research on the potential of 'scrubber crops'?
+
+I.E.  so we could clean the planets atmosphere with crops that we grow harvest and bury to capture carbon and not re-release it into the atmosphere?",0,,,2,science
+2mujav,1,"It would need to be fast growing and prolific, some type of weed that grows like wild fire or bamboo?",0,,,1,science
+2mujav,2,Hemp or marijuana? Though I find it funny that not smoking it would potentially save the world :-D,0,,,1,science
+2mujav,2,and when it matures you'd have to get rid of it in some way that doesn't release the carbon back into the biosphere ,0,,,1,science
+2mujav,3,"Bury it like nuclear waste, in vacuum sealed sarcophagi, boom job done.",0,,,1,science
+2mujav,1,"A lot of the ""burying"" efforts these days work with calcium carbonate (a pretty stable mineral) rather than dead plant tissue, which will rot and be belched out as CO2 if it comes into contact with water and bacteria. Or burn like charcoal if it gets too hot. Those two constraints probably narrow the list of choices for long-term carbon storage.
+
+Another problem is that most plants will also leach the soil of mineral nutrients and/or want to consume some amount of fertilizer.
+
+So in burying crops, you'd end up burying some of the energy used to cultivate them plus raw materials and processing used to make fertilizer. That will dig into your cost efficiency to some extent.",0,,,1,science
+2mujav,2,"[BECCS](http://en.wikipedia.org/wiki/Bio-energy_with_carbon_capture_and_storage#Negative_emission) was the closest thing I found to my thoughts.  Probably much better than mere burial.
+
+I should stop poking around for this stuff and get back to work. I have enough of my own research without adding to my troubles and woes :-s",0,,,1,science
+2mujav,0,"Did the earth go through warming periods greater than what we are now? Not saying we aren't effecting it, but is it possible? That earth has had hotter periods with less man-made carbon? I'm not a ""non-believer"" I just don't study this stuff.",0,,,2,science
+2mujav,1,We are living in the most stable climate period in Earth's history.,0,,,1,science
+2mujav,0,"Here are some past Reddit science links on carbon capture by plants, if you would like to dig deeper:
+
+* [My teacher claims global warming will cause expansive tree growth due to excess carbon dioxide?](http://np.reddit.com/r/askscience/comments/1liin5/my_teacher_claims_global_warming_will_cause/)
+* [Northern hemisphere hits carbon dioxide milestone in April | Carbon dioxide levels throughout the northern hemisphere hit 400 parts per million (ppm) for the first time in human history in April, an ominous threshold for climate change, the World Meteorological Organization said on Monday.](http://np.reddit.com/r/science/comments/26isrf/northern_hemisphere_hits_carbon_dioxide_milestone/)
+* [Amazon Inhales More Carbon than It Emits, NASA Finds: A new NASA-led study seven years in the making has confirmed that natural forests in the Amazon remove more carbon dioxide from the atmosphere than they emit, therefore reducing global warming.](http://np.reddit.com/r/science/comments/20pykv/amazon_inhales_more_carbon_than_it_emits_nasa/)
+* [Massive CO2 sink down under: Australian savannah was largely responsible for a massive spike in the amount of CO2 absorbed by land plants in 2011, new research has found.](http://np.reddit.com/r/science/comments/266uyk/massive_co2_sink_down_under_australian_savannah/)
+
+These links were recommended by a Reddit topic analysis engine I'm working on. I hope you find them useful!",0,,,2,science
+2mujav,0,"Thats kinda what i was trying to get at, albeit with very bad phrasing. My point i was trying reach was such a small thing like crops being able to affect that wiggle and we as people are producing a very sizeable amount more. It seems it would have to logically follow that we affect things far more than some like to think.",0,,,2,science
+2mujav,0,"I am surprised that they attribute this entirely to farming.. Yes, we irrigate, which increases biomass over historical trend, but most yield increase has come not form more standing biomass but better partitioning of dry matter into the seed. For example, 'unimproved strains of maize get about a fifth of their dry matter into seed, but modern hybrids put nearly two thirds into them. 
+
+What's missing is the stimulus to natural plant life. Carbon dioxide is of course a fertiliser - strictly, it makes available water go further - but human activity also causes nitrogen salts, sulphur and other micronutrients to rain down on wild plants. Lightning fixes about 10 MT of nitrates per annum, combustion by humans is guessed at as being 300MT or more. ",0,,,4,science
+2mujav,1,"We don't attribute it entirely to farming. Instead, we say that four crops alone (maize, wheat, rice, and soybeans) probably account for 17-25% of the increased seasonality, or ""deeper breath"" of the biosphere. This excludes over 30% of the dry biomass production in the extra tropics, so the impact of all croplands is likely much higher.
+
+Your point about changes in partitioning of carbon is well made, and this is something that we looked at. However, our meta-analysis of published measurements of harvest indices and root:shoot ratios (details in the Methods) found no significant change in these quantities over the time period of interest (since 1960). Since we know that things like dwarfed-wheat/rice exists, this is somewhat puzzling. The most likely explanation is that uptake of improved varieties of these crops happened prior to 1960 within our study region. Unfortunately, the data to verify this and/or include these effects in the model aren't available. So, we conducted a sensitivity analysis that quantified the effect of allowing harvest indices to increase over time. It turns out that it leads to a very small reduction (2%) of our estimate. This is primarily because corn is the major drive of the signal, and unlike wheat and rice, there are no dwarfed or otherwise largely modified corn varieties.
+
+I'm not sure about your comment on ""stimulus to natural plant life"", but there is, of course, a HUGE environmental impact associated with these production increases. Global ag accounts for around 25% of GHG emissions, for example.",0,,,8,science
+2mujav,0,Here's a link to the abstract in Nature: http://www.nature.com/nature/journal/v515/n7527/full/nature13957.html,0,,,2,science
+2mujav,1,"> explain as much as a quarter of the observed changes in atmospheric CO2 seasonality. 
+
+So, their r-squared is 0.25? In my field that would not be an impressive finding at all. Is it different in climate science?
+
+\* okay this is almost certainly a partial r-squared, so it really should be interpreted in light of the total adjusted r-squared of the regression model, it's F statistic, and p-value. None of these are given in the abstract, so it's not possible to assess without the full text. ",0,,,3,science
+2mujav,2,"No, that quarter isn't their confidence level. It's the proportion of the human-agriculture-caused component to the overall-vegetation total.
+
+It's comparable to saying, e.g., ""27.2% of all deaths are caused by heart diseases.""",0,,,1,science
+2mujav,3,"R-square isn't a confidence level, it's the [Coefficient of Determination](http://en.wikipedia.org/wiki/Coefficient_of_determination). 
+
+>It's comparable to saying, e.g., ""27.2% of all deaths are caused by heart diseases.""
+
+That 27.2% is an r-squared (or, more specifically a partial r^2 if a multivariate model). Compare it to this stats class interpretation of r-squared:
+
+>the fitted regression equation explains 99% of the variation in Y
+
+
+
+",0,,,1,science
+2mujav,2,"I don't think that is their r-squared, I believe they are describing the proportion that agriculture contributes to seasonal variation.",0,,,1,science
+2mujav,3,">I believe they are describing the proportion that agriculture contributes to seasonal variation.
+
+You've basically just written out the definition [definition](http://biol09.biol.umontreal.ca/borcardd/partialr2.pdf) of (partial) r-squared.
+
+>Contribution of a variable x to the explanation of the variation of a dependent variable",0,,,1,science
+2mujav,4,"> You've basically just written out the definition definition of (partial) r-squared.
+
+My understanding is that you were referencing the 0.25 as their r-squared.  I don't think that it is r-squared being provided in the sentence you quote but the contribution as you pointed out as partial r-squared.  Although my knowledge of statistics is limited, it is my understanding that you would not draw a conclusion from the partial r-squared you have referenced but from the r-squared itself.",0,,,1,science
+2mujav,0,"i always figure this it only makes sense
+
+ but what i find staggering is HOW MUCH YIELDS HAVE INCREASED 240% is an insane increase in only 50 years",0,,,1,science
+2mujav,1,"And with 18% increased land area that means that a given piece of land produces 3 times as much food.
+
+It's ridiculous. ",0,,,1,science
+2mujav,2,"The effort underneath this increase, if anyone's interested in exploring it, was called [the Green Revolution](http://en.wikipedia.org/wiki/Green_Revolution).",0,,,1,science
+2mujav,3,<3 Norman Borlaug,0,,,1,science
+2mujav,4,"Then please respect that his first name is ""Norman!"" :)",0,,,1,science
+2mujav,5,typo corrected,0,,,2,science
+2mujav,1,Those yields are to meet the demands of the animal agriculture industry. ,0,,,-1,science
+2mujav,0,"Whenever I read about climate change and such, it always leads me back to population control and how it shouldn't be viewed as a bad thing. I feel like all data is just pointing its finger at the option, but no one wants to introduce the idea for fear of being labelled something not very good. I'm not talking about killing people obviously, but incentives such as tax breaks for couples without children for example. 
+
+Here in the US its actually opposite, the more kids you have the more money you get. I understand why that is, you can't let children starve, but why not more of an incentive to NOT have children. or to have less children? ",0,,,1,science
+2mujav,1,"I disagree. 
+
+The average cost for raising a child is 250k now. As a result, more and more young people are becoming ""childfree"" so that they can enjoy their money. 
+
+It seems to be a growing trend. but its one of those wait and see things that may become a potential problem. ",0,,,3,science
+2mujav,2,"I agree on the saving money by not having a child. Where I come from (southern Ohio) people have children and use them as a source of income through child support and welfare, even getting low income housing out of the deal. I call it ""child farming"" and its a big issue that no one seems to talk about because they fear being labelled as insensitive to the lower class. These people bring lives into the world they know they can not take care of, and when the child grows up, the cycle appears to continue with them. 
+
+I was one of those kids and I do work and I moved away, so I know not EVERY child will end up doing this, but for the most part they will. So I feel a lot of our population are ,for lack of a better way of putting it, ""these people"". There needs to be some sort of incentives for these lower class individuals to not produce 3-4 children on average. Just an FYI, I'm still lower class and assume I always will be haha.",0,,,3,science
+2mujav,3,"Yeah, that is one of the problems with the welfare system. But that is a political hot button topic right there. 
+
+Heaven forbid we have a program that encourages poor people to put off having children until they are more financially stable.  One half of the political spectrum will scream socialism, and the other will scream eugenics. 
+
+I hate it so much. Its a clear flaw in a system. the system in theory, is to help people get more stable. This flaw, inadvertently encourages them to be more dependent on the system. 
+
+BUT, I have noticed that a lot of people that do grow up like that, understand how expensive kids are, and i suspect that may be part of this new child free movement. 
+",0,,,3,science
+2mujav,0,But i thought plants turn CO2 into O2? ,0,,,1,science
+2mujav,0,If it's measurable then it suggests the possibility of intentional carbon sequestration as a viable solution. I need to think about this.,0,,,1,science
+2mujav,0,"For a settled science, there sure are plenty of new things coming out.",0,,,0,science
+2mujav,0,"That's good an all, but there is no way a corn field here in Iowa sequesters more carbon per year than the prairies used to. ",0,,,0,science
+2mujav,1,"It's not about sequestration, it's about seasonal storage/release. Midwestern US croplands have instantaneous photosynthesis levels exceeding some tropical forests!",0,,,2,science

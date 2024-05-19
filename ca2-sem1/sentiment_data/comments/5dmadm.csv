@@ -1,0 +1,177 @@
+post_id,level,body,gilded,likes,num_reports,score,subreddit
+5dmadm,0,[link](http://science.sciencemag.org/content/354/6314/857) to original research,0,,,62,science
+5dmadm,1,[removed],0,,,-1,science
+5dmadm,2,"The tobacco plant is used because it grows quickly. The genes that were modified are found in most plants. If I remember correctly, the Bill and Melinda Gates Foundation paid for this work. ",0,,,37,science
+5dmadm,3,Correct. ,0,,,1,science
+5dmadm,0,"Plants don't have a glitch... I guarantee the scientist whom the reporter talked to said (long complicated sentence...) 'it's like we fixed a 'glitch' in a plant.'
+
+Also, this 'glitch' has been known for some time. Efficiencies in photosystem II are much higher in low light environments. ",0,,,292,science
+5dmadm,1,[removed],0,,,109,science
+5dmadm,2,[removed],0,,,18,science
+5dmadm,3,[removed],0,,,9,science
+5dmadm,4,[removed],0,,,1,science
+5dmadm,1,[removed],0,,,40,science
+5dmadm,2,[removed],0,,,-2,science
+5dmadm,3,[removed],0,,,4,science
+5dmadm,3,[removed],0,,,1,science
+5dmadm,4,[removed],0,,,6,science
+5dmadm,3,[removed],0,,,-2,science
+5dmadm,1,"If you consider DNA to be the same as computer source code, you could consider this to be a bug fix.",0,,,6,science
+5dmadm,2,"It depends on when the genes that encode this 'glitch' were incorporated into the genome. If it was a long time ago, there's a really good chance that the bug served a beneficial purpose and actually gave the plants evolutionary advantage over those lacking the 'glitch'",0,,,3,science
+5dmadm,3,"Is it possible the ""fix"" simply isn't one that is possible via natural evolution? 
+
+Maybe it's not possible to transition from one the other via random mutations/natural selection.. in the same way i can't step across  a huge ravine without falling in.",0,,,1,science
+5dmadm,4,"So without re-reading the article, the fix is actually silencing or activating already existing metabolic pathways inside the organism. The 'fix' doesn't do anything nature couldn't do with a mutation or two. Granted, I could be wrong and they could have used DNA from some completely unrelated organism and then yeah, there would be like 1 in 1x10^100 chance of it naturally occurring without human intervention",0,,,2,science
+5dmadm,1,I'd guess that title is all up to the author trying to make it more tantalizing for people to read.,0,,,1,science
+5dmadm,1,"Nice try, we all know we're in the matrix ",0,,,1,science
+5dmadm,0,[removed],0,,,30,science
+5dmadm,1,[removed],0,,,3,science
+5dmadm,0,"Paragraphs of waffle and then we get to the 'glitch':
+
+> To protect themselves from direct sunlight’s damaging effects, they use a mechanism called nonphotochemical quenching, which allows the plant to release some of that absorbed energy as heat — like a pressure-relief valve in a steam engine, Niyogi said.
+
+I have never heard of 'nonphotochemical quenching', but I assume that it's what everyone else calls ""[photorespiration](https://en.wikipedia.org/wiki/Photorespiration#/media/File:Simplified_photorespiration_diagram.jpg)"". The most plentiful enzyme on the planet, Ribulose-1,5-bisphosphate carboxylase/oxygenase or RuBisCO to its friends has difficulty distinguishing between oxygen and carbon dioxide. The oxidation reaction - aka photorespiration - leads to toxic peroxide and ammonia buildups and is generally undesirable, but is a weakness of RuBisCO that becomes pronounced at high temperatures and low CO2 availability in the leaf: in bright sunlight when photosynthesis is banging along. 
+
+An alternative scheme has evolved many times amongst plants, the C4 pathway. This  uses PEC-C (Phosphoenolpyruvate carboxylase) to carbon dioxide, concentrates the resulting chemical (malate) twenty-fold in low oxygen structures before exposing it to RuBisCO. This in effect increases carbon dioxide concentration by 40 fold and reduces oxygen levels, thus turning off photorespiration. The result is markedly more effective carbon fixation.
+
+Why hasn't C4 conquered the world? Well, it pretty much has conquered the tropics, where over 8000 species use it. A further bunch of dryland plants such as cacti use CAM, which handles carbon fixation (to malate) in the dark and then, stomata shut and water loss minimised, carry out the photosynthesis reaction in the day. Some plants - tomatoes, for example, can do both C3 and C4, so there must be advantages to C3 in low light,m low temperature environments.   
+",0,,,39,science
+5dmadm,1,"Nope. Non photochemical quenching isn't the same thing as photorespiration at all. Two very different processes. 
+
+https://en.m.wikipedia.org/wiki/Non-photochemical_quenching
+
+I'm  no C4 expert, but I think you're right on the limits of C4 photosynthesis! Temperature is a huge factor, and a big reason that you don't see as many high latitude C4 plants!",0,,,32,science
+5dmadm,2,"> Temperature is a huge factor, and a big reason that you don't see as many high latitude C4 plants!
+
+And the few that you do see, like zoysia grass, tend to go dormant as soon as temps start to drop. My grandmother had a zoysia grass lawn and while it looked great in the summer months, it was brown from oct-april every year.",0,,,6,science
+5dmadm,3,This is exactly why they reseed lawns in fall/spring. They're switching from a C3 grass to a C4 grass.,0,,,2,science
+5dmadm,1,"Non photochemical quenching is the thermal decay of the of a photoexcited electron into a lower energy state. The electron is in a high energy state from absorbing a high energy photon (in the case of plants this roughly corresponds to the visible region) if too many of these exited electrons exist in the chloroplast their electrical potential will begin to break down the biochemical structures surrounding them (like a car engine held at high revs for too long). to limit the revs the electron can either drop straight down to its ground (either passing the energy onto another dye molecule or by emitting a photon of similar energy to the one originally absorbed). Alternatively it can drop down to its ground state by a more circuitous route, releasing a little bit of energy at a time (heat). The best analogy would be taking the stairs from the 2nd to the 1st floor rather than jumping out the window. ",0,,,7,science
+5dmadm,2,"I once build a UV absorbance system with which to monitor the decay of NADPH+ to NADP, the exponential decay constant defining the rate at which energy was being captured before the onset of the sudden darkness cast by the instrument. Too much reduced NADP dies indeed have dangerous implications for the thylacoid, and mechanisms are needed to dump it, usually via peroxides int he peroxisome. Quite how preventing such dumping helps anything isn't (to me) clear. ",0,,,2,science
+5dmadm,1,"Thanks for sharing this knowledge, I feel like I just learned a lot very quickly. ",0,,,1,science
+5dmadm,0,[removed],0,,,6,science
+5dmadm,0,[removed],0,,,70,science
+5dmadm,1,[removed],0,,,54,science
+5dmadm,2,[removed],0,,,42,science
+5dmadm,3,[removed],0,,,24,science
+5dmadm,3,[removed],0,,,10,science
+5dmadm,3,[removed],0,,,-27,science
+5dmadm,4,[removed],0,,,25,science
+5dmadm,5,[removed],0,,,1,science
+5dmadm,2,[removed],0,,,5,science
+5dmadm,3,[removed],0,,,5,science
+5dmadm,4,[removed],0,,,6,science
+5dmadm,5,[removed],0,,,8,science
+5dmadm,1,[removed],0,,,0,science
+5dmadm,0,[removed],0,,,4,science
+5dmadm,0,[removed],0,,,33,science
+5dmadm,1,[removed],0,,,32,science
+5dmadm,2,[removed],0,,,12,science
+5dmadm,3,[removed],0,,,6,science
+5dmadm,1,[removed],0,,,2,science
+5dmadm,2,[removed],0,,,2,science
+5dmadm,0,"Sssssssoooooooo, what I just read was that scientists have been able to make an improvement to a system which has been subjected to howeverlongblue-greenalgaehaveexistedfor years of evolution. This is incredible. I know we've been making more efficient things than nature for a while now, but tweaking one of the oldest, most well-established processes of life on earth is astounding!",0,,,3,science
+5dmadm,1,"It's pretty common actually. Look at e.g. orange carrots. Or, for that matter, a tractor vs. a horse.
+
+The difference is: we have different priorities. The conservative approach may indeed be best for the offspring of the plants in the wilderness - but what is best for the plant is not the same as is what is best for the farmer.",0,,,6,science
+5dmadm,2,"Obviously I didn't make that clear enough. What you're referring to are changes of preference or optimisations of artificial systems (horses don't naturally plough fields). This is an optimisation of a completely natural system, something we didn't invent that has existed for almost as long as life itself.",0,,,2,science
+5dmadm,0,"May I ask a non-scientist question?
+
+What would be the main crops that would benefit the most from this kind of bioengineering? Maize? Rice?",0,,,2,science
+5dmadm,1,"guess i'll give a nonscientist answer: all of the crops.
+
+most non-crop plants have an efficiency around 0.2%, crop plants are between 2% and 7% (the only 7% being sugar cane, most are closer to the 2-3% range) 
+
+now it's unclear if this is a 15% increase on the 2-3% or if it's 15 percentage points over...but it's probably the former so if it was 2% it's now 2.3% efficient...if it's the latter it's now 17% efficient. but if that was they case they would say ""over 7x more efficient""",0,,,5,science
+5dmadm,0,[removed],0,,,2,science
+5dmadm,0,"""""Niyogi and his colleagues realized that plants were taking too long to shut that safety valve once they were safely in the shade.""""
+
+Really? Still someone thinks that billions of years of evolution can make such a ""mistake""? Like a plant doesn't have any kind of incentive in being as efficient as possible...",0,,,6,science
+5dmadm,1,"Well evolution doesn't quite work that way. Often times inefficiencies are left in because 1) They are a side effect of something else that is providing more efficiency than is being lost. 2) The inefficiency doesn't *typically* hinder reproductive potential so the selection pressure is very low and/or 3) The inefficiency actually provides advantages in some edge cases.
+
+Additionally, we humans have a very narrow definition of what is advantageous in a plant, which doesn't help the matter either.",0,,,28,science
+5dmadm,2,"""They are a side effect of something else that is providing more efficiency than is being lost.""
+
+So it is not really an inefficiency, isn't it? it a part of a trade off, a cog of the bigger process or more precisely, it is part of an inherently efficent system.
+Anyway, my point was that a statement like that sound quite arrogant, more so because a plant is a complex organism that we can't say to fully understand (give ""fully"" its litteral meaning).",0,,,1,science
+5dmadm,3,"I don't disagree with you, but I was more responding in the context of the original statement. Framing ""efficient"" and ""inefficient"" as how the plant fulfills the needs of people, not necessarily itself and explaining why these inefficiencies might still prosper in the face of selection, directed or otherwise.
+",0,,,2,science
+5dmadm,1,"The quenching mechanisms in plants would confer advantages in some stressful instances such as drought. Therefore selective pressures have shaped such a system to provide this ability to survive adverse conditions which are prevalent enough in nature to maintain the collection of traits in the present configuration.
+
+In modern farming, however, the conditions are much more stable and plants probably do not need such a robust energy dissipation pathway. I would imagine that the improvements the researchers saw might be able to be produced by selective breeding but this would require continuous selective pressure (choosing the best yielding plants only to breed) which would be difficult to maintain. However, it is also possible that the configuration of the pathway is 'baked in' to plants and that there are not really any gene variants (at least in the species of interest) which will allow for this more efficient and yet likely more vulnerable configuration. There is also the matter of an interconnected system of quenchers and enzymes whereby changing one thing alters something else, making changes in such systems difficult, particularly in multi-cellular organisms with long generation times and low mutation rates.
+
+It also follows that the system can possibly be configured in the other direction, allowing for plants that are less efficient and yet better able to survive stressful events. Which could be useful.
+
+This is all just informed supposition on my part but I am trying to illustrate the competing demands and limitations with respect to evolutionary forces and expression of genetically programmed configurations in populations. It is a very 'human' thing to assume a kind of intelligence directing evolution, even well trained people are guilty of it from time to time.",0,,,9,science
+5dmadm,2,"Yes I do agree and I kinda of understand the meaning of the sentence, but you will agree with me that it is a somewhat incorrect statement. A statement that at least betray an arrogance that I thought extincted among scientists.",0,,,2,science
+5dmadm,3,"Ah, I see. I did not understand your point. We appear to be in agreement.
+
+",0,,,1,science
+5dmadm,1,"Why do you have an appendix, which is essentially a biological ticking time bomb? ",0,,,2,science
+5dmadm,2,"It is not the same by a long shot.
+We re not talking about something that is marginal in the fisiology of a living being. We are talking about the way a living being produce its energy to survive.
+A more fitting comparison would be ""Why human sleep so much? let's recode them so they can sleep much less!"". This, in my view, is the same error that has been done over and over again. The system is complex, so much complex that we don't fully understand it so the original statement (the one I quoted) is incorrect.",0,,,1,science
+5dmadm,3,"It's just emergent behavior. Look into recursion diffusion, feedback loops, cellular automata, langtons and, evolutionary computing. All examples of emergent behavior and sometimes look nearly exactly the same, including our own evolutionary processes. While evolution is a far from perfect theory, with many parts missing. It is still way, like, incredibly ahead any other theory in terms of actual evidence and reasoning for it. ",0,,,1,science
+5dmadm,0,"The fight to end poverty and hunger is very nice. But it means nothing if they continue to reproduce at an out of control rate. A fed population compounds itself, it's not tempered. I'm all about ending suffering but this is a double edged sword.. these people need to be educated and fed, educated peoples have a lower birth rate and there is nothing wrong with that. The goal is sustaining the species and preserving earth. Not proliferating without bounds and wasting the planet faster than it can renew itself. The sad end of our species will be through self manifested famine and widespread drought, we won't be around long enough to be wiped out by an asteroid. Of course this all ignores the very real threat of the whole planet going M.A.D. Suffering sucks, all around.",0,,,2,science
+5dmadm,0,[deleted],0,,,1,science
+5dmadm,1,"It's linked further up, but here you go: http://science.sciencemag.org/content/354/6314/857
+
+Just to note- these aren't two algal researchers working on tobacco out of the blue. Dr. Long is a pretty large figure in crop science/photosynthesis research, and the two first author researchers work in his lab. ",0,,,2,science
+5dmadm,1,"Also, while they use algal models, they (Merchant and Niyogi) are leading researchers in photosynthesis. Both of them do work with land plants as well",0,,,1,science
+5dmadm,2,[deleted],0,,,1,science
+5dmadm,3,"Well, I won't argue for Merchant too much, because I know mostly about her Chlamy work. But since I did my PhD in the Niyogi lab and worked on Arabidopsis and some Benthamiana, I think I can say with confidence he doesn't only work on algae",0,,,1,science
+5dmadm,0,... and stop CO2 impact on global warming.,0,,,1,science
+5dmadm,0,And to think all we really need to feed the world is for people to stop eating meat ,0,,,1,science
+5dmadm,0,"Just gonna tighten this leaf here annnnnd... 
+
+Got it.  They light good now.  Much joy. ",0,,,1,science
+5dmadm,0,Feed us... at least until we grow too much and idiotically overpopulate the world again. This is only a stopgap due to the stupidity of humankind for its long-term survival.,0,,,1,science
+5dmadm,1,"Yes, only a short-term fix which will hardly keep up with the population increase.",0,,,2,science
+5dmadm,0,Future weed will be so dank.,0,,,1,science
+5dmadm,0,"so what your telling me is future weed is going to grow faster, stickier,  and be dank as gram grams fudge.",0,,,1,science
+5dmadm,0,"Does anyone know why they chose to research tobacco plants instead of a food crop? The researchers indicated that they were hopeful the data they accumulated could be used in food crops and it would be valuable even if at a lesser efficiency. Well, to my non-scientific mind, I think I'd research food crops then if that was the goal. Is it that the tobacco plant is more 'receptive' to this kind of science? ",0,,,1,science
+5dmadm,1,"Tobacco grows very quickly, and the thing they were testing isn't exclusive to tobacco. The research is still applicable to many (most?) other crops, they just wanted to be able to iterate quickly.",0,,,2,science
+5dmadm,0,"Plant efficiency isn't the problem. We are a burden on Earths ecosystem. 
+
+Give us 15% more energy and we'll find away to create 30% more waste.
+
+
+",0,,,1,science
+5dmadm,0,"Or like we could stop the farmers who let thousands of pounds of grain rot because they can't get a good enough price on it. We could try that first.
+
+Or we could teach people how to farm efficiently and store crops. We could do that. ",0,,,-3,science
+5dmadm,1,"...by forcing them to sell their product at an undervalued price and driving local farmers out of business. 
+
+Never forget the consequences.",0,,,12,science
+5dmadm,2,[deleted],0,,,-6,science
+5dmadm,3,"They would if they had a way to sell it at a price greater than or equal to transportation and preservation costs, but farmers in the situation you described usually don't.",0,,,9,science
+5dmadm,1,Aren't the crops produced by the farmers their own property?  You want to dictate what a farmer can do with his own property?,0,,,10,science
+5dmadm,2,well now thanks to business many farmers dont even own the crops that they grow,0,,,-3,science
+5dmadm,3,How so?  Are you saying farmers are hired by larger businesses and the crops they grow belong to the corporation not the actual farmer/grower?,0,,,7,science
+5dmadm,4,"He might be talking about futures, which has been a thing for decades, if not longer.",0,,,2,science
+5dmadm,2,[deleted],0,,,-6,science
+5dmadm,3,[removed],0,,,3,science
+5dmadm,4,"The same argument could be used against flowers... or spices for that matter.  Both take up hundreds of acres of farmland, tons of fertilizer and pesticides.  You don't really *need* long stemmed roses for your GF, or basil for your pasta, but the farmland used to grow them could have grown bushels of grain or tons of potatoes. ",0,,,2,science
+5dmadm,5,At least those are going to some kind of use.,0,,,1,science
+5dmadm,6,"Well... at least near where I live the local hobby farm that grows pumpkins sells their excess unbought pumpkins to a pig farmer for pig chow.  Which if you think about it is more productive foodwise then the sold pumpkins that just rot and are thrown into a landfill.
+
+And even if you do let pumpkins rot in the field, it's not a 100% a loss, they're just kinda composting in place, the nutrients in the pumpkin are reclaimed by the soil and used by next years crop(s).",0,,,5,science
+5dmadm,3,How do you propose moving thousands of pounds of grain for free? ,0,,,2,science
+5dmadm,4,Need a teleporter here!,0,,,2,science
+5dmadm,1,"When you say they should give it away, are you suggesting they should also pay for the cost of transporting it to where it's needed?
+
+Famine is almost never a lack of food, more a lack of logistics. ",0,,,2,science
+5dmadm,0,Will we continue to throw away 40% of the food that we grow?,0,,,1,science
+5dmadm,0,I'd like them to do this to cannabis. ,0,,,1,science
+5dmadm,0,[removed],0,,,-1,science
+5dmadm,1,[removed],0,,,-2,science
+5dmadm,0,"Why do these type of findings never come to surface?
+They make it sound like it's been discovered and then nothing, no news whatsoever.
+Funding scheme or tactic these scientist use to keep them in the job?
+
+Don't get me wrong these scientist and researchers do fantastic work.",0,,,0,science
+5dmadm,1,I'd bet part of it is GMO scare. Which isn't helped by the people who pushed mandatory labeling legislation of GMO products not long ago.,0,,,3,science
+5dmadm,0,[removed],0,,,-1,science
+5dmadm,0,This seems like a extremely oversimplified title. Aka click bait. ,0,,,-1,science
+5dmadm,0,[removed],0,,,-22,science
+5dmadm,1,[removed],0,,,17,science
+5dmadm,2,[removed],0,,,0,science

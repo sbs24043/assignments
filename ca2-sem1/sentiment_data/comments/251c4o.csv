@@ -1,0 +1,178 @@
+post_id,level,body,gilded,likes,num_reports,score,subreddit
+251c4o,0,"That doesn't make any sense.  Plants consume CO2 in the process of respiration, so why would more have that notable of a negative effect?  I'm curious to see this study repeated in different fields.",0,,,78,science
+251c4o,1,"Perhaps the accelerated growth from an enriched CO2 atmosphere allows less time for nutrient absorbtion per unit mass. Still, I agree it's odd in that increased CO2 is a boon for plant life in all respects as far as I knew.",0,,,82,science
+251c4o,2,"Increased co2 is not the limiting factor in plant growth, and increased concentration does not accelerate their growth.",0,,,12,science
+251c4o,3,"What is **the** limiting factor, implying there is only one.",0,,,6,science
+251c4o,4,[deleted],0,,,7,science
+251c4o,5,"> the problem with increasing CO2 concentrations is that the crop requires additional H20 intake to process the increased CO2
+
+
+Most plants aren't going to utilize the excess CO2 in the first place simply because temperatures aren't high enough to force higher-than-typical rates of respiration/transpiration.",0,,,2,science
+251c4o,4,Soil nutrients and water. ,0,,,7,science
+251c4o,5,"Point I was making is it depends, It could be light, space, temperature depending on the situation.
+
+Some greenhouses are known to put in CO2 to increase growth. Soil nutrients and water would be taken care of in farms around the world.",0,,,5,science
+251c4o,6,"> Some greenhouses are known to put in CO2 to increase growth
+
+ And those are quite often located in areas with poor CO2 levels. My current client wanted to supplement up to 800ppm, atmospheric typical is about 290 in this area. Zero point to it, the temperatures he keeps the place at are guaranteed to essentially have zero effect on the plants unless he were to crank the temps up past 85, thereby increasing transpiration/respiration.",0,,,7,science
+251c4o,7,"Can you link a study linking crop yield to CO2 concentration for that crop, please?  [This study on wheat and barley seems to link CO2 enrichment to yield](http://jxb.oxfordjournals.org/content/45/7/937.short)",0,,,1,science
+251c4o,8,You're linking to an abstract that provides zero data or information. Shame on you.,0,,,1,science
+251c4o,4,"Limiting factors in growth are encountered all the time as per 
+
+http://en.wikipedia.org/wiki/Liebig's_law_of_the_minimum
+
+Which says that the lowest available nutrient is always the limiting factor unless you're at saturation point, where the plant can no longer absorb any more than it's given.
+
+This article lists all the known nutrient vectors for plants which could cause limitations
+
+http://en.wikipedia.org/wiki/Plant_nutrition
+
+This list may not be complete though yet, some of those, for instance silicon, are relatively new additions to the list. They used to think silica was completely inert and didn't add any value to the plant, but it's addition to hydroponic tomatoes was shown to cause a massive increase in hydroponic yield. 
+(I think it was a 200% gain but the article is now a dead-link in my bookmarks)
+
+In farm fields typically only N-P-K (Nitrogen, Phosphorous, and Potassium) is sprayed on the field to aid in nutrition, as they are the main nutrients. The rest of the secondary macro-nutrients and micro-nutrients are left for the plants to pull right out of the existing soil. Eventually that itself has led to nutrient depletion, so more and more farms are conditioning their soil with more than just N-P-K to keep the yield up.
+
+This behavior of depletion is also one of the sticky points with mono-culture industrial farming. As it has been shown to deplete the nutrients in the Microbiota and lead to a sterile environment in the soil.
+",0,,,2,science
+251c4o,3,"I never said CO2 was the limiting factor for growth as the limiting factor can be a multitude of things from sunlight and water to predators and indeed CO2. What I said is that it was a boon for plant life, and it is. Given equal conditions CO2 will enhance both the rate of growth and the resulting size of the plant. Growth is indeed accelerated.",0,,,1,science
+251c4o,3,This depends entirely on temperature. Once you get into constant 80-90f range CO2 supplementation dramatically increases the speed of plant growth. (Any indoor cannabis grower can attest to this.) It just doesnt do anything at average temps as the plant cant effectively use the extra CO2.,0,,,1,science
+251c4o,1,"Correct me if I'm wrong but as far as I'm aware plants don't respire using CO2, they create carbohydrates in photosynthesis using CO2. Then they break down those carbohydrates in respiration using oxygen and the normal citric acid cycle.
+
+Neither of these processes are directly linked to protein concentrations in food crops. It doesn't necessarily follow that creating more sugars for storage or growth would lead to increased protein synthesis in edible portion of the crop. ",0,,,9,science
+251c4o,1,Plants grow much larger with more carbon dioxide and have less nutrient concentration in their leaves as a result.  It has been the leading explanation for why insect diversity in the Pleistocene-Eocene Thermal Maximum 52 million years ago decreased.  Insects were simply not receiving enough nutrients in their diet and experienced decreased fecundity.,0,,,5,science
+251c4o,1,[deleted],0,,,5,science
+251c4o,2,"That makes a lot of sense, thank you.",0,,,2,science
+251c4o,2,Is it just that more CO2 -> more overall plant mass -> worse mass/nutrient ratio?,0,,,1,science
+251c4o,1,"Basically the extra CO2 makes it grow more quickly, meaning it's less densely packed with nutrients. ",0,,,42,science
+251c4o,2,I can tell you didn't read anything but the abstract. It's mentioned that this doesn't even increase yields.,0,,,3,science
+251c4o,3,I didn't say it increased yields. ,0,,,1,science
+251c4o,2,"So this could have also been titled ""Extra CO2 increases yields  in major food crops""?",0,,,34,science
+251c4o,3,"It doesn't increase yields either, which is mentioned at the bottom of the article:  
+  
+>Their recent summary on the impacts of global warming stated that the production of maize, wheat and rice will go down over the course of this century.  
+  
+So no, it couldn't have been titled that way.",0,,,13,science
+251c4o,4,"I think that these assumptions are based on other factors related to global warming &ndash; including drought, desertification, and ... warming &ndash; and not necessarily whether an increase in CO2 with no other changes would increase yields.
+
+That being said, there is no use having a conversation about the effect of increased CO2 on crop production without taking secondary and tertiary stresses caused by increased CO2 concentrations into account.",0,,,21,science
+251c4o,4,"it's factually true that CO2 increases yield.
+
+",0,,,12,science
+251c4o,5,"Only in the case where CO2 is the limiting factor for growth, which is extremely rare outside of the lab.  As I mentioned, the linked article links to the IPCC WGII AR5 Summary for Policymakers.  Excerpt:  
+  
+>[Page 13] Distribution of impacts: Risks are unevenly distributed and are generally greater for disadvantaged people and communities in countries at all levels of development. Risks are already moderate because of regionally differentiated climate-change impacts on crop production in particular (medium to high confidence). Based on projected decreases in regional crop yields and water availability, risks of unevenly distributed impacts are high for additional warming above 2°C (medium confidence).  
+>  
+>[Page 17-18] For the major crops (wheat, rice, and maize) in tropical and temperate regions, climate change without adaptation is projected to negatively impact production for local temperature increases of 2°C or more above late-20th-century levels, although individual locations may benefit (medium confidence). Projected impacts vary across crops and regions and adaptation scenarios, with about 10% of projections for the period 2030-2049 showing yield gains of more than 10%, and about 10% of projections showing yield losses of more than 25%, compared to the late 20th century. After 2050 the risk of more severe yield impacts increases and depends on the level of warming. See Figure SPM.7. Climate change is projected to progressively increase inter-annual variability of crop yields in many regions. These projected impacts will occur in the context of rapidly rising crop demand.  
+  
+",0,,,26,science
+251c4o,6,"If yield is not increased, then we are back to square one. Why is the nutrient content decreased?",0,,,8,science
+251c4o,7,"> If yield is not increased, then we are back to square one.  
+  
+More like square minus-one, with a decrease in nutrients and no supplementing increase in yield.  
+  
+>Why is the nutrient content decreased?  
+  
+The Nature article says the mechanism for reduced nutrients isn't clear, only that there appears to be a relationship between high CO^2 and reduced nutrient content.",0,,,11,science
+251c4o,8,"Ok, but if it's growing more quickly, couldn't we turn over crops more quickly?",0,,,6,science
+251c4o,9,"You'd have to ask an agricultural scientist, but I would imagine that there would be other limiting factors that would prevent it.  And is there any evidence that the crops grow more quickly in this scenario?",0,,,6,science
+251c4o,9,"I accidentally replied to the comment below this one, but I think this addresses your question.
+
+> Faster growth doesn't necessarily lead directly to higher yield since fast growth leads to more biomass, but yield is mostly related to seed production.
+
+> So, this situation would result in taller plants that produce fewer edible products (smaller corn cobs, fewer wheat grains, less soybeans).
+
+To add further, faster growth does not mean a faster lifecycle. It only means that more growth would happen during the same lifecycle. The speed of a lifecycles is controlled more by the seasonality of an area, which is much more dependent on the distance of a plant from the equator than the composition of the air around it.
+
+For example, many companies looking to grow up seed faster go to equatorial countries in South America because you can fully grow a corn field in ~90 days while the typical time from planting to harvest for corn in the U.S. is about double that.",0,,,3,science
+251c4o,9,"Could be, though I would imagine that in some areas the growing season might not allow for an extra crop to grow to completion.",0,,,2,science
+251c4o,9,"> Ok, but if it's growing more quickly, couldn't we turn over crops more quickly?
+
+Nope. The only way you're turning over crops more quickly is if you start from mature cuttings or the plant is genetically programmed for short seasons. There is still the factor of ripening time, proper conditions for triggering reproductive structures to form, etc.",0,,,2,science
+251c4o,9,"You could, but what would more likely happen would be that cultivars that can take advantage of longer growing seasons would be grown. So instead of planting 2 crops, we would still plant just 1 because it would have longer to grow even bigger. 
+
+I don't actually know which one would result in the most food at the end of the season, but I know growing that extra crop can be economically unfeasible for a farmer. That means you are doing twice the amount of work planting and harvesting per season, and all that fuel and labor isn't cheap. We need those guys to stay in business to keep growing food. 
+
+Currently in the Illinois, some people double crop winter wheat and soybeans, but those farmers are in the minority. It reduces the growing season of the soybean (which makes more money that wheat), and it can be too much to do for some people running a smaller operation. ",0,,,2,science
+251c4o,6,You are confusing variables of CO2 content and temperature,0,,,1,science
+251c4o,7,"I'm not confusing them, I'm explicitly taking them into consideration because they are relevant.",0,,,0,science
+251c4o,6,CO2 makes plants require less water. Therefore it increases their growth if water OR CO2 is the limiting factor to growth. [source](http://www.csiro.au/Portals/Media/Deserts-greening-from-rising-CO2.aspx),0,,,1,science
+251c4o,5,"heightened CO2 only increases yield in crops like soybeans that have a C3 photosynthetic mechanism. However, heightened CO2 in the atmosphere brings about a whole lot of other problems in the environment that would offset these gains such as drought and higher heat. 
+
+Crops like maize and sorghum on the other hand, would not benefit from heightened CO2 at all because they do C4 photosynthesis that already concentrates the CO2 before it reaches RUBISCO, the plant enzyme that initially grabs CO2 out of the air. So once again, the more extreme climate conditions due to global warming will also have an effect on C4 crops, and they don't even have the extra photosynthetic boost like the C3 crops will be getting",0,,,4,science
+251c4o,4,"Ah well, that's what I get for making judgements off what the comments are saying and not reading the article",0,,,0,science
+251c4o,3,"Possibly...in the same way that ""soaking in water increases yields in sliced ham"".
+
+I think the point here is that any increase in raw weight harvested is countered by a reduction in the actual nutrition contained in the harvested material.",0,,,1,science
+251c4o,2,That seems a reasonable assumption.,0,,,0,science
+251c4o,2,[deleted],0,,,1,science
+251c4o,3,It's a meta-analysis of FACE studies. They're the gold standard. ,0,,,5,science
+251c4o,4,"Which FACE site studied agriculture?
+Edit: Wikipedia mentions a Horsham FACE study but I can't find any details.",0,,,3,science
+251c4o,5,http://en.wikipedia.org/wiki/Free-air_concentration_enrichment,0,,,4,science
+251c4o,6,"I need details man!
+
+Here is the website for [SoyFACE] (http://www.igb.illinois.edu/soyface/results)
+
+Still looking for a link to the wheat study in Australia.",0,,,4,science
+251c4o,1,"""negative"" only makes sense when you think of it in terms of the crop producing nutrients for humans to eat. For its species, having that abundance is actually probably a detractor. Think of it this way: If a polar bear didn't live in such a harsh climate, it wouldn't grow ""so much food"" for humans to eat.",0,,,2,science
+251c4o,1,[removed],0,,,4,science
+251c4o,2,"You're correct. To those who find this counterintuitive: plants undergo cellular respiration to get energy. This still consumes oxygen. Photosynthesis consumes far greater co2 and produces far more o2 than the plant uses during respiration. However, cellular respiration still uses oxygen, in a plant or a fish or a bear.",0,,,3,science
+251c4o,1,"My assumption, which is pure speculation, was that the increased levels of CO2 means that the plant can be more efficient. For example, it may not need as many metabolic enzymes given the higher availability of CO2, meaning the plant would possess less protein.",0,,,1,science
+251c4o,1,"It's not *that* strange, try breathing 100% Oxygen and let us know how that goes for you (**NOTE:** DO NOT ACTUALLY TRY DOING THIS!!!). You've heard that saying ""too much of a good thing"" right? This is a real life example of it.",0,,,0,science
+251c4o,2,"That argument is strawman. The article never stated its 100% CO2, its a higher concentration of CO2, and yes it seem contradictory. ",0,,,2,science
+251c4o,3,"It's an exageration, not a straw man. Oxygen toxicity presents itself at much lower concentrations then 100%, the total saturation was only intended to make my point more obvious and since most people, including myself, don't know what that concentration is off hand I felt the number I present would be arbitrary. I'm sorry that you can't gather the meaning of this analogy without it being spelled out in crayon but that does not invalidate my point.",0,,,4,science
+251c4o,1,Shelfords law of tolerance.,0,,,-1,science
+251c4o,0,"Well, dwarf wheat (the variety used in the western world nowadays) was specifically selected to yield high amounts of calories (in the form of carbohydrate)s. Its nutritional value is way lower than that of more ancient forms of wheat, being far lower in most minerals (iron and zinc come to mind) and vitamins. 
+
+The easy solution to the aforementioned problem then is to grow the versions of crops which were not designed for optimal (carbohydrate) yield, but rather those that still contain the natural amount of nutrients.",0,,,15,science
+251c4o,1,"But then you move from malnutrition (not having the right nutrients) to undernourishment (aka starvation). While food may have less nutrient density, it still produces plenty of raw energy for consumption. If I was some poor third world farmer and given the option, I would risk not having the right vitamins than just starving to death. ",0,,,6,science
+251c4o,2,"But if the less carbohydrate full plant is growing larger because of the greater CO2, then doesn't it balance out? ",0,,,3,science
+251c4o,3,"But the CO2 concentration will be causing droughts, floods, and other effects which will reduce crop yields or make them less reliable. It's also not definite that more CO2 will increase growth - Studies in the lab don't necessarily translate to the outside world. Carbohydrate production requires water, if the amount of available water stays the same (or reduces) then I don't see how more CO2 could increase crop yield.",0,,,4,science
+251c4o,3,"You would think so, but apparently not. Surprising isn't it? I am expecting this to start a whole frenzy of new research",0,,,1,science
+251c4o,0,"As an example of how results of studies like this can be counterintuitive consider nitrogen in plant growth.  Most people think that increasing nitrogen availability in plants would always be a good thing.  It is not.  In some crops there is an optimum level and going beyond that reduces yields by increasing production of leaf instead of the fruit or vegetable that is wanted.  More is not always better.
+
+Genneraly the concentration of CO2 is not the limiting factor in plant growth anyway so more is not necessarily better in any but some greenhouse situations where all the relevant conditions can be controlled to maximize growth.  AGW denier claims that more will be beneficial are not backed by the data.",0,,,12,science
+251c4o,1,[deleted],0,,,-6,science
+251c4o,2,"Some studies do indicate dry mass increase but not so much real benefit under open air conditions.  They also show that more water is required to produce those results.  If AGW causes climate change in many regions to reduce available water the increase is moot.  I don't doubt that some places may experience improvements in production, such as some near polar regions but on average I do not expect increased CO2 levels to improve the situation globally.
+
+Some other points here:
+
+http://www.skepticalscience.com/co2-plant-food.htm",0,,,6,science
+251c4o,0,"How about we consider that the plants will adapt as concentration increases, and also that selective breeding may mitigate the effect.   In the end you can't say that plants 50 years from now will react the same way, only that today's plants, when subjected to a step increase in CO2, react in this manner. ",0,,,3,science
+251c4o,1,[removed],0,,,0,science
+251c4o,0,">They've grown 41 different varieties of grains and legumes in open fields, with levels of carbon dioxide expected in the middle of this century. 
+
+Can anyone with access to the full Nature article explain how the researchers accomplished this? ",0,,,5,science
+251c4o,1,"They achieved higher CO2 levels by using ""jets"" of CO2 in the field. I don't have access to the article, but that's what was said on NPR this morning. 
+
+Edit:
+>Samuel Myers, a researcher at Harvard's School of Public Health, says these experiments take place in open fields, ""except that in the field are placed rings of carbon dioxide jets."" These jets release just enough carbon dioxide to simulate the atmosphere that crops will almost> certainly experience 40 to 60 years from now.
+
+
+[Link](http://www.npr.org/blogs/thesalt/2014/05/08/310473928/less-nutritious-grains-may-be-in-our-future)
+
+",0,,,13,science
+251c4o,2,'Certainly'.  Whatever.,0,,,-7,science
+251c4o,3,"No, ""almost certainly"".",0,,,7,science
+251c4o,1,"They have these rings out in a midwestern corn belt field. Hoses are suspended  between metal stakes, and the hoses are connected to a central weather station that monitors wind speed and direction. The ring of hoses releases CO2 that is stored on the site and the elevated CO2 concentration blows across the research plot. If you want to see photos, google ""soyFACE""",0,,,3,science
+251c4o,1,"They compiled the results of [different independent FACE studies](http://en.wikipedia.org/wiki/Free-air_concentration_enrichment), they didn't do their own original research for each cultivar. ",0,,,2,science
+251c4o,2,Is that why this is categorised as Environment and not Biology?,0,,,3,science
+251c4o,3,"That was my thinking. It's how the plants are responding to an environmental change. If people think it'd be better labeled ""Biology"" I'm happy to change it!",0,,,2,science
+251c4o,0,So we will have more cake and less bread? We already remove much of the nutrient and protein intentionally when making flour to give a more consistent product and make the dough rise more. Cake floor (soft) least protein :all purpose flour less protein even milled wheat flour has protein intentionally removed for consistancy. It wont effect anyone's diet with the exception of the people milling their own wheat.,0,,,1,science
+251c4o,0,"CO2 levels are currently under 400ppm. For reference, 1500ppm is the ideal CO2 concentration for the growth of plants.",0,,,0,science
+251c4o,0,"We will have more to worry about by then, I'm sure. While 10% is significant, it isn't very significant. How much nutritional value is lost to genetic engineering? (Trading durable transit for flavor or shelf life is common...)",0,,,1,science
+251c4o,1,"There are always trade-offs, but it's common for GM to be used to improve nutritional content. See golden rice as the textbook example",0,,,2,science
+251c4o,1,"Genetic engineering itself does not presuppose any loss of nutritional value. On the other hand, selective breeding for certain desirable traits can and does privilege those traits over others which are deemed less important, like breeding for caloric yield over nutritional content.",0,,,1,science
+251c4o,0,Is there a chance that climate change will help us tackle our obesity problems in America?,0,,,0,science
+251c4o,1,[deleted],0,,,5,science
+251c4o,0,The biggest question here is why growers of marijuana use co2 to increase their yields then? Because it does make the plants grow better and have bigger and better buds. ,0,,,0,science
+251c4o,0,Does anyone have an on-line source to the full article? The assertion of lower nutritional value sounds fishy. Before buying this we should look closely at the method of investigation. ,0,,,0,science
+251c4o,0,"CO2 makes plants grow faster and bigger. That's why the very best indoor crops always use CO2.
+
+Many nutrients have gone down in the last century by over 50%.
+
+I think I'm willing to get 10% less vitamins if it means I get a fuck ton more food.
+
+",0,,,-11,science
+251c4o,1,"You should read the article and the top comments, they say something along the lines of ""higher CO2 concentrations don't increase yield as CO2 is not likely to be the limiting factor"".",0,,,5,science
+251c4o,2,"http://onlinelibrary.wiley.com/doi/10.1111/j.1469-8137.2004.01224.x/full   from the study or study of studies or whatever it is, see section V.",0,,,3,science

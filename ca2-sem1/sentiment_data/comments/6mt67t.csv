@@ -1,0 +1,51 @@
+post_id,level,body,gilded,likes,num_reports,score,subreddit
+6mt67t,0,"Everything is usually done by acre, but can vary wildly depending on the commodity. Some use boxes, lugs, bushels, and a ton of other things. 
+
+On my farm, usually stick to a ton per acre internally, while having to do cartons for pomegranates and ""paid tons"" on processing tomatoes. 
+
+I'd suggest sticking to metric, as you seem to, and us kilograms per square meter.",0,,,3,farming
+6mt67t,1,[deleted],0,,,1,farming
+6mt67t,2,Tomatoes for processing and not especially great. [Here's a link to the California Tomato Growers Association with a history of price per ton and average yields for the entire state.](http://www.ctga.org/statistics),0,,,2,farming
+6mt67t,2,"I actually picked the ""Magilas"" tomato since it grows in wet and dry season (Philippines) and harvests for 1-2mos",0,,,1,farming
+6mt67t,0,"Do you need actual numbers or the method to calculate?
+
+Often it is measured by doing mass / area.   It is easy to weigh a big basket instead of trying to count everything.   
+
+Also, how are people paid for their crops.   That is a number they have and they know the area.  
+
+Exact numbers vary a lot by methods.    I would check out the USDA for information.  ",0,,,2,farming
+6mt67t,0,[deleted],0,,,2,farming
+6mt67t,1,"I got the t/ha production rate per crop and converted it to kg/sqm.. then I will multiply it to the desired price per kg to get the sqm i need for the crop. Though I dont know if that is right.
+
+",0,,,1,farming
+6mt67t,2,"Your methodology sounds good to me.  Whether it is ""right"" or not depends on your application.  Who or what are you calculating yield for?",0,,,1,farming
+6mt67t,2,[deleted],0,,,1,farming
+6mt67t,3,"I have finalized the plants that I need for our urban agriculture. One thing that I cannot go pass through is that I dont know the priority of allotting the sqm per plant.   
+    
+Here is a table of my computations. My total sqm is 2400sqm   
+I need to know how do I distribute the 2400sqm for the crops.     
+http://imgur.com/a/VcliI
+",0,,,1,farming
+6mt67t,4,[deleted],0,,,1,farming
+6mt67t,5,"one last question, the t/ha values that I see online does not specify if it was per year or harvest per hectare. Do you know what is it actually?",0,,,1,farming
+6mt67t,6,[deleted],0,,,2,farming
+6mt67t,7,Ok thanks man! ,0,,,1,farming
+6mt67t,0,"Google it.  Almost every University extension has this info for free.  Broken down into either acre or 100 ft rows.  
+
+100 ft row of be lettuce yyields 100 heads
+100ft of beets 100 lbs
+
+
+This will vary greatly in a real world situation ",0,,,2,farming
+6mt67t,0,"I just googled ""how many squash can you grow per acre"" and found this http://sfp.ucdavis.edu/crops/coststudieshtml/BpSquashSummerSJV20042/ which contains the following line
+
+Yields.  The summer squash are picked small (zucchini 5-6 inches long, crookneck 1.25 – 2 inch diameter) and packed in 28-pound boxes.  The crop yields an average of 1,200 boxes per acre. =1200/4046 = .29 boxes per metere or 28*.29=8lbs per meter",0,,,2,farming
+6mt67t,0,"[Turnips](https://content.ces.ncsu.edu/turnips-and-rutabagas) look like a good yield is 75lbs/100ft^^2
+
+[Eggplant](http://sfp.ucdavis.edu/crops/coststudieshtml/eggplant/) looks like 1300 20/lb boxes per acre was most common result, but that yields are significantly variable depending on the year.
+
+Not sure what you mean by baby carrot. To me a baby carrot is a processed normal carrot where they take full size carrots and shave them down. Are you talking a variety I'm unfamikiar with, or are you just planning on harvesting them before full development? If its the latter you can take the yield for carrots, which google tells me is 12-14 tons per acre and reduce that by how much mass you're sacrificing by harvesting early. So if i harvest a carrot when its 1/4 its full size the resulting yield would be 3-3.5 tons per acre, though you could mitigate that at least some by increasing plamt density, as i would guess the spacing requirements would ne reduced. Not sure how much though.
+",0,,,2,farming
+6mt67t,0,I think it may be a good idea to reach out to a agriculture student/teacher if possible and fill them in on your project.  The answer to your question varies on what type of farming you plan on doing and many other factors. If you are looking for a max value to base load values off of for a rooftop farm or something then a UC extension webpage should help you find those values.  ,0,,,2,farming
+6mt67t,0,I got the t/ha production rate per crop and converted it to kg/sqm.. then I will multiply it to the desired price per kg to get the sqm i need for the crop. Though I dont know if that is right,0,,,1,farming
+6mt67t,0,Do you own research instead of asking us to do it for you,0,,,0,farming
