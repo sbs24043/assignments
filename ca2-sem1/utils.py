@@ -32,3 +32,6 @@ def do_basic_cleanup(df, drop_cols):
     except Exception as e:
       print(e)
     return df
+  
+# CONSTS
+PERCENTILE_LABELS = ["0-25%", "25-50%", "50-75%", "75-100%"]
