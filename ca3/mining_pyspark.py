@@ -1,6 +1,6 @@
 import argparse
-import os
-import sys
+# import os
+# import sys
 
 from pyspark.sql import SparkSession
 from pyspark.context import SparkContext
@@ -13,8 +13,8 @@ from pyspark.ml.regression import LinearRegression
 from pyspark.ml.classification import MultilayerPerceptronClassifier
 from pyspark.ml.evaluation import MulticlassClassificationEvaluator
 
-os.environ['PYSPARK_PYTHON'] = sys.executable
-os.environ['PYSPARK_DRIVER_PYTHON'] = sys.executable
+# os.environ['PYSPARK_PYTHON'] = sys.executable
+# os.environ['PYSPARK_DRIVER_PYTHON'] = sys.executable
 
 
 # python3 mining_pyspark.py --data_source=/Users/olenapleshan/data_analytics/ca3/Cleaned_MiningProcess_Flotation_Plant_Database.csv --output_uri=mining_output/sql --step=averages
@@ -25,7 +25,7 @@ def calculate_averages(data_source, output_uri):
     :param data_source: The URI of the Mining Process Flotation dataset, such as 's3://DOC-EXAMPLE-BUCKET/food-establishment-data.csv'.
     :param output_uri: The URI where output is written, such as 's3://DOC-EXAMPLE-BUCKET/restaurant_violation_results'.
     """
-    with SparkSession.builder.appName("Mining Flotation Averages").getOrCreate() as spark:
+    with SparkSession.builder.appName("MiningAvg").getOrCreate() as spark:
         # Load the mining flotation CSV data
         if data_source is not None:
             mining_df = spark.read.option("header", "true").csv(data_source)
@@ -48,7 +48,7 @@ def calculate_averages(data_source, output_uri):
 
 # python3 mining_pyspark.py --data_source=/Users/olenapleshan/data_analytics/ca3/Cleaned_MiningProcess_Flotation_Plant_Database.csv --output_uri=mining_output/libsvm --step=createlibsvm
 def create_libsvm(data_source, output_uri):
-    with SparkSession.builder.appName("Mining Flotation Averages").getOrCreate() as spark:
+    with SparkSession.builder.appName("MiningLibsvm").getOrCreate() as spark:
       # Load training data and convert to LibSVM format
       data = spark.read.option("header", "true").csv(data_source)
       data_rdd = data.rdd
@@ -64,7 +64,7 @@ def create_libsvm(data_source, output_uri):
 
 # python3 mining_pyspark.py --data_source=mining_output/libsvm/regression --output_uri=mining_output/ml-results --step=regression
 def create_regression(input_source, output_uri):
-    with SparkSession.builder.appName("Mining Flotation Averages").getOrCreate() as spark:
+    with SparkSession.builder.appName("MiningRegression").getOrCreate() as spark:
         # Split the data into train and test
         data = spark.read.format("libsvm").option("numFeatures", "22").load(input_source)
         lr = LinearRegression(maxIter=10, regParam=0.3, elasticNetParam=0.8)
@@ -92,7 +92,7 @@ def create_regression(input_source, output_uri):
 def create_classifier(input_source, output_uri):
     sc = SparkContext('local')
 
-    with SparkSession.builder.appName("Mining Flotation Averages").getOrCreate() as spark:
+    with SparkSession.builder.appName("MiningClassification").getOrCreate() as spark:
         # Split the data into train and test
         data = spark.read.format("libsvm").option("numFeatures", "22").load(input_source)
 
