@@ -1,3 +1,4 @@
+```mermaid
 graph TD
     A[Start] --> B[Load Data from MongoDB]
     B --> C[Preprocess Data]
@@ -10,6 +11,7 @@ graph TD
     I --> J[Make Predictions]
     J --> K[Display Predictions in Dashboard]
     K --> L[End]
+```
 
 
 Explanation:
