@@ -31,14 +31,19 @@ def read_data():
         .getOrCreate()
     
     # Read data from MongoDB
-    df = spark.read \
+    all_data = spark.read \
         .format("mongodb") \
         .option("uri", "mongodb://localhost:27017/stocks") \
         .option("database", "stocks") \
         .option("collection", "PROCESSED_DB") \
         .load()
     
-    # df.show()
+    all_data.createOrReplaceTempView("all_data")
+
+    tickers = spark.sql(
+        "SELECT ticker FROM all_data")
+    tickers.show()
+    # df.show(n=2)
 
 # python3 mining_pyspark.py --data_source=mining_output/libsvm/regression --output_uri=mining_output/ml-results --step=regression
 def create_regression(input_source, output_uri):
