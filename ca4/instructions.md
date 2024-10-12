@@ -27,3 +27,7 @@ Prepare Input Data: The input data is prepared based on the user-specified seque
 Make Predictions: The model makes predictions based on the prepared input data.
 Display Predictions in Dashboard: The predictions are displayed in the Dash dashboard.
 End: The process ends.
+End: The process ends.
+
+MongoDB:
+`brew services start mongodb-community@8.0`
