@@ -138,3 +138,60 @@ python benchmarking.py
 ```
 
 This script will connect to your MongoDB instance, perform the specified number of read operations, and print the average read time. Adjust the `MONGO_URI`, `DATABASE_NAME`, `COLLECTION_NAME`, and query parameters as needed based on your MongoDB setup and data schema.
+
+### Database comparison
+
+When deciding between using an SQL (relational) database and a NoSQL (non-relational) database like MongoDB to store data such as stock_df, sentiment_df, and merged_df, there are several tradeoffs to consider. Here are some key points:
+
+SQL Databases
+Advantages:
+Structured Data:
+
+SQL databases are ideal for structured data with a fixed schema. They enforce data integrity and relationships between tables using foreign keys.
+Suitable for stock_df if it has a well-defined schema with relationships.
+ACID Compliance:
+
+SQL databases provide strong consistency and support ACID (Atomicity, Consistency, Isolation, Durability) transactions, which are crucial for applications requiring reliable transactions.
+Complex Queries:
+
+SQL databases support complex queries, joins, and aggregations using SQL, making them powerful for data analysis and reporting.
+Mature Ecosystem:
+
+SQL databases have a mature ecosystem with robust tools for backup, recovery, and performance optimization.
+Disadvantages:
+Scalability:
+
+SQL databases can be challenging to scale horizontally (across multiple servers). They are typically scaled vertically (by adding more resources to a single server).
+Schema Rigidity:
+
+Changing the schema in an SQL database can be complex and time-consuming, especially with large datasets.
+NoSQL Databases (e.g., MongoDB)
+Advantages:
+Flexibility:
+
+NoSQL databases like MongoDB are schema-less, allowing for flexible and dynamic data models. This is useful for sentiment_df and merged_df if the data structure is expected to evolve.
+Scalability:
+
+NoSQL databases are designed for horizontal scalability, making it easier to distribute data across multiple servers.
+Performance:
+
+NoSQL databases can offer better performance for certain types of queries, especially when dealing with large volumes of unstructured or semi-structured data.
+Ease of Use:
+
+MongoDB's document-oriented model (using JSON-like documents) can be more intuitive for developers, especially when dealing with nested data structures.
+Disadvantages:
+Consistency:
+
+NoSQL databases often sacrifice strong consistency for eventual consistency to achieve higher availability and partition tolerance (CAP theorem). This may not be suitable for applications requiring immediate consistency.
+Complex Queries:
+
+NoSQL databases may not support complex queries and joins as efficiently as SQL databases. Aggregations and complex data manipulations can be more challenging.
+Tooling and Maturity:
+
+While improving, the ecosystem for NoSQL databases is generally less mature compared to SQL databases, with fewer tools for backup, recovery, and performance optimization.
+Use Cases for stock_df, sentiment_df, and merged_df
+stock_df: If this DataFrame has a well-defined schema with relationships (e.g., stock prices linked to companies), an SQL database might be more suitable.
+sentiment_df: If this DataFrame contains unstructured or semi-structured data (e.g., text data with sentiment scores), a NoSQL database like MongoDB could be more appropriate.
+merged_df: Depending on the structure and use case, either SQL or NoSQL could be suitable. If the merged data has a complex schema with relationships, SQL might be better. If it is more flexible and evolving, NoSQL could be advantageous.
+Conclusion
+The choice between SQL and NoSQL databases depends on the specific requirements of your application, including data structure, scalability needs, consistency requirements, and query complexity. For a mixed workload involving structured and unstructured data, you might even consider a hybrid approach, using both SQL and NoSQL databases to leverage the strengths of each.
