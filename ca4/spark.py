@@ -41,11 +41,11 @@ def read_data():
     all_data.createOrReplaceTempView("all_data")
 
     tickers = spark.sql(
-        "SELECT ticker FROM all_data")
-    tickers.show()
-    # df.show(n=2)
+        "SELECT * FROM all_data LIMIT 10")
+    
+    tickers.printSchema()
 
-# python3 mining_pyspark.py --data_source=mining_output/libsvm/regression --output_uri=mining_output/ml-results --step=regression
+# /usr/local/bin/python3.11 spark.py --step=train
 def create_regression(input_source, output_uri):
     with SparkSession.builder.appName("MiningRegression").getOrCreate() as spark:
         # Split the data into train and test
@@ -80,4 +80,8 @@ if __name__ == "__main__":
     args = parser.parse_args()
     
     if args.step == 'read':
+      read_data()
+    
+        
+    if args.step == 'train':
       read_data()
