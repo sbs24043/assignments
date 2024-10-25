@@ -45,34 +45,31 @@ def read_data():
     
     tickers.printSchema()
 
-# /usr/local/bin/python3.11 spark.py --step=train
-def create_regression(input_source, output_uri):
-    with SparkSession.builder.appName("MiningRegression").getOrCreate() as spark:
-        # Split the data into train and test
-        data = spark.read.format("libsvm").option("numFeatures", "22").load(input_source)
-        lr = LinearRegression(maxIter=10, regParam=0.3, elasticNetParam=0.8)
-
-        # Fit the model
-        lrModel = lr.fit(data)
-
-        # Print the coefficients and intercept for linear regression
-        print("Coefficients: %s" % str(lrModel.coefficients))
-        print("Intercept: %s" % str(lrModel.intercept))
-
-        # Summarize the model over the training set and print out some metrics
-        trainingSummary = lrModel.summary
-        print("numIterations: %d" % trainingSummary.totalIterations)
-        print("objectiveHistory: %s" % str(trainingSummary.objectiveHistory))
-        trainingSummary.residuals.show()
-        print("RMSE: %f" % trainingSummary.rootMeanSquaredError)
-        print("r2: %f" % trainingSummary.r2)
-
-        lrModel.write().overwrite().save(output_uri + "/regression")
-
+    # Query 1: Select all columns
+    query1 = spark.sql("SELECT * FROM all_data")
+    query1.show()
+    
+    # Query 2: Count the number of rows
+    query2 = spark.sql("SELECT COUNT(*) AS row_count FROM all_data")
+    query2.show()
+    
+    # Query 3: Calculate the average bert_score of the bert_score column
+    query3 = spark.sql("SELECT AVG(bert_score) AS avg_score FROM all_data")
+    query3.show()
+    
+    # Query 4: Find the maximum bert_score of the bert_score column
+    query4 = spark.sql("SELECT MAX(bert_score) AS max_bert_score FROM all_data GROUP BY ticker")
+    query4.show()
+    
+    # Query 5: Select stocks with large bert_score
+    query5 = spark.sql("SELECT date, close, ticker FROM all_data WHERE bert_score > 0.5")
+    query5.show()
+    
+    # Stop the Spark session
+    spark.stop()
 
 
 # To run locally:
-# python3 mining_pyspark.py --data_source=/Users/olenapleshan/data_analytics/ca3/Cleaned_MiningProcess_Flotation_Plant_Database.csv --output_uri=mining_output.txt --step=averages
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument(
@@ -80,8 +77,4 @@ if __name__ == "__main__":
     args = parser.parse_args()
     
     if args.step == 'read':
-      read_data()
-    
-        
-    if args.step == 'train':
       read_data()
