@@ -1,0 +1,5068 @@
+[
+    {
+        "id": "roboflow-100/4-fold-defect",
+        "type": "object-detection",
+        "name": "4-fold defect",
+        "created": 1658340141.164,
+        "updated": 1683411556.439,
+        "images": 670,
+        "unannotated": 0,
+        "annotation": "4-fold-defect",
+        "versions": 2,
+        "public": true,
+        "multilabel": false,
+        "license": "CC BY 4.0",
+        "splits": {
+            "valid": 134,
+            "test": 33,
+            "export": 0,
+            "train": 503
+        },
+        "colors": {
+            "4-fold defect": "#C7FC00"
+        },
+        "classes": {
+            "4-fold defect": 12025
+        },
+        "icon": {
+            "original": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/NHlPLE9SYIWnq7Xsh5c5/original.jpg",
+            "thumb": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/NHlPLE9SYIWnq7Xsh5c5/thumb.jpg",
+            "annotation": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/NHlPLE9SYIWnq7Xsh5c5/annotation-4-fold-defect.png"
+        },
+        "preprocessing": {},
+        "augmentation": {}
+    },
+    {
+        "id": "roboflow-100/abdomen-mri",
+        "type": "object-detection",
+        "name": "abdomen MRI",
+        "created": 1658337604.576,
+        "updated": 1683423801.784,
+        "images": 2604,
+        "unannotated": 0,
+        "annotation": "abdomen-MRI",
+        "versions": 2,
+        "public": true,
+        "multilabel": false,
+        "license": "CC BY 4.0",
+        "splits": {
+            "valid": 479,
+            "test": 238,
+            "export": 0,
+            "train": 1887
+        },
+        "colors": {
+            "0": "#C7FC00"
+        },
+        "classes": {
+            "0": 2645
+        },
+        "icon": {
+            "original": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/nT0MAMhHSvZOiaqBkBMD/original.jpg",
+            "thumb": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/nT0MAMhHSvZOiaqBkBMD/thumb.jpg",
+            "annotation": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/nT0MAMhHSvZOiaqBkBMD/annotation-abdomen-MRI.png"
+        },
+        "preprocessing": {},
+        "augmentation": {}
+    },
+    {
+        "id": "roboflow-100/acl-x-ray",
+        "type": "object-detection",
+        "name": "acl x-ray",
+        "created": 1658336053.392,
+        "updated": 1683422437.257,
+        "images": 3059,
+        "unannotated": 0,
+        "annotation": "acl-x-ray",
+        "versions": 2,
+        "public": true,
+        "multilabel": false,
+        "license": "CC BY 4.0",
+        "splits": {
+            "valid": 612,
+            "test": 306,
+            "export": 0,
+            "train": 2141
+        },
+        "colors": {
+            "acl": "#C7FC00"
+        },
+        "classes": {
+            "acl": 3059
+        },
+        "icon": {
+            "original": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/3P4umnafJo5T7IC7QJDO/original.jpg",
+            "thumb": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/3P4umnafJo5T7IC7QJDO/thumb.jpg",
+            "annotation": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/3P4umnafJo5T7IC7QJDO/annotation-acl-x-ray.png"
+        },
+        "preprocessing": {},
+        "augmentation": {}
+    },
+    {
+        "id": "roboflow-100/activity-diagrams-qdobr",
+        "type": "object-detection",
+        "name": "activity diagrams",
+        "created": 1658252360.932,
+        "updated": 1683423525.445,
+        "images": 378,
+        "unannotated": 0,
+        "annotation": "activity-diagrams",
+        "versions": 2,
+        "public": true,
+        "multilabel": false,
+        "license": "CC BY 4.0",
+        "splits": {
+            "valid": 74,
+            "test": 45,
+            "export": 0,
+            "train": 259
+        },
+        "colors": {
+            "decision_node": "#C7FC00",
+            "signal_send": "#FE0056",
+            "activity": "#8622FF",
+            "commeent": "#00FFCE",
+            "control_flowcontrol_flow": "#0E7AFE",
+            "start_node": "#FF00FF",
+            "final_node": "#FF00FF",
+            "merge_noode": "#FF8000",
+            "control_flow": "#00B7EB",
+            "fork": "#CCCCCC",
+            "null": "#0000FF",
+            "merge": "#00FFCE",
+            "object_flow": "#8622FF",
+            "exit_node": "#FFABAB",
+            "final_flow_node": "#FFFF00",
+            "action": "#00B7EB",
+            "text": "#C7FC00",
+            "signal_recept": "#FE0056",
+            "object": "#FF8000"
+        },
+        "classes": {
+            "decision_node": 449,
+            "signal_send": 17,
+            "activity": 1286,
+            "commeent": 67,
+            "control_flowcontrol_flow": 12,
+            "start_node": 360,
+            "final_node": 364,
+            "merge_noode": 124,
+            "control_flow": 4177,
+            "fork": 160,
+            "null": 3,
+            "merge": 157,
+            "object_flow": 14,
+            "exit_node": 7,
+            "final_flow_node": 16,
+            "action": 903,
+            "text": 462,
+            "signal_recept": 26,
+            "object": 39
+        },
+        "icon": {
+            "original": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/X9p0bjmoe3NDScVo5qec/original.jpg",
+            "thumb": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/X9p0bjmoe3NDScVo5qec/thumb.jpg",
+            "annotation": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/X9p0bjmoe3NDScVo5qec/annotation-activity-diagrams.png"
+        },
+        "preprocessing": {},
+        "augmentation": {}
+    },
+    {
+        "id": "roboflow-100/aerial-cows",
+        "type": "object-detection",
+        "name": "aerial cows",
+        "created": 1658290028.277,
+        "updated": 1683422756.301,
+        "images": 1723,
+        "unannotated": 0,
+        "annotation": "aerial-cows",
+        "versions": 2,
+        "public": true,
+        "multilabel": false,
+        "license": "CC BY 4.0",
+        "splits": {
+            "valid": 340,
+            "test": 299,
+            "export": 0,
+            "train": 1084
+        },
+        "colors": {
+            "cow": "#C7FC00"
+        },
+        "classes": {
+            "cow": 15860
+        },
+        "icon": {
+            "original": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/kaTjiekubRNgiIZFPEP9/original.jpg",
+            "thumb": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/kaTjiekubRNgiIZFPEP9/thumb.jpg",
+            "annotation": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/kaTjiekubRNgiIZFPEP9/annotation-aerial-cows.png"
+        },
+        "preprocessing": {},
+        "augmentation": {}
+    },
+    {
+        "id": "roboflow-100/aerial-pool",
+        "type": "object-detection",
+        "name": "aerial pool",
+        "created": 1658288566.042,
+        "updated": 1683423393.542,
+        "images": 946,
+        "unannotated": 0,
+        "annotation": "aerial-pool",
+        "versions": 4,
+        "public": true,
+        "multilabel": false,
+        "license": "CC BY 4.0",
+        "splits": {
+            "valid": 177,
+            "test": 96,
+            "export": 0,
+            "train": 673
+        },
+        "colors": {
+            "bodyunder": "#FF8000",
+            "white-hat": "#FF00FF",
+            "black-hat": "#FE0056",
+            "swimmer": "#C7FC00",
+            "body": "#00B7EB",
+            "bodysurface": "#8622FF",
+            "umpire": "#00FFCE"
+        },
+        "classes": {
+            "bodyunder": 1333,
+            "white-hat": 2202,
+            "swimmer": 10,
+            "black-hat": 2538,
+            "body": 24,
+            "bodysurface": 6599,
+            "umpire": 548
+        },
+        "icon": {
+            "original": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/DX9LhDhMbFjCBw3WlEVa/original.jpg",
+            "thumb": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/DX9LhDhMbFjCBw3WlEVa/thumb.jpg",
+            "annotation": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/DX9LhDhMbFjCBw3WlEVa/annotation-aerial-pool.png"
+        },
+        "preprocessing": {
+            "remap": {
+                "labels": {
+                    "swimmer": {
+                        "omit": true
+                    },
+                    "body": {
+                        "omit": true
+                    }
+                }
+            }
+        },
+        "augmentation": {}
+    },
+    {
+        "id": "roboflow-100/aerial-spheres",
+        "type": "object-detection",
+        "name": "aerial spheres",
+        "created": 1658290282.873,
+        "updated": 1683422391.577,
+        "images": 473,
+        "unannotated": 0,
+        "annotation": "aerial-spheres",
+        "versions": 2,
+        "public": true,
+        "multilabel": false,
+        "license": "CC BY 4.0",
+        "splits": {
+            "valid": 104,
+            "test": 51,
+            "export": 0,
+            "train": 318
+        },
+        "colors": {
+            "purple_sphero": "#FF8000",
+            "orange_sphero": "#FF00FF",
+            "green_sphero": "#FE0056",
+            "orange-sphero": "#C7FC00",
+            "red_sphero": "#00FFCE",
+            "yellow_sphero": "#8622FF"
+        },
+        "classes": {
+            "purple_sphero": 263,
+            "orange_sphero": 458,
+            "orange-sphero": 1,
+            "red_sphero": 416,
+            "green_sphero": 262,
+            "yellow_sphero": 463
+        },
+        "icon": {
+            "original": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/fi9nawqXTiKEvk2h6GqH/original.jpg",
+            "thumb": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/fi9nawqXTiKEvk2h6GqH/thumb.jpg",
+            "annotation": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/fi9nawqXTiKEvk2h6GqH/annotation-aerial-spheres.png"
+        },
+        "preprocessing": {},
+        "augmentation": {}
+    },
+    {
+        "id": "roboflow-100/animals-ij5d2",
+        "type": "object-detection",
+        "name": "animals",
+        "created": 1658527793.251,
+        "updated": 1683422446.951,
+        "images": 1000,
+        "unannotated": 0,
+        "annotation": "animals",
+        "versions": 2,
+        "public": true,
+        "multilabel": false,
+        "license": "CC BY 4.0",
+        "splits": {
+            "valid": 200,
+            "test": 100,
+            "export": 0,
+            "train": 700
+        },
+        "colors": {
+            "horse": "#FFABAB",
+            "chicken": "#00B7EB",
+            "racoon": "#00FFCE",
+            "person": "#0E7AFE",
+            "cat": "#C7FC00",
+            "cow": "#FE0056",
+            "goat": "#8622FF",
+            "skunk": "#FF8000",
+            "dog": "#FFFF00",
+            "fox": "#FF00FF"
+        },
+        "classes": {
+            "horse": 170,
+            "chicken": 214,
+            "racoon": 126,
+            "person": 232,
+            "cat": 110,
+            "cow": 207,
+            "goat": 175,
+            "skunk": 102,
+            "dog": 144,
+            "fox": 109
+        },
+        "icon": {
+            "original": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/Bluk1TJ296F5D0saa3he/original.jpg",
+            "thumb": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/Bluk1TJ296F5D0saa3he/thumb.jpg",
+            "annotation": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/Bluk1TJ296F5D0saa3he/annotation-animals.png"
+        },
+        "preprocessing": {},
+        "augmentation": {}
+    },
+    {
+        "id": "roboflow-100/apex-videogame",
+        "type": "object-detection",
+        "name": "apex videogame",
+        "created": 1658179078.64,
+        "updated": 1683422446.539,
+        "images": 3689,
+        "unannotated": 0,
+        "annotation": "apex-game",
+        "versions": 2,
+        "public": true,
+        "multilabel": false,
+        "license": "CC BY 4.0",
+        "splits": {
+            "valid": 691,
+            "test": 415,
+            "export": 0,
+            "train": 2583
+        },
+        "colors": {
+            "avatar": "#C7FC00",
+            "object": "#FF00FF"
+        },
+        "classes": {
+            "avatar": 3782,
+            "object": 602
+        },
+        "icon": {
+            "original": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/NPNUJYFCeIbisblGZsG1/original.jpg",
+            "thumb": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/NPNUJYFCeIbisblGZsG1/thumb.jpg",
+            "annotation": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/NPNUJYFCeIbisblGZsG1/annotation-apex-game.png"
+        },
+        "preprocessing": {},
+        "augmentation": {}
+    },
+    {
+        "id": "roboflow-100/apples-fvpl5",
+        "type": "object-detection",
+        "name": "apples",
+        "created": 1658765579.708,
+        "updated": 1683422602.654,
+        "images": 697,
+        "unannotated": 0,
+        "annotation": "apples",
+        "versions": 2,
+        "public": true,
+        "multilabel": false,
+        "license": "CC BY 4.0",
+        "splits": {
+            "valid": 178,
+            "test": 30,
+            "export": 0,
+            "train": 489
+        },
+        "colors": {
+            "apple": "#C7FC00",
+            "damaged_apple": "#FF00FF"
+        },
+        "classes": {
+            "apple": 2183,
+            "damaged_apple": 710
+        },
+        "icon": {
+            "original": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/70Q4ERLWSx5z2AFQkEmn/original.jpg",
+            "thumb": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/70Q4ERLWSx5z2AFQkEmn/thumb.jpg",
+            "annotation": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/70Q4ERLWSx5z2AFQkEmn/annotation-apples.png"
+        },
+        "preprocessing": {},
+        "augmentation": {}
+    },
+    {
+        "id": "roboflow-100/aquarium-qlnqy",
+        "type": "object-detection",
+        "name": "aquarium",
+        "created": 1658944482.796,
+        "updated": 1683423270.646,
+        "images": 638,
+        "unannotated": 0,
+        "annotation": "aquarium",
+        "versions": 2,
+        "public": true,
+        "multilabel": false,
+        "license": "CC BY 4.0",
+        "splits": {
+            "valid": 127,
+            "test": 63,
+            "export": 0,
+            "train": 448
+        },
+        "colors": {
+            "shark": "#8622FF",
+            "jellyfish": "#FF8000",
+            "puffin": "#FF00FF",
+            "fish": "#C7FC00",
+            "starfish": "#00FFCE",
+            "stingray": "#00B7EB",
+            "penguin": "#FE0056"
+        },
+        "classes": {
+            "shark": 354,
+            "jellyfish": 694,
+            "puffin": 284,
+            "fish": 2673,
+            "starfish": 116,
+            "stingray": 184,
+            "penguin": 516
+        },
+        "icon": {
+            "original": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/UTrl75krSySq9LtYdIlz/original.jpg",
+            "thumb": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/UTrl75krSySq9LtYdIlz/thumb.jpg",
+            "annotation": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/UTrl75krSySq9LtYdIlz/annotation-aquarium.png"
+        },
+        "preprocessing": {},
+        "augmentation": {}
+    },
+    {
+        "id": "roboflow-100/asbestos",
+        "type": "object-detection",
+        "name": "asbestos",
+        "created": 1659540164.659,
+        "updated": 1683422064.655,
+        "images": 1331,
+        "unannotated": 0,
+        "annotation": "asbestos",
+        "versions": 2,
+        "public": true,
+        "multilabel": false,
+        "license": "CC BY 4.0",
+        "splits": {
+            "valid": 266,
+            "test": 133,
+            "export": 0,
+            "train": 932
+        },
+        "colors": {
+            "thin-light-mark": "#FF00FF",
+            "thick-light-mark": "#8622FF",
+            "thick-dark-mark": "#C7FC00",
+            "thin-dark-mark": "#FE0056"
+        },
+        "classes": {
+            "thin-light-mark": 817,
+            "thick-light-mark": 5911,
+            "thick-dark-mark": 1752,
+            "thin-dark-mark": 971
+        },
+        "icon": {
+            "original": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/662TwE2O1kph2pSHEZvU/original.jpg",
+            "thumb": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/662TwE2O1kph2pSHEZvU/thumb.jpg",
+            "annotation": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/662TwE2O1kph2pSHEZvU/annotation-asbestos.png"
+        },
+        "preprocessing": {},
+        "augmentation": {}
+    },
+    {
+        "id": "roboflow-100/avatar-recognition-nuexe",
+        "type": "object-detection",
+        "name": "avatar recognition",
+        "created": 1658183740.533,
+        "updated": 1683422388.594,
+        "images": 314,
+        "unannotated": 0,
+        "annotation": "avatar",
+        "versions": 2,
+        "public": true,
+        "multilabel": false,
+        "license": "CC BY 4.0",
+        "splits": {
+            "valid": 59,
+            "test": 30,
+            "export": 0,
+            "train": 225
+        },
+        "colors": {
+            "Character": "#C7FC00"
+        },
+        "classes": {
+            "Character": 903
+        },
+        "icon": {
+            "original": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/rAwHWXF6Fur0yMqhtCef/original.jpg",
+            "thumb": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/rAwHWXF6Fur0yMqhtCef/thumb.jpg",
+            "annotation": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/rAwHWXF6Fur0yMqhtCef/annotation-avatar.png"
+        },
+        "preprocessing": {},
+        "augmentation": {}
+    },
+    {
+        "id": "roboflow-100/axial-mri",
+        "type": "object-detection",
+        "name": "axial MRI",
+        "created": 1658338564.38,
+        "updated": 1722545782.633,
+        "images": 371,
+        "unannotated": 0,
+        "annotation": "axial-MRI",
+        "versions": 2,
+        "public": true,
+        "multilabel": false,
+        "license": "CC BY 4.0",
+        "splits": {
+            "valid": 79,
+            "test": 39,
+            "export": 0,
+            "train": 253
+        },
+        "colors": {
+            "negative": "#C7FC00",
+            "positive": "#FF00FF"
+        },
+        "classes": {
+            "negative": 204,
+            "positive": 186
+        },
+        "icon": {
+            "original": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/ZmQ1TgzOlxF4hw2NEQfj/original.jpg",
+            "thumb": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/ZmQ1TgzOlxF4hw2NEQfj/thumb.jpg",
+            "annotation": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/ZmQ1TgzOlxF4hw2NEQfj/annotation-axial-MRI.png"
+        },
+        "preprocessing": {},
+        "augmentation": {}
+    },
+    {
+        "id": "roboflow-100/bacteria-ptywi",
+        "type": "object-detection",
+        "name": "bacteria",
+        "created": 1658340423.492,
+        "updated": 1683422493.848,
+        "images": 50,
+        "unannotated": 0,
+        "annotation": "bacteria",
+        "versions": 2,
+        "public": true,
+        "multilabel": false,
+        "license": "CC BY 4.0",
+        "splits": {
+            "valid": 10,
+            "test": 10,
+            "export": 0,
+            "train": 30
+        },
+        "colors": {
+            "Str_pne": "#C7FC00"
+        },
+        "classes": {
+            "Str_pne": 2943
+        },
+        "icon": {
+            "original": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/9UnDDACoP7AywYEArM2B/original.jpg",
+            "thumb": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/9UnDDACoP7AywYEArM2B/thumb.jpg",
+            "annotation": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/9UnDDACoP7AywYEArM2B/annotation-bacteria.png"
+        },
+        "preprocessing": {},
+        "augmentation": {}
+    },
+    {
+        "id": "roboflow-100/bccd-ouzjz",
+        "type": "object-detection",
+        "name": "bccd",
+        "created": 1658949716.701,
+        "updated": 1683423291.463,
+        "images": 364,
+        "unannotated": 0,
+        "annotation": "bccd",
+        "versions": 2,
+        "public": true,
+        "multilabel": false,
+        "license": "CC BY 4.0",
+        "splits": {
+            "valid": 73,
+            "test": 36,
+            "export": 0,
+            "train": 255
+        },
+        "colors": {
+            "RBC": "#FF00FF",
+            "WBC": "#C7FC00",
+            "Platelets": "#8622FF"
+        },
+        "classes": {
+            "RBC": 4155,
+            "WBC": 372,
+            "Platelets": 361
+        },
+        "icon": {
+            "original": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/p6mGalvR5afvlu2mgdzq/original.jpg",
+            "thumb": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/p6mGalvR5afvlu2mgdzq/thumb.jpg",
+            "annotation": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/p6mGalvR5afvlu2mgdzq/annotation-bccd.png"
+        },
+        "preprocessing": {},
+        "augmentation": {}
+    },
+    {
+        "id": "roboflow-100/bees-jt5in",
+        "type": "object-detection",
+        "name": "bees",
+        "created": 1659541631.987,
+        "updated": 1683421996.321,
+        "images": 8080,
+        "unannotated": 0,
+        "annotation": "bees",
+        "versions": 2,
+        "public": true,
+        "multilabel": false,
+        "license": "CC BY 4.0",
+        "splits": {
+            "valid": 1604,
+            "test": 836,
+            "export": 0,
+            "train": 5640
+        },
+        "colors": {
+            "bees": "#C7FC00"
+        },
+        "classes": {
+            "bees": 9756
+        },
+        "icon": {
+            "original": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/qaRp4Qpxl2DlJEJBLQTa/original.jpg",
+            "thumb": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/qaRp4Qpxl2DlJEJBLQTa/thumb.jpg",
+            "annotation": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/qaRp4Qpxl2DlJEJBLQTa/annotation-bees.png"
+        },
+        "preprocessing": {},
+        "augmentation": {}
+    },
+    {
+        "id": "roboflow-100/bone-fracture-7fylg",
+        "type": "object-detection",
+        "name": "bone fracture",
+        "created": 1658513556.615,
+        "updated": 1683423487.057,
+        "images": 458,
+        "unannotated": 0,
+        "annotation": "bone-fracture",
+        "versions": 2,
+        "public": true,
+        "multilabel": false,
+        "license": "CC BY 4.0",
+        "splits": {
+            "valid": 88,
+            "test": 44,
+            "export": 0,
+            "train": 326
+        },
+        "colors": {
+            "line": "#FF00FF",
+            "messed_up_angle": "#C7FC00",
+            "angle": "#8622FF",
+            "fracture": "#FE0056"
+        },
+        "classes": {
+            "line": 164,
+            "messed_up_angle": 70,
+            "angle": 41,
+            "fracture": 326
+        },
+        "icon": {
+            "original": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/cX6wAHQuFh3AcrWcbzdr/original.jpg",
+            "thumb": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/cX6wAHQuFh3AcrWcbzdr/thumb.jpg",
+            "annotation": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/cX6wAHQuFh3AcrWcbzdr/annotation-bone-fracture.png"
+        },
+        "preprocessing": {},
+        "augmentation": {}
+    },
+    {
+        "id": "roboflow-100/brain-tumor-m2pbp",
+        "type": "object-detection",
+        "name": "brain tumor",
+        "created": 1658336383.291,
+        "updated": 1683423025.582,
+        "images": 9900,
+        "unannotated": 0,
+        "annotation": "brain-tumor",
+        "versions": 2,
+        "public": true,
+        "multilabel": false,
+        "license": "CC BY 4.0",
+        "splits": {
+            "valid": 1980,
+            "test": 990,
+            "export": 0,
+            "train": 6930
+        },
+        "colors": {
+            "label0": "#FF00FF",
+            "label1": "#C7FC00",
+            "label2": "#8622FF"
+        },
+        "classes": {
+            "label0": 6214,
+            "label1": 9778,
+            "label2": 5896
+        },
+        "icon": {
+            "original": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/QWepZcdKDPidZpDzTRez/original.jpg",
+            "thumb": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/QWepZcdKDPidZpDzTRez/thumb.jpg",
+            "annotation": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/QWepZcdKDPidZpDzTRez/annotation-brain-tumor.png"
+        },
+        "preprocessing": {},
+        "augmentation": {}
+    },
+    {
+        "id": "roboflow-100/cable-damage",
+        "type": "object-detection",
+        "name": "cable damage",
+        "created": 1658527584.395,
+        "updated": 1683422305.758,
+        "images": 1318,
+        "unannotated": 0,
+        "annotation": "cable-damage",
+        "versions": 2,
+        "public": true,
+        "multilabel": false,
+        "license": "CC BY 4.0",
+        "splits": {
+            "valid": 265,
+            "test": 134,
+            "export": 0,
+            "train": 919
+        },
+        "colors": {
+            "break": "#FF00FF",
+            "thunderbolt": "#C7FC00"
+        },
+        "classes": {
+            "break": 822,
+            "thunderbolt": 690
+        },
+        "icon": {
+            "original": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/WZf144YJXelirC8pdS5K/original.jpg",
+            "thumb": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/WZf144YJXelirC8pdS5K/thumb.jpg",
+            "annotation": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/WZf144YJXelirC8pdS5K/annotation-cable-damage.png"
+        },
+        "preprocessing": {},
+        "augmentation": {}
+    },
+    {
+        "id": "roboflow-100/cables-nl42k",
+        "type": "object-detection",
+        "name": "cables",
+        "created": 1658174684.326,
+        "updated": 1683422982.586,
+        "images": 6830,
+        "unannotated": 0,
+        "annotation": "cables",
+        "versions": 2,
+        "public": true,
+        "multilabel": false,
+        "license": "CC BY 4.0",
+        "splits": {
+            "valid": 1220,
+            "test": 794,
+            "export": 0,
+            "train": 4816
+        },
+        "colors": {
+            "BFU": "#FF00FF",
+            "PDU": "#00B7EB",
+            "BBS": "#0000FF",
+            "PCF": "#8622FF",
+            "RBS": "#FFFF00",
+            "PSU": "#C7FC00",
+            "Batterie": "#FE0056",
+            "DDF": "#00FFCE",
+            "PCU DC": "#0E7AFE",
+            "PCU AC": "#FF8000",
+            "Antenne": "#FFABAB"
+        },
+        "classes": {
+            "BFU": 338,
+            "PDU": 356,
+            "PCF": 348,
+            "RBS": 1382,
+            "BBS": 649,
+            "PSU": 915,
+            "Batterie": 4694,
+            "DDF": 353,
+            "PCU DC": 263,
+            "PCU AC": 383,
+            "Antenne": 2550
+        },
+        "icon": {
+            "original": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/nBoxnEvCDBrgTwywwDqm/original.jpg",
+            "thumb": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/nBoxnEvCDBrgTwywwDqm/thumb.jpg",
+            "annotation": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/nBoxnEvCDBrgTwywwDqm/annotation-cables.png"
+        },
+        "preprocessing": {},
+        "augmentation": {}
+    },
+    {
+        "id": "roboflow-100/cavity-rs0uf",
+        "type": "object-detection",
+        "name": "cavity",
+        "created": 1658454460.574,
+        "updated": 1683422638.102,
+        "images": 418,
+        "unannotated": 0,
+        "annotation": "cavity",
+        "versions": 3,
+        "public": true,
+        "multilabel": false,
+        "license": "CC BY 4.0",
+        "splits": {
+            "valid": 93,
+            "test": 38,
+            "export": 0,
+            "train": 287
+        },
+        "colors": {
+            "normal": "#C7FC00",
+            "cavity": "#FF00FF"
+        },
+        "classes": {
+            "normal": 2982,
+            "cavity": 2039
+        },
+        "icon": {
+            "original": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/f5tHjArSCqVs7wtbsq5s/original.jpg",
+            "thumb": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/f5tHjArSCqVs7wtbsq5s/thumb.jpg",
+            "annotation": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/f5tHjArSCqVs7wtbsq5s/annotation-cavity.png"
+        },
+        "preprocessing": {},
+        "augmentation": {}
+    },
+    {
+        "id": "roboflow-100/cell-towers",
+        "type": "object-detection",
+        "name": "cell towers",
+        "created": 1659495544.114,
+        "updated": 1683422137.413,
+        "images": 1008,
+        "unannotated": 0,
+        "annotation": "pieces",
+        "versions": 2,
+        "public": true,
+        "multilabel": false,
+        "license": "CC BY 4.0",
+        "splits": {
+            "valid": 202,
+            "test": 101,
+            "export": 0,
+            "train": 705
+        },
+        "colors": {
+            "side": "#FF00FF",
+            "joint": "#C7FC00"
+        },
+        "classes": {
+            "side": 417,
+            "joint": 4147
+        },
+        "icon": {
+            "original": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/ClkBuI6Rc66jLjsR9pGx/original.jpg",
+            "thumb": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/ClkBuI6Rc66jLjsR9pGx/thumb.jpg",
+            "annotation": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/ClkBuI6Rc66jLjsR9pGx/annotation-pieces.png"
+        },
+        "preprocessing": {},
+        "augmentation": {}
+    },
+    {
+        "id": "roboflow-100/cells-uyemf",
+        "type": "object-detection",
+        "name": "cells",
+        "created": 1658339680.823,
+        "updated": 1683422235.608,
+        "images": 22,
+        "unannotated": 0,
+        "annotation": "cells",
+        "versions": 2,
+        "public": true,
+        "multilabel": false,
+        "license": "CC BY 4.0",
+        "splits": {
+            "valid": 4,
+            "test": 2,
+            "export": 0,
+            "train": 16
+        },
+        "colors": {
+            "celula": "#C7FC00"
+        },
+        "classes": {
+            "celula": 2258
+        },
+        "icon": {
+            "original": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/ItDjsHfSYmr1rT3zaHHs/original.jpg",
+            "thumb": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/ItDjsHfSYmr1rT3zaHHs/thumb.jpg",
+            "annotation": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/ItDjsHfSYmr1rT3zaHHs/annotation-cells.png"
+        },
+        "preprocessing": {},
+        "augmentation": {}
+    },
+    {
+        "id": "roboflow-100/chess-pieces-mjzgj",
+        "type": "object-detection",
+        "name": "chess pieces",
+        "created": 1658949165.392,
+        "updated": 1683423121.994,
+        "images": 289,
+        "unannotated": 0,
+        "annotation": "chess-pieces",
+        "versions": 2,
+        "public": true,
+        "multilabel": false,
+        "license": "CC BY 4.0",
+        "splits": {
+            "valid": 58,
+            "test": 29,
+            "export": 0,
+            "train": 202
+        },
+        "colors": {
+            "black-queen": "#C7FC00",
+            "white-bishop": "#FF00FF",
+            "bishop": "#FFABAB",
+            "black-knight": "#8622FF",
+            "black-pawn": "#00B7EB",
+            "white-pawn": "#CCCCCC",
+            "white-queen": "#C7FC00",
+            "white-knight": "#FF8000",
+            "white-rook": "#00FFCE",
+            "black-rook": "#FFFF00",
+            "black-king": "#0000FF",
+            "black-bishop": "#FE0056",
+            "white-king": "#0E7AFE"
+        },
+        "classes": {
+            "black-queen": 87,
+            "white-bishop": 172,
+            "bishop": 1,
+            "black-knight": 196,
+            "black-pawn": 659,
+            "white-pawn": 639,
+            "white-queen": 111,
+            "white-knight": 184,
+            "white-rook": 184,
+            "black-rook": 201,
+            "black-king": 147,
+            "black-bishop": 140,
+            "white-king": 149
+        },
+        "icon": {
+            "original": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/y87QE2eBNvVZf0nRGWue/original.jpg",
+            "thumb": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/y87QE2eBNvVZf0nRGWue/thumb.jpg",
+            "annotation": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/y87QE2eBNvVZf0nRGWue/annotation-chess-pieces.png"
+        },
+        "preprocessing": {},
+        "augmentation": {}
+    },
+    {
+        "id": "roboflow-100/circuit-elements",
+        "type": "object-detection",
+        "name": "circuit elements",
+        "created": 1658173665.457,
+        "updated": 1720709752.101,
+        "images": 772,
+        "unannotated": 0,
+        "annotation": "circuit",
+        "versions": 4,
+        "public": true,
+        "multilabel": false,
+        "license": "CC BY 4.0",
+        "splits": {
+            "valid": 64,
+            "test": 36,
+            "export": 0,
+            "train": 672
+        },
+        "colors": {
+            "Connector": "#00FFCE",
+            "Resistort": "#FFFF00",
+            "PS": "#FFFF00",
+            "Transformer": "#8622FF",
+            "Diode": "#00FFCE",
+            "Pads": "#FE0056",
+            "Potentiometer": "#8622FF",
+            "Test Point": "#CCCCCC",
+            "Clock": "#C7FC00",
+            "Inductor": "#FE0056",
+            "Ferrite Bead": "#00B7EB",
+            "Capacitor Jumper": "#0E7AFE",
+            "Transducer": "#0E7AFE",
+            "Jumper": "#FFFF00",
+            "Zener Diode": "#C7FC00",
+            "Button": "#FE0056",
+            "Battery": "#8622FF",
+            "SK": "#FF00FF",
+            "Electrolytic Capacitor": "#FFABAB",
+            "IC": "#FF00FF",
+            "Resistor": "#FF8000",
+            "Fuse": "#0000FF",
+            "coil": "#0E7AFE",
+            "Unknown Unlabeled": "#FF00FF",
+            "Resistor Jumper": "#CCCCCC",
+            "EM": "#FF8000",
+            "Buzzer": "#FE0056",
+            "Transistor": "#00B7EB",
+            "Led": "#FF8000",
+            "Electrolytic capacitor": "#0E7AFE",
+            "Heatsink": "#0000FF",
+            "Reswistor": "#C7FC00",
+            "Capacitor Network": "#0000FF",
+            "Indicator": "#FFABAB",
+            "Resistance": "#8622FF",
+            "RC": "#00B7EB",
+            "Resistor Network": "#FFABAB",
+            "Ressistor": "#FF00FF",
+            "Switch": "#00FFCE",
+            "Filter": "#FFABAB",
+            "Flex Cable": "#C7FC00",
+            "Conductor": "#00FFCE",
+            "Pins": "#FFFF00",
+            "Capacitor": "#00B7EB",
+            "RP": "#CCCCCC",
+            "Display": "#FF8000"
+        },
+        "classes": {
+            "Resistort": 12,
+            "Connector": 8683,
+            "PS": 4,
+            "Transformer": 440,
+            "Diode": 8025,
+            "Pads": 1495,
+            "Potentiometer": 28,
+            "Test Point": 2222,
+            "Clock": 188,
+            "Inductor": 6450,
+            "Ferrite Bead": 124,
+            "Transducer": 70,
+            "Capacitor Jumper": 51117,
+            "Jumper": 709,
+            "Zener Diode": 20,
+            "Button": 364,
+            "Battery": 4,
+            "SK": 12,
+            "Electrolytic Capacitor": 2565,
+            "IC": 9976,
+            "Resistor": 27388,
+            "Fuse": 1508,
+            "coil": 8,
+            "Unknown Unlabeled": 1080,
+            "Resistor Jumper": 54428,
+            "EM": 204,
+            "Buzzer": 68,
+            "Transistor": 6862,
+            "Led": 974,
+            "Reswistor": 1,
+            "Electrolytic capacitor": 34,
+            "Heatsink": 16,
+            "Capacitor Network": 8048,
+            "Indicator": 8,
+            "Resistance": 12,
+            "RC": 4,
+            "Resistor Network": 8805,
+            "Ressistor": 20,
+            "Switch": 341,
+            "Filter": 4,
+            "Flex Cable": 92,
+            "Conductor": 14,
+            "Pins": 1527,
+            "Capacitor": 20800,
+            "RP": 62,
+            "Display": 20
+        },
+        "icon": {
+            "original": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/UlPBMehY47Q1SS2JXKj9/original.jpg",
+            "thumb": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/UlPBMehY47Q1SS2JXKj9/thumb.jpg",
+            "annotation": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/UlPBMehY47Q1SS2JXKj9/annotation-circuit.png"
+        },
+        "preprocessing": {
+            "remap": {
+                "labels": {
+                    "coil": {
+                        "omit": true
+                    },
+                    "Resistort": {
+                        "omit": true
+                    },
+                    "PS": {
+                        "omit": true
+                    },
+                    "Reswistor": {
+                        "omit": true
+                    },
+                    "Heatsink": {
+                        "omit": true
+                    },
+                    "Indicator": {
+                        "omit": true
+                    },
+                    "Resistance": {
+                        "omit": true
+                    },
+                    "RC": {
+                        "omit": true
+                    },
+                    "Ressistor": {
+                        "omit": true
+                    },
+                    "Zener Diode": {
+                        "omit": true
+                    },
+                    "Filter": {
+                        "omit": true
+                    },
+                    "Battery": {
+                        "omit": true
+                    },
+                    "SK": {
+                        "omit": true
+                    },
+                    "Conductor": {
+                        "omit": true
+                    },
+                    "Display": {
+                        "omit": true
+                    }
+                }
+            }
+        },
+        "augmentation": {}
+    },
+    {
+        "id": "roboflow-100/circuit-voltages",
+        "type": "object-detection",
+        "name": "circuit voltages",
+        "created": 1658767246.301,
+        "updated": 1683423709.167,
+        "images": 132,
+        "unannotated": 0,
+        "annotation": "circuit-voltages",
+        "versions": 2,
+        "public": true,
+        "multilabel": false,
+        "license": "CC BY 4.0",
+        "splits": {
+            "valid": 25,
+            "test": 15,
+            "export": 0,
+            "train": 92
+        },
+        "colors": {
+            "R": "#8622FF",
+            "VDC": "#FF8000",
+            "VDC_I": "#FF00FF",
+            "IDC_I": "#00FFCE",
+            "IDC": "#FE0056",
+            "GND": "#C7FC00"
+        },
+        "classes": {
+            "R": 418,
+            "VDC": 137,
+            "VDC_I": 15,
+            "IDC_I": 12,
+            "IDC": 76,
+            "GND": 40
+        },
+        "icon": {
+            "original": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/RMpNNI0FMA9PdexG6J6P/original.jpg",
+            "thumb": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/RMpNNI0FMA9PdexG6J6P/thumb.jpg",
+            "annotation": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/RMpNNI0FMA9PdexG6J6P/annotation-circuit-voltages.png"
+        },
+        "preprocessing": {},
+        "augmentation": {}
+    },
+    {
+        "id": "roboflow-100/cloud-types",
+        "type": "object-detection",
+        "name": "cloud types",
+        "created": 1658341712.273,
+        "updated": 1683422609.584,
+        "images": 5040,
+        "unannotated": 0,
+        "annotation": "cloud-types",
+        "versions": 2,
+        "public": true,
+        "multilabel": false,
+        "license": "CC BY 4.0",
+        "splits": {
+            "valid": 1008,
+            "test": 504,
+            "export": 0,
+            "train": 3528
+        },
+        "colors": {
+            "Flower": "#FF00FF",
+            "Fish": "#FE0056",
+            "Gravel": "#8622FF",
+            "Sugar": "#C7FC00"
+        },
+        "classes": {
+            "Flower": 2141,
+            "Fish": 2528,
+            "Gravel": 2674,
+            "Sugar": 3408
+        },
+        "icon": {
+            "original": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/iR9DIFJ7VVTO9ETMClg7/original.jpg",
+            "thumb": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/iR9DIFJ7VVTO9ETMClg7/thumb.jpg",
+            "annotation": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/iR9DIFJ7VVTO9ETMClg7/annotation-cloud-types.png"
+        },
+        "preprocessing": {},
+        "augmentation": {}
+    },
+    {
+        "id": "roboflow-100/coins-1apki",
+        "type": "object-detection",
+        "name": "coins",
+        "created": 1658529276.96,
+        "updated": 1683423093.617,
+        "images": 8419,
+        "unannotated": 0,
+        "annotation": "coins",
+        "versions": 2,
+        "public": true,
+        "multilabel": false,
+        "license": "CC BY 4.0",
+        "splits": {
+            "valid": 1599,
+            "test": 699,
+            "export": 0,
+            "train": 6121
+        },
+        "colors": {
+            "nail": "#8622FF",
+            "screw": "#FE0056",
+            "nut": "#FF00FF",
+            "coin": "#C7FC00"
+        },
+        "classes": {
+            "nail": 2191,
+            "screw": 995,
+            "nut": 1364,
+            "coin": 13720
+        },
+        "icon": {
+            "original": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/tDs0UIGUv3xM7ei7dcyQ/original.jpg",
+            "thumb": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/tDs0UIGUv3xM7ei7dcyQ/thumb.jpg",
+            "annotation": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/tDs0UIGUv3xM7ei7dcyQ/annotation-coins.png"
+        },
+        "preprocessing": {},
+        "augmentation": {}
+    },
+    {
+        "id": "roboflow-100/construction-safety-gsnvb",
+        "type": "object-detection",
+        "name": "construction safety",
+        "created": 1658168546.384,
+        "updated": 1683422829.282,
+        "images": 1206,
+        "unannotated": 0,
+        "annotation": "construction-safety",
+        "versions": 3,
+        "public": true,
+        "multilabel": false,
+        "license": "CC BY 4.0",
+        "splits": {
+            "valid": 119,
+            "test": 90,
+            "export": 0,
+            "train": 997
+        },
+        "colors": {
+            "no-vest": "#00FFCE",
+            "no-helmet": "#FF00FF",
+            "person": "#8622FF",
+            "helmet": "#C7FC00",
+            "vest": "#FE0056"
+        },
+        "classes": {
+            "no-vest": 892,
+            "no-helmet": 129,
+            "person": 2817,
+            "helmet": 2543,
+            "vest": 1343
+        },
+        "icon": {
+            "original": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/uquxch2tWdm7gR39Stbb/original.jpg",
+            "thumb": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/uquxch2tWdm7gR39Stbb/thumb.jpg",
+            "annotation": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/uquxch2tWdm7gR39Stbb/annotation-construction-safety.png"
+        },
+        "preprocessing": {
+            "auto-orient": true
+        },
+        "augmentation": {}
+    },
+    {
+        "id": "roboflow-100/coral-lwptl",
+        "type": "object-detection",
+        "name": "coral",
+        "created": 1658347691.642,
+        "updated": 1683422856.634,
+        "images": 594,
+        "unannotated": 0,
+        "annotation": "coral",
+        "versions": 2,
+        "public": true,
+        "multilabel": false,
+        "license": "CC BY 4.0",
+        "splits": {
+            "valid": 93,
+            "test": 74,
+            "export": 0,
+            "train": 427
+        },
+        "colors": {
+            "Corymbose": "#FF00FF",
+            "Massive-Poritidae": "#0E7AFE",
+            "Massive-Mussidae": "#CCCCCC",
+            "Tabular": "#00B7EB",
+            "Solitary": "#FFABAB",
+            "Caespitose-b": "#C7FC00",
+            "Caespitose-a": "#FF8000",
+            "Columnar": "#0000FF",
+            "Arborescent": "#FFFF00",
+            "Massive-Merulinidae": "#FF00FF",
+            "Digitate": "#00FFCE",
+            "Foliose": "#FE0056",
+            "Massive-Faviidae": "#8622FF",
+            "Encrusting": "#C7FC00"
+        },
+        "classes": {
+            "Corymbose": 381,
+            "Massive-Poritidae": 1016,
+            "Massive-Mussidae": 319,
+            "Tabular": 718,
+            "Solitary": 462,
+            "Caespitose-b": 305,
+            "Caespitose-a": 367,
+            "Columnar": 1,
+            "Arborescent": 687,
+            "Massive-Merulinidae": 192,
+            "Massive-Faviidae": 702,
+            "Foliose": 562,
+            "Digitate": 392,
+            "Encrusting": 379
+        },
+        "icon": {
+            "original": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/BouIUzpZODLsu5HSl8L7/original.jpg",
+            "thumb": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/BouIUzpZODLsu5HSl8L7/thumb.jpg",
+            "annotation": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/BouIUzpZODLsu5HSl8L7/annotation-coral.png"
+        },
+        "preprocessing": {},
+        "augmentation": {}
+    },
+    {
+        "id": "roboflow-100/corrosion-bi3q3",
+        "type": "object-detection",
+        "name": "corrosion",
+        "created": 1658005646.267,
+        "updated": 1683423271.992,
+        "images": 1249,
+        "unannotated": 0,
+        "annotation": "corrosion",
+        "versions": 2,
+        "public": true,
+        "multilabel": false,
+        "license": "CC BY 4.0",
+        "splits": {
+            "valid": 304,
+            "test": 105,
+            "export": 0,
+            "train": 840
+        },
+        "colors": {
+            "Slippage": "#FF00FF",
+            "corrosion": "#C7FC00",
+            "crack": "#8622FF"
+        },
+        "classes": {
+            "Slippage": 646,
+            "crack": 2513,
+            "corrosion": 1657
+        },
+        "icon": {
+            "original": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/iXzSJw2I6d8WvFJA5Tfr/original.jpg",
+            "thumb": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/iXzSJw2I6d8WvFJA5Tfr/thumb.jpg",
+            "annotation": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/iXzSJw2I6d8WvFJA5Tfr/annotation-corrosion.png"
+        },
+        "preprocessing": {},
+        "augmentation": {}
+    },
+    {
+        "id": "roboflow-100/cotton-20xz5",
+        "type": "object-detection",
+        "name": "cotton",
+        "created": 1658525359.225,
+        "updated": 1683422454.409,
+        "images": 406,
+        "unannotated": 0,
+        "annotation": "cotton",
+        "versions": 2,
+        "public": true,
+        "multilabel": false,
+        "license": "CC BY 4.0",
+        "splits": {
+            "valid": 19,
+            "test": 20,
+            "export": 0,
+            "train": 367
+        },
+        "colors": {
+            "G-barbadense": "#FE0056",
+            "G-arboreum": "#C7FC00",
+            "G-hirsitum": "#FF00FF",
+            "G-herbaceum": "#8622FF"
+        },
+        "classes": {
+            "G-barbadense": 212,
+            "G-arboreum": 294,
+            "G-hirsitum": 189,
+            "G-herbaceum": 239
+        },
+        "icon": {
+            "original": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/G0PK42r7sNkYLEkVPY3J/original.jpg",
+            "thumb": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/G0PK42r7sNkYLEkVPY3J/thumb.jpg",
+            "annotation": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/G0PK42r7sNkYLEkVPY3J/annotation-cotton.png"
+        },
+        "preprocessing": {},
+        "augmentation": {}
+    },
+    {
+        "id": "roboflow-100/cotton-plant-disease",
+        "type": "object-detection",
+        "name": "cotton plant disease",
+        "created": 1658339867.356,
+        "updated": 1683422545.283,
+        "images": 1024,
+        "unannotated": 0,
+        "annotation": "cotton-plant-disease",
+        "versions": 2,
+        "public": true,
+        "multilabel": false,
+        "license": "CC BY 4.0",
+        "splits": {
+            "valid": 198,
+            "test": 102,
+            "export": 0,
+            "train": 724
+        },
+        "colors": {
+            "dc": "#C7FC00"
+        },
+        "classes": {
+            "dc": 6312
+        },
+        "icon": {
+            "original": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/SUyB4MfBHx8uRc9cGCvR/original.jpg",
+            "thumb": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/SUyB4MfBHx8uRc9cGCvR/thumb.jpg",
+            "annotation": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/SUyB4MfBHx8uRc9cGCvR/annotation-cotton-plant-disease.png"
+        },
+        "preprocessing": {},
+        "augmentation": {}
+    },
+    {
+        "id": "roboflow-100/csgo-videogame",
+        "type": "object-detection",
+        "name": "CSGO videogame",
+        "created": 1658182106.562,
+        "updated": 1683422957.985,
+        "images": 2427,
+        "unannotated": 0,
+        "annotation": "CSGO",
+        "versions": 2,
+        "public": true,
+        "multilabel": false,
+        "license": "CC BY 4.0",
+        "splits": {
+            "valid": 446,
+            "test": 207,
+            "export": 0,
+            "train": 1774
+        },
+        "colors": {
+            "CT": "#C7FC00",
+            "T": "#FF00FF"
+        },
+        "classes": {
+            "CT": 1351,
+            "T": 1663
+        },
+        "icon": {
+            "original": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/mNcTIYWR9nFtVu4mvn54/original.jpg",
+            "thumb": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/mNcTIYWR9nFtVu4mvn54/thumb.jpg",
+            "annotation": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/mNcTIYWR9nFtVu4mvn54/annotation-CSGO.png"
+        },
+        "preprocessing": {},
+        "augmentation": {}
+    },
+    {
+        "id": "roboflow-100/currency-v4f8j",
+        "type": "object-detection",
+        "name": "currency",
+        "created": 1659540023.448,
+        "updated": 1683422281.664,
+        "images": 813,
+        "unannotated": 0,
+        "annotation": "currency",
+        "versions": 2,
+        "public": true,
+        "multilabel": false,
+        "license": "CC BY 4.0",
+        "splits": {
+            "valid": 155,
+            "test": 82,
+            "export": 0,
+            "train": 576
+        },
+        "colors": {
+            "Quarter": "#FF8000",
+            "Penny": "#FFABAB",
+            "hundred": "#FF00FF",
+            "fifty": "#FFFF00",
+            "one": "#8622FF",
+            "Nickel": "#00B7EB",
+            "ten": "#FE0056",
+            "Dime": "#0E7AFE",
+            "five": "#C7FC00",
+            "twenty": "#00FFCE"
+        },
+        "classes": {
+            "Quarter": 870,
+            "Penny": 2249,
+            "hundred": 46,
+            "fifty": 83,
+            "one": 80,
+            "Nickel": 1478,
+            "ten": 88,
+            "Dime": 1201,
+            "five": 92,
+            "twenty": 94
+        },
+        "icon": {
+            "original": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/K9glxOx5VtXxr1ztzvwG/original.jpg",
+            "thumb": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/K9glxOx5VtXxr1ztzvwG/thumb.jpg",
+            "annotation": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/K9glxOx5VtXxr1ztzvwG/annotation-currency.png"
+        },
+        "preprocessing": {},
+        "augmentation": {}
+    },
+    {
+        "id": "roboflow-100/digits-t2eg6",
+        "type": "object-detection",
+        "name": "digits",
+        "created": 1658428837.605,
+        "updated": 1683422817.936,
+        "images": 4103,
+        "unannotated": 0,
+        "annotation": "digits",
+        "versions": 2,
+        "public": true,
+        "multilabel": false,
+        "license": "CC BY 4.0",
+        "splits": {
+            "valid": 824,
+            "test": 367,
+            "export": 0,
+            "train": 2912
+        },
+        "colors": {
+            "0": "#C7FC00",
+            "1": "#FF00FF",
+            "2": "#8622FF",
+            "3": "#FE0056",
+            "4": "#00FFCE",
+            "5": "#FF8000",
+            "6": "#00B7EB",
+            "7": "#FFFF00",
+            "8": "#0E7AFE",
+            "9": "#FFABAB"
+        },
+        "classes": {
+            "0": 1540,
+            "1": 2310,
+            "2": 1730,
+            "3": 1509,
+            "4": 1402,
+            "5": 1465,
+            "6": 1529,
+            "7": 1554,
+            "8": 1287,
+            "9": 1240
+        },
+        "icon": {
+            "original": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/jkqjsFMRK2mfSgWjXXP0/original.jpg",
+            "thumb": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/jkqjsFMRK2mfSgWjXXP0/thumb.jpg",
+            "annotation": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/jkqjsFMRK2mfSgWjXXP0/annotation-digits.png"
+        },
+        "preprocessing": {},
+        "augmentation": {}
+    },
+    {
+        "id": "roboflow-100/document-parts",
+        "type": "object-detection",
+        "name": "document parts",
+        "created": 1658184977.567,
+        "updated": 1683422664.38,
+        "images": 1374,
+        "unannotated": 0,
+        "annotation": "document-parts",
+        "versions": 2,
+        "public": true,
+        "multilabel": false,
+        "license": "CC BY 4.0",
+        "splits": {
+            "valid": 318,
+            "test": 150,
+            "export": 0,
+            "train": 906
+        },
+        "colors": {
+            "title": "#C7FC00",
+            "table": "#FF00FF"
+        },
+        "classes": {
+            "title": 564,
+            "table": 1152
+        },
+        "icon": {
+            "original": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/W9NS8uQpPk0BxFTzDSP1/original.jpg",
+            "thumb": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/W9NS8uQpPk0BxFTzDSP1/thumb.jpg",
+            "annotation": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/W9NS8uQpPk0BxFTzDSP1/annotation-document-parts.png"
+        },
+        "preprocessing": {},
+        "augmentation": {}
+    },
+    {
+        "id": "roboflow-100/excavators-czvg9",
+        "type": "object-detection",
+        "name": "excavators",
+        "created": 1658025320.104,
+        "updated": 1683422600.259,
+        "images": 2655,
+        "unannotated": 0,
+        "annotation": "excavators",
+        "versions": 2,
+        "public": true,
+        "multilabel": false,
+        "license": "CC BY 4.0",
+        "splits": {
+            "valid": 267,
+            "test": 144,
+            "export": 0,
+            "train": 2244
+        },
+        "colors": {
+            "dump truck": "#FF00FF",
+            "EXCAVATORS": "#8622FF",
+            "wheel loader": "#C7FC00"
+        },
+        "classes": {
+            "dump truck": 1274,
+            "wheel loader": 1080,
+            "EXCAVATORS": 1530
+        },
+        "icon": {
+            "original": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/obDcqKOWLruqQs9ll4gE/original.jpg",
+            "thumb": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/obDcqKOWLruqQs9ll4gE/thumb.jpg",
+            "annotation": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/obDcqKOWLruqQs9ll4gE/annotation-excavators.png"
+        },
+        "preprocessing": {},
+        "augmentation": {}
+    },
+    {
+        "id": "roboflow-100/farcry6-videogame",
+        "type": "object-detection",
+        "name": "farcry6 videogame",
+        "created": 1658183229.429,
+        "updated": 1683422810.252,
+        "images": 120,
+        "unannotated": 0,
+        "annotation": "farcry6",
+        "versions": 2,
+        "public": true,
+        "multilabel": false,
+        "license": "CC BY 4.0",
+        "splits": {
+            "valid": 24,
+            "test": 14,
+            "export": 0,
+            "train": 82
+        },
+        "colors": {
+            "horse": "#C7FC00",
+            "gun": "#0E7AFE",
+            "atv": "#00FFCE",
+            "gun menu": "#00B7EB",
+            "car": "#0000FF",
+            "hud": "#8622FF",
+            "person": "#FFABAB",
+            "healthbar": "#FFFF00",
+            "surroundings": "#FF00FF",
+            "assassin": "#FE0056",
+            "map": "#FF8000"
+        },
+        "classes": {
+            "horse": 6,
+            "gun": 30,
+            "atv": 1,
+            "gun menu": 1,
+            "car": 2,
+            "hud": 9,
+            "person": 44,
+            "healthbar": 6,
+            "surroundings": 13,
+            "map": 29,
+            "assassin": 100
+        },
+        "icon": {
+            "original": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/EoUclwT97zFiwhzYIi0D/original.jpg",
+            "thumb": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/EoUclwT97zFiwhzYIi0D/thumb.jpg",
+            "annotation": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/EoUclwT97zFiwhzYIi0D/annotation-farcry6.png"
+        },
+        "preprocessing": {},
+        "augmentation": {}
+    },
+    {
+        "id": "roboflow-100/fish-market-ggjso",
+        "type": "object-detection",
+        "name": "fish market",
+        "created": 1659476304.151,
+        "updated": 1683421980.513,
+        "images": 18731,
+        "unannotated": 0,
+        "annotation": "fish",
+        "versions": 8,
+        "public": true,
+        "multilabel": false,
+        "license": "CC BY 4.0",
+        "splits": {
+            "valid": 3272,
+            "test": 1279,
+            "export": 0,
+            "train": 14180
+        },
+        "colors": {
+            "ilish": "#0000FF",
+            "katla": "#CCCCCC",
+            "aair": "#0E7AFE",
+            "deshi puti": "#FFABAB",
+            "koi": "#FF00FF",
+            "chapila": "#FFFF00",
+            "rui": "#00FFCE",
+            "shol": "#FFFF00",
+            "shor puti": "#00B7EB",
+            "tengra": "#8622FF",
+            "puti": "#00FFCE",
+            "telapiya": "#8622FF",
+            "pangas": "#FF00FF",
+            "boal": "#0E7AFE",
+            "foli": "#00B7EB",
+            "tara baim": "#FE0056",
+            "pabda": "#C7FC00",
+            "kal baush": "#FE0056",
+            "magur": "#FF8000",
+            "mrigel": "#FF8000",
+            "taki": "#C7FC00"
+        },
+        "classes": {
+            "ilish": 999,
+            "katla": 1686,
+            "koi": 811,
+            "aair": 1733,
+            "deshi puti": 412,
+            "chapila": 425,
+            "rui": 2628,
+            "shol": 1392,
+            "shor puti": 44,
+            "tengra": 1422,
+            "puti": 1570,
+            "telapiya": 2017,
+            "pangas": 934,
+            "tara baim": 1351,
+            "boal": 1537,
+            "foli": 601,
+            "pabda": 1721,
+            "kal baush": 922,
+            "mrigel": 1784,
+            "taki": 2185,
+            "magur": 574
+        },
+        "icon": {
+            "original": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/DC6wzYc4gAEXFQevSmX7/original.jpg",
+            "thumb": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/DC6wzYc4gAEXFQevSmX7/thumb.jpg",
+            "annotation": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/DC6wzYc4gAEXFQevSmX7/annotation-fish.png"
+        },
+        "preprocessing": {
+            "remap": {
+                "labels": {
+                    "shor puti": {
+                        "omit": true
+                    },
+                    "tengra": {
+                        "omit": true
+                    }
+                }
+            },
+            "resize": {
+                "width": "640",
+                "format": "Stretch to",
+                "height": "640"
+            },
+            "auto-orient": true
+        },
+        "augmentation": {}
+    },
+    {
+        "id": "roboflow-100/flir-camera-objects",
+        "type": "object-detection",
+        "name": "flir camera objects",
+        "created": 1659563121.263,
+        "updated": 1683421997.883,
+        "images": 13612,
+        "unannotated": 0,
+        "annotation": "flir-camera-objects",
+        "versions": 2,
+        "public": true,
+        "multilabel": false,
+        "license": "CC BY 4.0",
+        "splits": {
+            "valid": 2854,
+            "test": 1452,
+            "export": 0,
+            "train": 9306
+        },
+        "colors": {
+            "bicycle": "#8622FF",
+            "car": "#C7FC00",
+            "person": "#FF00FF",
+            "dog": "#FE0056"
+        },
+        "classes": {
+            "bicycle": 4458,
+            "car": 47501,
+            "person": 31872,
+            "dog": 240
+        },
+        "icon": {
+            "original": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/GCBqWC8pWWN9G4nr9VK8/original.jpg",
+            "thumb": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/GCBqWC8pWWN9G4nr9VK8/thumb.jpg",
+            "annotation": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/GCBqWC8pWWN9G4nr9VK8/annotation-flir-camera-objects.png"
+        },
+        "preprocessing": {},
+        "augmentation": {}
+    },
+    {
+        "id": "roboflow-100/furniture-ngpea",
+        "type": "object-detection",
+        "name": "furniture",
+        "created": 1658526904.744,
+        "updated": 1683423347.16,
+        "images": 689,
+        "unannotated": 0,
+        "annotation": "furniture",
+        "versions": 2,
+        "public": true,
+        "multilabel": false,
+        "license": "CC BY 4.0",
+        "splits": {
+            "valid": 161,
+            "test": 74,
+            "export": 0,
+            "train": 454
+        },
+        "colors": {
+            "Sofa": "#C7FC00",
+            "Table": "#8622FF",
+            "Chair": "#FF00FF"
+        },
+        "classes": {
+            "Sofa": 240,
+            "Table": 200,
+            "Chair": 249
+        },
+        "icon": {
+            "original": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/xfIJv6g40TGSUq0qMVMH/original.jpg",
+            "thumb": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/xfIJv6g40TGSUq0qMVMH/thumb.jpg",
+            "annotation": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/xfIJv6g40TGSUq0qMVMH/annotation-furniture.png"
+        },
+        "preprocessing": {},
+        "augmentation": {}
+    },
+    {
+        "id": "roboflow-100/gauge-u2lwv",
+        "type": "object-detection",
+        "name": "gauge",
+        "created": 1658458303.11,
+        "updated": 1683421981.277,
+        "images": 235,
+        "unannotated": 0,
+        "annotation": "gauge",
+        "versions": 4,
+        "public": true,
+        "multilabel": false,
+        "license": "CC BY 4.0",
+        "splits": {
+            "valid": 52,
+            "test": 25,
+            "export": 0,
+            "train": 158
+        },
+        "colors": {
+            "numbers": "#8622FF",
+            "gauges": "#FF00FF",
+            "-": "#C7FC00"
+        },
+        "classes": {
+            "numbers": 1296,
+            "gauges": 499
+        },
+        "icon": {
+            "original": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/2O0WWkbkVqvA5YqTdhiT/original.jpg",
+            "thumb": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/2O0WWkbkVqvA5YqTdhiT/thumb.jpg",
+            "annotation": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/2O0WWkbkVqvA5YqTdhiT/annotation-gauge.png"
+        },
+        "preprocessing": {
+            "auto-orient": true,
+            "resize": {
+                "format": "Stretch to",
+                "width": "640",
+                "height": "640"
+            }
+        },
+        "augmentation": {}
+    },
+    {
+        "id": "roboflow-100/grass-weeds",
+        "type": "object-detection",
+        "name": "grass weeds",
+        "created": 1658771724.262,
+        "updated": 1683423425.184,
+        "images": 2486,
+        "unannotated": 0,
+        "annotation": "grass-weeds",
+        "versions": 2,
+        "public": true,
+        "multilabel": false,
+        "license": "CC BY 4.0",
+        "splits": {
+            "valid": 580,
+            "test": 245,
+            "export": 0,
+            "train": 1661
+        },
+        "colors": {
+            "0 ridderzuring": "#C7FC00"
+        },
+        "classes": {
+            "0 ridderzuring": 6814
+        },
+        "icon": {
+            "original": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/a2xUpp0d6QhiQ9x5fjk8/original.jpg",
+            "thumb": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/a2xUpp0d6QhiQ9x5fjk8/thumb.jpg",
+            "annotation": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/a2xUpp0d6QhiQ9x5fjk8/annotation-grass-weeds.png"
+        },
+        "preprocessing": {},
+        "augmentation": {}
+    },
+    {
+        "id": "roboflow-100/gynecology-mri",
+        "type": "object-detection",
+        "name": "gynecology MRI",
+        "created": 1658338284.124,
+        "updated": 1683423392.795,
+        "images": 2901,
+        "unannotated": 0,
+        "annotation": "gynecology-MRI",
+        "versions": 2,
+        "public": true,
+        "multilabel": false,
+        "license": "CC BY 4.0",
+        "splits": {
+            "valid": 526,
+            "test": 253,
+            "export": 0,
+            "train": 2122
+        },
+        "colors": {
+            "7W": "#FF00FF",
+            "6W": "#C7FC00",
+            "EH": "#8622FF"
+        },
+        "classes": {
+            "7W": 1,
+            "6W": 6,
+            "EH": 2895
+        },
+        "icon": {
+            "original": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/LhX4aKZvarxRU9wHpRnG/original.jpg",
+            "thumb": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/LhX4aKZvarxRU9wHpRnG/thumb.jpg",
+            "annotation": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/LhX4aKZvarxRU9wHpRnG/annotation-gynecology-MRI.png"
+        },
+        "preprocessing": {},
+        "augmentation": {}
+    },
+    {
+        "id": "roboflow-100/halo-infinite-angel-videogame",
+        "type": "object-detection",
+        "name": "halo infinite angel videogame",
+        "created": 1658943778.39,
+        "updated": 1720706675.919,
+        "images": 669,
+        "unannotated": 0,
+        "annotation": "halo-infinite-angel-videogame",
+        "versions": 2,
+        "public": true,
+        "multilabel": false,
+        "license": "CC BY 4.0",
+        "splits": {
+            "valid": 136,
+            "test": 71,
+            "export": 0,
+            "train": 462
+        },
+        "colors": {
+            "enemy-head": "#FE0056",
+            "friendly": "#FF00FF",
+            "friendly-head": "#C7FC00",
+            "enemy": "#8622FF"
+        },
+        "classes": {
+            "enemy-head": 484,
+            "friendly": 135,
+            "friendly-head": 57,
+            "enemy": 556
+        },
+        "icon": {
+            "original": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/R64H2yFAnXp4ZVnEio7e/original.jpg",
+            "thumb": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/R64H2yFAnXp4ZVnEio7e/thumb.jpg",
+            "annotation": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/R64H2yFAnXp4ZVnEio7e/annotation-halo-infinite-angel-videogame.png"
+        },
+        "preprocessing": {},
+        "augmentation": {}
+    },
+    {
+        "id": "roboflow-100/hand-gestures-jps7z",
+        "type": "object-detection",
+        "name": "hand gestures",
+        "created": 1657910018.804,
+        "updated": 1683422931.911,
+        "images": 914,
+        "unannotated": 0,
+        "annotation": "hand-gestures",
+        "versions": 2,
+        "public": true,
+        "multilabel": false,
+        "license": "CC BY 4.0",
+        "splits": {
+            "valid": 178,
+            "test": 94,
+            "export": 0,
+            "train": 642
+        },
+        "colors": {
+            "0": "#C7FC00",
+            "1": "#FF00FF",
+            "2": "#8622FF",
+            "3": "#FE0056",
+            "4": "#00FFCE",
+            "5": "#FF8000",
+            "6": "#00B7EB",
+            "7": "#FFFF00",
+            "8": "#0E7AFE",
+            "9": "#FFABAB",
+            "10": "#0000FF",
+            "11": "#CCCCCC",
+            "12": "#C7FC00",
+            "13": "#FF00FF"
+        },
+        "classes": {
+            "0": 34,
+            "1": 70,
+            "2": 47,
+            "3": 64,
+            "4": 47,
+            "5": 66,
+            "6": 118,
+            "7": 35,
+            "8": 54,
+            "9": 92,
+            "10": 43,
+            "11": 55,
+            "12": 45,
+            "13": 143
+        },
+        "icon": {
+            "original": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/49SsVcuNiqi93qKpxaKF/original.jpg",
+            "thumb": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/49SsVcuNiqi93qKpxaKF/thumb.jpg",
+            "annotation": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/49SsVcuNiqi93qKpxaKF/annotation-hand-gestures.png"
+        },
+        "preprocessing": {},
+        "augmentation": {}
+    },
+    {
+        "id": "roboflow-100/insects-mytwu",
+        "type": "object-detection",
+        "name": "insects",
+        "created": 1658524975.339,
+        "updated": 1683422135.227,
+        "images": 995,
+        "unannotated": 0,
+        "annotation": "insects",
+        "versions": 2,
+        "public": true,
+        "multilabel": false,
+        "license": "CC BY 4.0",
+        "splits": {
+            "valid": 199,
+            "test": 100,
+            "export": 0,
+            "train": 696
+        },
+        "colors": {
+            "yellow rice borer": "#FF8000",
+            "legume blister beetle": "#FF00FF",
+            "white backed plant hopper": "#C7FC00",
+            "army worm": "#8622FF",
+            "rice water weevil": "#FE0056",
+            "wheat phloeothrips": "#FFABAB",
+            "rice gall midge": "#0E7AFE",
+            "red spider": "#FFFF00",
+            "rice leaf roller": "#00FFCE",
+            "rice leafhopper": "#00B7EB"
+        },
+        "classes": {
+            "yellow rice borer": 96,
+            "legume blister beetle": 100,
+            "white backed plant hopper": 105,
+            "army worm": 100,
+            "rice water weevil": 104,
+            "wheat phloeothrips": 100,
+            "rice gall midge": 101,
+            "rice leaf roller": 96,
+            "red spider": 100,
+            "rice leafhopper": 109
+        },
+        "icon": {
+            "original": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/0yiHmI1ubO8QCFWqtl9L/original.jpg",
+            "thumb": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/0yiHmI1ubO8QCFWqtl9L/thumb.jpg",
+            "annotation": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/0yiHmI1ubO8QCFWqtl9L/annotation-insects.png"
+        },
+        "preprocessing": {},
+        "augmentation": {}
+    },
+    {
+        "id": "roboflow-100/leaf-disease-nsdsr",
+        "type": "object-detection",
+        "name": "leaf disease",
+        "created": 1659547977.891,
+        "updated": 1683421988.361,
+        "images": 2501,
+        "unannotated": 0,
+        "annotation": "leaf-disease",
+        "versions": 2,
+        "public": true,
+        "multilabel": false,
+        "license": "CC BY 4.0",
+        "splits": {
+            "valid": 616,
+            "test": 296,
+            "export": 0,
+            "train": 1589
+        },
+        "colors": {
+            "rose_P01": "#FF00FF",
+            "rose_R02": "#C7FC00",
+            "mildew": "#8622FF"
+        },
+        "classes": {
+            "rose_P01": 2054,
+            "rose_R02": 3366,
+            "mildew": 5347
+        },
+        "icon": {
+            "original": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/KJLs5CFbC9nxU83jz4DI/original.jpg",
+            "thumb": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/KJLs5CFbC9nxU83jz4DI/thumb.jpg",
+            "annotation": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/KJLs5CFbC9nxU83jz4DI/annotation-leaf-disease.png"
+        },
+        "preprocessing": {},
+        "augmentation": {}
+    },
+    {
+        "id": "roboflow-100/lettuce-pallets",
+        "type": "object-detection",
+        "name": "lettuce pallets",
+        "created": 1659477655.605,
+        "updated": 1683422043.931,
+        "images": 1510,
+        "unannotated": 0,
+        "annotation": "lettuce",
+        "versions": 2,
+        "public": true,
+        "multilabel": false,
+        "license": "CC BY 4.0",
+        "splits": {
+            "valid": 299,
+            "test": 151,
+            "export": 0,
+            "train": 1060
+        },
+        "colors": {
+            "germination": "#FE0056",
+            "Ready": "#8622FF",
+            "empty_pod": "#FF00FF",
+            "pod": "#C7FC00",
+            "young": "#00FFCE"
+        },
+        "classes": {
+            "germination": 6604,
+            "Ready": 2009,
+            "empty_pod": 1593,
+            "pod": 3594,
+            "young": 5922
+        },
+        "icon": {
+            "original": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/HCjKQ6ZvtUbOCjTnGGJM/original.jpg",
+            "thumb": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/HCjKQ6ZvtUbOCjTnGGJM/thumb.jpg",
+            "annotation": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/HCjKQ6ZvtUbOCjTnGGJM/annotation-lettuce.png"
+        },
+        "preprocessing": {},
+        "augmentation": {}
+    },
+    {
+        "id": "roboflow-100/liver-disease",
+        "type": "object-detection",
+        "name": "liver disease",
+        "created": 1659477709.04,
+        "updated": 1683422057.689,
+        "images": 3976,
+        "unannotated": 0,
+        "annotation": "diseases",
+        "versions": 2,
+        "public": true,
+        "multilabel": false,
+        "license": "CC BY 4.0",
+        "splits": {
+            "valid": 794,
+            "test": 400,
+            "export": 0,
+            "train": 2782
+        },
+        "colors": {
+            "inflammation": "#8622FF",
+            "ballooning": "#FF00FF",
+            "fibrosis": "#FE0056",
+            "steatosis": "#C7FC00"
+        },
+        "classes": {
+            "inflammation": 2734,
+            "ballooning": 2187,
+            "fibrosis": 1804,
+            "steatosis": 3052
+        },
+        "icon": {
+            "original": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/88AI5ZZZA5ebCRIbkGp9/original.jpg",
+            "thumb": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/88AI5ZZZA5ebCRIbkGp9/thumb.jpg",
+            "annotation": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/88AI5ZZZA5ebCRIbkGp9/annotation-diseases.png"
+        },
+        "preprocessing": {},
+        "augmentation": {}
+    },
+    {
+        "id": "roboflow-100/marbles",
+        "type": "object-detection",
+        "name": "marbles",
+        "created": 1658512958.533,
+        "updated": 1683422159.152,
+        "images": 105,
+        "unannotated": 0,
+        "annotation": "marbles",
+        "versions": 3,
+        "public": true,
+        "multilabel": false,
+        "license": "CC BY 4.0",
+        "splits": {
+            "valid": 19,
+            "test": 32,
+            "export": 0,
+            "train": 54
+        },
+        "colors": {
+            "red": "#FF00FF",
+            "white": "#C7FC00"
+        },
+        "classes": {
+            "red": 3092,
+            "white": 3127
+        },
+        "icon": {
+            "original": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/6PbJg8gv54oAkGLEksdt/original.jpg",
+            "thumb": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/6PbJg8gv54oAkGLEksdt/thumb.jpg",
+            "annotation": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/6PbJg8gv54oAkGLEksdt/annotation-marbles.png"
+        },
+        "preprocessing": {},
+        "augmentation": {}
+    },
+    {
+        "id": "roboflow-100/mask-wearing-608pr",
+        "type": "object-detection",
+        "name": "mask wearing",
+        "created": 1658950607.073,
+        "updated": 1683423075.278,
+        "images": 149,
+        "unannotated": 0,
+        "annotation": "mask-wearing",
+        "versions": 2,
+        "public": true,
+        "multilabel": false,
+        "license": "CC BY 4.0",
+        "splits": {
+            "valid": 29,
+            "test": 15,
+            "export": 0,
+            "train": 105
+        },
+        "colors": {
+            "no-mask": "#C7FC00",
+            "mask": "#FF00FF"
+        },
+        "classes": {
+            "no-mask": 148,
+            "mask": 806
+        },
+        "icon": {
+            "original": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/hWyYellQ0IkxMHyHDRTJ/original.jpg",
+            "thumb": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/hWyYellQ0IkxMHyHDRTJ/thumb.jpg",
+            "annotation": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/hWyYellQ0IkxMHyHDRTJ/annotation-mask-wearing.png"
+        },
+        "preprocessing": {},
+        "augmentation": {}
+    },
+    {
+        "id": "roboflow-100/mitosis-gjs3g",
+        "type": "object-detection",
+        "name": "mitosis",
+        "created": 1658513643.49,
+        "updated": 1683422995.193,
+        "images": 304,
+        "unannotated": 0,
+        "annotation": "mitosis",
+        "versions": 2,
+        "public": true,
+        "multilabel": false,
+        "license": "CC BY 4.0",
+        "splits": {
+            "valid": 61,
+            "test": 30,
+            "export": 0,
+            "train": 213
+        },
+        "colors": {
+            "Mitosis": "#C7FC00"
+        },
+        "classes": {
+            "Mitosis": 436
+        },
+        "icon": {
+            "original": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/YzttZa0hifUPthTwAlZo/original.jpg",
+            "thumb": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/YzttZa0hifUPthTwAlZo/thumb.jpg",
+            "annotation": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/YzttZa0hifUPthTwAlZo/annotation-mitosis.png"
+        },
+        "preprocessing": {},
+        "augmentation": {}
+    },
+    {
+        "id": "roboflow-100/number-ops",
+        "type": "object-detection",
+        "name": "number ops",
+        "created": 1658514413.754,
+        "updated": 1683423433.946,
+        "images": 7128,
+        "unannotated": 0,
+        "annotation": "number-ops",
+        "versions": 2,
+        "public": true,
+        "multilabel": false,
+        "license": "CC BY 4.0",
+        "splits": {
+            "valid": 1636,
+            "test": 623,
+            "export": 0,
+            "train": 4869
+        },
+        "colors": {
+            "0": "#C7FC00",
+            "1": "#FF00FF",
+            "2": "#8622FF",
+            "3": "#FE0056",
+            "4": "#00FFCE",
+            "5": "#FF8000",
+            "6": "#00B7EB",
+            "7": "#FFFF00",
+            "8": "#0E7AFE",
+            "9": "#FFABAB",
+            "minus": "#0000FF",
+            "mult": "#C7FC00",
+            "eqv": "#8622FF",
+            "plus": "#CCCCCC",
+            "div": "#FF00FF"
+        },
+        "classes": {
+            "0": 560,
+            "1": 525,
+            "2": 409,
+            "3": 477,
+            "4": 485,
+            "5": 398,
+            "6": 551,
+            "7": 502,
+            "8": 519,
+            "9": 506,
+            "minus": 400,
+            "mult": 393,
+            "eqv": 608,
+            "plus": 397,
+            "div": 398
+        },
+        "icon": {
+            "original": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/2FxI7rDwMjs6UtW3UsLR/original.jpg",
+            "thumb": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/2FxI7rDwMjs6UtW3UsLR/thumb.jpg",
+            "annotation": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/2FxI7rDwMjs6UtW3UsLR/annotation-number-ops.png"
+        },
+        "preprocessing": {},
+        "augmentation": {}
+    },
+    {
+        "id": "roboflow-100/paper-parts",
+        "type": "object-detection",
+        "name": "paper parts",
+        "created": 1658185764.509,
+        "updated": 1683423146.988,
+        "images": 12040,
+        "unannotated": 0,
+        "annotation": "paper-parts",
+        "versions": 4,
+        "public": true,
+        "multilabel": false,
+        "license": "CC BY 4.0",
+        "splits": {
+            "valid": 2359,
+            "test": 1209,
+            "export": 0,
+            "train": 8472
+        },
+        "colors": {
+            "date": "#00B7EB",
+            "abstract text": "#0000FF",
+            "chapter": "#FF00FF",
+            "paragraph": "#FF00FF",
+            "corollary number": "#C7FC00",
+            "subsection": "#C7FC00",
+            "theorem number": "#FE0056",
+            "scheme": "#CCCCCC",
+            "university": "#FFFF00",
+            "lemma number": "#0000FF",
+            "lemma": "#00B7EB",
+            "section": "#FF8000",
+            "title": "#C7FC00",
+            "comittee": "#FFABAB",
+            "figure caption": "#00FFCE",
+            "example": "#FFABAB",
+            "reference title": "#FF8000",
+            "proposition": "#0E7AFE",
+            "table of contents title": "#FE0056",
+            "claim": "#00FFCE",
+            "definition": "#0E7AFE",
+            "page number": "#0E7AFE",
+            "table": "#FFABAB",
+            "algorithm": "#FF00FF",
+            "example caption": "#C7FC00",
+            "table caption": "#8622FF",
+            "figure": "#00B7EB",
+            "list of content heading": "#8622FF",
+            "subsubsection": "#CCCCCC",
+            "author": "#00FFCE",
+            "table of contents text": "#FF8000",
+            "equation": "#FFFF00",
+            "scheme caption": "#FFFF00",
+            "degree": "#8622FF",
+            "reference text": "#FF8000",
+            "equation number": "#0000FF",
+            "footnote": "#FE0056",
+            "table title": "#00FFCE",
+            "figure title": "#FE0056",
+            "corollary": "#8622FF",
+            "theorem": "#00B7EB",
+            "definition number": "#FFABAB",
+            "proposition number": "#CCCCCC",
+            "abstract heading": "#FF00FF",
+            "claim number": "#0E7AFE",
+            "list of content text": "#FFFF00"
+        },
+        "classes": {
+            "date": 133,
+            "chapter": 642,
+            "abstract text": 104,
+            "paragraph": 15070,
+            "subsection": 1977,
+            "corollary number": 27,
+            "theorem number": 48,
+            "scheme": 46,
+            "university": 140,
+            "lemma number": 81,
+            "lemma": 96,
+            "section": 1716,
+            "title": 175,
+            "comittee": 136,
+            "figure caption": 2820,
+            "example": 42,
+            "reference title": 128,
+            "proposition": 83,
+            "table of contents title": 97,
+            "claim": 10,
+            "definition": 39,
+            "page number": 11833,
+            "table": 1185,
+            "algorithm": 43,
+            "table caption": 953,
+            "example caption": 31,
+            "figure": 3106,
+            "subsubsection": 1013,
+            "list of content heading": 165,
+            "author": 162,
+            "table of contents text": 227,
+            "scheme caption": 47,
+            "equation": 3136,
+            "degree": 147,
+            "reference text": 994,
+            "footnote": 781,
+            "equation number": 1696,
+            "table title": 23,
+            "figure title": 23,
+            "corollary": 27,
+            "theorem": 49,
+            "definition number": 37,
+            "proposition number": 83,
+            "claim number": 9,
+            "abstract heading": 91,
+            "list of content text": 325
+        },
+        "icon": {
+            "original": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/UCQtnZb96OcxvpPXGfm6/original.jpg",
+            "thumb": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/UCQtnZb96OcxvpPXGfm6/thumb.jpg",
+            "annotation": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/UCQtnZb96OcxvpPXGfm6/annotation-paper-parts.png"
+        },
+        "preprocessing": {
+            "remap": {
+                "labels": {
+                    "date": {
+                        "omit": true
+                    },
+                    "abstract text": {
+                        "omit": true
+                    },
+                    "corollary number": {
+                        "omit": true
+                    },
+                    "theorem number": {
+                        "omit": true
+                    },
+                    "scheme": {
+                        "omit": true
+                    },
+                    "university": {
+                        "omit": true
+                    },
+                    "lemma number": {
+                        "omit": true
+                    },
+                    "lemma": {
+                        "omit": true
+                    },
+                    "comittee": {
+                        "omit": true
+                    },
+                    "example": {
+                        "omit": true
+                    },
+                    "reference title": {
+                        "omit": true
+                    },
+                    "proposition": {
+                        "omit": true
+                    },
+                    "table of contents title": {
+                        "omit": true
+                    },
+                    "claim": {
+                        "omit": true
+                    },
+                    "definition": {
+                        "omit": true
+                    },
+                    "example caption": {
+                        "omit": true
+                    },
+                    "algorithm": {
+                        "omit": true
+                    },
+                    "scheme caption": {
+                        "omit": true
+                    },
+                    "degree": {
+                        "omit": true
+                    },
+                    "table title": {
+                        "omit": true
+                    },
+                    "figure title": {
+                        "omit": true
+                    },
+                    "corollary": {
+                        "omit": true
+                    },
+                    "theorem": {
+                        "omit": true
+                    },
+                    "definition number": {
+                        "omit": true
+                    },
+                    "proposition number": {
+                        "omit": true
+                    },
+                    "abstract heading": {
+                        "omit": true
+                    },
+                    "claim number": {
+                        "omit": true
+                    }
+                }
+            }
+        },
+        "augmentation": {}
+    },
+    {
+        "id": "roboflow-100/paragraphs-co84b",
+        "type": "object-detection",
+        "name": "paragraphs",
+        "created": 1658425174.422,
+        "updated": 1683422917.652,
+        "images": 6063,
+        "unannotated": 0,
+        "annotation": "paragraphs",
+        "versions": 2,
+        "public": true,
+        "multilabel": false,
+        "license": "CC BY 4.0",
+        "splits": {
+            "valid": 1221,
+            "test": 633,
+            "export": 0,
+            "train": 4209
+        },
+        "colors": {
+            "g": "#00B7EB",
+            "h": "#C7FC00",
+            "g1": "#FF8000",
+            "g3": "#8622FF",
+            "-": "#00FFCE",
+            "m": "#FF00FF",
+            "n": "#FE0056"
+        },
+        "classes": {
+            "g": 2091,
+            "h": 1,
+            "g1": 1,
+            "g3": 3,
+            "m": 45252,
+            "-": 2,
+            "n": 50
+        },
+        "icon": {
+            "original": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/i23lIvqjuomqODlPQQ5O/original.jpg",
+            "thumb": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/i23lIvqjuomqODlPQQ5O/thumb.jpg",
+            "annotation": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/i23lIvqjuomqODlPQQ5O/annotation-paragraphs.png"
+        },
+        "preprocessing": {},
+        "augmentation": {}
+    },
+    {
+        "id": "roboflow-100/parasites-1s07h",
+        "type": "object-detection",
+        "name": "parasites",
+        "created": 1658334995.789,
+        "updated": 1683422290.358,
+        "images": 2110,
+        "unannotated": 0,
+        "annotation": "parasites",
+        "versions": 2,
+        "public": true,
+        "multilabel": false,
+        "license": "CC BY 4.0",
+        "splits": {
+            "valid": 411,
+            "test": 215,
+            "export": 0,
+            "train": 1484
+        },
+        "colors": {
+            "Ascaris Lumbricoides": "#00FFCE",
+            "Trichuris Trichiura": "#FF00FF",
+            "Ancylostoma Spp": "#8622FF",
+            "Enterobius Vermicularis": "#FF8000",
+            "Taenia Sp": "#00B7EB",
+            "Schistosoma": "#FFFF00",
+            "Hymenolepis": "#C7FC00",
+            "Fasciola Hepatica": "#FE0056"
+        },
+        "classes": {
+            "Ascaris Lumbricoides": 676,
+            "Trichuris Trichiura": 636,
+            "Ancylostoma Spp": 680,
+            "Enterobius Vermicularis": 912,
+            "Taenia Sp": 654,
+            "Schistosoma": 569,
+            "Hymenolepis": 472,
+            "Fasciola Hepatica": 492
+        },
+        "icon": {
+            "original": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/gMhpPEUK3o47u0FhKZsk/original.jpg",
+            "thumb": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/gMhpPEUK3o47u0FhKZsk/thumb.jpg",
+            "annotation": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/gMhpPEUK3o47u0FhKZsk/annotation-parasites.png"
+        },
+        "preprocessing": {},
+        "augmentation": {}
+    },
+    {
+        "id": "roboflow-100/peanuts-sd4kf",
+        "type": "object-detection",
+        "name": "peanuts",
+        "created": 1658435115.025,
+        "updated": 1683422792.903,
+        "images": 387,
+        "unannotated": 0,
+        "annotation": "peanuts",
+        "versions": 2,
+        "public": true,
+        "multilabel": false,
+        "license": "CC BY 4.0",
+        "splits": {
+            "valid": 77,
+            "test": 42,
+            "export": 0,
+            "train": 268
+        },
+        "colors": {
+            "with mold": "#C7FC00",
+            "without mold": "#FF00FF"
+        },
+        "classes": {
+            "with mold": 14000,
+            "without mold": 5350
+        },
+        "icon": {
+            "original": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/FS5oxu1gSraY4dRjuCJr/original.jpg",
+            "thumb": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/FS5oxu1gSraY4dRjuCJr/thumb.jpg",
+            "annotation": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/FS5oxu1gSraY4dRjuCJr/annotation-peanuts.png"
+        },
+        "preprocessing": {},
+        "augmentation": {}
+    },
+    {
+        "id": "roboflow-100/peixos-fish",
+        "type": "object-detection",
+        "name": "peixos fish",
+        "created": 1658270679.165,
+        "updated": 1683422759.209,
+        "images": 1200,
+        "unannotated": 0,
+        "annotation": "peixos",
+        "versions": 4,
+        "public": true,
+        "multilabel": false,
+        "license": "CC BY 4.0",
+        "splits": {
+            "valid": 261,
+            "test": 118,
+            "export": 0,
+            "train": 821
+        },
+        "colors": {
+            "Diplodus sargus": "#0E7AFE",
+            "peix": "#0000FF",
+            "Diplodus vulgaris": "#00FFCE",
+            "Afish poly": "#00B7EB",
+            "Diplodus annularis": "#C7FC00",
+            "Sparus aurata": "#FFFF00",
+            "Sphyraena sp-": "#8622FF",
+            "Seriola dumerilii": "#FF00FF",
+            "Oblada melanura": "#FE0056",
+            "Pomatous salator": "#FFABAB",
+            "taca": "#FF8000",
+            "Diplodus sp-": "#CCCCCC"
+        },
+        "classes": {
+            "Diplodus sargus": 25,
+            "peix": 12376,
+            "Diplodus vulgaris": 15,
+            "Afish poly": 48,
+            "Diplodus annularis": 1,
+            "Sparus aurata": 2,
+            "Sphyraena sp-": 2,
+            "Seriola dumerilii": 33,
+            "Oblada melanura": 24,
+            "Pomatous salator": 8,
+            "taca": 728,
+            "Diplodus sp-": 9
+        },
+        "icon": {
+            "original": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/sS3X4Jn268jryuFWnWeE/original.jpg",
+            "thumb": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/sS3X4Jn268jryuFWnWeE/thumb.jpg",
+            "annotation": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/sS3X4Jn268jryuFWnWeE/annotation-peixos.png"
+        },
+        "preprocessing": {
+            "remap": {
+                "labels": {
+                    "Diplodus sargus": {
+                        "omit": true
+                    },
+                    "Diplodus vulgaris": {
+                        "omit": true
+                    },
+                    "Afish poly": {
+                        "omit": true
+                    },
+                    "Diplodus annularis": {
+                        "omit": true
+                    },
+                    "Sparus aurata": {
+                        "omit": true
+                    },
+                    "Sphyraena sp-": {
+                        "omit": true
+                    },
+                    "Seriola dumerilii": {
+                        "omit": true
+                    },
+                    "Oblada melanura": {
+                        "omit": true
+                    },
+                    "Pomatous salator": {
+                        "omit": true
+                    },
+                    "Diplodus sp-": {
+                        "omit": true
+                    }
+                }
+            }
+        },
+        "augmentation": {}
+    },
+    {
+        "id": "roboflow-100/people-in-paintings",
+        "type": "object-detection",
+        "name": "people in paintings",
+        "created": 1658766309.659,
+        "updated": 1722551353.785,
+        "images": 909,
+        "unannotated": 0,
+        "annotation": "people-in-paintings",
+        "versions": 2,
+        "public": true,
+        "multilabel": false,
+        "license": "CC BY 4.0",
+        "splits": {
+            "valid": 194,
+            "test": 81,
+            "export": 0,
+            "train": 634
+        },
+        "colors": {
+            "Human": "#C7FC00"
+        },
+        "classes": {
+            "Human": 5151
+        },
+        "icon": {
+            "original": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/JTGUqtzsMR1GfNNBe0AN/original.jpg",
+            "thumb": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/JTGUqtzsMR1GfNNBe0AN/thumb.jpg",
+            "annotation": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/JTGUqtzsMR1GfNNBe0AN/annotation-people-in-paintings.png"
+        },
+        "preprocessing": {},
+        "augmentation": {}
+    },
+    {
+        "id": "roboflow-100/pests-2xlvx",
+        "type": "object-detection",
+        "name": "pests",
+        "created": 1658441894.675,
+        "updated": 1683422157.588,
+        "images": 717,
+        "unannotated": 0,
+        "annotation": "pests",
+        "versions": 2,
+        "public": true,
+        "multilabel": false,
+        "license": "CC BY 4.0",
+        "splits": {
+            "valid": 153,
+            "test": 55,
+            "export": 0,
+            "train": 509
+        },
+        "colors": {
+            "Athetis lineosa": "#FFABAB",
+            "Sogatella furcifera": "#FE0056",
+            "Sesamia inferens": "#8622FF",
+            "Trichoptera": "#00B7EB",
+            "Timandra Recompta": "#FF00FF",
+            "Creatonotus transiens": "#0000FF",
+            "Loxostege sticticalis": "#0E7AFE",
+            "Agrotis": "#C7FC00",
+            "Euproctis sparsa": "#C7FC00",
+            "Gryllidae": "#C7FC00",
+            "Cnaphalocrocis medinalis Guenee": "#FFABAB",
+            "Spodoptera exigua": "#FF00FF",
+            "Staurophora celsia": "#FF8000",
+            "Nilaparvata": "#CCCCCC",
+            "Naranga aenescens Moore": "#0E7AFE",
+            "Chilo suppressalis": "#FFFF00",
+            "Helicoverpa armigera": "#8622FF",
+            "Maruca testulalis Geyer": "#8622FF",
+            "Paracymoriza taiwanalis": "#00FFCE",
+            "Athetis lepigone": "#FFFF00",
+            "Gryllotalpidae": "#00FFCE",
+            "Spoladea recurvalis": "#0000FF",
+            "Mythimna separata": "#FF00FF",
+            "Endotricha consocia": "#FE0056",
+            "Holotrichia oblita Faldermann": "#FF8000",
+            "Sirthenea flavipes": "#00B7EB",
+            "Diaphania indica": "#FE0056",
+            "Mamestra brassicae": "#CCCCCC"
+        },
+        "classes": {
+            "Athetis lineosa": 43,
+            "Sogatella furcifera": 41,
+            "Trichoptera": 35,
+            "Sesamia inferens": 52,
+            "Timandra Recompta": 67,
+            "Creatonotus transiens": 181,
+            "Loxostege sticticalis": 77,
+            "Agrotis": 44,
+            "Euproctis sparsa": 72,
+            "Gryllidae": 138,
+            "Cnaphalocrocis medinalis Guenee": 74,
+            "Spodoptera exigua": 59,
+            "Staurophora celsia": 95,
+            "Nilaparvata": 74,
+            "Naranga aenescens Moore": 39,
+            "Chilo suppressalis": 110,
+            "Helicoverpa armigera": 65,
+            "Maruca testulalis Geyer": 42,
+            "Paracymoriza taiwanalis": 42,
+            "Athetis lepigone": 66,
+            "Spoladea recurvalis": 103,
+            "Gryllotalpidae": 51,
+            "Mythimna separata": 11,
+            "Endotricha consocia": 36,
+            "Holotrichia oblita Faldermann": 92,
+            "Sirthenea flavipes": 87,
+            "Mamestra brassicae": 111,
+            "Diaphania indica": 71
+        },
+        "icon": {
+            "original": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/oIj4ygr5kn7ViG5zPOsW/original.jpg",
+            "thumb": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/oIj4ygr5kn7ViG5zPOsW/thumb.jpg",
+            "annotation": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/oIj4ygr5kn7ViG5zPOsW/annotation-pests.png"
+        },
+        "preprocessing": {},
+        "augmentation": {}
+    },
+    {
+        "id": "roboflow-100/phages",
+        "type": "object-detection",
+        "name": "phages",
+        "created": 1659475912.689,
+        "updated": 1683422229.584,
+        "images": 1422,
+        "unannotated": 0,
+        "annotation": "phages",
+        "versions": 2,
+        "public": true,
+        "multilabel": false,
+        "license": "CC BY 4.0",
+        "splits": {
+            "valid": 164,
+            "test": 103,
+            "export": 0,
+            "train": 1155
+        },
+        "colors": {
+            "non-activated": "#C7FC00",
+            "activated": "#FF00FF"
+        },
+        "classes": {
+            "non-activated": 31359,
+            "activated": 906
+        },
+        "icon": {
+            "original": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/jx6FbuerVcDuLnD5kfsh/original.jpg",
+            "thumb": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/jx6FbuerVcDuLnD5kfsh/thumb.jpg",
+            "annotation": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/jx6FbuerVcDuLnD5kfsh/annotation-phages.png"
+        },
+        "preprocessing": {},
+        "augmentation": {}
+    },
+    {
+        "id": "roboflow-100/pills-sxdht",
+        "type": "object-detection",
+        "name": "pills",
+        "created": 1658513915.474,
+        "updated": 1683422158.931,
+        "images": 451,
+        "unannotated": 0,
+        "annotation": "pills",
+        "versions": 2,
+        "public": true,
+        "multilabel": false,
+        "license": "CC BY 4.0",
+        "splits": {
+            "valid": 90,
+            "test": 45,
+            "export": 0,
+            "train": 316
+        },
+        "colors": {
+            "red": "#FF8000",
+            "pink": "#8622FF",
+            "blue": "#FF00FF",
+            "white": "#C7FC00",
+            "Xyzall 5mg": "#FE0056",
+            "Ibuphil 600 mg": "#00B7EB",
+            "Ibuphil Cold 400-60": "#00FFCE",
+            "Cipro 500": "#FFFF00"
+        },
+        "classes": {
+            "red": 60,
+            "pink": 58,
+            "white": 60,
+            "blue": 59,
+            "Xyzall 5mg": 72,
+            "Ibuphil 600 mg": 2,
+            "Ibuphil Cold 400-60": 72,
+            "Cipro 500": 113
+        },
+        "icon": {
+            "original": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/Gv0y4V1WdMDK86YpFOhe/original.jpg",
+            "thumb": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/Gv0y4V1WdMDK86YpFOhe/thumb.jpg",
+            "annotation": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/Gv0y4V1WdMDK86YpFOhe/annotation-pills.png"
+        },
+        "preprocessing": {},
+        "augmentation": {}
+    },
+    {
+        "id": "roboflow-100/poker-cards-cxcvz",
+        "type": "object-detection",
+        "name": "poker cards",
+        "created": 1658514287.909,
+        "updated": 1683422318.271,
+        "images": 1285,
+        "unannotated": 0,
+        "annotation": "poker-cards",
+        "versions": 2,
+        "public": true,
+        "multilabel": false,
+        "license": "CC BY 4.0",
+        "splits": {
+            "valid": 193,
+            "test": 128,
+            "export": 0,
+            "train": 964
+        },
+        "colors": {
+            "59": "#C7FC00",
+            "2 Spades": "#00B7EB",
+            "4 Trefoils": "#0E7AFE",
+            "7 Trefoils": "#C7FC00",
+            "4 Spades": "#8622FF",
+            "3 Spades": "#FF00FF",
+            "5 Spades": "#FF00FF",
+            "A Diamonds": "#FF00FF",
+            "J Diamonds": "#FF8000",
+            "Q Hearts": "#FFFF00",
+            "10 Hearts": "#FF00FF",
+            "A Spades": "#0E7AFE",
+            "9 Diamonds": "#FF8000",
+            "3 Hearts": "#0E7AFE",
+            "5 Hearts": "#0000FF",
+            "3 Diamonds": "#00FFCE",
+            "10 Trefoils": "#0000FF",
+            "3 Trefoils": "#8622FF",
+            "8 Diamonds": "#8622FF",
+            "10 Diamonds": "#0000FF",
+            "9 Spades": "#FF8000",
+            "2 Diamonds": "#FFABAB",
+            "7 Spades": "#00FFCE",
+            "2 Trefoils": "#FFABAB",
+            "8 Trefoils": "#FE0056",
+            "K Spades": "#FFFF00",
+            "10 Spades": "#FFABAB",
+            "Q Spades": "#FF8000",
+            "A Hearts": "#0E7AFE",
+            "7 Diamonds": "#FFFF00",
+            "9 Hearts": "#FF00FF",
+            "Q Trefoils": "#CCCCCC",
+            "7 Hearts": "#CCCCCC",
+            "6 Trefoils": "#0000FF",
+            "8 Hearts": "#FE0056",
+            "6 Hearts": "#8622FF",
+            "A Trefoils": "#FFABAB",
+            "4 Diamonds": "#00FFCE",
+            "9 Trefoils": "#00B7EB",
+            "J Hearts": "#00B7EB",
+            "K Hearts": "#C7FC00",
+            "2 Hearts": "#00B7EB",
+            "4 Hearts": "#FE0056",
+            "J Trefoils": "#FE0056",
+            "6 Diamonds": "#FFFF00",
+            "Q Diamonds": "#C7FC00",
+            "5 Diamonds": "#C7FC00",
+            "K Trefoils": "#FE0056",
+            "8 Spades": "#CCCCCC",
+            "6 Spades": "#00FFCE",
+            "J Spades": "#8622FF",
+            "5 Trefoils": "#CCCCCC",
+            "K Diamonds": "#00FFCE"
+        },
+        "classes": {
+            "59": 104,
+            "4 Trefoils": 100,
+            "2 Spades": 120,
+            "7 Trefoils": 108,
+            "4 Spades": 120,
+            "3 Spades": 120,
+            "5 Spades": 108,
+            "A Diamonds": 104,
+            "J Diamonds": 104,
+            "Q Hearts": 111,
+            "10 Hearts": 100,
+            "A Spades": 100,
+            "9 Diamonds": 104,
+            "5 Hearts": 100,
+            "3 Hearts": 100,
+            "3 Diamonds": 113,
+            "10 Trefoils": 104,
+            "3 Trefoils": 104,
+            "8 Diamonds": 100,
+            "10 Diamonds": 111,
+            "9 Spades": 100,
+            "2 Diamonds": 113,
+            "7 Spades": 100,
+            "2 Trefoils": 104,
+            "8 Trefoils": 108,
+            "K Spades": 100,
+            "10 Spades": 120,
+            "Q Spades": 100,
+            "A Hearts": 113,
+            "7 Diamonds": 100,
+            "9 Hearts": 111,
+            "Q Trefoils": 119,
+            "7 Hearts": 105,
+            "6 Trefoils": 108,
+            "8 Hearts": 105,
+            "6 Hearts": 105,
+            "A Trefoils": 120,
+            "4 Diamonds": 113,
+            "J Hearts": 110,
+            "9 Trefoils": 120,
+            "K Hearts": 111,
+            "4 Hearts": 100,
+            "2 Hearts": 100,
+            "J Trefoils": 120,
+            "6 Diamonds": 100,
+            "Q Diamonds": 104,
+            "5 Diamonds": 105,
+            "K Trefoils": 120,
+            "8 Spades": 100,
+            "6 Spades": 100,
+            "J Spades": 100,
+            "5 Trefoils": 1,
+            "K Diamonds": 104
+        },
+        "icon": {
+            "original": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/vwmeE91CNweoFT0RsTcW/original.jpg",
+            "thumb": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/vwmeE91CNweoFT0RsTcW/thumb.jpg",
+            "annotation": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/vwmeE91CNweoFT0RsTcW/annotation-poker-cards.png"
+        },
+        "preprocessing": {},
+        "augmentation": {}
+    },
+    {
+        "id": "roboflow-100/printed-circuit-board",
+        "type": "object-detection",
+        "name": "printed circuit board",
+        "created": 1658442474.005,
+        "updated": 1720709721.648,
+        "images": 672,
+        "unannotated": 0,
+        "annotation": "printed-circuit-board",
+        "versions": 4,
+        "public": true,
+        "multilabel": false,
+        "license": "CC BY 4.0",
+        "splits": {
+            "valid": 80,
+            "test": 44,
+            "export": 0,
+            "train": 548
+        },
+        "colors": {
+            "Connector": "#CCCCCC",
+            "PS": "#00B7EB",
+            "Transformer": "#FFFF00",
+            "Diode": "#0000FF",
+            "Pads": "#FFABAB",
+            "Potentiometer": "#C7FC00",
+            "Test Point": "#FFABAB",
+            "Clock": "#FF00FF",
+            "Inductor": "#00B7EB",
+            "Ferrite Bead": "#00FFCE",
+            "Capacitor Jumper": "#C7FC00",
+            "Jumper": "#FF8000",
+            "Zener Diode": "#FE0056",
+            "Button": "#FF8000",
+            "Battery": "#8622FF",
+            "SK": "#0E7AFE",
+            "Electrolytic Capacitor": "#CCCCCC",
+            "IC": "#FF00FF",
+            "Resistor": "#00FFCE",
+            "Fuse": "#FFFF00",
+            "Unknown Unlabeled": "#FFABAB",
+            "Resistor Jumper": "#00FFCE",
+            "EM": "#C7FC00",
+            "Buzzer": "#FE0056",
+            "Transistor": "#8622FF",
+            "Led": "#FE0056",
+            "Heatsink": "#0E7AFE",
+            "-": "#0E7AFE",
+            "Resistor Network": "#FF00FF",
+            "Switch": "#FFFF00",
+            "iC": "#FF8000",
+            "Pins": "#0000FF",
+            "Capacitor": "#00B7EB",
+            "Display": "#8622FF"
+        },
+        "classes": {
+            "Connector": 4558,
+            "PS": 4,
+            "Transformer": 2,
+            "Diode": 284,
+            "Pads": 1176,
+            "Potentiometer": 26,
+            "Test Point": 1289,
+            "Clock": 146,
+            "Inductor": 235,
+            "Ferrite Bead": 108,
+            "Capacitor Jumper": 32564,
+            "Jumper": 324,
+            "Zener Diode": 15,
+            "Button": 277,
+            "Battery": 4,
+            "SK": 8,
+            "Electrolytic Capacitor": 856,
+            "IC": 7481,
+            "Resistor": 16034,
+            "Fuse": 28,
+            "Unknown Unlabeled": 982,
+            "Resistor Jumper": 37329,
+            "EM": 162,
+            "Buzzer": 4,
+            "Transistor": 4273,
+            "Led": 784,
+            "Heatsink": 14,
+            "-": 8,
+            "Resistor Network": 4627,
+            "Switch": 189,
+            "iC": 123,
+            "Pins": 1212,
+            "Capacitor": 19034,
+            "Display": 18
+        },
+        "icon": {
+            "original": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/g0JWzfdLUIDU0hEO1VJG/original.jpg",
+            "thumb": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/g0JWzfdLUIDU0hEO1VJG/thumb.jpg",
+            "annotation": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/g0JWzfdLUIDU0hEO1VJG/annotation-printed-circuit-board.png"
+        },
+        "preprocessing": {
+            "remap": {
+                "labels": {
+                    "Fuse": {
+                        "omit": true
+                    },
+                    "PS": {
+                        "omit": true
+                    },
+                    "Transformer": {
+                        "omit": true
+                    },
+                    "Zener Diode": {
+                        "omit": true
+                    },
+                    "Potentiometer": {
+                        "omit": true
+                    },
+                    "Battery": {
+                        "omit": true
+                    },
+                    "SK": {
+                        "omit": true
+                    },
+                    "Buzzer": {
+                        "omit": true
+                    },
+                    "Heatsink": {
+                        "omit": true
+                    },
+                    "-": {
+                        "omit": true
+                    },
+                    "Display": {
+                        "omit": true
+                    }
+                }
+            }
+        },
+        "augmentation": {}
+    },
+    {
+        "id": "roboflow-100/radio-signal",
+        "type": "object-detection",
+        "name": "radio signal",
+        "created": 1658335296.414,
+        "updated": 1683422740.303,
+        "images": 2798,
+        "unannotated": 0,
+        "annotation": "radio-signal",
+        "versions": 2,
+        "public": true,
+        "multilabel": false,
+        "license": "CC BY 4.0",
+        "splits": {
+            "valid": 566,
+            "test": 278,
+            "export": 0,
+            "train": 1954
+        },
+        "colors": {
+            "stray": "#C7FC00",
+            "target": "#FF00FF"
+        },
+        "classes": {
+            "stray": 1775,
+            "target": 1348
+        },
+        "icon": {
+            "original": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/kyYhNlOUq2ZdOLM1LM4k/original.jpg",
+            "thumb": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/kyYhNlOUq2ZdOLM1LM4k/thumb.jpg",
+            "annotation": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/kyYhNlOUq2ZdOLM1LM4k/annotation-radio-signal.png"
+        },
+        "preprocessing": {},
+        "augmentation": {}
+    },
+    {
+        "id": "roboflow-100/road-signs-6ih4y",
+        "type": "object-detection",
+        "name": "road signs",
+        "created": 1658857450.904,
+        "updated": 1683422606.384,
+        "images": 2093,
+        "unannotated": 0,
+        "annotation": "road-signs",
+        "versions": 2,
+        "public": true,
+        "multilabel": false,
+        "license": "CC BY 4.0",
+        "splits": {
+            "valid": 488,
+            "test": 229,
+            "export": 0,
+            "train": 1376
+        },
+        "colors": {
+            "parking": "#FF8000",
+            "green_light": "#FF00FF",
+            "t_intersection_l": "#FF00FF",
+            "ped_crossing": "#0E7AFE",
+            "enter_left_lane": "#00B7EB",
+            "do_not_stop": "#FFFF00",
+            "left_right_lane": "#00FFCE",
+            "do_not_turn_r": "#CCCCCC",
+            "do_not_enter": "#0E7AFE",
+            "stop": "#C7FC00",
+            "do_not_turn_l": "#00FFCE",
+            "red_light": "#FE0056",
+            "railway_crossing": "#FFFF00",
+            "yellow_light": "#FFABAB",
+            "do_not_u_turn": "#FE0056",
+            "no_parking": "#FF8000",
+            "traffic_light": "#0000FF",
+            "warning": "#8622FF",
+            "bus_stop": "#00B7EB",
+            "ped_zebra_cross": "#C7FC00",
+            "u_turn": "#8622FF"
+        },
+        "classes": {
+            "parking": 101,
+            "green_light": 167,
+            "t_intersection_l": 102,
+            "ped_crossing": 100,
+            "enter_left_lane": 102,
+            "do_not_stop": 100,
+            "left_right_lane": 101,
+            "do_not_turn_r": 101,
+            "do_not_enter": 100,
+            "stop": 108,
+            "do_not_turn_l": 113,
+            "red_light": 149,
+            "yellow_light": 94,
+            "railway_crossing": 102,
+            "warning": 100,
+            "traffic_light": 100,
+            "do_not_u_turn": 100,
+            "no_parking": 104,
+            "bus_stop": 105,
+            "ped_zebra_cross": 117,
+            "u_turn": 100
+        },
+        "icon": {
+            "original": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/hDi7qqFkWOSAvsHimWih/original.jpg",
+            "thumb": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/hDi7qqFkWOSAvsHimWih/thumb.jpg",
+            "annotation": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/hDi7qqFkWOSAvsHimWih/annotation-road-signs.png"
+        },
+        "preprocessing": {},
+        "augmentation": {}
+    },
+    {
+        "id": "roboflow-100/road-traffic",
+        "type": "object-detection",
+        "name": "road traffic",
+        "created": 1659619723.143,
+        "updated": 1683421981.248,
+        "images": 814,
+        "unannotated": 0,
+        "annotation": "road-traffic",
+        "versions": 4,
+        "public": true,
+        "multilabel": false,
+        "license": "CC BY 4.0",
+        "splits": {
+            "valid": 187,
+            "test": 133,
+            "export": 0,
+            "train": 494
+        },
+        "colors": {
+            "fire hydrants": "#00FFCE",
+            "tractors": "#0E7AFE",
+            "buses": "#00B7EB",
+            "taxis": "#FF8000",
+            "chimneys": "#FFABAB",
+            "stairs": "#FFFF00",
+            "motorcycles": "#CCCCCC",
+            "vehicles": "#FF00FF",
+            "traffic lights": "#8622FF",
+            "bridges": "#FE0056",
+            "bicycles": "#C7FC00",
+            "crosswalks": "#0000FF"
+        },
+        "classes": {
+            "fire hydrants": 94,
+            "tractors": 2,
+            "buses": 111,
+            "taxis": 24,
+            "chimneys": 37,
+            "stairs": 51,
+            "motorcycles": 240,
+            "vehicles": 1272,
+            "traffic lights": 952,
+            "bridges": 16,
+            "bicycles": 82,
+            "crosswalks": 284
+        },
+        "icon": {
+            "original": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/7Itms4aGlcl8wQfw2Gq9/original.jpg",
+            "thumb": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/7Itms4aGlcl8wQfw2Gq9/thumb.jpg",
+            "annotation": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/7Itms4aGlcl8wQfw2Gq9/annotation-road-traffic.png"
+        },
+        "preprocessing": {
+            "remap": {
+                "labels": {
+                    "tractors": {
+                        "omit": true
+                    },
+                    "taxis": {
+                        "omit": true
+                    },
+                    "chimneys": {
+                        "omit": true
+                    },
+                    "stairs": {
+                        "omit": true
+                    },
+                    "bridges": {
+                        "omit": true
+                    }
+                }
+            }
+        },
+        "augmentation": {}
+    },
+    {
+        "id": "roboflow-100/robomasters-285km",
+        "type": "object-detection",
+        "name": "robomasters",
+        "created": 1659476353.581,
+        "updated": 1683422000.711,
+        "images": 2779,
+        "unannotated": 0,
+        "annotation": "robots",
+        "versions": 2,
+        "public": true,
+        "multilabel": false,
+        "license": "CC BY 4.0",
+        "splits": {
+            "valid": 556,
+            "test": 278,
+            "export": 0,
+            "train": 1945
+        },
+        "colors": {
+            "watcher": "#FE0056",
+            "rune-gray": "#FFFF00",
+            "armor": "#00B7EB",
+            "car": "#FF00FF",
+            "rune-grey": "#8622FF",
+            "rune-red": "#00FFCE",
+            "base": "#C7FC00",
+            "rune": "#FF8000",
+            "rune-blue": "#0E7AFE"
+        },
+        "classes": {
+            "watcher": 1300,
+            "rune-gray": 19,
+            "armor": 4598,
+            "car": 2538,
+            "rune-grey": 16,
+            "rune-red": 449,
+            "rune-blue": 263,
+            "rune": 3,
+            "base": 1622
+        },
+        "icon": {
+            "original": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/5nJ9FV7KXszUIaIA3xNb/original.jpg",
+            "thumb": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/5nJ9FV7KXszUIaIA3xNb/thumb.jpg",
+            "annotation": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/5nJ9FV7KXszUIaIA3xNb/annotation-robots.png"
+        },
+        "preprocessing": {},
+        "augmentation": {}
+    },
+    {
+        "id": "roboflow-100/secondary-chains",
+        "type": "object-detection",
+        "name": "secondary chains",
+        "created": 1658289720.694,
+        "updated": 1683422316.441,
+        "images": 162,
+        "unannotated": 0,
+        "annotation": "secondary-chains",
+        "versions": 2,
+        "public": true,
+        "multilabel": false,
+        "license": "CC BY 4.0",
+        "splits": {
+            "valid": 43,
+            "test": 16,
+            "export": 0,
+            "train": 103
+        },
+        "colors": {
+            "chain": "#C7FC00"
+        },
+        "classes": {
+            "chain": 1427
+        },
+        "icon": {
+            "original": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/5jBe3CysArXXpb9dDmca/original.jpg",
+            "thumb": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/5jBe3CysArXXpb9dDmca/thumb.jpg",
+            "annotation": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/5jBe3CysArXXpb9dDmca/annotation-secondary-chains.png"
+        },
+        "preprocessing": {},
+        "augmentation": {}
+    },
+    {
+        "id": "roboflow-100/sedimentary-features-9eosf",
+        "type": "object-detection",
+        "name": "sedimentary features",
+        "created": 1659494868.068,
+        "updated": 1683422143.133,
+        "images": 222,
+        "unannotated": 0,
+        "annotation": "sediment",
+        "versions": 4,
+        "public": true,
+        "multilabel": false,
+        "license": "CC BY 4.0",
+        "splits": {
+            "valid": 45,
+            "test": 21,
+            "export": 0,
+            "train": 156
+        },
+        "colors": {
+            "Cross bedding": "#00FFCE",
+            "Massive": "#C7FC00",
+            "Parallel lamination": "#8622FF",
+            "Low angle": "#FF00FF",
+            "mud drape": "#FE0056"
+        },
+        "classes": {
+            "Cross bedding": 332,
+            "Massive": 2011,
+            "Parallel lamination": 671,
+            "Low angle": 583,
+            "mud drape": 885
+        },
+        "icon": {
+            "original": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/AE2vRt0dzE81cEjXbSV1/original.jpg",
+            "thumb": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/AE2vRt0dzE81cEjXbSV1/thumb.jpg",
+            "annotation": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/AE2vRt0dzE81cEjXbSV1/annotation-sediment.png"
+        },
+        "preprocessing": {
+            "resize": {
+                "format": "Stretch to",
+                "width": "640",
+                "height": "640"
+            },
+            "auto-orient": true
+        },
+        "augmentation": {}
+    },
+    {
+        "id": "roboflow-100/shark-teeth-5atku",
+        "type": "object-detection",
+        "name": "shark teeth",
+        "created": 1659539932.577,
+        "updated": 1683422070.954,
+        "images": 280,
+        "unannotated": 0,
+        "annotation": "teeth",
+        "versions": 2,
+        "public": true,
+        "multilabel": false,
+        "license": "CC BY 4.0",
+        "splits": {
+            "valid": 53,
+            "test": 36,
+            "export": 0,
+            "train": 191
+        },
+        "colors": {
+            "Upper": "#C7FC00",
+            "Lower": "#FE0056",
+            "Sand Tiger Shark": "#FF00FF",
+            "Snaggletooth Shark": "#8622FF"
+        },
+        "classes": {
+            "Upper": 46,
+            "Lower": 18,
+            "Sand Tiger Shark": 194,
+            "Snaggletooth Shark": 22
+        },
+        "icon": {
+            "original": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/6ntTp6DBVSLjMExGhb45/original.jpg",
+            "thumb": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/6ntTp6DBVSLjMExGhb45/thumb.jpg",
+            "annotation": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/6ntTp6DBVSLjMExGhb45/annotation-teeth.png"
+        },
+        "preprocessing": {},
+        "augmentation": {}
+    },
+    {
+        "id": "roboflow-100/sign-language-sokdr",
+        "type": "object-detection",
+        "name": "sign language",
+        "created": 1658940257.895,
+        "updated": 1683422489.133,
+        "images": 720,
+        "unannotated": 0,
+        "annotation": "sign-language",
+        "versions": 2,
+        "public": true,
+        "multilabel": false,
+        "license": "CC BY 4.0",
+        "splits": {
+            "valid": 144,
+            "test": 72,
+            "export": 0,
+            "train": 504
+        },
+        "colors": {
+            "A": "#FFABAB",
+            "B": "#0E7AFE",
+            "C": "#0E7AFE",
+            "D": "#00B7EB",
+            "E": "#FFABAB",
+            "F": "#0000FF",
+            "G": "#FF00FF",
+            "H": "#CCCCCC",
+            "I": "#FF8000",
+            "J": "#C7FC00",
+            "K": "#00FFCE",
+            "L": "#FE0056",
+            "M": "#FF00FF",
+            "N": "#FF00FF",
+            "O": "#00FFCE",
+            "P": "#FF8000",
+            "Q": "#00B7EB",
+            "R": "#FFFF00",
+            "S": "#0000FF",
+            "T": "#8622FF",
+            "U": "#FE0056",
+            "V": "#CCCCCC",
+            "W": "#8622FF",
+            "X": "#FFFF00",
+            "Y": "#C7FC00",
+            "Z": "#C7FC00"
+        },
+        "classes": {
+            "A": 29,
+            "B": 25,
+            "C": 25,
+            "D": 28,
+            "E": 25,
+            "F": 30,
+            "G": 30,
+            "H": 29,
+            "I": 30,
+            "J": 38,
+            "K": 27,
+            "L": 28,
+            "M": 28,
+            "N": 27,
+            "O": 28,
+            "P": 25,
+            "Q": 26,
+            "R": 25,
+            "S": 30,
+            "T": 25,
+            "U": 25,
+            "V": 28,
+            "W": 27,
+            "X": 26,
+            "Y": 26,
+            "Z": 30
+        },
+        "icon": {
+            "original": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/Uw2sYIwibwNBdVfzMoZn/original.jpg",
+            "thumb": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/Uw2sYIwibwNBdVfzMoZn/thumb.jpg",
+            "annotation": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/Uw2sYIwibwNBdVfzMoZn/annotation-sign-language.png"
+        },
+        "preprocessing": {},
+        "augmentation": {}
+    },
+    {
+        "id": "roboflow-100/signatures-xc8up",
+        "type": "object-detection",
+        "name": "signatures",
+        "created": 1658253479.21,
+        "updated": 1683422280.733,
+        "images": 368,
+        "unannotated": 0,
+        "annotation": "signatures",
+        "versions": 2,
+        "public": true,
+        "multilabel": false,
+        "license": "CC BY 4.0",
+        "splits": {
+            "valid": 74,
+            "test": 37,
+            "export": 0,
+            "train": 257
+        },
+        "colors": {
+            "signature": "#C7FC00"
+        },
+        "classes": {
+            "signature": 443
+        },
+        "icon": {
+            "original": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/IOWtq6RTJQgLe14ga9z2/original.jpg",
+            "thumb": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/IOWtq6RTJQgLe14ga9z2/thumb.jpg",
+            "annotation": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/IOWtq6RTJQgLe14ga9z2/annotation-signatures.png"
+        },
+        "preprocessing": {},
+        "augmentation": {}
+    },
+    {
+        "id": "roboflow-100/smoke-uvylj",
+        "type": "object-detection",
+        "name": "smoke",
+        "created": 1658000076.693,
+        "updated": 1683422940.47,
+        "images": 746,
+        "unannotated": 0,
+        "annotation": "smoke",
+        "versions": 2,
+        "public": true,
+        "multilabel": false,
+        "license": "CC BY 4.0",
+        "splits": {
+            "valid": 148,
+            "test": 76,
+            "export": 0,
+            "train": 522
+        },
+        "colors": {
+            "smoke": "#C7FC00"
+        },
+        "classes": {
+            "smoke": 821
+        },
+        "icon": {
+            "original": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/ywLphhTXXW6BLFjIoy9g/original.jpg",
+            "thumb": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/ywLphhTXXW6BLFjIoy9g/thumb.jpg",
+            "annotation": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/ywLphhTXXW6BLFjIoy9g/annotation-smoke.png"
+        },
+        "preprocessing": {},
+        "augmentation": {}
+    },
+    {
+        "id": "roboflow-100/soccer-players-5fuqs",
+        "type": "object-detection",
+        "name": "soccer players",
+        "created": 1658952417.178,
+        "updated": 1683423189.954,
+        "images": 163,
+        "unannotated": 0,
+        "annotation": "soccer-players",
+        "versions": 2,
+        "public": true,
+        "multilabel": false,
+        "license": "CC BY 4.0",
+        "splits": {
+            "valid": 33,
+            "test": 16,
+            "export": 0,
+            "train": 114
+        },
+        "colors": {
+            "0": "#C7FC00",
+            "1": "#FF00FF",
+            "2": "#8622FF",
+            "football": "#FE0056",
+            "referee": "#FF8000",
+            "player": "#00FFCE"
+        },
+        "classes": {
+            "0": 1766,
+            "1": 96,
+            "2": 141
+        },
+        "icon": {
+            "original": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/u48G0UpWfk8giSw7wrU8/original.jpg",
+            "thumb": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/u48G0UpWfk8giSw7wrU8/thumb.jpg",
+            "annotation": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/u48G0UpWfk8giSw7wrU8/annotation-soccer-players.png"
+        },
+        "preprocessing": {
+            "remap": {
+                "labels": {
+                    "0": {
+                        "override": "player"
+                    },
+                    "1": {
+                        "override": "referee"
+                    },
+                    "2": {
+                        "override": "football"
+                    }
+                }
+            }
+        },
+        "augmentation": {}
+    },
+    {
+        "id": "roboflow-100/soda-bottles",
+        "type": "object-detection",
+        "name": "soda bottles",
+        "created": 1658342540.378,
+        "updated": 1683421988.163,
+        "images": 2249,
+        "unannotated": 0,
+        "annotation": "soda-bottles",
+        "versions": 4,
+        "public": true,
+        "multilabel": false,
+        "license": "CC BY 4.0",
+        "splits": {
+            "valid": 486,
+            "test": 216,
+            "export": 0,
+            "train": 1547
+        },
+        "colors": {
+            "d": "#FF8000",
+            "coca-cola": "#FE0056",
+            "sprite": "#00FFCE",
+            "fantacoca-cola": "#C7FC00",
+            "fanta": "#8622FF",
+            "db": "#FF00FF"
+        },
+        "classes": {
+            "d": 1,
+            "coca-cola": 18514,
+            "sprite": 18747,
+            "fantacoca-cola": 1,
+            "fanta": 17426,
+            "db": 1
+        },
+        "icon": {
+            "original": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/nCFxXju2fI8KsQGjAixR/original.jpg",
+            "thumb": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/nCFxXju2fI8KsQGjAixR/thumb.jpg",
+            "annotation": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/nCFxXju2fI8KsQGjAixR/annotation-soda-bottles.png"
+        },
+        "preprocessing": {
+            "remap": {
+                "labels": {
+                    "d": {
+                        "omit": true
+                    },
+                    "fantacoca-cola": {
+                        "omit": true
+                    },
+                    "db": {
+                        "omit": true
+                    }
+                }
+            }
+        },
+        "augmentation": {}
+    },
+    {
+        "id": "roboflow-100/solar-panels-taxvb",
+        "type": "object-detection",
+        "name": "solar panels",
+        "created": 1658335161.032,
+        "updated": 1683422700.341,
+        "images": 161,
+        "unannotated": 0,
+        "annotation": "solar-panels",
+        "versions": 2,
+        "public": true,
+        "multilabel": false,
+        "license": "CC BY 4.0",
+        "splits": {
+            "valid": 30,
+            "test": 19,
+            "export": 0,
+            "train": 112
+        },
+        "colors": {
+            "Unclassified": "#C7FC00",
+            "Cell-Multi": "#FF00FF",
+            "Cell": "#FE0056",
+            "No-Anomaly": "#8622FF",
+            "Shadowing": "#00FFCE"
+        },
+        "classes": {
+            "Unclassified": 333,
+            "Cell-Multi": 282,
+            "Shadowing": 1054,
+            "Cell": 513,
+            "No-Anomaly": 6865
+        },
+        "icon": {
+            "original": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/h8US7feQDRqLLy7QB5ti/original.jpg",
+            "thumb": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/h8US7feQDRqLLy7QB5ti/thumb.jpg",
+            "annotation": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/h8US7feQDRqLLy7QB5ti/annotation-solar-panels.png"
+        },
+        "preprocessing": {},
+        "augmentation": {}
+    },
+    {
+        "id": "roboflow-100/stomata-cells",
+        "type": "object-detection",
+        "name": "stomata cells",
+        "created": 1659619384.352,
+        "updated": 1683421999.516,
+        "images": 2105,
+        "unannotated": 0,
+        "annotation": "stomata-cells",
+        "versions": 2,
+        "public": true,
+        "multilabel": false,
+        "license": "CC BY 4.0",
+        "splits": {
+            "valid": 414,
+            "test": 209,
+            "export": 0,
+            "train": 1482
+        },
+        "colors": {
+            "close": "#FF00FF",
+            "open": "#C7FC00"
+        },
+        "classes": {
+            "close": 3629,
+            "open": 9883
+        },
+        "icon": {
+            "original": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/r5znX3NJYBGnT6kLDT9P/original.jpg",
+            "thumb": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/r5znX3NJYBGnT6kLDT9P/thumb.jpg",
+            "annotation": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/r5znX3NJYBGnT6kLDT9P/annotation-stomata-cells.png"
+        },
+        "preprocessing": {},
+        "augmentation": {}
+    },
+    {
+        "id": "roboflow-100/street-work",
+        "type": "object-detection",
+        "name": "street work",
+        "created": 1658109916.992,
+        "updated": 1683423112.346,
+        "images": 873,
+        "unannotated": 0,
+        "annotation": "street-work-items",
+        "versions": 4,
+        "public": true,
+        "multilabel": false,
+        "license": "CC BY 4.0",
+        "splits": {
+            "valid": 175,
+            "test": 87,
+            "export": 0,
+            "train": 611
+        },
+        "colors": {
+            "Goggles": "#FFABAB",
+            "Head": "#8622FF",
+            "Cone": "#00FFCE",
+            "Helmet": "#FE0056",
+            "Gloves": "#C7FC00",
+            "No gloves": "#0E7AFE",
+            "No glasses": "#0000FF",
+            "Coverall": "#FF8000",
+            "Mask": "#FFFF00",
+            "Face_Shield": "#00B7EB",
+            "Person": "#FF00FF"
+        },
+        "classes": {
+            "Head": 432,
+            "Goggles": 242,
+            "Helmet": 1018,
+            "Cone": 945,
+            "Gloves": 579,
+            "No gloves": 382,
+            "No glasses": 218,
+            "Coverall": 113,
+            "Mask": 113,
+            "Face_Shield": 177,
+            "Person": 38
+        },
+        "icon": {
+            "original": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/bv0wItUQfadQAnTlOXMc/original.jpg",
+            "thumb": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/bv0wItUQfadQAnTlOXMc/thumb.jpg",
+            "annotation": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/bv0wItUQfadQAnTlOXMc/annotation-street-work-items.png"
+        },
+        "preprocessing": {
+            "remap": {
+                "labels": {
+                    "Coverall": {
+                        "omit": true
+                    },
+                    "Mask": {
+                        "omit": true
+                    },
+                    "Person": {
+                        "omit": true
+                    }
+                }
+            }
+        },
+        "augmentation": {}
+    },
+    {
+        "id": "roboflow-100/tabular-data-wf9uh",
+        "type": "object-detection",
+        "name": "tabular data",
+        "created": 1658425740.746,
+        "updated": 1683423251.121,
+        "images": 3866,
+        "unannotated": 0,
+        "annotation": "tabular-data",
+        "versions": 2,
+        "public": true,
+        "multilabel": false,
+        "license": "CC BY 4.0",
+        "splits": {
+            "valid": 409,
+            "test": 206,
+            "export": 0,
+            "train": 3251
+        },
+        "colors": {
+            "bold_row": "#FE0056",
+            "non_bold_row": "#FFFF00",
+            "direct_children": "#FF8000",
+            "non_bold_parent_row": "#CCCCCC",
+            "column": "#C7FC00",
+            "parent_column": "#FF00FF",
+            "closure_row": "#0E7AFE",
+            "-": "#8622FF",
+            "bold_parent_row": "#FFABAB",
+            "prime_parent": "#0000FF",
+            "sub_row": "#00B7EB",
+            "table": "#00FFCE"
+        },
+        "classes": {
+            "non_bold_row": 15099,
+            "bold_row": 1011,
+            "direct_children": 6632,
+            "non_bold_parent_row": 2834,
+            "column": 15757,
+            "parent_column": 999,
+            "closure_row": 6964,
+            "bold_parent_row": 2707,
+            "-": 2,
+            "sub_row": 1581,
+            "prime_parent": 972,
+            "table": 4076
+        },
+        "icon": {
+            "original": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/I7epFVjhV9dWMfFTjpxJ/original.jpg",
+            "thumb": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/I7epFVjhV9dWMfFTjpxJ/thumb.jpg",
+            "annotation": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/I7epFVjhV9dWMfFTjpxJ/annotation-tabular-data.png"
+        },
+        "preprocessing": {},
+        "augmentation": {}
+    },
+    {
+        "id": "roboflow-100/team-fight-tactics",
+        "type": "object-detection",
+        "name": "team fight tactics",
+        "created": 1659474928.919,
+        "updated": 1683422195.421,
+        "images": 1581,
+        "unannotated": 0,
+        "annotation": "characters",
+        "versions": 3,
+        "public": true,
+        "multilabel": false,
+        "license": "CC BY 4.0",
+        "splits": {
+            "valid": 307,
+            "test": 112,
+            "export": 0,
+            "train": 1162
+        },
+        "colors": {
+            "Tristana": "#FFFF00",
+            "Vex": "#FF00FF",
+            "Yuumi": "#00B7EB",
+            "Quinn": "#FFABAB",
+            "Seraphine": "#CCCCCC",
+            "Ekko": "#0E7AFE",
+            "Swain": "#FE0056",
+            "Fiora": "#0000FF",
+            "Taric": "#00B7EB",
+            "Singed": "#FF00FF",
+            "Samira": "#0000FF",
+            "Braum": "#8622FF",
+            "Veigar": "#C7FC00",
+            "Jhin": "#FFFF00",
+            "Jayce": "#00B7EB",
+            "Gankplank": "#C7FC00",
+            "Darius": "#00B7EB",
+            "Janna": "#FF8000",
+            "Kassadin": "#0000FF",
+            "Cho-Gath": "#FF8000",
+            "Graves": "#8622FF",
+            "Shaco": "#C7FC00",
+            "Zilean": "#FFABAB",
+            "Katarina": "#CCCCCC",
+            "Tahm Kench": "#00FFCE",
+            "Warwick": "#00FFCE",
+            "Ziggs": "#0E7AFE",
+            "Kog-Maw": "#C7FC00",
+            "Yone": "#FF8000",
+            "Lissandra": "#8622FF",
+            "Jinx": "#0E7AFE",
+            "Kai-Sa": "#FFABAB",
+            "Urgot": "#CCCCCC",
+            "Galio": "#CCCCCC",
+            "Akali": "#C7FC00",
+            "Talon": "#FF8000",
+            "Vi": "#8622FF",
+            "Lulu": "#FE0056",
+            "Ezreal": "#FFABAB",
+            "Twisted Fate": "#FFABAB",
+            "Poppy": "#0E7AFE",
+            "Illaoi": "#00FFCE",
+            "Zyra": "#0000FF",
+            "Miss Fortune": "#00B7EB",
+            "Viktor": "#FE0056",
+            "Twitch": "#0000FF",
+            "Heimerdinger": "#FE0056",
+            "Dr- Mundo": "#FFFF00",
+            "Orianna": "#FFFF00",
+            "Lux": "#00FFCE",
+            "Sion": "#8622FF",
+            "Camille": "#00FFCE",
+            "Garen": "#FF00FF",
+            "Leona": "#FF00FF",
+            "Blitzcrank": "#FF00FF",
+            "Caitlyn": "#FE0056",
+            "Malzahar": "#FF8000",
+            "Zac": "#FFFF00",
+            "Trundle": "#0E7AFE"
+        },
+        "classes": {
+            "Yuumi": 48,
+            "Tristana": 68,
+            "Vex": 60,
+            "Quinn": 46,
+            "Seraphine": 39,
+            "Ekko": 40,
+            "Swain": 62,
+            "Fiora": 38,
+            "Taric": 38,
+            "Singed": 82,
+            "Samira": 45,
+            "Braum": 53,
+            "Veigar": 50,
+            "Jhin": 38,
+            "Jayce": 58,
+            "Gankplank": 67,
+            "Darius": 56,
+            "Janna": 76,
+            "Kassadin": 52,
+            "Cho-Gath": 55,
+            "Graves": 41,
+            "Shaco": 48,
+            "Zilean": 59,
+            "Katarina": 54,
+            "Tahm Kench": 43,
+            "Warwick": 61,
+            "Ziggs": 59,
+            "Yone": 40,
+            "Kog-Maw": 49,
+            "Lissandra": 46,
+            "Jinx": 37,
+            "Kai-Sa": 49,
+            "Urgot": 48,
+            "Galio": 43,
+            "Akali": 35,
+            "Talon": 41,
+            "Vi": 75,
+            "Lulu": 52,
+            "Ezreal": 76,
+            "Twisted Fate": 53,
+            "Poppy": 57,
+            "Zyra": 41,
+            "Illaoi": 50,
+            "Viktor": 37,
+            "Miss Fortune": 49,
+            "Twitch": 56,
+            "Heimerdinger": 62,
+            "Dr- Mundo": 47,
+            "Orianna": 44,
+            "Lux": 45,
+            "Sion": 39,
+            "Camille": 50,
+            "Garen": 44,
+            "Leona": 48,
+            "Blitzcrank": 64,
+            "Zac": 57,
+            "Malzahar": 51,
+            "Caitlyn": 50,
+            "Trundle": 67
+        },
+        "icon": {
+            "original": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/2TRXnDfYugeQMlmpNJB2/original.jpg",
+            "thumb": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/2TRXnDfYugeQMlmpNJB2/thumb.jpg",
+            "annotation": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/2TRXnDfYugeQMlmpNJB2/annotation-characters.png"
+        },
+        "preprocessing": {},
+        "augmentation": {}
+    },
+    {
+        "id": "roboflow-100/thermal-cheetah-my4dp",
+        "type": "object-detection",
+        "name": "thermal cheetah",
+        "created": 1658948863.514,
+        "updated": 1683423269.225,
+        "images": 129,
+        "unannotated": 0,
+        "annotation": "thermal-cheetah",
+        "versions": 2,
+        "public": true,
+        "multilabel": false,
+        "license": "CC BY 4.0",
+        "splits": {
+            "valid": 25,
+            "test": 14,
+            "export": 0,
+            "train": 90
+        },
+        "colors": {
+            "cheetah": "#C7FC00",
+            "human": "#FF00FF"
+        },
+        "classes": {
+            "cheetah": 186,
+            "human": 45
+        },
+        "icon": {
+            "original": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/HQekoZW3gqCKxZ7KkuZO/original.jpg",
+            "thumb": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/HQekoZW3gqCKxZ7KkuZO/thumb.jpg",
+            "annotation": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/HQekoZW3gqCKxZ7KkuZO/annotation-thermal-cheetah.png"
+        },
+        "preprocessing": {},
+        "augmentation": {}
+    },
+    {
+        "id": "roboflow-100/thermal-dogs-and-people-x6ejw",
+        "type": "object-detection",
+        "name": "thermal dogs and people",
+        "created": 1658950889.831,
+        "updated": 1683423271.908,
+        "images": 203,
+        "unannotated": 0,
+        "annotation": "thermal-dogs-n-people",
+        "versions": 2,
+        "public": true,
+        "multilabel": false,
+        "license": "CC BY 4.0",
+        "splits": {
+            "valid": 41,
+            "test": 20,
+            "export": 0,
+            "train": 142
+        },
+        "colors": {
+            "person": "#C7FC00",
+            "dog": "#FF00FF"
+        },
+        "classes": {
+            "person": 140,
+            "dog": 117
+        },
+        "icon": {
+            "original": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/REhI334TeEOBQ9BzvC0j/original.jpg",
+            "thumb": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/REhI334TeEOBQ9BzvC0j/thumb.jpg",
+            "annotation": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/REhI334TeEOBQ9BzvC0j/annotation-thermal-dogs-n-people.png"
+        },
+        "preprocessing": {},
+        "augmentation": {}
+    },
+    {
+        "id": "roboflow-100/trail-camera",
+        "type": "object-detection",
+        "name": "trail camera",
+        "created": 1659482286.715,
+        "updated": 1683422023.435,
+        "images": 1311,
+        "unannotated": 0,
+        "annotation": "game",
+        "versions": 2,
+        "public": true,
+        "multilabel": false,
+        "license": "CC BY 4.0",
+        "splits": {
+            "valid": 239,
+            "test": 131,
+            "export": 0,
+            "train": 941
+        },
+        "colors": {
+            "Hog": "#C7FC00",
+            "Deer": "#FF00FF"
+        },
+        "classes": {
+            "Hog": 1398,
+            "Deer": 888
+        },
+        "icon": {
+            "original": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/Zx4nuQ4zJBvxmobL4nMA/original.jpg",
+            "thumb": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/Zx4nuQ4zJBvxmobL4nMA/thumb.jpg",
+            "annotation": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/Zx4nuQ4zJBvxmobL4nMA/annotation-game.png"
+        },
+        "preprocessing": {},
+        "augmentation": {}
+    },
+    {
+        "id": "roboflow-100/truck-movement",
+        "type": "object-detection",
+        "name": "truck movement",
+        "created": 1658343602.925,
+        "updated": 1721064242.107,
+        "images": 1062,
+        "unannotated": 0,
+        "annotation": "truck-movement",
+        "versions": 5,
+        "public": true,
+        "multilabel": false,
+        "license": "CC BY 4.0",
+        "splits": {
+            "valid": 215,
+            "test": 107,
+            "export": 0,
+            "train": 740
+        },
+        "colors": {
+            "stacker": "#00FFCE",
+            "otr_chassis_loaded": "#00B7EB",
+            "otr_chassis_unloaded": "#FF8000",
+            "person": "#C7FC00",
+            "otr_none_none": "#8622FF",
+            "utr_none_none": "#FE0056",
+            "otr_chassis_working": "#FF00FF"
+        },
+        "classes": {
+            "stacker": 81,
+            "otr_chassis_unloaded": 1844,
+            "otr_chassis_loaded": 492,
+            "person": 1164,
+            "utr_none_none": 10,
+            "otr_none_none": 50,
+            "otr_chassis_working": 994
+        },
+        "icon": {
+            "original": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/hwdmjr7paJRfWfZZbCGr/original.jpg",
+            "thumb": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/hwdmjr7paJRfWfZZbCGr/thumb.jpg",
+            "annotation": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/hwdmjr7paJRfWfZZbCGr/annotation-truck-movement.png"
+        },
+        "preprocessing": {
+            "remap": {
+                "labels": {
+                    "utr_none_none": {
+                        "omit": true
+                    },
+                    "otr_none_none": {
+                        "omit": true
+                    }
+                }
+            }
+        },
+        "augmentation": {}
+    },
+    {
+        "id": "roboflow-100/tweeter-posts",
+        "type": "object-detection",
+        "name": "tweeter posts",
+        "created": 1658184332.207,
+        "updated": 1683422760.962,
+        "images": 117,
+        "unannotated": 0,
+        "annotation": "tweeter-posts",
+        "versions": 2,
+        "public": true,
+        "multilabel": false,
+        "license": "CC BY 4.0",
+        "splits": {
+            "valid": 21,
+            "test": 9,
+            "export": 0,
+            "train": 87
+        },
+        "colors": {
+            "caption": "#FF00FF",
+            "tweet": "#C7FC00"
+        },
+        "classes": {
+            "caption": 136,
+            "tweet": 139
+        },
+        "icon": {
+            "original": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/FQNuUFVUbCThzSMQhnDC/original.jpg",
+            "thumb": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/FQNuUFVUbCThzSMQhnDC/thumb.jpg",
+            "annotation": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/FQNuUFVUbCThzSMQhnDC/annotation-tweeter-posts.png"
+        },
+        "preprocessing": {},
+        "augmentation": {}
+    },
+    {
+        "id": "roboflow-100/tweeter-profile",
+        "type": "object-detection",
+        "name": "tweeter profile",
+        "created": 1658428595.901,
+        "updated": 1683421980.857,
+        "images": 607,
+        "unannotated": 0,
+        "annotation": "tweeter-profile",
+        "versions": 2,
+        "public": true,
+        "multilabel": false,
+        "license": "CC BY 4.0",
+        "splits": {
+            "valid": 121,
+            "test": 61,
+            "export": 0,
+            "train": 425
+        },
+        "colors": {
+            "profile_info": "#C7FC00"
+        },
+        "classes": {
+            "profile_info": 738
+        },
+        "icon": {
+            "original": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/3EhhVNt9F5gfIsDMgJZm/original.jpg",
+            "thumb": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/3EhhVNt9F5gfIsDMgJZm/thumb.jpg",
+            "annotation": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/3EhhVNt9F5gfIsDMgJZm/annotation-tweeter-profile.png"
+        },
+        "preprocessing": {
+            "auto-orient": true
+        },
+        "augmentation": {}
+    },
+    {
+        "id": "roboflow-100/underwater-objects-5v7p8",
+        "type": "object-detection",
+        "name": "underwater objects",
+        "created": 1658269687.132,
+        "updated": 1683422765.429,
+        "images": 7600,
+        "unannotated": 0,
+        "annotation": "underwater-objects",
+        "versions": 2,
+        "public": true,
+        "multilabel": false,
+        "license": "CC BY 4.0",
+        "splits": {
+            "valid": 1520,
+            "test": 760,
+            "export": 0,
+            "train": 5320
+        },
+        "colors": {
+            "scallop": "#00FFCE",
+            "holothurian": "#8622FF",
+            "waterweeds": "#FE0056",
+            "starfish": "#FF00FF",
+            "echinus": "#C7FC00"
+        },
+        "classes": {
+            "scallop": 10485,
+            "holothurian": 6584,
+            "waterweeds": 46,
+            "starfish": 10270,
+            "echinus": 25299
+        },
+        "icon": {
+            "original": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/Kp5z9vHxLEehPr1XNud2/original.jpg",
+            "thumb": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/Kp5z9vHxLEehPr1XNud2/thumb.jpg",
+            "annotation": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/Kp5z9vHxLEehPr1XNud2/annotation-underwater-objects.png"
+        },
+        "preprocessing": {},
+        "augmentation": {}
+    },
+    {
+        "id": "roboflow-100/underwater-pipes-4ng4t",
+        "type": "object-detection",
+        "name": "underwater pipes",
+        "created": 1658255449.43,
+        "updated": 1683422586.323,
+        "images": 7971,
+        "unannotated": 0,
+        "annotation": "underwater-pipes",
+        "versions": 2,
+        "public": true,
+        "multilabel": false,
+        "license": "CC BY 4.0",
+        "splits": {
+            "valid": 1575,
+            "test": 779,
+            "export": 0,
+            "train": 5617
+        },
+        "colors": {
+            "pipe": "#C7FC00"
+        },
+        "classes": {
+            "pipe": 12238
+        },
+        "icon": {
+            "original": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/3qi07sfiOXA3f5PSzlwr/original.jpg",
+            "thumb": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/3qi07sfiOXA3f5PSzlwr/thumb.jpg",
+            "annotation": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/3qi07sfiOXA3f5PSzlwr/annotation-underwater-pipes.png"
+        },
+        "preprocessing": {},
+        "augmentation": {}
+    },
+    {
+        "id": "roboflow-100/uno-deck",
+        "type": "object-detection",
+        "name": "uno deck",
+        "created": 1658693636.901,
+        "updated": 1683422952.555,
+        "images": 8992,
+        "unannotated": 0,
+        "annotation": "uno-deck",
+        "versions": 2,
+        "public": true,
+        "multilabel": false,
+        "license": "CC BY 4.0",
+        "splits": {
+            "valid": 1798,
+            "test": 899,
+            "export": 0,
+            "train": 6295
+        },
+        "colors": {
+            "0": "#C7FC00",
+            "1": "#FF00FF",
+            "2": "#8622FF",
+            "3": "#FE0056",
+            "4": "#00FFCE",
+            "5": "#FF8000",
+            "6": "#00B7EB",
+            "7": "#FFFF00",
+            "8": "#0E7AFE",
+            "9": "#FFABAB",
+            "10": "#0000FF",
+            "11": "#CCCCCC",
+            "12": "#C7FC00",
+            "13": "#FF00FF",
+            "14": "#8622FF"
+        },
+        "classes": {
+            "0": 1800,
+            "1": 1754,
+            "2": 1824,
+            "3": 1872,
+            "4": 1760,
+            "5": 1835,
+            "6": 1768,
+            "7": 1782,
+            "8": 1753,
+            "9": 1783,
+            "10": 1788,
+            "11": 1824,
+            "12": 1815,
+            "13": 1763,
+            "14": 1855
+        },
+        "icon": {
+            "original": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/Kv7jsjqpO8Gu62KQluFu/original.jpg",
+            "thumb": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/Kv7jsjqpO8Gu62KQluFu/thumb.jpg",
+            "annotation": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/Kv7jsjqpO8Gu62KQluFu/annotation-uno-deck.png"
+        },
+        "preprocessing": {},
+        "augmentation": {}
+    },
+    {
+        "id": "roboflow-100/valentines-chocolate",
+        "type": "object-detection",
+        "name": "valentines chocolate",
+        "created": 1658940906.961,
+        "updated": 1683423108.806,
+        "images": 87,
+        "unannotated": 0,
+        "annotation": "valentines-chocolate",
+        "versions": 4,
+        "public": true,
+        "multilabel": false,
+        "license": "CC BY 4.0",
+        "splits": {
+            "valid": 13,
+            "test": 6,
+            "export": 0,
+            "train": 68
+        },
+        "colors": {
+            "sees-milk-almond-caramel": "#FF00FF",
+            "sees-milk-bordeaux": "#FE0056",
+            "sees-dark-scotchmallow": "#0E7AFE",
+            "sees-milk-mocha": "#00FFCE",
+            "sees-milk-coconut-cream": "#FF8000",
+            "sees-milk-almonds": "#C7FC00",
+            "sees-dark-almonds": "#FFABAB",
+            "sees-milk-butterscotch-square": "#FF8000",
+            "sees-milk-rum-nougat": "#FFABAB",
+            "sees-dark-walnut-square": "#8622FF",
+            "sees-milk-chelsea": "#0000FF",
+            "sees-milk-molasses-chips": "#8622FF",
+            "sees-dark-almond-nougat": "#00FFCE",
+            "sees-milk-mayfair": "#00B7EB",
+            "sees-milk-beverly": "#FFFF00",
+            "sees-milk-chocolate-buttercream": "#FFFF00",
+            "sees-milk-california-brittle": "#FE0056",
+            "sees-dark-chocolate-buttercream": "#00B7EB",
+            "sees-dark-caramel-patties": "#0E7AFE",
+            "sees-dark-bordeaux": "#CCCCCC",
+            "sees-dark-marzipan": "#C7FC00",
+            "sees-dark-normandie": "#FF00FF"
+        },
+        "classes": {
+            "sees-milk-bordeaux": 100,
+            "sees-milk-almond-caramel": 73,
+            "sees-dark-scotchmallow": 72,
+            "sees-milk-mocha": 83,
+            "sees-milk-coconut-cream": 72,
+            "sees-milk-almonds": 99,
+            "sees-dark-almonds": 73,
+            "sees-milk-rum-nougat": 80,
+            "sees-milk-butterscotch-square": 74,
+            "sees-dark-walnut-square": 69,
+            "sees-milk-chelsea": 76,
+            "sees-milk-molasses-chips": 75,
+            "sees-dark-almond-nougat": 71,
+            "sees-milk-mayfair": 73,
+            "sees-milk-beverly": 73,
+            "sees-milk-chocolate-buttercream": 75,
+            "sees-milk-california-brittle": 77,
+            "sees-dark-chocolate-buttercream": 80,
+            "sees-dark-caramel-patties": 73,
+            "sees-dark-bordeaux": 75,
+            "sees-dark-marzipan": 77,
+            "sees-dark-normandie": 77
+        },
+        "icon": {
+            "original": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/fgwDTLoyETiUrPO9oGCF/original.jpg",
+            "thumb": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/fgwDTLoyETiUrPO9oGCF/thumb.jpg",
+            "annotation": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/fgwDTLoyETiUrPO9oGCF/annotation-valentines-chocolate.png"
+        },
+        "preprocessing": {},
+        "augmentation": {}
+    },
+    {
+        "id": "roboflow-100/vehicles-q0x2v",
+        "type": "object-detection",
+        "name": "vehicles",
+        "created": 1658432339.994,
+        "updated": 1683422444.289,
+        "images": 4058,
+        "unannotated": 0,
+        "annotation": "vehicles",
+        "versions": 2,
+        "public": true,
+        "multilabel": false,
+        "license": "CC BY 4.0",
+        "splits": {
+            "valid": 966,
+            "test": 458,
+            "export": 0,
+            "train": 2634
+        },
+        "colors": {
+            "small bus": "#FF00FF",
+            "truck-xl-": "#C7FC00",
+            "truck-s-": "#FE0056",
+            "small truck": "#8622FF",
+            "truck-m-": "#FFFF00",
+            "car": "#0E7AFE",
+            "truck-l-": "#CCCCCC",
+            "mid truck": "#FFABAB",
+            "bus-s-": "#0000FF",
+            "big bus": "#00B7EB",
+            "big truck": "#FF8000",
+            "bus-l-": "#00FFCE"
+        },
+        "classes": {
+            "small bus": 263,
+            "truck-xl-": 821,
+            "truck-s-": 1363,
+            "truck-m-": 3672,
+            "small truck": 5842,
+            "truck-l-": 2278,
+            "car": 31641,
+            "mid truck": 703,
+            "bus-s-": 148,
+            "big bus": 816,
+            "big truck": 3632,
+            "bus-l-": 398
+        },
+        "icon": {
+            "original": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/kNaUCpR5cGc0M8WIgKMi/original.jpg",
+            "thumb": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/kNaUCpR5cGc0M8WIgKMi/thumb.jpg",
+            "annotation": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/kNaUCpR5cGc0M8WIgKMi/annotation-vehicles.png"
+        },
+        "preprocessing": {},
+        "augmentation": {}
+    },
+    {
+        "id": "roboflow-100/wall-damage",
+        "type": "object-detection",
+        "name": "wall damage",
+        "created": 1659619575.688,
+        "updated": 1669655879.445,
+        "images": 461,
+        "unannotated": 0,
+        "annotation": "wall-damage",
+        "versions": 2,
+        "public": true,
+        "multilabel": false,
+        "license": "CC BY 4.0",
+        "splits": {
+            "valid": 96,
+            "test": 40,
+            "export": 0,
+            "train": 325
+        },
+        "colors": {
+            "Severerotation": "#8622FF",
+            "Minorrotation": "#C7FC00",
+            "Moderaterotation": "#FF00FF"
+        },
+        "classes": {
+            "Severerotation": 103,
+            "Minorrotation": 85,
+            "Moderaterotation": 273
+        },
+        "icon": {
+            "original": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/mGCvzyibES0lhiUFIxWc/original.jpg",
+            "thumb": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/mGCvzyibES0lhiUFIxWc/thumb.jpg",
+            "annotation": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/mGCvzyibES0lhiUFIxWc/annotation-wall-damage.png"
+        },
+        "preprocessing": {},
+        "augmentation": {}
+    },
+    {
+        "id": "roboflow-100/washroom-rf1fa",
+        "type": "object-detection",
+        "name": "washroom",
+        "created": 1658170621.316,
+        "updated": 1683422335.347,
+        "images": 2978,
+        "unannotated": 0,
+        "annotation": "washroom",
+        "versions": 2,
+        "public": true,
+        "multilabel": false,
+        "license": "CC BY 4.0",
+        "splits": {
+            "valid": 775,
+            "test": 318,
+            "export": 0,
+            "train": 1885
+        },
+        "colors": {
+            "bathtub": "#FFFF00",
+            "mirror": "#FF8000",
+            "toilet": "#FE0056",
+            "c": "#FFABAB",
+            "washbasin": "#C7FC00",
+            "towel": "#FF00FF",
+            "sink": "#8622FF",
+            "showerhead": "#00B7EB",
+            "wc": "#0E7AFE",
+            "geyser": "#00FFCE"
+        },
+        "classes": {
+            "mirror": 1566,
+            "toilet": 18,
+            "bathtub": 723,
+            "c": 1,
+            "washbasin": 1977,
+            "towel": 1742,
+            "sink": 16,
+            "showerhead": 937,
+            "wc": 2126,
+            "geyser": 351
+        },
+        "icon": {
+            "original": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/xn5zh5Ar2enK5gbQ95IN/original.jpg",
+            "thumb": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/xn5zh5Ar2enK5gbQ95IN/thumb.jpg",
+            "annotation": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/xn5zh5Ar2enK5gbQ95IN/annotation-washroom.png"
+        },
+        "preprocessing": {},
+        "augmentation": {}
+    },
+    {
+        "id": "roboflow-100/weed-crop-aerial",
+        "type": "object-detection",
+        "name": "weed crop aerial",
+        "created": 1658951731.893,
+        "updated": 1683423279.001,
+        "images": 1176,
+        "unannotated": 0,
+        "annotation": "weed-crop-aerial",
+        "versions": 2,
+        "public": true,
+        "multilabel": false,
+        "license": "CC BY 4.0",
+        "splits": {
+            "valid": 235,
+            "test": 118,
+            "export": 0,
+            "train": 823
+        },
+        "colors": {
+            "weed": "#FF00FF",
+            "crop": "#C7FC00"
+        },
+        "classes": {
+            "weed": 7442,
+            "crop": 411
+        },
+        "icon": {
+            "original": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/2nNDmeiK0SLLVV8RyaXf/original.jpg",
+            "thumb": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/2nNDmeiK0SLLVV8RyaXf/thumb.jpg",
+            "annotation": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/2nNDmeiK0SLLVV8RyaXf/annotation-weed-crop-aerial.png"
+        },
+        "preprocessing": {},
+        "augmentation": {}
+    },
+    {
+        "id": "roboflow-100/wine-labels",
+        "type": "object-detection",
+        "name": "wine labels",
+        "created": 1658427153.859,
+        "updated": 1683422565.474,
+        "images": 4643,
+        "unannotated": 0,
+        "annotation": "wine-labels",
+        "versions": 2,
+        "public": true,
+        "multilabel": false,
+        "license": "CC BY 4.0",
+        "splits": {
+            "valid": 841,
+            "test": 630,
+            "export": 0,
+            "train": 3172
+        },
+        "colors": {
+            "Established YearYear": "#00FFCE",
+            "AlcoholPercentage": "#FE0056",
+            "Organic": "#8622FF",
+            "Appellation QualityLevel": "#C7FC00",
+            "Sweetness-Brut-SecSweetness-Brut-Sec": "#0E7AFE",
+            "Maker-Name": "#FF00FF",
+            "TypeWine Type": "#FFABAB",
+            "Distinct Logo": "#FFFF00",
+            "Sustainable": "#0000FF",
+            "Appellation AOC DOC AVARegion": "#00B7EB",
+            "CountryCountry": "#FF8000",
+            "VintageYear": "#CCCCCC"
+        },
+        "classes": {
+            "Established YearYear": 746,
+            "AlcoholPercentage": 1464,
+            "Organic": 49,
+            "Appellation QualityLevel": 960,
+            "Sweetness-Brut-SecSweetness-Brut-Sec": 244,
+            "Maker-Name": 5897,
+            "TypeWine Type": 3595,
+            "Sustainable": 78,
+            "Distinct Logo": 4698,
+            "Appellation AOC DOC AVARegion": 3458,
+            "VintageYear": 1763,
+            "CountryCountry": 2082
+        },
+        "icon": {
+            "original": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/WtjmvW5Yp7TTXUP9doZx/original.jpg",
+            "thumb": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/WtjmvW5Yp7TTXUP9doZx/thumb.jpg",
+            "annotation": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/WtjmvW5Yp7TTXUP9doZx/annotation-wine-labels.png"
+        },
+        "preprocessing": {},
+        "augmentation": {}
+    },
+    {
+        "id": "roboflow-100/x-ray-rheumatology",
+        "type": "object-detection",
+        "name": "x-ray rheumatology",
+        "created": 1658335534.29,
+        "updated": 1683423160.409,
+        "images": 185,
+        "unannotated": 0,
+        "annotation": "x-ray-rheumatology",
+        "versions": 2,
+        "public": true,
+        "multilabel": false,
+        "license": "CC BY 4.0",
+        "splits": {
+            "valid": 34,
+            "test": 16,
+            "export": 0,
+            "train": 135
+        },
+        "colors": {
+            "intermediate phalanges": "#FFABAB",
+            "fourth metacarpal bone": "#CCCCCC",
+            "second metacarpal bone": "#FE0056",
+            "distal phalanges": "#0E7AFE",
+            "artefact": "#00B7EB",
+            "proximal phalanges": "#C7FC00",
+            "soft tissue calcination": "#FF8000",
+            "fifth metacarpal bone": "#0000FF",
+            "third metacarpal bone": "#8622FF",
+            "radius": "#00FFCE",
+            "ulna": "#FF00FF",
+            "first metacarpal bone": "#FFFF00"
+        },
+        "classes": {
+            "intermediate phalanges": 773,
+            "second metacarpal bone": 199,
+            "fourth metacarpal bone": 192,
+            "distal phalanges": 974,
+            "soft tissue calcination": 98,
+            "artefact": 6,
+            "proximal phalanges": 968,
+            "fifth metacarpal bone": 193,
+            "third metacarpal bone": 194,
+            "ulna": 184,
+            "radius": 185,
+            "first metacarpal bone": 189
+        },
+        "icon": {
+            "original": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/3426TQkpW5EE6R6tN7jT/original.jpg",
+            "thumb": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/3426TQkpW5EE6R6tN7jT/thumb.jpg",
+            "annotation": "https://source.roboflow.com/pwYAXv9BTpqLyFfgQoPZ/3426TQkpW5EE6R6tN7jT/annotation-x-ray-rheumatology.png"
+        },
+        "preprocessing": {},
+        "augmentation": {}
+    }
+]
