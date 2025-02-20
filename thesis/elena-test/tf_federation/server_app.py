@@ -1,6 +1,6 @@
 """tensorflow-example: A Flower / TensorFlow app."""
 
-import importlib.metadata
+import tf_federation.properties as properties
 
 from tf_federation.strategy import CustomFedAvg
 from tf_federation.task import load_model
@@ -61,7 +61,7 @@ def server_fn(context: Context):
     # FlowerDatasets. However, we don't use FlowerDatasets for the server since
     # partitioning is not needed.
     # We make use of the "test" split only
-    global_test_set = load_dataset("zalando-datasets/fashion_mnist")["test"]
+    global_test_set = load_dataset(properties.dataset)["test"]
     global_test_set.set_format("numpy")
 
     x_test, y_test = global_test_set["image"] / 255.0, global_test_set["label"]

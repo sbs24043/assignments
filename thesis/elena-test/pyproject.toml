@@ -36,12 +36,12 @@ use-wandb = true
 default = "local-sim"
 
 [tool.flwr.federations.local-sim]
-options.num-supernodes = 6
+options.num-supernodes = 2
 options.backend.client-resources.num-cpus = 2 # each ClientApp assumes to use 2CPUs
 options.backend.client-resources.num-gpus = 0.0 # ratio of VRAM a ClientApp has access to
 
 [tool.flwr.federations.local-sim-gpu]
-options.num-supernodes = 6
+options.num-supernodes = 2
 options.backend.client-resources.num-cpus = 2
 options.backend.client-resources.num-gpus = 0.25
 

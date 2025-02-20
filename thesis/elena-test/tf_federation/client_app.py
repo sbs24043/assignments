@@ -6,6 +6,7 @@ from tf_federation.task import load_data, load_model
 from flwr.client import ClientApp, NumPyClient
 from flwr.common import Context, ParametersRecord, RecordSet, array_from_numpy
 
+import tf_federation.properties as properties
 
 # Define Flower Client and client_fn
 class FlowerClient(NumPyClient):

@@ -10,6 +10,7 @@ from flwr_datasets import FederatedDataset
 from flwr_datasets.partitioner import DirichletPartitioner
 from keras import layers
 
+import tf_federation.properties as properties
 from flwr.common.typing import UserConfig
 
 # Make TensorFlow log less verbose
@@ -55,7 +56,7 @@ def load_data(partition_id, num_partitions):
             seed=42,
         )
         fds = FederatedDataset(
-            dataset="zalando-datasets/fashion_mnist",
+            dataset=properties.dataset,
             partitioners={"train": partitioner},
         )
     partition = fds.load_partition(partition_id, "train")
