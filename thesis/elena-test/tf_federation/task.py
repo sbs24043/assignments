@@ -1,6 +1,7 @@
 """tensorflow-example: A Flower / TensorFlow app."""
 
 import json
+from logging import INFO
 import os
 from datetime import datetime
 from pathlib import Path
@@ -12,14 +13,13 @@ from keras import layers
 
 import tf_federation.properties as properties
 from flwr.common.typing import UserConfig
+from flwr.common import logger
+
 
 # Make TensorFlow log less verbose
 os.environ["TF_CPP_MIN_LOG_LEVEL"] = "3"
 
-
-def load_model(learning_rate: float = 0.001):
-    # Define a simple CNN for FashionMNIST and set Adam optimizer
-    model = keras.Sequential(
+MODEL_ARCHITECTURE = keras.Sequential(
         [
             keras.Input(shape=(28, 28, 1)),
             layers.Conv2D(32, kernel_size=(3, 3), activation="relu"),
@@ -31,6 +31,11 @@ def load_model(learning_rate: float = 0.001):
             layers.Dense(10, activation="softmax"),
         ]
     )
+
+def init_model(learning_rate: float = 0.001):
+    logger.log(INFO, "Initializing new model")
+    # Define a simple CNN and set Adam optimizer
+    model = MODEL_ARCHITECTURE
     optimizer = keras.optimizers.Adam(learning_rate)
     model.compile(
         optimizer=optimizer,
@@ -39,12 +44,62 @@ def load_model(learning_rate: float = 0.001):
     )
     return model
 
+def load_base_model(weights_path: str, learning_rate: float = 0.001):
+    logger.log(INFO, f"Loading model from {weights_path}")
+    # Define the base model architecture
+    base_model = MODEL_ARCHITECTURE
+    base_model.load_weights(weights_path)
+
+    # Freeze the base layers: Freeze the layers of the base model to prevent them from being trained.
+    for layer in base_model.layers:
+        layer.trainable = False
+
+    # Add new layers on top of the base model
+    model = keras.Sequential(
+        [
+            base_model,
+            layers.Dense(64, activation="relu"),
+            layers.Dropout(0.5),
+            layers.Dense(10, activation="softmax"),
+        ]
+    )
+
+    # Compile the model
+    optimizer = keras.optimizers.Adam(learning_rate)
+    model.compile(
+        optimizer=optimizer,
+        loss="sparse_categorical_crossentropy",
+        metrics=["accuracy"],
+    )
+
+    return model
+
+def load_model(run_config: UserConfig):
+    """
+    Load and initialize a Keras model based on the provided configuration.
+
+    This function loads a pre-trained model if a weights path is provided in the
+    run configuration. If no weights path is provided, it initializes a new model.
+
+    Args:
+        run_config (UserConfig): A dictionary containing the configuration for the run.
+            Expected keys:
+                - "base-weights-path" (str): Path to the pre-trained model weights.
+
+    Returns:
+        keras.Model: A compiled Keras model ready for training or evaluation.
+    """
+    weights_path = run_config["base-weights-path"]
+    if weights_path:
+      model = load_base_model(weights_path)
+    else:
+      model = init_model()
+    return model
 
 fds = None  # Cache FederatedDataset
 
 
 def load_data(partition_id, num_partitions):
-    """Load partition FashionMNIST data."""
     # Download and partition dataset
     # Only initialize `FederatedDataset` once
     global fds
@@ -72,14 +127,10 @@ def load_data(partition_id, num_partitions):
 
 def create_run_dir(config: UserConfig) -> tuple[Path, str]:
     """Create a directory where to save results from this run."""
-    # Create output directory given current timestamp
-    current_time = datetime.now()
-    run_dir = current_time.strftime("%Y-%m-%d/%H-%M-%S")
-    # Save path is based on the current directory
+    run_dir = config["run-identifier"] + "/" + datetime.now().strftime("%Y%m%d-%H%M%S")
     save_path = Path.cwd() / f"outputs/{run_dir}"
     save_path.mkdir(parents=True, exist_ok=False)
 
-    # Save run config as json
     with open(f"{save_path}/run_config.json", "w", encoding="utf-8") as fp:
         json.dump(config, fp)
 

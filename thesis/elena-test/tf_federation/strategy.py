@@ -21,14 +21,15 @@ class CustomFedAvg(FedAvg):
     results to W&B if enabled.
     """
 
-    def __init__(self, run_config: UserConfig, use_wandb: bool, *args, **kwargs):
+    def __init__(self, run_config: UserConfig, *args, **kwargs):
         super().__init__(*args, **kwargs)
-
-        # Create a directory where to save results from this run
+        
+        self.run_config = run_config
         self.save_path, self.run_dir = create_run_dir(run_config)
-        self.use_wandb = use_wandb
+        
         # Initialise W&B if set
-        if use_wandb:
+        self.use_wandb = run_config.get("use-wandb", False)
+        if self.use_wandb:
             self._init_wandb_project()
 
         # Keep track of best acc
@@ -36,10 +37,11 @@ class CustomFedAvg(FedAvg):
 
         # A dictionary to store results as they come
         self.results = {}
+        self.model = load_model()
 
     def _init_wandb_project(self):
-        # init W&B
-        wandb.init(project=PROJECT_NAME, name=f"{str(self.run_dir)}-ServerApp")
+        wandb.init(project=self.run_config["project-name"], 
+                   name=f"{str(self.run_dir)}-ServerApp")
 
     def _store_results(self, tag: str, results_dict):
         """Store results in dictionary, then save as JSON."""
@@ -69,14 +71,13 @@ class CustomFedAvg(FedAvg):
             # model and save the state dict.
             # Converts flwr.common.Parameters to ndarrays
             ndarrays = parameters_to_ndarrays(parameters)
-            model = load_model()
-            model.set_weights(ndarrays)
+            self.model.set_weights(ndarrays)
             # Save the PyTorch model
             file_name = (
                 self.save_path
                 / f"model_state_acc_{accuracy:.3f}_round_{round}.weights.h5"
             )
-            model.save_weights(file_name)
+            self.model.save_weights(file_name)
 
     def store_results_and_log(self, server_round: int, tag: str, results_dict):
         """A helper method that stores results and logs them to W&B if enabled."""

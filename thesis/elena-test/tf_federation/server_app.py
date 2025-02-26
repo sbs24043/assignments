@@ -46,11 +46,6 @@ def weighted_average(metrics):
 
 
 def server_fn(context: Context):
-    # Read from config
-    num_rounds = context.run_config["num-server-rounds"]
-    fraction_fit = context.run_config["fraction-fit"]
-    fraction_eval = context.run_config["fraction-evaluate"]
-
     # Initialize model parameters
     ndarrays = load_model().get_weights()
     parameters = ndarrays_to_parameters(ndarrays)
@@ -69,15 +64,14 @@ def server_fn(context: Context):
     # Define strategy
     strategy = CustomFedAvg(
         run_config=context.run_config,
-        use_wandb=context.run_config["use-wandb"],
-        fraction_fit=fraction_fit,
-        fraction_evaluate=fraction_eval,
+        fraction_fit=context.run_config["fraction-fit"],
+        fraction_evaluate=context.run_config["fraction-evaluate"],
         initial_parameters=parameters,
         on_fit_config_fn=on_fit_config,
         evaluate_fn=gen_evaluate_fn(x_test, y_test),
         evaluate_metrics_aggregation_fn=weighted_average,
     )
-    config = ServerConfig(num_rounds=num_rounds)
+    config = ServerConfig(num_rounds=context.run_config["num-server-rounds"])
 
     return ServerAppComponents(strategy=strategy, config=config)
 

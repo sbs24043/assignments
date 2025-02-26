@@ -47,24 +47,34 @@ docker build -f serverapp.Dockerfile -t flwr_serverapp:0.0.1 .
 2. Client
 docker build -f clientapp.Dockerfile -t flwr_clientapp:0.0.1 .
 
-Multi-architecture build:
+**Multi-architecture build**:
+https://medium.com/@life-is-short-so-enjoy-it/docker-how-to-build-and-push-multi-arch-docker-images-to-docker-hub-64dea4931df9
+
 1. In Docker desktop enable containerd to be used as image store, restart
 2. Run the command below:
-docker buildx build  --platform linux/amd64,linux/arm64/v8 -f clientapp.Dockerfile -t flwr_clientapp:0.0.1 .
+docker buildx build  --platform linux/arm64/v8 -f clientapp.Dockerfile -t flwr_clientapp:0.0.5-tf .
 
 docker buildx build --platform linux/amd64,linux/arm64 .
 
+3. Tagging and pushing
 When the image has been builts, we need to tag it:
-docker tag dd939551df54 leeloodub/sbs24043:flwr_clientapp
+docker image ls
+docker tag <hash> leeloodub/flwr_clientapp:<version>
+docker tag sha256:de43756b41d201488068a93241f64c1ab156530929577ab81146a2e9adf0af3d leeloodub/flwr_serverapp:0.0.1
 
 My Docker Hub repository:
-https://hub.docker.com/repository/docker/leeloodub/sbs24043/tags
+https://hub.docker.com/repository/docker/leeloodub/flwr_clientapp/tags
 
 ISSUES ENCOUNTERED:
 exec /python/venv/bin/flwr-clientapp: exec format error
 
 --> this is because need ot build for milti-platform architectyures 
 
+Another issue: error getting credentials - err: exec: "docker-credential-desktop": executable file not found in $PATH,
+https://stackoverflow.com/questions/65896681/exec-docker-credential-desktop-exe-executable-file-not-found-in-path
+
+Tried building from Dev build: 
+https://hub.docker.com/layers/flwr/clientapp/1.16.0.dev20250220/images/sha256-3e5cc002b08516ab042b5607ef17395c3a8a5278adc715c0f80edb17e5020cae
 
 
 ### Running
@@ -89,12 +99,12 @@ docker network create -d ipvlan \
 
 1. Superlink
 
-sudo docker run --rm \
+docker run --rm \
       -p 9091:9091 -p 9092:9092 -p 9093:9093 \
       --network flwr-network \
       --name superlink \
       --detach \
-      flwr/superlink:1.15.2 \
+      flwr/superlink:1.16.0.dev20250220 \
       --insecure \
       --isolation \
       process
@@ -109,7 +119,7 @@ sudo docker run --rm \
     --network flwr-network \
     --name supernode-1 \
     --detach \
-    flwr/supernode:1.15.2  \
+    flwr/supernode:1.16.0.dev20250220  \
     --insecure \
     --superlink 192.168.0.41:9092 \
     --node-config "partition-id=0 num-partitions=2" \
@@ -121,9 +131,9 @@ sudo docker run --rm \
     --network flwr-network \
     --name supernode-2 \
     --detach \
-    flwr/supernode:1.15.2  \
+    flwr/supernode:1.16.0.dev20250220  \
     --insecure \
-    --superlink superlink:9092 \
+    --superlink 192.168.0.41:9092 \
     --node-config "partition-id=1 num-partitions=2" \
     --clientappio-api-address 0.0.0.0:9095 \
     --isolation process
@@ -132,7 +142,7 @@ sudo docker run --rm \
 
 sudo docker run --rm \
     --network flwr-network \
-    -e WANDB_API_KEY=<KEY> \
+    -e WANDB_API_KEY=65a365351610afce4d9747a748e220dd9199f986 \
     --name serverapp \
     --detach \
     flwr_serverapp:0.0.1 \
@@ -164,18 +174,30 @@ Or if pulling the image from Dockerhub:
 sudo docker run --rm \
     --network flwr-network \
     --detach \
-    leeloodub/sbs24043:v0.01-tutorial \
+    leeloodub/flwr_clientapp:v0.0.2 \
     --insecure \
     --clientappio-api-address supernode-1:9094
 
+sudo docker run --rm \
+    --network flwr-network \
+    --detach \
+    leeloodub/flwr_clientapp:v0.0.2 \
+    --insecure \
+    --clientappio-api-address supernode-2:9095
+
 5. Run
 
-flwr run . local-deployment --stream (--run-config use-wandb=false)
+flwr run . local-deployment --stream --run-config use-wandb=false
 
 
 ### Configuring edge devices
 
 1. Raspberry Pi (runs Ubuntu)
+
+ssh to raspberry pi:
+```
+ssh olenapleshan@raspberrypi.local
+```
 
 1.1. Add Docker's official GPG key:
 ```bash
@@ -200,3 +222,14 @@ sudo apt-get update
 
 1.3. Install Docker packages
 sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
+
+### Shut down Raspberry Device
+
+sudo shutdown -h -P now
+
+### Clearing docker
+docker system prune -a
+
+
+
+Notebale Issues: Base image was not multi-arch, thus building from a Dev build
