@@ -37,7 +37,7 @@ class CustomFedAvg(FedAvg):
 
         # A dictionary to store results as they come
         self.results = {}
-        self.model = load_model()
+        self.model = load_model(run_config)
 
     def _init_wandb_project(self):
         wandb.init(project=self.run_config["project-name"], 

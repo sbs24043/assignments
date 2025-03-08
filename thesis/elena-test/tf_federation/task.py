@@ -89,11 +89,13 @@ def load_model(run_config: UserConfig):
     Returns:
         keras.Model: A compiled Keras model ready for training or evaluation.
     """
+    # float(config["lr"])
     weights_path = run_config["base-weights-path"]
     if weights_path:
       model = load_base_model(weights_path)
     else:
-      model = init_model()
+      lr = float(run_config["lr"])
+      model = init_model(lr)
     return model
 
 fds = None  # Cache FederatedDataset

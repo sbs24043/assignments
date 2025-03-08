@@ -33,7 +33,7 @@ class FlowerClient(NumPyClient):
         """
 
         # Instantiate model
-        model = load_model(float(config["lr"]))
+        model = load_model(config)
 
         # Apply weights from global models (the whole model is replaced)
         model.set_weights(parameters)
@@ -94,7 +94,7 @@ class FlowerClient(NumPyClient):
         last time it trained the model.
         """
         # Instantiate model
-        model = load_model()
+        model = load_model(config)
         # Apply global model weights received
         model.set_weights(parameters)
         # Override weights in classification layer with those this client

@@ -18,7 +18,7 @@ def gen_evaluate_fn(
 
     def evaluate(server_round, parameters_ndarrays, config):
         """Evaluate global model on centralized test set."""
-        model = load_model()
+        model = load_model(config)
         model.set_weights(parameters_ndarrays)
         loss, accuracy = model.evaluate(x_test, y_test, verbose=0)
         return loss, {"centralized_accuracy": accuracy}
@@ -47,7 +47,7 @@ def weighted_average(metrics):
 
 def server_fn(context: Context):
     # Initialize model parameters
-    ndarrays = load_model().get_weights()
+    ndarrays = load_model(None).get_weights()
     parameters = ndarrays_to_parameters(ndarrays)
 
     # Prepare dataset for central evaluation
