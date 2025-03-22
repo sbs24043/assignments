@@ -5,7 +5,7 @@ build-backend = "hatchling.build"
 [project]
 name = "tf_embedded_federation"
 version = "1.0.0"
-description = "Federated Learning with Tensorflow/Keras and Flower (Advanced Example)"
+description = "Federated Learning with Tensorflow/Keras, Flower, WanDB, and custom strategy"
 license = "Apache-2.0"
 dependencies = [
     "flwr[simulation]>=1.15.2",

@@ -12,6 +12,7 @@ from flwr.server.strategy import FedAvg
 
 PROJECT_NAME = "FLOWER-advanced-tensorflow"
 
+# https://flower.ai/docs/framework/how-to-implement-strategies.html
 
 class CustomFedAvg(FedAvg):
     """A class that behaves like FedAvg but has extra functionality.
@@ -37,7 +38,6 @@ class CustomFedAvg(FedAvg):
 
         # A dictionary to store results as they come
         self.results = {}
-        self.model = load_model(run_config)
 
     def _init_wandb_project(self):
         wandb.init(project=self.run_config["project-name"], 
@@ -58,39 +58,6 @@ class CustomFedAvg(FedAvg):
         with open(f"{self.save_path}/results.json", "w", encoding="utf-8") as fp:
             json.dump(self.results, fp)
 
-    def _update_best_acc(self, round, accuracy, parameters):
-        """Determines if a new best global model has been found.
-
-        If so, the model checkpoint is saved to disk.
-        """
-        if accuracy > self.best_acc_so_far:
-            self.best_acc_so_far = accuracy
-            logger.log(INFO, "💡 New best global model found: %f", accuracy)
-            # You could save the parameters object directly.
-            # Instead we are going to apply them to a PyTorch
-            # model and save the state dict.
-            # Converts flwr.common.Parameters to ndarrays
-            ndarrays = parameters_to_ndarrays(parameters)
-            self.model.set_weights(ndarrays)
-
-            # Save the Tensorflow model
-            fn_w = (
-                self.save_path
-                / f"model_state_acc_{accuracy:.3f}_round_{round}.weights.h5"
-            )
-            self.model.save_weights(fn_w)
-
-            fn_m = (
-                self.save_path
-                / f"model_state_acc_{accuracy:.3f}_round_{round}.h5"
-            )
-            self.model.save(fn_m)
-
-            fn_e = (
-                self.save_path
-                / f"export/model_state_acc_{accuracy:.3f}_round_{round}"
-            )
-            self.model.export(fn_e)
 
     def store_results_and_log(self, server_round: int, tag: str, results_dict):
         """A helper method that stores results and logs them to W&B if enabled."""
@@ -106,6 +73,7 @@ class CustomFedAvg(FedAvg):
 
     def evaluate(self, server_round, parameters):
         """Run centralized evaluation if callback was passed to strategy init."""
+        print("START CUSTOM DUMB SHIT IS CALLED!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!")
         loss, metrics = super().evaluate(server_round, parameters)
 
         # Save model if new best central accuracy is found
@@ -117,6 +85,7 @@ class CustomFedAvg(FedAvg):
             tag="centralized_evaluate",
             results_dict={"centralized_loss": loss, **metrics},
         )
+        print("END CUSTOM DUMB SHIT IS CALLED!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!")
         return loss, metrics
 
     def aggregate_evaluate(self, server_round, results, failures):

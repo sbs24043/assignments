@@ -36,7 +36,7 @@ MODEL_ARCHITECTURE = keras.Sequential(
     )
 
 def init_model(learning_rate: float = DEFAULT_LR):
-    logger.log(INFO, "No base moedel found: Initializing new model")
+    logger.log(INFO, "No base model found: Initializing new model")
     # Define a simple CNN and set Adam optimizer
     model = MODEL_ARCHITECTURE
     #optimizer = keras.optimizers.Adam(learning_rate)

@@ -2,28 +2,31 @@
 
 import tf_federation.properties as properties
 
-from tf_federation.strategy import CustomFedAvg
+from tf_federation.strategy_new import CustomStrategy
+
 from tf_federation.task import load_model
+from tf_federation.evaluation import Evaluation
 
 from datasets import load_dataset
 from flwr.common import Context, ndarrays_to_parameters
 from flwr.server import ServerApp, ServerAppComponents, ServerConfig
 
 
-def gen_evaluate_fn(
-    x_test,
-    y_test,
-):
-    """Generate the function for centralized evaluation."""
+# def gen_evaluate_fn(
+#     x_test,
+#     y_test,
+# ):
+#     """Generate the function for centralized evaluation."""
 
-    def evaluate(server_round, parameters_ndarrays, config):
-        """Evaluate global model on centralized test set."""
-        model = load_model(config)
-        model.set_weights(parameters_ndarrays)
-        loss, accuracy = model.evaluate(x_test, y_test, verbose=0)
-        return loss, {"centralized_accuracy": accuracy}
+#     def evaluate(server_round, parameters_ndarrays, config):
+#         """Evaluate global model on centralized test set."""
+#         print("THIS DUMB SHIT IS CALLED!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!")
+#         model = load_model(config)
+#         model.set_weights(parameters_ndarrays)
+#         loss, accuracy = model.evaluate(x_test, y_test, verbose=0)
+#         return loss, {"centralized_accuracy": accuracy}
 
-    return evaluate
+#     return evaluate
 
 
 def on_fit_config(server_round: int):
@@ -47,29 +50,25 @@ def weighted_average(metrics):
 
 def server_fn(context: Context):
     # Initialize model parameters
-    ndarrays = load_model(context.run_config).get_weights()
-    parameters = ndarrays_to_parameters(ndarrays)
+    model = load_model(context.run_config)
+    parameters = ndarrays_to_parameters(model.get_weights())
 
-    # Prepare dataset for central evaluation
-
-    # This is the exact same dataset as the one downloaded by the clients via
-    # FlowerDatasets. However, we don't use FlowerDatasets for the server since
-    # partitioning is not needed.
-    # We make use of the "test" split only
+    # Prepare dataset for server evaluation
     global_test_set = load_dataset(properties.dataset)["test"]
     global_test_set.set_format("numpy")
-
     x_test, y_test = global_test_set["image"] / 255.0, global_test_set["label"]
 
+    evaluation = Evaluation(model, x_test, y_test)
+
     # Define strategy
-    strategy = CustomFedAvg(
+    strategy = CustomStrategy(
         run_config=context.run_config,
         fraction_fit=context.run_config["fraction-fit"],
         fraction_evaluate=context.run_config["fraction-evaluate"],
         initial_parameters=parameters,
         on_fit_config_fn=on_fit_config,
-        evaluate_fn=gen_evaluate_fn(x_test, y_test),
-        evaluate_metrics_aggregation_fn=weighted_average,
+        evaluate_fn=evaluation.get_evaluate_fn(),
+        # evaluate_metrics_aggregation_fn=weighted_average,
     )
     config = ServerConfig(num_rounds=context.run_config["num-server-rounds"])
 

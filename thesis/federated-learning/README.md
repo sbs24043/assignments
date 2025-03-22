@@ -186,8 +186,14 @@ sudo docker run --rm \
     --clientappio-api-address supernode-2:9095
 
 5. Run
-
+```
 flwr run . local-deployment --stream --run-config use-wandb=false
+```
+
+or 
+```
+flwr run .
+```
 
 
 ### Configuring edge devices
@@ -233,3 +239,9 @@ docker system prune -a
 
 
 Notebale Issues: Base image was not multi-arch, thus building from a Dev build
+
+### Troubleshooting
+Releasing ports: 
+
+lsof -i tcp:<port>
+kill -9 <PID>

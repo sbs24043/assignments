@@ -1,0 +1,3 @@
+pip install roboflow
+pip install tensorflow
+pip install tensorflow-object-detection-api
