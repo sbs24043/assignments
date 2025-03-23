@@ -37,7 +37,6 @@ class Evaluation:
         Returns:
             Tuple containing loss and metrics dictionary
         """
-        print("EVALUATE DUMB SHIT IS CALLED!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!")
         self.model.set_weights(parameters_ndarrays)
         loss, accuracy = self.model.evaluate(self.x_test, self.y_test, verbose=0)
         return loss, {"server_accuracy": accuracy}

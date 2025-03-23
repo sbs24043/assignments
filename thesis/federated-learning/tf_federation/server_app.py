@@ -12,23 +12,6 @@ from flwr.common import Context, ndarrays_to_parameters
 from flwr.server import ServerApp, ServerAppComponents, ServerConfig
 
 
-# def gen_evaluate_fn(
-#     x_test,
-#     y_test,
-# ):
-#     """Generate the function for centralized evaluation."""
-
-#     def evaluate(server_round, parameters_ndarrays, config):
-#         """Evaluate global model on centralized test set."""
-#         print("THIS DUMB SHIT IS CALLED!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!")
-#         model = load_model(config)
-#         model.set_weights(parameters_ndarrays)
-#         loss, accuracy = model.evaluate(x_test, y_test, verbose=0)
-#         return loss, {"centralized_accuracy": accuracy}
-
-#     return evaluate
-
-
 def on_fit_config(server_round: int):
     """Construct `config` that clients receive when running `fit()`"""
     lr = 0.001

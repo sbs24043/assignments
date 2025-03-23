@@ -6,7 +6,7 @@ from tf_federation.task import create_run_dir, load_model
 
 from flwr.common import logger, parameters_to_ndarrays
 from flwr.common.typing import UserConfig
-from flwr.server.strategy import FedAvg, FedOpt, FedAdagrad, FedAdam, Strategy
+from flwr.server.strategy import FedAvg, FedOpt, FedAdagrad, FedAdam, Strategy, FedMedian, FedAvgAndroid
 from tf_federation.storage import RunManager
 from tf_federation.task import init_model
 
@@ -32,6 +32,7 @@ class CustomStrategy(FedAvg):
             FedAdam(**kwargs),
             FedAvg(**kwargs),
             FedOpt(**kwargs),
+            FedMedian(**kwargs),
         ]
 
     # def initialize_parameters(self, client_manager):
@@ -71,7 +72,6 @@ class CustomStrategy(FedAvg):
 
     def evaluate(self, server_round, parameters):
         """Run centralized evaluation if callback was passed to strategy init."""
-        print("START CUSTOM DUMB SHIT IS CALLED!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!")
         loss, metrics = super().evaluate(server_round, parameters)
 
         # Save model if new better central accuracy is found
@@ -89,7 +89,6 @@ class CustomStrategy(FedAvg):
             tag="server_evals",
             results_dict={"centralized_loss": loss, **metrics},
         )
-        print("END CUSTOM DUMB SHIT IS CALLED!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!")
         return loss, metrics
 
     def aggregate_evaluate(self, server_round, results, failures):
