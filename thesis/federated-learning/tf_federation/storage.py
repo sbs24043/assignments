@@ -118,4 +118,4 @@ class RunManager:
 
         # Log to W&B if enabled
         if self.use_wandb:
-            wandb.log(results_dict, step=server_round) 
+            wandb.log(results_dict, step=server_round)
