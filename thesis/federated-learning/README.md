@@ -38,12 +38,11 @@ flwr run .
 
 The run performs centralized and federated evaluation on the same dataset.
 
-## Running with docker
+## Running with Docker
 
 ### Building images
 1. Server
-docker build -f serverapp.Dockerfile -t flwr_serverapp:0.0.1 .
-
+docker build -f serverapp.Dockerfile -t flwr_serverapp:0.0.1-cust .
 2. Client
 docker build -f clientapp.Dockerfile -t flwr_clientapp:0.0.1 .
 
@@ -52,7 +51,7 @@ https://medium.com/@life-is-short-so-enjoy-it/docker-how-to-build-and-push-multi
 
 1. In Docker desktop enable containerd to be used as image store, restart
 2. Run the command below:
-docker buildx build  --platform linux/arm64/v8 -f clientapp.Dockerfile -t flwr_clientapp:0.0.5-tf .
+docker buildx build  --platform linux/arm64/v8 -f clientapp.Dockerfile -t flwr_clientapp:0.0.1-cust .
 
 docker buildx build --platform linux/amd64,linux/arm64 .
 
@@ -143,6 +142,7 @@ sudo docker run --rm \
 sudo docker run --rm \
     --network flwr-network \
     -e WANDB_API_KEY=65a365351610afce4d9747a748e220dd9199f986 \
+    -e JOB_OWNER=server \
     --name serverapp \
     --detach \
     flwr_serverapp:0.0.1 \
@@ -173,6 +173,8 @@ Or if pulling the image from Dockerhub:
 
 sudo docker run --rm \
     --network flwr-network \
+    -e WANDB_API_KEY=65a365351610afce4d9747a748e220dd9199f986 \
+    -e JOB_OWNER=node_1 \
     --detach \
     leeloodub/flwr_clientapp:v0.0.2 \
     --insecure \
@@ -180,6 +182,8 @@ sudo docker run --rm \
 
 sudo docker run --rm \
     --network flwr-network \
+    -e WANDB_API_KEY=65a365351610afce4d9747a748e220dd9199f986 \
+    -e JOB_OWNER=node_2 \
     --detach \
     leeloodub/flwr_clientapp:v0.0.2 \
     --insecure \

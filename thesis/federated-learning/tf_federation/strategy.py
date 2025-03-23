@@ -2,13 +2,13 @@ import json
 from logging import INFO
 from typing import Callable
 
-from tf_federation.task import create_run_dir, load_model
+from tf_federation.utils import RunManager
+from tf_federation.task import init_model
 
 from flwr.common import logger, parameters_to_ndarrays
 from flwr.common.typing import UserConfig
 from flwr.server.strategy import FedAvg, FedOpt, FedAdagrad, FedAdam, Strategy, FedMedian, FedAvgAndroid
-from tf_federation.storage import RunManager
-from tf_federation.task import init_model
+
 
 PROJECT_NAME = "flwr-edge-devices-custom-strategy"
 

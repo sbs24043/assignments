@@ -2,8 +2,7 @@
 
 import tf_federation.properties as properties
 
-from tf_federation.strategy_new import CustomStrategy
-
+from tf_federation.strategy import CustomStrategy
 from tf_federation.task import load_model
 from tf_federation.evaluation import Evaluation
 
@@ -12,13 +11,13 @@ from flwr.common import Context, ndarrays_to_parameters
 from flwr.server import ServerApp, ServerAppComponents, ServerConfig
 
 
-def on_fit_config(server_round: int):
-    """Construct `config` that clients receive when running `fit()`"""
-    lr = 0.001
-    # Enable a simple form of learning rate decay
-    if server_round > 10:
-        lr /= 2
-    return {"lr": lr}
+# def on_fit_config(server_round: int):
+#     """Construct `config` that clients receive when running `fit()`"""
+#     lr = 0.001
+#     # Enable a simple form of learning rate decay
+#     if server_round > 10:
+#         lr /= 2
+#     return {"lr": lr}
 
 
 # Define metric aggregation function
@@ -49,7 +48,7 @@ def server_fn(context: Context):
         fraction_fit=context.run_config["fraction-fit"],
         fraction_evaluate=context.run_config["fraction-evaluate"],
         initial_parameters=parameters,
-        on_fit_config_fn=on_fit_config,
+        #on_fit_config_fn=on_fit_config,
         evaluate_fn=evaluation.get_evaluate_fn(),
         # evaluate_metrics_aggregation_fn=weighted_average,
     )

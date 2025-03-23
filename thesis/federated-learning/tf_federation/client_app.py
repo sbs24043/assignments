@@ -5,9 +5,14 @@ from tf_federation.task import load_data, load_model
 
 from flwr.client import ClientApp, NumPyClient
 from flwr.common import Context, ParametersRecord, RecordSet, array_from_numpy
+from flwr.common.typing import UserConfig
+
+from tf_federation.utils import RunManager
+from wandb.integration.keras import WandbMetricsLogger, WandbModelCheckpoint
 
 import tf_federation.properties as properties
 
+# https://flower.ai/docs/framework/tutorial-series-customize-the-client-pytorch.html
 # Define Flower Client and client_fn
 class FlowerClient(NumPyClient):
     """A simple client that showcases how to use the state.
@@ -17,12 +22,16 @@ class FlowerClient(NumPyClient):
     and updated during `fit()` and used during `evaluate()`.
     """
 
-    def __init__(self, client_state: RecordSet, data, batch_size, local_epochs):
+    def __init__(self, client_state: RecordSet, data, run_config: UserConfig):
         self.client_state = client_state
         self.x_train, self.y_train, self.x_test, self.y_test = data
-        self.batch_size = batch_size
-        self.local_epochs = local_epochs
+
+        self.batch_size = run_config["batch-size"]
+        self.local_epochs = run_config["local-epochs"]
         self.local_layer_name = "classification-head"
+
+        self.run_manager = RunManager(run_config)
+
 
     def fit(self, parameters, config):
         """Train model locally.
@@ -32,23 +41,31 @@ class FlowerClient(NumPyClient):
         training and used the next time this client participates.
         """
 
-        # Instantiate model
         model = load_model(config)
-
         # Apply weights from global models (the whole model is replaced)
         model.set_weights(parameters)
-
-        # Override weights in classification layer with those this client
-        # had at the end of the last fit() round it participated in
+        # Override weights in classification layer with those this client  had at the end of the last fit() round it participated in
         self._load_layer_weights_from_state(model)
 
-        model.fit(
-            self.x_train,
-            self.y_train,
-            epochs=self.local_epochs,
-            batch_size=self.batch_size,
-            verbose=0,
-        )
+        # Create base fit parameters
+        fit_params = {
+            "x": self.x_train,
+            "y": self.y_train,
+            "epochs": self.local_epochs,
+            "batch_size": self.batch_size,
+            "verbose": 0,
+        }
+        
+        # Conditionally add callbacks for wandb logging
+        if self.run_manager.use_wandb:
+            fit_params["callbacks"] = [
+                WandbMetricsLogger(),
+                WandbModelCheckpoint("models.keras", monitor="val_accuracy"),
+            ]
+        
+        # Train the model with the configured parameters
+        model.fit(**fit_params)
+
         # Save classification head to context's state to use in a future fit() call
         self._save_layer_weights_to_state(model)
 
@@ -99,8 +116,16 @@ class FlowerClient(NumPyClient):
         model.set_weights(parameters)
         # Override weights in classification layer with those this client
         # had at the end of the last fit() round it participated in
-        self._load_layer_weights_from_state(model)
+        # DO I NEED THE BELOW???
+        #self._load_layer_weights_from_state(model)
         loss, accuracy = model.evaluate(self.x_test, self.y_test, verbose=0)
+        
+        # Store and log
+        # self.run_manager.log_run(
+        #     server_round=server_round,
+        #     tag="server_evals",
+        #     results_dict={"centralized_loss": loss, **accuracy},
+        # )
         return loss, len(self.x_test), {"accuracy": accuracy}
 
 
@@ -112,15 +137,12 @@ def client_fn(context: Context):
     partition_id = context.node_config["partition-id"]
     num_partitions = context.node_config["num-partitions"]
     data = load_data(partition_id, num_partitions)
-    local_epochs = context.run_config["local-epochs"]
-    batch_size = context.run_config["batch-size"]
 
     # Return Client instance
     # We pass the state to persist information across
-    # participation rounds. Note that each client always
-    # receives the same Context instance (it's a 1:1 mapping)
+    # participation rounds. =
     client_state = context.state
-    return FlowerClient(client_state, data, batch_size, local_epochs).to_client()
+    return FlowerClient(client_state, data, context.run_config).to_client()
 
 
 # Flower ClientApp

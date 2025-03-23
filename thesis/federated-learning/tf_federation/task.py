@@ -127,34 +127,3 @@ def load_data(partition_id, num_partitions):
 
     return x_train, y_train, x_test, y_test
 
-
-def create_run_dir(config: UserConfig) -> tuple[Path, str]:
-    """
-    Create a directory to save results from this run.
-
-    This function creates a directory based on the run identifier and the current timestamp.
-    It also saves the run configuration to a JSON file in the created directory.
-
-    Args:
-        config (UserConfig): A dictionary containing the configuration for the run.
-            Expected keys:
-                - "run-identifier" (str): A unique identifier for the run.
-
-    Returns:
-        tuple[Path, str]: A tuple containing the path to the created directory and the run identifier.
-    """
-    # Generate the run directory name using the run identifier and current timestamp
-    run_identifier = config["run-identifier"]
-    timestamp = datetime.now().strftime("%Y%m%d-%H%M%S")
-    run_dir = f"{run_identifier}/{timestamp}"
-
-    # Create the full path to the run directory
-    save_path = Path.cwd() / f"outputs/{run_dir}/export"
-    save_path.mkdir(parents=True, exist_ok=False)
-
-    # Save the run configuration to a JSON file in the run directory
-    config_path = save_path / "run_config.json"
-    with open(config_path, "w", encoding="utf-8") as fp:
-        json.dump(config, fp, indent=4)
-
-    return save_path, run_dir
