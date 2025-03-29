@@ -49,7 +49,6 @@ def init_model(learning_rate: float = DEFAULT_LR):
 
 def load_base_model(weights_path: str, learning_rate: float = DEFAULT_LR):
     logger.log(INFO, f"Loading base model from {weights_path}")
-    # Define the base model architecture
     base_model = MODEL_ARCHITECTURE
     base_model.load_weights(weights_path)
 
@@ -102,9 +101,31 @@ def load_model(run_config: UserConfig):
 fds = None  # Cache FederatedDataset
 
 
-def load_data(partition_id, num_partitions):
-    # Download and partition dataset
-    # Only initialize `FederatedDataset` once
+def load_data(partition_id: int, num_partitions: int) -> tuple:
+    """
+    Load and prepare data for a specific client in federated learning.
+    
+    This function retrieves a partition of the dataset specified in properties.dataset
+    and prepares it for training and evaluation. The data is partitioned using
+    Dirichlet distribution to create non-IID data distribution across clients.
+    The function caches the FederatedDataset to avoid reloading for multiple clients.
+    
+    Args:
+        partition_id: The ID of the partition to load (client ID)
+        num_partitions: Total number of partitions to create (total number of clients)
+        
+    Returns:
+        tuple: A tuple containing four elements:
+            - x_train (np.ndarray): Normalized training images with shape (n_samples, 28, 28, 1)
+            - y_train (np.ndarray): Training labels
+            - x_test (np.ndarray): Normalized testing images with shape (n_samples, 28, 28, 1)
+            - y_test (np.ndarray): Testing labels
+            
+    Note:
+        - Images are normalized by dividing pixel values by 255.0
+        - The dataset is split into 80% training and 20% testing data
+        - The function uses a global variable 'fds' to cache the FederatedDataset
+    """
     global fds
     if fds is None:
         partitioner = DirichletPartitioner(

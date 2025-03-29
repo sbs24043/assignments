@@ -44,7 +44,7 @@ The run performs centralized and federated evaluation on the same dataset.
 1. Server
 docker build -f serverapp.Dockerfile -t flwr_serverapp:0.0.1-cust .
 2. Client
-docker build -f clientapp.Dockerfile -t flwr_clientapp:0.0.1 .
+docker build -f clientapp.Dockerfile -t flwr_clientapp:0.0.1-cust .
 
 **Multi-architecture build**:
 https://medium.com/@life-is-short-so-enjoy-it/docker-how-to-build-and-push-multi-arch-docker-images-to-docker-hub-64dea4931df9
@@ -201,8 +201,7 @@ flwr run .
 
 
 ### Configuring edge devices
-
-1. Raspberry Pi (runs Ubuntu)
+#### Raspberry Pi (runs Ubuntu)
 
 ssh to raspberry pi:
 ```
@@ -233,13 +232,18 @@ sudo apt-get update
 1.3. Install Docker packages
 sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
 
-### Shut down Raspberry Device
+**Shut down Raspberry Device**
 
 sudo shutdown -h -P now
 
-### Clearing docker
+**Clearing docker**
 docker system prune -a
 
+#### Docker on RockPi:
+See https://wiki.radxa.com/Rockpi4/Docker
+Should be similar and possible. Rockpi runs Debian though.
+
+SSH'ing into RockPi https://wiki.radxa.com/RockpiS/ssh
 
 
 Notebale Issues: Base image was not multi-arch, thus building from a Dev build

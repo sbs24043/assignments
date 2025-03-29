@@ -1,4 +1,4 @@
-FROM --platform=linux/arm64/v8 flwr/clientapp:1.16.0.dev20250220
+FROM --platform=linux/arm64/v8 flwr/clientapp:1.17.0
 
 WORKDIR /app
 COPY pyproject.toml .

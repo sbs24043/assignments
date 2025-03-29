@@ -1,4 +1,4 @@
-FROM flwr/serverapp:1.15.2
+FROM flwr/serverapp:1.17.0
 
 WORKDIR /app
 

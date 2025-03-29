@@ -38,9 +38,8 @@ class RunManager:
                             "dataset": properties.dataset,
                             "epochs": int(config["num-server-rounds"]),  
                         },
-                        # TODO  - change job type to server vs client 1,2 
                         job_type=os.environ.get(
-                            'JOB_OWNER', 'server'
+                            'JOB_OWNER', os.environ.get('JOB_OWNER', 'server')
                         ))
 
     def _create_run_dir(self, config: Dict[str, str]) -> Tuple[Path, str]:

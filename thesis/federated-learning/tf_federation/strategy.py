@@ -10,9 +10,7 @@ from flwr.common.typing import UserConfig
 from flwr.server.strategy import FedAvg, FedOpt, FedAdagrad, FedAdam, Strategy, FedMedian, FedAvgAndroid
 
 
-PROJECT_NAME = "flwr-edge-devices-custom-strategy"
-
-
+# PROJECT_NAME = "flwr-edge-devices-custom-strategy"
 # https://flower.ai/docs/framework/how-to-implement-strategies.html
 # https://flower.ai/docs/framework/tutorial-series-build-a-strategy-from-scratch-pytorch.html
 # https://flower.ai/docs/framework/how-to-use-strategies.html#customize-an-existing-strategy-with-callback-functions
@@ -61,7 +59,8 @@ class CustomStrategy(FedAvg):
             eval_results.append([pos, loss, acc])
 
         print("Results of evaluation with multiple strategies:", eval_results)
-        best_result = min(eval_results, key=lambda x: (x[1], x[2]["server_accuracy"]))
+        best_result = min(eval_results, key=lambda x: (x[1], x[2]["centralized_eval_accuracy"]))
+
         print("Best strategy for the round is:", self.strategies[best_result[0]])
         
         return parameters_aggregated_list[best_result[0]], metrics_aggregated_list[best_result[0]]
@@ -75,7 +74,7 @@ class CustomStrategy(FedAvg):
         loss, metrics = super().evaluate(server_round, parameters)
 
         # Save model if new better central accuracy is found
-        accuracy = metrics["server_accuracy"]
+        accuracy = metrics["centralized_eval_accuracy"]
         if accuracy > self.best_accuracy:
             logger.log(INFO, "Better accuracy achieved: %f", accuracy)
             logger.log(INFO, "Previous accuracy: %f", self.best_accuracy)
@@ -87,7 +86,7 @@ class CustomStrategy(FedAvg):
         self.run_manager.log_run(
             server_round=server_round,
             tag="server_evals",
-            results_dict={"centralized_loss": loss, **metrics},
+            results_dict={"centralized_eval_loss": loss, **metrics},
         )
         return loss, metrics
 
