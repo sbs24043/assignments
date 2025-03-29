@@ -88,14 +88,6 @@ ping raspberrypi.local
 > 192.168.0.250
 ```
 
-docker network create --driver ipvlan server-network
-
-docker network create -d ipvlan \
-    --subnet=192.168.0.0/24 \
-    --gateway=192.168.0.41 \
-    -o ipvlan_mode=l2 \
-    -o parent=eth0 server-network
-
 1. Superlink
 
 docker run --rm \
@@ -103,7 +95,7 @@ docker run --rm \
       --network flwr-network \
       --name superlink \
       --detach \
-      flwr/superlink:1.16.0.dev20250220 \
+      flwr/superlink:1.17.0 \
       --insecure \
       --isolation \
       process
@@ -118,7 +110,7 @@ sudo docker run --rm \
     --network flwr-network \
     --name supernode-1 \
     --detach \
-    flwr/supernode:1.16.0.dev20250220  \
+    flwr/supernode:1.17.0  \
     --insecure \
     --superlink 192.168.0.41:9092 \
     --node-config "partition-id=0 num-partitions=2" \
@@ -130,7 +122,7 @@ sudo docker run --rm \
     --network flwr-network \
     --name supernode-2 \
     --detach \
-    flwr/supernode:1.16.0.dev20250220  \
+    flwr/supernode:1.17.0  \
     --insecure \
     --superlink 192.168.0.41:9092 \
     --node-config "partition-id=1 num-partitions=2" \
@@ -139,16 +131,15 @@ sudo docker run --rm \
 
 3. Serverapp
 
-sudo docker run --rm \
-    --network flwr-network \
-    -e WANDB_API_KEY=65a365351610afce4d9747a748e220dd9199f986 \
-    -e JOB_OWNER=server \
-    --name serverapp \
-    --detach \
-    flwr_serverapp:0.0.1 \
-    --insecure \
-    --serverappio-api-address superlink:9091
-
+sudo docker run \
+      -p 9091:9091 -p 9092:9092 -p 9093:9093 \
+      --network flwr-network \
+      --name superlink \
+      --detach \
+      flwr/superlink:1.16.0.dev20250220 \
+      --insecure \
+      --isolation \
+      process
 docker network connect server-network serverapp
 
 
@@ -196,7 +187,7 @@ flwr run . local-deployment --stream --run-config use-wandb=false
 
 or 
 ```
-flwr run .
+flwr run . --stream
 ```
 
 
@@ -218,7 +209,7 @@ sudo chmod a+r /etc/apt/keyrings/docker.asc
 ```
 
 1.2. Add the repository to Apt sources:
-Had issues following officia doc, so the below solved it
+Had issues following official doc, so the below solved it
 https://stackoverflow.com/questions/41133455/docker-repository-does-not-have-a-release-file-on-running-apt-get-update-on-ubun
 
 ```bash
@@ -240,11 +231,48 @@ sudo shutdown -h -P now
 docker system prune -a
 
 #### Docker on RockPi:
-See https://wiki.radxa.com/Rockpi4/Docker
+1. SSH'ing into RockPi https://wiki.radxa.com/Rock4/Debian
+On Rockpi, run `hostname -I`
+Install Open SSH:
+```bash
+sudo apt update
+sudo apt install openssh-server
+sudo systemctl status ssh
+sudo systemctl start ssh
+sudo systemctl enable ssh
+```
+
+Get IP address, then:
+```bash
+$ ping ip-of-device
+$ ssh radxa@192.168.0.112
+```
+
+2. Installing Docker See https://wiki.radxa.com/Rockpi4/Docker
 Should be similar and possible. Rockpi runs Debian though.
+https://stackoverflow.com/questions/41133455/docker-repository-does-not-have-a-release-file-on-running-apt-get-update-on-ubun
 
-SSH'ing into RockPi https://wiki.radxa.com/RockpiS/ssh
+```
+sudo apt-get remove docker docker-engine docker.io
 
+sudo apt-get update
+
+sudo apt-get install apt-transport-https ca-certificates curl software-properties-common
+
+curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
+
+sudo apt-key fingerprint 0EBFCD88
+
+sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu \
+xenial \
+stable"
+
+sudo apt-get update
+
+sudo apt-get install docker-ce
+
+sudo docker run hello-world
+```
 
 Notebale Issues: Base image was not multi-arch, thus building from a Dev build
 

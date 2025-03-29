@@ -1,5 +1,7 @@
 #!/bin/bash
 
+sudo docker network create --driver bridge flwr-network
+
 sudo docker run \
     -p 9094:9094 \
     --network flwr-network \
@@ -24,10 +26,12 @@ sudo docker run \
     --clientappio-api-address 0.0.0.0:9095 \
     --isolation process
 
-export CLIENT_VERSION=v0.0.5-tf
+export CLIENT_VERSION=v0.0.1-custom
 
 sudo docker run --rm \
     --network flwr-network \
+    -e WANDB_API_KEY=65a365351610afce4d9747a748e220dd9199f986 \
+    -e JOB_OWNER=node_1 \
     --detach \
     leeloodub/flwr_clientapp:$CLIENT_VERSION  \
     --insecure \
@@ -35,6 +39,8 @@ sudo docker run --rm \
 
 sudo docker run --rm \
     --network flwr-network \
+    -e WANDB_API_KEY=65a365351610afce4d9747a748e220dd9199f986 \
+    -e JOB_OWNER=node_2 \
     --detach \
     leeloodub/flwr_clientapp:$CLIENT_VERSION  \
     --insecure \

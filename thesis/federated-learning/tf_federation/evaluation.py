@@ -39,7 +39,7 @@ class Evaluation:
         """
         self.model.set_weights(parameters_ndarrays)
         loss, accuracy = self.model.evaluate(self.x_test, self.y_test, verbose=0)
-        return loss, {"server_accuracy": accuracy}
+        return loss, {"centralized_eval_accuracy": accuracy}
     
     def get_evaluate_fn(self) -> Callable:
         """Return the evaluation function to be used by the strategy.
