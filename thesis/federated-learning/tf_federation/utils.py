@@ -21,7 +21,7 @@ class RunManager:
         Args:
             config: A dictionary containing the configuration for the run.
                 Expected keys:
-                    - "run-identifier" (str): A unique identifier for the run.
+                    - "flavour" (str): A unique identifier for the run.
         """
         self.save_path, self.run_dir = self._create_run_dir(config)
         
@@ -35,12 +35,11 @@ class RunManager:
                        config={
                             "learning_rate": 0.001,
                             "architecture": "CNN",
-                            "dataset": properties.dataset,
+                            "dataset": os.environ.get("DATASET", properties.dataset),
                             "epochs": int(config["num-server-rounds"]),  
                         },
-                        job_type=os.environ.get(
-                            'JOB_OWNER', os.environ.get('JOB_OWNER', 'server')
-                        ))
+                        job_type=os.environ.get('JOB_OWNER', 'server')
+                        )
 
     def _create_run_dir(self, config: Dict[str, str]) -> Tuple[Path, str]:
         """Create a directory to save results from this run.
@@ -52,9 +51,9 @@ class RunManager:
             Tuple[Path, str]: A tuple containing the path to the created directory and the run identifier.
         """
         # Generate the run directory name using the run identifier and current timestamp
-        run_identifier = config["run-identifier"]
-        timestamp = datetime.now().strftime("%Y%m%d-%H%M")
-        run_dir = f"{run_identifier}/{timestamp}"
+        run_flavour= config["flavour"]
+        run_id = os.environ.get('RUN_ID', datetime.now().strftime("%Y%m%d-%H%M"))
+        run_dir = f"{run_flavour}/{run_id}"
 
         # Create the full path to the run directory
         save_path = Path.cwd() / f"outputs/{run_dir}/export"

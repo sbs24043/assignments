@@ -8,7 +8,7 @@ pip install -e .
 
 ## Run with the Simulation Engine
 
-In the `elena-test` directory, use `flwr run` to run a local simulation:
+In the `federated-learning` directory, use `flwr run` to run a local simulation:
 
 ```bash
 flwr run .

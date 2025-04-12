@@ -1,4 +1,7 @@
 #!/bin/bash
+# ./server-run.sh v0.0.1-custom
+
+SERVER_VERSION=$1
 
 docker build -f serverapp.Dockerfile -t flwr_serverapp:v0.0.1-custom .
 
@@ -18,8 +21,10 @@ docker run  \
     --network flwr-network \
     -e WANDB_API_KEY=65a365351610afce4d9747a748e220dd9199f986 \
     -e JOB_OWNER=server \
+    -e RUN_ID='exp1' \
+    -e DATASET_NAME='zalando-datasets/fashion_mnist' \
     --name serverapp \
     --detach \
-    flwr_serverapp:v0.0.1-custom \
+    flwr_serverapp:$SERVER_VERSION \
     --insecure \
     --serverappio-api-address superlink:9091

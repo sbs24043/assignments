@@ -35,7 +35,7 @@ fraction-fit = 0.25
 fraction-evaluate = 0.5
 use-wandb = true
 project-name = "flower-embedded-fed"
-run-identifier = "development"
+flavour = "development"
 base-weights-path = ""
 
 [tool.flwr.federations]
@@ -56,4 +56,4 @@ address = "127.0.0.1:9093"
 insecure = true
 
 [tool.flwr.custom_params]
-dataset = "zalando-datasets/fashion_mnist"
+dataset = "ylecun/mnist"

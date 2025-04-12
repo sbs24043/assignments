@@ -1,0 +1,276 @@
+flwr run .
+2025-04-12 20:41:16.767086: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+Loading project configuration... 
+Success
+2025-04-12 20:41:27.832262: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+/usr/local/lib/python3.11/site-packages/wandb/analytics/sentry.py:90: SentryHubDeprecationWarning: `sentry_sdk.Hub` is deprecated and will be removed in a future major release. Please consult our 1.x to 2.x migration guide for details on how to migrate `Hub` usage to the new API: https://docs.sentry.io/platforms/python/migration/1.x-to-2.x
+  self.hub = sentry_sdk.Hub(client)
+INFO :      No base model found: Initializing new model
+INFO :      Starting Flower ServerApp, config: num_rounds=8, no round_timeout
+INFO :      
+INFO :      [INIT]
+INFO :      Using initial global parameters provided by strategy
+INFO :      Starting evaluation of initial global parameters
+INFO :      Evaluation returned no results (`None`)
+INFO :      
+INFO :      [ROUND 1]
+INFO :      configure_fit: strategy sampled 2 clients (out of 2)
+(ClientAppActor pid=7002) /usr/local/lib/python3.11/site-packages/wandb/analytics/sentry.py:90: SentryHubDeprecationWarning: `sentry_sdk.Hub` is deprecated and will be removed in a future major release. Please consult our 1.x to 2.x migration guide for details on how to migrate `Hub` usage to the new API: https://docs.sentry.io/platforms/python/migration/1.x-to-2.x
+(ClientAppActor pid=7002)   self.hub = sentry_sdk.Hub(client)
+(ClientAppActor pid=7003) wandb: Currently logged in as: sbs24043 (sbs24043-cct-dublin). Use `wandb login --relogin` to force relogin
+(ClientAppActor pid=7003) /usr/local/lib/python3.11/site-packages/wandb/analytics/sentry.py:90: SentryHubDeprecationWarning: `sentry_sdk.Hub` is deprecated and will be removed in a future major release. Please consult our 1.x to 2.x migration guide for details on how to migrate `Hub` usage to the new API: https://docs.sentry.io/platforms/python/migration/1.x-to-2.x
+(ClientAppActor pid=7003)   self.hub = sentry_sdk.Hub(client)
+(ClientAppActor pid=7003) wandb: Tracking run with wandb version 0.17.8
+(ClientAppActor pid=7003) wandb: Run data is saved locally in /Users/olenapleshan/data_analytics/assignments/thesis/federated-learning/wandb/run-20250412_204202-rd9vbdbv
+(ClientAppActor pid=7003) wandb: Run `wandb offline` to turn off syncing.
+(ClientAppActor pid=7003) wandb: Syncing run experiment-development/20250412-2042
+(ClientAppActor pid=7003) wandb: ⭐️ View project at https://wandb.ai/sbs24043-cct-dublin/flower-embedded-fed
+(ClientAppActor pid=7003) wandb: 🚀 View run at https://wandb.ai/sbs24043-cct-dublin/flower-embedded-fed/runs/rd9vbdbv
+(ClientAppActor pid=7002) INFO :      No base model found: Initializing new model
+(ClientAppActor pid=7002) /usr/local/lib/python3.11/site-packages/tensorflow/python/framework/tensor_util.py:522: DeprecationWarning: NumPy will stop allowing conversion of out-of-bound Python integers to integer arrays.  The conversion of 2147483648 to int32 will fail in the future.
+(ClientAppActor pid=7002) For the old behavior, usually:
+(ClientAppActor pid=7002)     np.array(value).astype(dtype)
+(ClientAppActor pid=7002) will give the desired result (the cast overflows).
+(ClientAppActor pid=7002)   nparray = np.array(values, dtype=np_dt)
+(ClientAppActor pid=7003) WARNING :   DEPRECATED FEATURE: `array_from_numpy` is deprecated. Instead, use the `Array(ndarray)` class directly or `Array.from_numpy_ndarray(ndarray)`.
+(ClientAppActor pid=7003) 
+(ClientAppActor pid=7003)             This is a deprecated feature. It will be removed
+(ClientAppActor pid=7003)             entirely in future versions of Flower.
+(ClientAppActor pid=7003)         
+(ClientAppActor pid=7003) WARNING :   DEPRECATED FEATURE: `array_from_numpy` is deprecated. Instead, use the `Array(ndarray)` class directly or `Array.from_numpy_ndarray(ndarray)`.
+(ClientAppActor pid=7003) 
+(ClientAppActor pid=7003)             This is a deprecated feature. It will be removed
+(ClientAppActor pid=7003)             entirely in future versions of Flower.
+(ClientAppActor pid=7003)         
+(ClientAppActor pid=7002) wandb: Currently logged in as: sbs24043 (sbs24043-cct-dublin). Use `wandb login --relogin` to force relogin
+(ClientAppActor pid=7002) wandb: Tracking run with wandb version 0.17.8
+(ClientAppActor pid=7002) wandb: Run data is saved locally in /Users/olenapleshan/data_analytics/assignments/thesis/federated-learning/wandb/run-20250412_204202-1mqkjw3j
+(ClientAppActor pid=7002) wandb: Run `wandb offline` to turn off syncing.
+(ClientAppActor pid=7002) wandb: Syncing run experiment-development/20250412-2042
+(ClientAppActor pid=7002) wandb: ⭐️ View project at https://wandb.ai/sbs24043-cct-dublin/flower-embedded-fed
+(ClientAppActor pid=7002) wandb: 🚀 View run at https://wandb.ai/sbs24043-cct-dublin/flower-embedded-fed/runs/1mqkjw3j
+(ClientAppActor pid=7003) INFO :      No base model found: Initializing new model
+(ClientAppActor pid=7003) /usr/local/lib/python3.11/site-packages/tensorflow/python/framework/tensor_util.py:522: DeprecationWarning: NumPy will stop allowing conversion of out-of-bound Python integers to integer arrays.  The conversion of 2147483648 to int32 will fail in the future.
+(ClientAppActor pid=7003) For the old behavior, usually:
+(ClientAppActor pid=7003)     np.array(value).astype(dtype)
+(ClientAppActor pid=7003) will give the desired result (the cast overflows).
+(ClientAppActor pid=7003)   nparray = np.array(values, dtype=np_dt)
+(ClientAppActor pid=7002) 
+(ClientAppActor pid=7002)         
+(ClientAppActor pid=7002) 
+(ClientAppActor pid=7002)         
+INFO :      aggregate_fit: received 2 results and 0 failures
+WARNING :   No fit_metrics_aggregation_fn provided
+INFO :      configure_evaluate: strategy sampled 2 clients (out of 2)
+(ClientAppActor pid=7002) INFO :      No base model found: Initializing new model
+(ClientAppActor pid=7002) WARNING :   DEPRECATED FEATURE: `array_from_numpy` is deprecated. Instead, use the `Array(ndarray)` class directly or `Array.from_numpy_ndarray(ndarray)`. [repeated 2x across cluster] (Ray deduplicates logs by default. Set RAY_DEDUP_LOGS=0 to disable log deduplication, or see https://docs.ray.io/en/master/ray-observability/user-guides/configure-logging.html#log-deduplication for more options.)
+(ClientAppActor pid=7002)             This is a deprecated feature. It will be removed [repeated 2x across cluster]
+(ClientAppActor pid=7002)             entirely in future versions of Flower. [repeated 2x across cluster]
+INFO :      aggregate_evaluate: received 2 results and 0 failures
+INFO :      
+INFO :      [ROUND 2]
+INFO :      configure_fit: strategy sampled 2 clients (out of 2)
+(ClientAppActor pid=7003) INFO :      No base model found: Initializing new model [repeated 2x across cluster]
+(ClientAppActor pid=7003) WARNING :   DEPRECATED FEATURE: `array_from_numpy` is deprecated. Instead, use the `Array(ndarray)` class directly or `Array.from_numpy_ndarray(ndarray)`.
+(ClientAppActor pid=7003) 
+(ClientAppActor pid=7003)             This is a deprecated feature. It will be removed
+(ClientAppActor pid=7003)             entirely in future versions of Flower.
+(ClientAppActor pid=7003)         
+(ClientAppActor pid=7003) WARNING :   DEPRECATED FEATURE: `array_from_numpy` is deprecated. Instead, use the `Array(ndarray)` class directly or `Array.from_numpy_ndarray(ndarray)`.
+(ClientAppActor pid=7003) 
+(ClientAppActor pid=7003)             This is a deprecated feature. It will be removed
+(ClientAppActor pid=7003)             entirely in future versions of Flower.
+(ClientAppActor pid=7003)         
+(ClientAppActor pid=7002) INFO :      No base model found: Initializing new model
+(ClientAppActor pid=7002) 
+(ClientAppActor pid=7002)         
+(ClientAppActor pid=7002) 
+(ClientAppActor pid=7002)         
+INFO :      aggregate_fit: received 2 results and 0 failures
+INFO :      configure_evaluate: strategy sampled 2 clients (out of 2)
+(ClientAppActor pid=7002) INFO :      No base model found: Initializing new model
+(ClientAppActor pid=7002) WARNING :   DEPRECATED FEATURE: `array_from_numpy` is deprecated. Instead, use the `Array(ndarray)` class directly or `Array.from_numpy_ndarray(ndarray)`. [repeated 2x across cluster]
+(ClientAppActor pid=7002)             This is a deprecated feature. It will be removed [repeated 2x across cluster]
+(ClientAppActor pid=7002)             entirely in future versions of Flower. [repeated 2x across cluster]
+INFO :      aggregate_evaluate: received 2 results and 0 failures
+INFO :      
+INFO :      [ROUND 3]
+INFO :      configure_fit: strategy sampled 2 clients (out of 2)
+(ClientAppActor pid=7003) INFO :      No base model found: Initializing new model [repeated 2x across cluster]
+(ClientAppActor pid=7003) WARNING :   DEPRECATED FEATURE: `array_from_numpy` is deprecated. Instead, use the `Array(ndarray)` class directly or `Array.from_numpy_ndarray(ndarray)`.
+(ClientAppActor pid=7003) 
+(ClientAppActor pid=7003)             This is a deprecated feature. It will be removed
+(ClientAppActor pid=7003)             entirely in future versions of Flower.
+(ClientAppActor pid=7003)         
+(ClientAppActor pid=7003) WARNING :   DEPRECATED FEATURE: `array_from_numpy` is deprecated. Instead, use the `Array(ndarray)` class directly or `Array.from_numpy_ndarray(ndarray)`.
+(ClientAppActor pid=7003) 
+(ClientAppActor pid=7003)             This is a deprecated feature. It will be removed
+(ClientAppActor pid=7003)             entirely in future versions of Flower.
+(ClientAppActor pid=7003)         
+(ClientAppActor pid=7002) INFO :      No base model found: Initializing new model
+(ClientAppActor pid=7002) 
+(ClientAppActor pid=7002)         
+(ClientAppActor pid=7002) 
+(ClientAppActor pid=7002)         
+INFO :      aggregate_fit: received 2 results and 0 failures
+INFO :      configure_evaluate: strategy sampled 2 clients (out of 2)
+(ClientAppActor pid=7002) INFO :      No base model found: Initializing new model
+(ClientAppActor pid=7002) WARNING :   DEPRECATED FEATURE: `array_from_numpy` is deprecated. Instead, use the `Array(ndarray)` class directly or `Array.from_numpy_ndarray(ndarray)`. [repeated 2x across cluster]
+(ClientAppActor pid=7002)             This is a deprecated feature. It will be removed [repeated 2x across cluster]
+(ClientAppActor pid=7002)             entirely in future versions of Flower. [repeated 2x across cluster]
+INFO :      aggregate_evaluate: received 2 results and 0 failures
+INFO :      
+INFO :      [ROUND 4]
+INFO :      configure_fit: strategy sampled 2 clients (out of 2)
+(ClientAppActor pid=7003) INFO :      No base model found: Initializing new model [repeated 2x across cluster]
+(ClientAppActor pid=7003) WARNING :   DEPRECATED FEATURE: `array_from_numpy` is deprecated. Instead, use the `Array(ndarray)` class directly or `Array.from_numpy_ndarray(ndarray)`.
+(ClientAppActor pid=7003) 
+(ClientAppActor pid=7003)             This is a deprecated feature. It will be removed
+(ClientAppActor pid=7003)             entirely in future versions of Flower.
+(ClientAppActor pid=7003)         
+(ClientAppActor pid=7003) WARNING :   DEPRECATED FEATURE: `array_from_numpy` is deprecated. Instead, use the `Array(ndarray)` class directly or `Array.from_numpy_ndarray(ndarray)`.
+(ClientAppActor pid=7003) 
+(ClientAppActor pid=7003)             This is a deprecated feature. It will be removed
+(ClientAppActor pid=7003)             entirely in future versions of Flower.
+(ClientAppActor pid=7003)         
+(ClientAppActor pid=7002) INFO :      No base model found: Initializing new model
+(ClientAppActor pid=7002) 
+(ClientAppActor pid=7002)         
+(ClientAppActor pid=7002) 
+(ClientAppActor pid=7002)         
+INFO :      aggregate_fit: received 2 results and 0 failures
+INFO :      configure_evaluate: strategy sampled 2 clients (out of 2)
+(ClientAppActor pid=7002) INFO :      No base model found: Initializing new model
+(ClientAppActor pid=7002) WARNING :   DEPRECATED FEATURE: `array_from_numpy` is deprecated. Instead, use the `Array(ndarray)` class directly or `Array.from_numpy_ndarray(ndarray)`. [repeated 2x across cluster]
+(ClientAppActor pid=7002)             This is a deprecated feature. It will be removed [repeated 2x across cluster]
+(ClientAppActor pid=7002)             entirely in future versions of Flower. [repeated 2x across cluster]
+INFO :      aggregate_evaluate: received 2 results and 0 failures
+INFO :      
+INFO :      [ROUND 5]
+INFO :      configure_fit: strategy sampled 2 clients (out of 2)
+(ClientAppActor pid=7003) INFO :      No base model found: Initializing new model [repeated 2x across cluster]
+(ClientAppActor pid=7003) WARNING :   DEPRECATED FEATURE: `array_from_numpy` is deprecated. Instead, use the `Array(ndarray)` class directly or `Array.from_numpy_ndarray(ndarray)`.
+(ClientAppActor pid=7003) 
+(ClientAppActor pid=7003)             This is a deprecated feature. It will be removed
+(ClientAppActor pid=7003)             entirely in future versions of Flower.
+(ClientAppActor pid=7003)         
+(ClientAppActor pid=7003) WARNING :   DEPRECATED FEATURE: `array_from_numpy` is deprecated. Instead, use the `Array(ndarray)` class directly or `Array.from_numpy_ndarray(ndarray)`.
+(ClientAppActor pid=7003) 
+(ClientAppActor pid=7003)             This is a deprecated feature. It will be removed
+(ClientAppActor pid=7003)             entirely in future versions of Flower.
+(ClientAppActor pid=7003)         
+(ClientAppActor pid=7002) INFO :      No base model found: Initializing new model
+INFO :      aggregate_fit: received 2 results and 0 failures
+INFO :      configure_evaluate: strategy sampled 2 clients (out of 2)
+(ClientAppActor pid=7002) 
+(ClientAppActor pid=7002)         
+(ClientAppActor pid=7002) 
+(ClientAppActor pid=7002)         
+(ClientAppActor pid=7002) INFO :      No base model found: Initializing new model
+(ClientAppActor pid=7002) WARNING :   DEPRECATED FEATURE: `array_from_numpy` is deprecated. Instead, use the `Array(ndarray)` class directly or `Array.from_numpy_ndarray(ndarray)`. [repeated 2x across cluster]
+(ClientAppActor pid=7002)             This is a deprecated feature. It will be removed [repeated 2x across cluster]
+(ClientAppActor pid=7002)             entirely in future versions of Flower. [repeated 2x across cluster]
+INFO :      aggregate_evaluate: received 2 results and 0 failures
+INFO :      
+INFO :      [ROUND 6]
+INFO :      configure_fit: strategy sampled 2 clients (out of 2)
+(ClientAppActor pid=7003) INFO :      No base model found: Initializing new model [repeated 2x across cluster]
+(ClientAppActor pid=7003) WARNING :   DEPRECATED FEATURE: `array_from_numpy` is deprecated. Instead, use the `Array(ndarray)` class directly or `Array.from_numpy_ndarray(ndarray)`.
+(ClientAppActor pid=7003) 
+(ClientAppActor pid=7003)             This is a deprecated feature. It will be removed
+(ClientAppActor pid=7003)             entirely in future versions of Flower.
+(ClientAppActor pid=7003)         
+(ClientAppActor pid=7003) WARNING :   DEPRECATED FEATURE: `array_from_numpy` is deprecated. Instead, use the `Array(ndarray)` class directly or `Array.from_numpy_ndarray(ndarray)`.
+(ClientAppActor pid=7003) 
+(ClientAppActor pid=7003)             This is a deprecated feature. It will be removed
+(ClientAppActor pid=7003)             entirely in future versions of Flower.
+(ClientAppActor pid=7003)         
+(ClientAppActor pid=7002) INFO :      No base model found: Initializing new model
+(ClientAppActor pid=7002) 
+(ClientAppActor pid=7002)         
+(ClientAppActor pid=7002) 
+(ClientAppActor pid=7002)         
+INFO :      aggregate_fit: received 2 results and 0 failures
+INFO :      configure_evaluate: strategy sampled 2 clients (out of 2)
+(ClientAppActor pid=7002) INFO :      No base model found: Initializing new model
+(ClientAppActor pid=7002) WARNING :   DEPRECATED FEATURE: `array_from_numpy` is deprecated. Instead, use the `Array(ndarray)` class directly or `Array.from_numpy_ndarray(ndarray)`. [repeated 2x across cluster]
+(ClientAppActor pid=7002)             This is a deprecated feature. It will be removed [repeated 2x across cluster]
+(ClientAppActor pid=7002)             entirely in future versions of Flower. [repeated 2x across cluster]
+INFO :      aggregate_evaluate: received 2 results and 0 failures
+INFO :      
+INFO :      [ROUND 7]
+INFO :      configure_fit: strategy sampled 2 clients (out of 2)
+(ClientAppActor pid=7003) INFO :      No base model found: Initializing new model [repeated 2x across cluster]
+(ClientAppActor pid=7003) WARNING :   DEPRECATED FEATURE: `array_from_numpy` is deprecated. Instead, use the `Array(ndarray)` class directly or `Array.from_numpy_ndarray(ndarray)`.
+(ClientAppActor pid=7003) 
+(ClientAppActor pid=7003)             This is a deprecated feature. It will be removed
+(ClientAppActor pid=7003)             entirely in future versions of Flower.
+(ClientAppActor pid=7003)         
+(ClientAppActor pid=7003) WARNING :   DEPRECATED FEATURE: `array_from_numpy` is deprecated. Instead, use the `Array(ndarray)` class directly or `Array.from_numpy_ndarray(ndarray)`.
+(ClientAppActor pid=7003) 
+(ClientAppActor pid=7003)             This is a deprecated feature. It will be removed
+(ClientAppActor pid=7003)             entirely in future versions of Flower.
+(ClientAppActor pid=7003)         
+(ClientAppActor pid=7002) INFO :      No base model found: Initializing new model
+(ClientAppActor pid=7002) 
+(ClientAppActor pid=7002)         
+(ClientAppActor pid=7002) 
+(ClientAppActor pid=7002)         
+INFO :      aggregate_fit: received 2 results and 0 failures
+INFO :      configure_evaluate: strategy sampled 2 clients (out of 2)
+(ClientAppActor pid=7002) INFO :      No base model found: Initializing new model
+(ClientAppActor pid=7002) WARNING :   DEPRECATED FEATURE: `array_from_numpy` is deprecated. Instead, use the `Array(ndarray)` class directly or `Array.from_numpy_ndarray(ndarray)`. [repeated 2x across cluster]
+(ClientAppActor pid=7002)             This is a deprecated feature. It will be removed [repeated 2x across cluster]
+(ClientAppActor pid=7002)             entirely in future versions of Flower. [repeated 2x across cluster]
+INFO :      aggregate_evaluate: received 2 results and 0 failures
+INFO :      
+INFO :      [ROUND 8]
+INFO :      configure_fit: strategy sampled 2 clients (out of 2)
+(ClientAppActor pid=7003) INFO :      No base model found: Initializing new model [repeated 2x across cluster]
+(ClientAppActor pid=7003) WARNING :   DEPRECATED FEATURE: `array_from_numpy` is deprecated. Instead, use the `Array(ndarray)` class directly or `Array.from_numpy_ndarray(ndarray)`.
+(ClientAppActor pid=7003) 
+(ClientAppActor pid=7003)             This is a deprecated feature. It will be removed
+(ClientAppActor pid=7003)             entirely in future versions of Flower.
+(ClientAppActor pid=7003)         
+(ClientAppActor pid=7003) WARNING :   DEPRECATED FEATURE: `array_from_numpy` is deprecated. Instead, use the `Array(ndarray)` class directly or `Array.from_numpy_ndarray(ndarray)`.
+(ClientAppActor pid=7003) 
+(ClientAppActor pid=7003)             This is a deprecated feature. It will be removed
+(ClientAppActor pid=7003)             entirely in future versions of Flower.
+(ClientAppActor pid=7003)         
+(ClientAppActor pid=7002) INFO :      No base model found: Initializing new model
+(ClientAppActor pid=7002) 
+(ClientAppActor pid=7002)         
+(ClientAppActor pid=7002) 
+(ClientAppActor pid=7002)         
+INFO :      aggregate_fit: received 2 results and 0 failures
+INFO :      configure_evaluate: strategy sampled 2 clients (out of 2)
+(ClientAppActor pid=7002) INFO :      No base model found: Initializing new model
+(ClientAppActor pid=7002) WARNING :   DEPRECATED FEATURE: `array_from_numpy` is deprecated. Instead, use the `Array(ndarray)` class directly or `Array.from_numpy_ndarray(ndarray)`. [repeated 2x across cluster]
+(ClientAppActor pid=7002)             This is a deprecated feature. It will be removed [repeated 2x across cluster]
+(ClientAppActor pid=7002)             entirely in future versions of Flower. [repeated 2x across cluster]
+INFO :      aggregate_evaluate: received 2 results and 0 failures
+INFO :      
+INFO :      [SUMMARY]
+INFO :      Run finished 8 round(s) in 282.56s
+INFO :          History (loss, distributed):
+INFO :                  round 1: 0.11986260428191542
+INFO :                  round 2: 0.06716839317659191
+INFO :                  round 3: 0.05522890734519574
+INFO :                  round 4: 0.04535530577563125
+INFO :                  round 5: 0.03557550119053433
+INFO :                  round 6: 0.04383405398724278
+INFO :                  round 7: 0.030030233696731377
+INFO :                  round 8: 0.026324122206851718
+INFO :          History (metrics, distributed, evaluate):
+INFO :          {'federated_evaluate_accuracy': [(1, 0.9679193443163724),
+INFO :                                           (2, 0.9805016472840069),
+INFO :                                           (3, 0.9812515510210305),
+INFO :                                           (4, 0.9858345215633089),
+INFO :                                           (5, 0.9894175520192364),
+INFO :                                           (6, 0.98633447139226),
+INFO :                                           (7, 0.990000831108373),
+INFO :                                           (8, 0.9918339996573905)]}
+INFO :      
+(ClientAppActor pid=7003) INFO :      No base model found: Initializing new model

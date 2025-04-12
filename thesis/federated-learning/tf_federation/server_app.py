@@ -1,5 +1,7 @@
 """tensorflow-example: A Flower / TensorFlow app."""
 
+import os 
+
 import tf_federation.properties as properties
 
 from tf_federation.strategy import CustomStrategy
@@ -9,6 +11,7 @@ from tf_federation.evaluation import Evaluation
 from datasets import load_dataset
 from flwr.common import Context, ndarrays_to_parameters
 from flwr.server import ServerApp, ServerAppComponents, ServerConfig
+from flwr.server.strategy import FedAvg
 
 
 # def on_fit_config(server_round: int):
@@ -27,7 +30,10 @@ def weighted_average(metrics):
     examples = [num_examples for num_examples, _ in metrics]
 
     # Aggregate and return custom metric (weighted average)
-    return {"federated_evaluate_accuracy": sum(accuracies) / sum(examples)}
+    # {"federated_evaluate_loss": sum(losses) / sum(examples),
+    #        "federated_evaluate_accuracy": sum(accuracies) / sum(examples)}
+    return {"metrics": metrics,
+            "federated_evaluate_accuracy": sum(accuracies) / sum(examples)}
 
 
 def server_fn(context: Context):
@@ -36,22 +42,31 @@ def server_fn(context: Context):
     parameters = ndarrays_to_parameters(model.get_weights())
 
     # Prepare dataset for server evaluation
-    global_test_set = load_dataset(properties.dataset)["test"]
+    global_test_set = load_dataset( os.environ.get("DATASET", properties.dataset))["test"]
     global_test_set.set_format("numpy")
     x_test, y_test = global_test_set["image"] / 255.0, global_test_set["label"]
 
     evaluation = Evaluation(model, x_test, y_test)
+    
+    if os.getenv("STRATEGY") == "baseline":
+        # Use weighted average strategy
+        strategy = FedAvg(
+            fraction_fit=context.run_config["fraction-fit"],
+            fraction_evaluate=context.run_config["fraction-evaluate"],
+            initial_parameters=parameters,
+            evaluate_metrics_aggregation_fn=weighted_average,
+        )
+    else:
+        strategy = CustomStrategy(
+            run_config=context.run_config,
+            fraction_fit=context.run_config["fraction-fit"],
+            fraction_evaluate=context.run_config["fraction-evaluate"],
+            initial_parameters=parameters,
+            #on_fit_config_fn=on_fit_config,
+            evaluate_fn=evaluation.get_evaluate_fn(),
+            # evaluate_metrics_aggregation_fn=weighted_average,
+        )
 
-    # Define strategy
-    strategy = CustomStrategy(
-        run_config=context.run_config,
-        fraction_fit=context.run_config["fraction-fit"],
-        fraction_evaluate=context.run_config["fraction-evaluate"],
-        initial_parameters=parameters,
-        #on_fit_config_fn=on_fit_config,
-        evaluate_fn=evaluation.get_evaluate_fn(),
-        # evaluate_metrics_aggregation_fn=weighted_average,
-    )
     config = ServerConfig(num_rounds=context.run_config["num-server-rounds"])
 
     return ServerAppComponents(strategy=strategy, config=config)
