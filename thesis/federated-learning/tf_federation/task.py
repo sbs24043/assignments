@@ -8,7 +8,8 @@ from pathlib import Path
 
 import keras
 from flwr_datasets import FederatedDataset
-from flwr_datasets.partitioner import DirichletPartitioner
+from flwr_datasets.partitioner import DirichletPartitioner, IidPartitioner
+
 from keras import layers
 
 import tf_federation.properties as properties
@@ -24,7 +25,9 @@ DEFAULT_LR = 0.001
 
 MODEL_ARCHITECTURE = keras.Sequential(
         [
-            keras.Input(shape=(28, 28, 1)),
+            keras.Input(shape=(int(os.getenv('IMG_SHAPE_1', 28)), 
+                               int(os.getenv('IMG_SHAPE_2', 28)), 
+                               int(os.getenv('IMG_SHAPE_3', 1)))),
             layers.Conv2D(32, kernel_size=(3, 3), activation="relu"),
             layers.MaxPooling2D(pool_size=(2, 2)),
             layers.Conv2D(128, kernel_size=(3, 3), activation="relu"),
@@ -128,12 +131,17 @@ def load_data(partition_id: int, num_partitions: int) -> tuple:
     """
     global fds
     if fds is None:
-        partitioner = DirichletPartitioner(
-            num_partitions=num_partitions,
-            partition_by="label",
-            alpha=1.0,
-            seed=42,
-        )
+        if os.getenv("PARTITIONER") == "iid":
+            partitioner = IidPartitioner(
+                num_partitions=num_partitions,
+            )
+        else:
+            partitioner = DirichletPartitioner(
+                num_partitions=num_partitions,
+                partition_by="label",
+                alpha=1.0,
+                seed=42,
+            )
         fds = FederatedDataset(
             dataset=os.environ.get("DATASET", properties.dataset),
             partitioners={"train": partitioner},
@@ -143,8 +151,12 @@ def load_data(partition_id: int, num_partitions: int) -> tuple:
 
     # Divide data on each node: 80% train, 20% test
     partition = partition.train_test_split(test_size=0.2)
-    x_train, y_train = partition["train"]["image"] / 255.0, partition["train"]["label"]
-    x_test, y_test = partition["test"]["image"] / 255.0, partition["test"]["label"]
+    try:
+        x_train, y_train = partition["train"]["img"] / 255.0, partition["train"]["label"]
+        x_test, y_test = partition["test"]["img"] / 255.0, partition["test"]["label"]
+    except KeyError:
+        x_train, y_train = partition["train"]["img"] / 255.0, partition["train"]["label"]
+        x_test, y_test = partition["test"]["img"] / 255.0, partition["test"]["label"]
 
     return x_train, y_train, x_test, y_test
 

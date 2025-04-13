@@ -59,7 +59,7 @@ class CustomStrategy(FedAvg):
             eval_results.append([pos, loss, acc])
 
         print("Results of evaluation with multiple strategies:", eval_results)
-        best_result = min(eval_results, key=lambda x: (x[1], x[2]["centralized_eval_accuracy"]))
+        best_result = min(eval_results, key=lambda x: (x[1], -x[2]["centralized_eval_accuracy"]))
 
         print("Best strategy for the round is:", self.strategies[best_result[0]])
         
@@ -100,4 +100,23 @@ class CustomStrategy(FedAvg):
             tag="federation_evals",
             results_dict={"federated_evaluate_loss": loss, **metrics},
         )
+        return loss, metrics
+
+
+
+class Baseline(FedAvg):
+    def __init__(self, run_config: UserConfig, *args, **kwargs):
+        super().__init__(*args, **kwargs)        
+        self.run_manager = RunManager(run_config)
+
+    def aggregate_evaluate(self, server_round, results, failures):
+        """Aggregate results from federated evaluation."""
+        loss, metrics = super().aggregate_evaluate(server_round, results, failures)
+        # Store and log
+        self.run_manager.log_run(
+            server_round=server_round,
+            tag="federation_evals",
+            results_dict={"federated_evaluate_loss": loss, **metrics},
+        )
+        print("Baseline evaluation results: loss ", loss, " accuracy ", metrics)
         return loss, metrics

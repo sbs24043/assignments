@@ -4,7 +4,7 @@ import os
 
 import tf_federation.properties as properties
 
-from tf_federation.strategy import CustomStrategy
+from tf_federation.strategy import CustomStrategy, Baseline
 from tf_federation.task import load_model
 from tf_federation.evaluation import Evaluation
 
@@ -32,9 +32,7 @@ def weighted_average(metrics):
     # Aggregate and return custom metric (weighted average)
     # {"federated_evaluate_loss": sum(losses) / sum(examples),
     #        "federated_evaluate_accuracy": sum(accuracies) / sum(examples)}
-    return {"metrics": metrics,
-            "federated_evaluate_accuracy": sum(accuracies) / sum(examples)}
-
+    return {"federated_evaluate_accuracy": sum(accuracies) / sum(examples)}
 
 def server_fn(context: Context):
     # Initialize model parameters
@@ -44,13 +42,17 @@ def server_fn(context: Context):
     # Prepare dataset for server evaluation
     global_test_set = load_dataset( os.environ.get("DATASET", properties.dataset))["test"]
     global_test_set.set_format("numpy")
-    x_test, y_test = global_test_set["image"] / 255.0, global_test_set["label"]
+    try:
+        x_test, y_test = global_test_set["image"] / 255.0, global_test_set["label"]
+    except KeyError:
+        x_test, y_test = global_test_set["img"] / 255.0, global_test_set["label"]
 
     evaluation = Evaluation(model, x_test, y_test)
     
     if os.getenv("STRATEGY") == "baseline":
         # Use weighted average strategy
-        strategy = FedAvg(
+        strategy = Baseline(
+            run_config=context.run_config,
             fraction_fit=context.run_config["fraction-fit"],
             fraction_evaluate=context.run_config["fraction-evaluate"],
             initial_parameters=parameters,
