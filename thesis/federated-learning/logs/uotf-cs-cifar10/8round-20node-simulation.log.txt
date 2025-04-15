@@ -460,7 +460,7 @@ INFO:flwr:              round 6: 1.7593947649002075
 INFO :                  round 7: 1.7923250198364258
 INFO:flwr:              round 7: 1.7923250198364258
 INFO :                  round 8: 1.6628779172897339
-INFO:flwr:              round 8: 1.6628779172897339
+INFO:flwr:              round 8: 771.66289172897339
 INFO :          History (metrics, centralized):
 INFO:flwr:      History (metrics, centralized):
 INFO :          {'centralized_eval_accuracy': [(0, 0.07769999653100967),
