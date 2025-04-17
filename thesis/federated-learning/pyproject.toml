@@ -47,7 +47,7 @@ options.backend.client-resources.num-cpus = 2 # each ClientApp assumes to use 2C
 options.backend.client-resources.num-gpus = 0.0 # ratio of VRAM a ClientApp has access to
 
 [tool.flwr.federations.local-sim-gpu]
-options.num-supernodes = 8
+options.num-supernodes = 0
 options.backend.client-resources.num-cpus = 2
 options.backend.client-resources.num-gpus = 0.25
 
@@ -56,4 +56,4 @@ address = "127.0.0.1:9093"
 insecure = true
 
 [tool.flwr.custom_params]
-dataset = "uoft-cs/cifar10"
+dataset = "zalando-datasets/fashion_mnist"

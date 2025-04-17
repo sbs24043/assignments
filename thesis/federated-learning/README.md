@@ -190,6 +190,23 @@ or
 flwr run . --stream
 ```
 
+or
+
+To run the baseline algorithm:
+```
+export STRATEGY='baseline' && flwr run . 
+```
+
+To run the custom algorithm with Loss (DEFAULT) optimization:
+```
+export STRATEGY='' && OPTIMIZATION_CRITERION='loss' && flwr run . 
+```
+
+To run the custom algorithm with Accuracy optimization:
+```
+export STRATEGY='' && OPTIMIZATION_CRITERION='accuracy' && flwr run . 
+```
+
 
 ### Configuring edge devices
 #### Raspberry Pi (runs Ubuntu)

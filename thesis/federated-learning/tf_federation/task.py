@@ -152,8 +152,8 @@ def load_data(partition_id: int, num_partitions: int) -> tuple:
     # Divide data on each node: 80% train, 20% test
     partition = partition.train_test_split(test_size=0.2)
     try:
-        x_train, y_train = partition["train"]["img"] / 255.0, partition["train"]["label"]
-        x_test, y_test = partition["test"]["img"] / 255.0, partition["test"]["label"]
+        x_train, y_train = partition["train"]["image"] / 255.0, partition["train"]["label"]
+        x_test, y_test = partition["test"]["image"] / 255.0, partition["test"]["label"]
     except KeyError:
         x_train, y_train = partition["train"]["img"] / 255.0, partition["train"]["label"]
         x_test, y_test = partition["test"]["img"] / 255.0, partition["test"]["label"]

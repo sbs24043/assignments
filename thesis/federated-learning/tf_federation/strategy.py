@@ -1,4 +1,5 @@
 import json
+import os
 from logging import INFO
 from typing import Callable
 
@@ -59,8 +60,14 @@ class CustomStrategy(FedAvg):
             eval_results.append([pos, loss, acc])
 
         print("Results of evaluation with multiple strategies:", eval_results)
-        best_result = min(eval_results, key=lambda x: (x[1], -x[2]["centralized_eval_accuracy"]))
-
+        
+        optimization_criterion = os.getenv("OPTIMIZATION_CRITERION", "loss")
+        if optimization_criterion == "accuracy":
+            best_result = max(eval_results, key=lambda x: (x[2]["centralized_eval_accuracy"], -x[1]))
+        elif optimization_criterion == "loss":
+            best_result = min(eval_results, key=lambda x: (x[1], -x[2]["centralized_eval_accuracy"]))
+        
+        print("Sorted evaluation results:", best_result)
         print("Best strategy for the round is:", self.strategies[best_result[0]])
         
         return parameters_aggregated_list[best_result[0]], metrics_aggregated_list[best_result[0]]
@@ -104,19 +111,10 @@ class CustomStrategy(FedAvg):
 
 
 
-class Baseline(FedAvg):
+class Baseline(CustomStrategy):
     def __init__(self, run_config: UserConfig, *args, **kwargs):
-        super().__init__(*args, **kwargs)        
-        self.run_manager = RunManager(run_config)
+        super().__init__(run_config, *args, **kwargs)
 
-    def aggregate_evaluate(self, server_round, results, failures):
-        """Aggregate results from federated evaluation."""
-        loss, metrics = super().aggregate_evaluate(server_round, results, failures)
-        # Store and log
-        self.run_manager.log_run(
-            server_round=server_round,
-            tag="federation_evals",
-            results_dict={"federated_evaluate_loss": loss, **metrics},
-        )
-        print("Baseline evaluation results: loss ", loss, " accuracy ", metrics)
-        return loss, metrics
+        self.strategies = [
+            FedAvg(**kwargs),
+        ]

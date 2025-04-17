@@ -24,15 +24,15 @@ from flwr.server.strategy import FedAvg
 
 
 # Define metric aggregation function
-def weighted_average(metrics):
-    # Multiply accuracy of each client by number of examples used
-    accuracies = [num_examples * m["accuracy"] for num_examples, m in metrics]
-    examples = [num_examples for num_examples, _ in metrics]
+# def weighted_average(metrics):
+#     # Multiply accuracy of each client by number of examples used
+#     accuracies = [num_examples * m["accuracy"] for num_examples, m in metrics]
+#     examples = [num_examples for num_examples, _ in metrics]
 
-    # Aggregate and return custom metric (weighted average)
-    # {"federated_evaluate_loss": sum(losses) / sum(examples),
-    #        "federated_evaluate_accuracy": sum(accuracies) / sum(examples)}
-    return {"federated_evaluate_accuracy": sum(accuracies) / sum(examples)}
+#     # Aggregate and return custom metric (weighted average)
+#     # {"federated_evaluate_loss": sum(losses) / sum(examples),
+#     #        "federated_evaluate_accuracy": sum(accuracies) / sum(examples)}
+#     return {"federated_evaluate_accuracy": sum(accuracies) / sum(examples)}
 
 def server_fn(context: Context):
     # Initialize model parameters
@@ -56,7 +56,8 @@ def server_fn(context: Context):
             fraction_fit=context.run_config["fraction-fit"],
             fraction_evaluate=context.run_config["fraction-evaluate"],
             initial_parameters=parameters,
-            evaluate_metrics_aggregation_fn=weighted_average,
+            evaluate_fn=evaluation.get_evaluate_fn(),
+            #evaluate_metrics_aggregation_fn=weighted_average,
         )
     else:
         strategy = CustomStrategy(
