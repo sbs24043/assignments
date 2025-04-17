@@ -1,0 +1,342 @@
+INFO :      Evaluating aggregation strategy: FedAvg
+INFO:flwr:Evaluating aggregation strategy: FedAvg
+INFO :      Using aggregation strategy: FedOpt
+INFO:flwr:Using aggregation strategy: FedOpt
+WARNING :   No fit_metrics_aggregation_fn provided
+WARNING:flwr:No fit_metrics_aggregation_fn provided
+INFO :      Evaluating aggregation strategy: FedOpt
+INFO:flwr:Evaluating aggregation strategy: FedOpt
+INFO :      Using aggregation strategy: FedMedian
+INFO:flwr:Using aggregation strategy: FedMedian
+WARNING :   No fit_metrics_aggregation_fn provided
+WARNING:flwr:No fit_metrics_aggregation_fn provided
+INFO :      Evaluating aggregation strategy: FedMedian
+INFO:flwr:Evaluating aggregation strategy: FedMedian
+Results of evaluation with multiple strategies: [[0, 5.455749988555908, {'centralized_eval_accuracy': 0.8508999943733215}], [1, 2.692481517791748, {'centralized_eval_accuracy': 0.8471999764442444}], [2, 0.1666834056377411, {'centralized_eval_accuracy': 0.9527000188827515}], [3, 0.1666834056377411, {'centralized_eval_accuracy': 0.9527000188827515}], [4, 0.17681103944778442, {'centralized_eval_accuracy': 0.9509999752044678}]]
+Sorted evaluation results: [2, 0.1666834056377411, {'centralized_eval_accuracy': 0.9527000188827515}]
+Best strategy for the round is: FedAvg(accept_failures=True)
+INFO :      Better accuracy achieved: 0.952700
+INFO:flwr:Better accuracy achieved: 0.952700
+INFO :      Previous accuracy: 0.099500
+INFO:flwr:Previous accuracy: 0.099500
+Model weights saved to /Users/olenapleshan/data_analytics/assignments/thesis/federated-learning/outputs/development/20250417-1506/export/model_state_acc_0.953_round_1.weights.h5
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Full model saved to /Users/olenapleshan/data_analytics/assignments/thesis/federated-learning/outputs/development/20250417-1506/export/model_state_acc_0.953_round_1.h5
+Saved artifact at '/Users/olenapleshan/data_analytics/assignments/thesis/federated-learning/outputs/development/20250417-1506/export/model_state_acc_0.953_round_1'. The following endpoints are available:
+
+* Endpoint 'serve'
+  args_0 (POSITIONAL_ONLY): TensorSpec(shape=(None, 28, 28, 1), dtype=tf.float32, name='keras_tensor')
+Output Type:
+  TensorSpec(shape=(None, 10), dtype=tf.float32, name=None)
+Captures:
+  6404657168: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  6404658224: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  6404657344: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  6404657872: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  6404657520: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  6404659104: TensorSpec(shape=(), dtype=tf.resource, name=None)
+Model exported to /Users/olenapleshan/data_analytics/assignments/thesis/federated-learning/outputs/development/20250417-1506/export/model_state_acc_0.953_round_1
+INFO :      fit progress: (1, 0.1666834056377411, {'centralized_eval_accuracy': 0.9527000188827515}, 33.091185789999145)
+INFO:flwr:fit progress: (1, 0.1666834056377411, {'centralized_eval_accuracy': 0.9527000188827515}, 33.091185789999145)
+INFO :      configure_evaluate: strategy sampled 4 clients (out of 8)
+INFO:flwr:configure_evaluate: strategy sampled 4 clients (out of 8)
+(ClientAppActor pid=40060) INFO :      No base model found: Initializing new model
+(ClientAppActor pid=40059) WARNING :   DEPRECATED FEATURE: `array_from_numpy` is deprecated. Instead, use the `Array(ndarray)` class directly or `Array.from_numpy_ndarray(ndarray)`. [repeated 2x across cluster] (Ray deduplicates logs by default. Set RAY_DEDUP_LOGS=0 to disable log deduplication, or see https://docs.ray.io/en/master/ray-observability/user-guides/configure-logging.html#log-deduplication for more options.)
+(ClientAppActor pid=40059)             This is a deprecated feature. It will be removed [repeated 2x across cluster]
+(ClientAppActor pid=40059)             entirely in future versions of Flower. [repeated 2x across cluster]
+INFO :      aggregate_evaluate: received 4 results and 0 failures
+INFO:flwr:aggregate_evaluate: received 4 results and 0 failures
+WARNING :   No evaluate_metrics_aggregation_fn provided
+WARNING:flwr:No evaluate_metrics_aggregation_fn provided
+INFO :      
+INFO:flwr:
+INFO :      [ROUND 2]
+INFO:flwr:[ROUND 2]
+INFO :      configure_fit: strategy sampled 2 clients (out of 8)
+INFO:flwr:configure_fit: strategy sampled 2 clients (out of 8)
+INFO :      aggregate_fit: received 2 results and 0 failures
+INFO:flwr:aggregate_fit: received 2 results and 0 failures
+INFO :      Using aggregation strategy: FedAdagrad
+INFO:flwr:Using aggregation strategy: FedAdagrad
+(ClientAppActor pid=40060) 
+(ClientAppActor pid=40060)         
+(ClientAppActor pid=40060) 
+(ClientAppActor pid=40060)         
+(ClientAppActor pid=40059) INFO :      No base model found: Initializing new model [repeated 5x across cluster]
+INFO :      Evaluating aggregation strategy: FedAdagrad
+(ClientAppActor pid=40060) WARNING :   DEPRECATED FEATURE: `array_from_numpy` is deprecated. Instead, use the `Array(ndarray)` class directly or `Array.from_numpy_ndarray(ndarray)`. [repeated 2x across cluster]
+INFO:flwr:Evaluating aggregation strategy: FedAdagrad
+(ClientAppActor pid=40060)             This is a deprecated feature. It will be removed [repeated 2x across cluster]
+(ClientAppActor pid=40060)             entirely in future versions of Flower. [repeated 2x across cluster]
+(ClientAppActor pid=40059) 
+(ClientAppActor pid=40059)         
+(ClientAppActor pid=40059) 
+(ClientAppActor pid=40059)         
+INFO :      Using aggregation strategy: FedAdam
+INFO:flwr:Using aggregation strategy: FedAdam
+INFO :      Evaluating aggregation strategy: FedAdam
+INFO:flwr:Evaluating aggregation strategy: FedAdam
+INFO :      Using aggregation strategy: FedAvg
+INFO:flwr:Using aggregation strategy: FedAvg
+INFO :      Evaluating aggregation strategy: FedAvg
+INFO:flwr:Evaluating aggregation strategy: FedAvg
+INFO :      Using aggregation strategy: FedOpt
+INFO:flwr:Using aggregation strategy: FedOpt
+INFO :      Evaluating aggregation strategy: FedOpt
+INFO:flwr:Evaluating aggregation strategy: FedOpt
+INFO :      Using aggregation strategy: FedMedian
+INFO:flwr:Using aggregation strategy: FedMedian
+INFO :      Evaluating aggregation strategy: FedMedian
+INFO:flwr:Evaluating aggregation strategy: FedMedian
+Results of evaluation with multiple strategies: [[0, 0.8650003671646118, {'centralized_eval_accuracy': 0.9351999759674072}], [1, 0.3500572443008423, {'centralized_eval_accuracy': 0.9578999876976013}], [2, 0.1496981978416443, {'centralized_eval_accuracy': 0.9556999802589417}], [3, 0.1496981978416443, {'centralized_eval_accuracy': 0.9556999802589417}], [4, 0.14966033399105072, {'centralized_eval_accuracy': 0.9557999968528748}]]
+Sorted evaluation results: [4, 0.14966033399105072, {'centralized_eval_accuracy': 0.9557999968528748}]
+Best strategy for the round is: FedMedian(accept_failures=True)
+INFO :      Better accuracy achieved: 0.955800
+INFO:flwr:Better accuracy achieved: 0.955800
+INFO :      Previous accuracy: 0.952700
+INFO:flwr:Previous accuracy: 0.952700
+Model weights saved to /Users/olenapleshan/data_analytics/assignments/thesis/federated-learning/outputs/development/20250417-1506/export/model_state_acc_0.956_round_2.weights.h5
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Full model saved to /Users/olenapleshan/data_analytics/assignments/thesis/federated-learning/outputs/development/20250417-1506/export/model_state_acc_0.956_round_2.h5
+Saved artifact at '/Users/olenapleshan/data_analytics/assignments/thesis/federated-learning/outputs/development/20250417-1506/export/model_state_acc_0.956_round_2'. The following endpoints are available:
+
+* Endpoint 'serve'
+  args_0 (POSITIONAL_ONLY): TensorSpec(shape=(None, 28, 28, 1), dtype=tf.float32, name='keras_tensor')
+Output Type:
+  TensorSpec(shape=(None, 10), dtype=tf.float32, name=None)
+Captures:
+  6404657168: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  6404658224: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  6404657344: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  6404657872: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  6404657520: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  6404659104: TensorSpec(shape=(), dtype=tf.resource, name=None)
+Model exported to /Users/olenapleshan/data_analytics/assignments/thesis/federated-learning/outputs/development/20250417-1506/export/model_state_acc_0.956_round_2
+INFO :      fit progress: (2, 0.14966033399105072, {'centralized_eval_accuracy': 0.9557999968528748}, 56.42747271699773)
+INFO:flwr:fit progress: (2, 0.14966033399105072, {'centralized_eval_accuracy': 0.9557999968528748}, 56.42747271699773)
+INFO :      configure_evaluate: strategy sampled 4 clients (out of 8)
+INFO:flwr:configure_evaluate: strategy sampled 4 clients (out of 8)
+(ClientAppActor pid=40060) INFO :      No base model found: Initializing new model
+(ClientAppActor pid=40059) WARNING :   DEPRECATED FEATURE: `array_from_numpy` is deprecated. Instead, use the `Array(ndarray)` class directly or `Array.from_numpy_ndarray(ndarray)`. [repeated 2x across cluster]
+(ClientAppActor pid=40059)             This is a deprecated feature. It will be removed [repeated 2x across cluster]
+(ClientAppActor pid=40059)             entirely in future versions of Flower. [repeated 2x across cluster]
+(ClientAppActor pid=40059) INFO :      No base model found: Initializing new model
+INFO :      aggregate_evaluate: received 4 results and 0 failures
+INFO:flwr:aggregate_evaluate: received 4 results and 0 failures
+INFO :      
+INFO:flwr:
+INFO :      [ROUND 3]
+INFO:flwr:[ROUND 3]
+INFO :      configure_fit: strategy sampled 2 clients (out of 8)
+INFO:flwr:configure_fit: strategy sampled 2 clients (out of 8)
+(ClientAppActor pid=40059) INFO :      No base model found: Initializing new model [repeated 4x across cluster]
+(ClientAppActor pid=40060) WARNING :   DEPRECATED FEATURE: `array_from_numpy` is deprecated. Instead, use the `Array(ndarray)` class directly or `Array.from_numpy_ndarray(ndarray)`.
+(ClientAppActor pid=40060) 
+(ClientAppActor pid=40060)             This is a deprecated feature. It will be removed
+(ClientAppActor pid=40060)             entirely in future versions of Flower.
+(ClientAppActor pid=40060)         
+(ClientAppActor pid=40060) WARNING :   DEPRECATED FEATURE: `array_from_numpy` is deprecated. Instead, use the `Array(ndarray)` class directly or `Array.from_numpy_ndarray(ndarray)`.
+(ClientAppActor pid=40060) 
+(ClientAppActor pid=40060)             This is a deprecated feature. It will be removed
+(ClientAppActor pid=40060)             entirely in future versions of Flower.
+(ClientAppActor pid=40060)         
+(ClientAppActor pid=40059) 
+(ClientAppActor pid=40059)         
+(ClientAppActor pid=40059) 
+(ClientAppActor pid=40059)         
+INFO :      aggregate_fit: received 2 results and 0 failures
+INFO:flwr:aggregate_fit: received 2 results and 0 failures
+INFO :      Using aggregation strategy: FedAdagrad
+INFO:flwr:Using aggregation strategy: FedAdagrad
+INFO :      Evaluating aggregation strategy: FedAdagrad
+INFO:flwr:Evaluating aggregation strategy: FedAdagrad
+INFO :      Using aggregation strategy: FedAdam
+INFO:flwr:Using aggregation strategy: FedAdam
+INFO :      Evaluating aggregation strategy: FedAdam
+INFO:flwr:Evaluating aggregation strategy: FedAdam
+INFO :      Using aggregation strategy: FedAvg
+INFO:flwr:Using aggregation strategy: FedAvg
+INFO :      Evaluating aggregation strategy: FedAvg
+INFO:flwr:Evaluating aggregation strategy: FedAvg
+INFO :      Using aggregation strategy: FedOpt
+INFO:flwr:Using aggregation strategy: FedOpt
+INFO :      Evaluating aggregation strategy: FedOpt
+INFO:flwr:Evaluating aggregation strategy: FedOpt
+INFO :      Using aggregation strategy: FedMedian
+INFO:flwr:Using aggregation strategy: FedMedian
+INFO :      Evaluating aggregation strategy: FedMedian
+INFO:flwr:Evaluating aggregation strategy: FedMedian
+Results of evaluation with multiple strategies: [[0, 0.10036244243383408, {'centralized_eval_accuracy': 0.9713000059127808}], [1, 1.6179176568984985, {'centralized_eval_accuracy': 0.5918999910354614}], [2, 0.10598680377006531, {'centralized_eval_accuracy': 0.9686999917030334}], [3, 0.10598680377006531, {'centralized_eval_accuracy': 0.9686999917030334}], [4, 0.1094835102558136, {'centralized_eval_accuracy': 0.9666000008583069}]]
+Sorted evaluation results: [0, 0.10036244243383408, {'centralized_eval_accuracy': 0.9713000059127808}]
+Best strategy for the round is: FedAdagrad(accept_failures=True)
+INFO :      Better accuracy achieved: 0.971300
+INFO:flwr:Better accuracy achieved: 0.971300
+INFO :      Previous accuracy: 0.955800
+INFO:flwr:Previous accuracy: 0.955800
+Model weights saved to /Users/olenapleshan/data_analytics/assignments/thesis/federated-learning/outputs/development/20250417-1506/export/model_state_acc_0.971_round_3.weights.h5
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Full model saved to /Users/olenapleshan/data_analytics/assignments/thesis/federated-learning/outputs/development/20250417-1506/export/model_state_acc_0.971_round_3.h5
+Saved artifact at '/Users/olenapleshan/data_analytics/assignments/thesis/federated-learning/outputs/development/20250417-1506/export/model_state_acc_0.971_round_3'. The following endpoints are available:
+
+* Endpoint 'serve'
+  args_0 (POSITIONAL_ONLY): TensorSpec(shape=(None, 28, 28, 1), dtype=tf.float32, name='keras_tensor')
+Output Type:
+  TensorSpec(shape=(None, 10), dtype=tf.float32, name=None)
+Captures:
+  6404657168: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  6404658224: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  6404657344: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  6404657872: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  6404657520: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  6404659104: TensorSpec(shape=(), dtype=tf.resource, name=None)
+Model exported to /Users/olenapleshan/data_analytics/assignments/thesis/federated-learning/outputs/development/20250417-1506/export/model_state_acc_0.971_round_3
+INFO :      fit progress: (3, 0.10036244243383408, {'centralized_eval_accuracy': 0.9713000059127808}, 81.70246066599793)
+INFO:flwr:fit progress: (3, 0.10036244243383408, {'centralized_eval_accuracy': 0.9713000059127808}, 81.70246066599793)
+INFO :      configure_evaluate: strategy sampled 4 clients (out of 8)
+INFO:flwr:configure_evaluate: strategy sampled 4 clients (out of 8)
+(ClientAppActor pid=40060) INFO :      No base model found: Initializing new model
+(ClientAppActor pid=40059) WARNING :   DEPRECATED FEATURE: `array_from_numpy` is deprecated. Instead, use the `Array(ndarray)` class directly or `Array.from_numpy_ndarray(ndarray)`. [repeated 2x across cluster]
+(ClientAppActor pid=40059)             This is a deprecated feature. It will be removed [repeated 2x across cluster]
+(ClientAppActor pid=40059)             entirely in future versions of Flower. [repeated 2x across cluster]
+INFO :      aggregate_evaluate: received 4 results and 0 failures
+INFO:flwr:aggregate_evaluate: received 4 results and 0 failures
+INFO :      
+INFO:flwr:
+INFO :      [ROUND 4]
+INFO:flwr:[ROUND 4]
+INFO :      configure_fit: strategy sampled 2 clients (out of 8)
+INFO:flwr:configure_fit: strategy sampled 2 clients (out of 8)
+(ClientAppActor pid=40059) 
+(ClientAppActor pid=40059)         
+(ClientAppActor pid=40059) 
+(ClientAppActor pid=40059)         
+(ClientAppActor pid=40060) INFO :      No base model found: Initializing new model [repeated 5x across cluster]
+(ClientAppActor pid=40059) WARNING :   DEPRECATED FEATURE: `array_from_numpy` is deprecated. Instead, use the `Array(ndarray)` class directly or `Array.from_numpy_ndarray(ndarray)`. [repeated 2x across cluster]
+(ClientAppActor pid=40059)             This is a deprecated feature. It will be removed [repeated 2x across cluster]
+(ClientAppActor pid=40059)             entirely in future versions of Flower. [repeated 2x across cluster]
+(ClientAppActor pid=40060) 
+(ClientAppActor pid=40060)         
+(ClientAppActor pid=40060) 
+(ClientAppActor pid=40060)         
+INFO :      aggregate_fit: received 2 results and 0 failures
+INFO:flwr:aggregate_fit: received 2 results and 0 failures
+INFO :      Using aggregation strategy: FedAdagrad
+INFO:flwr:Using aggregation strategy: FedAdagrad
+INFO :      Evaluating aggregation strategy: FedAdagrad
+INFO:flwr:Evaluating aggregation strategy: FedAdagrad
+INFO :      Using aggregation strategy: FedAdam
+INFO:flwr:Using aggregation strategy: FedAdam
+INFO :      Evaluating aggregation strategy: FedAdam
+INFO:flwr:Evaluating aggregation strategy: FedAdam
+INFO :      Using aggregation strategy: FedAvg
+INFO:flwr:Using aggregation strategy: FedAvg
+INFO :      Evaluating aggregation strategy: FedAvg
+INFO:flwr:Evaluating aggregation strategy: FedAvg
+INFO :      Using aggregation strategy: FedOpt
+INFO:flwr:Using aggregation strategy: FedOpt
+INFO :      Evaluating aggregation strategy: FedOpt
+INFO:flwr:Evaluating aggregation strategy: FedOpt
+INFO :      Using aggregation strategy: FedMedian
+INFO:flwr:Using aggregation strategy: FedMedian
+INFO :      Evaluating aggregation strategy: FedMedian
+INFO:flwr:Evaluating aggregation strategy: FedMedian
+Results of evaluation with multiple strategies: [[0, 0.09275604784488678, {'centralized_eval_accuracy': 0.9711999893188477}], [1, 2.9463162422180176, {'centralized_eval_accuracy': 0.21549999713897705}], [2, 0.08763878792524338, {'centralized_eval_accuracy': 0.9728000164031982}], [3, 0.08763878792524338, {'centralized_eval_accuracy': 0.9728000164031982}], [4, 0.08628840744495392, {'centralized_eval_accuracy': 0.9728999733924866}]]
+Sorted evaluation results: [4, 0.08628840744495392, {'centralized_eval_accuracy': 0.9728999733924866}]
+Best strategy for the round is: FedMedian(accept_failures=True)
+INFO :      Better accuracy achieved: 0.972900
+INFO:flwr:Better accuracy achieved: 0.972900
+INFO :      Previous accuracy: 0.971300
+INFO:flwr:Previous accuracy: 0.971300
+Model weights saved to /Users/olenapleshan/data_analytics/assignments/thesis/federated-learning/outputs/development/20250417-1506/export/model_state_acc_0.973_round_4.weights.h5
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Full model saved to /Users/olenapleshan/data_analytics/assignments/thesis/federated-learning/outputs/development/20250417-1506/export/model_state_acc_0.973_round_4.h5
+Saved artifact at '/Users/olenapleshan/data_analytics/assignments/thesis/federated-learning/outputs/development/20250417-1506/export/model_state_acc_0.973_round_4'. The following endpoints are available:
+
+* Endpoint 'serve'
+  args_0 (POSITIONAL_ONLY): TensorSpec(shape=(None, 28, 28, 1), dtype=tf.float32, name='keras_tensor')
+Output Type:
+  TensorSpec(shape=(None, 10), dtype=tf.float32, name=None)
+Captures:
+  6404657168: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  6404658224: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  6404657344: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  6404657872: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  6404657520: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  6404659104: TensorSpec(shape=(), dtype=tf.resource, name=None)
+Model exported to /Users/olenapleshan/data_analytics/assignments/thesis/federated-learning/outputs/development/20250417-1506/export/model_state_acc_0.973_round_4
+INFO :      fit progress: (4, 0.08628840744495392, {'centralized_eval_accuracy': 0.9728999733924866}, 108.0885089059957)
+INFO:flwr:fit progress: (4, 0.08628840744495392, {'centralized_eval_accuracy': 0.9728999733924866}, 108.0885089059957)
+INFO :      configure_evaluate: strategy sampled 4 clients (out of 8)
+INFO:flwr:configure_evaluate: strategy sampled 4 clients (out of 8)
+(ClientAppActor pid=40059) INFO :      No base model found: Initializing new model
+(ClientAppActor pid=40060) WARNING :   DEPRECATED FEATURE: `array_from_numpy` is deprecated. Instead, use the `Array(ndarray)` class directly or `Array.from_numpy_ndarray(ndarray)`. [repeated 2x across cluster]
+(ClientAppActor pid=40060)             This is a deprecated feature. It will be removed [repeated 2x across cluster]
+(ClientAppActor pid=40060)             entirely in future versions of Flower. [repeated 2x across cluster]
+(ClientAppActor pid=40060) INFO :      No base model found: Initializing new model
+INFO :      aggregate_evaluate: received 4 results and 0 failures
+INFO:flwr:aggregate_evaluate: received 4 results and 0 failures
+INFO :      
+INFO:flwr:
+INFO :      [SUMMARY]
+INFO:flwr:[SUMMARY]
+INFO :      Run finished 4 round(s) in 112.24s
+INFO:flwr:Run finished 4 round(s) in 112.24s
+INFO :          History (loss, distributed):
+INFO:flwr:      History (loss, distributed):
+INFO :                  round 1: 0.178658916084338
+INFO:flwr:              round 1: 0.178658916084338
+INFO :                  round 2: 0.15635608761016845
+INFO:flwr:              round 2: 0.15635608761016845
+INFO :                  round 3: 0.11857284042581334
+INFO:flwr:              round 3: 0.11857284042581334
+INFO :                  round 4: 0.08589803948176337
+INFO:flwr:              round 4: 0.08589803948176337
+INFO :          History (loss, centralized):
+INFO:flwr:      History (loss, centralized):
+INFO :                  round 0: 2.311783790588379
+INFO:flwr:              round 0: 2.311783790588379
+INFO :                  round 1: 0.1666834056377411
+INFO:flwr:              round 1: 0.1666834056377411
+INFO :                  round 2: 0.14966033399105072
+INFO:flwr:              round 2: 0.14966033399105072
+INFO :                  round 3: 0.10036244243383408
+INFO:flwr:              round 3: 0.10036244243383408
+INFO :                  round 4: 0.08628840744495392
+INFO:flwr:              round 4: 0.08628840744495392
+INFO :          History (metrics, centralized):
+INFO:flwr:      History (metrics, centralized):
+INFO :          {'centralized_eval_accuracy': [(0, 0.09950000047683716),
+INFO:flwr:      {'centralized_eval_accuracy': [(0, 0.09950000047683716),
+INFO :                                         (1, 0.9527000188827515),
+INFO:flwr:                                     (1, 0.9527000188827515),
+INFO :                                         (2, 0.9557999968528748),
+INFO:flwr:                                     (2, 0.9557999968528748),
+INFO :                                         (3, 0.9713000059127808),
+INFO:flwr:                                     (3, 0.9713000059127808),
+INFO :                                         (4, 0.9728999733924866)]}
+INFO:flwr:                                     (4, 0.9728999733924866)]}
+INFO :      
+INFO:flwr:
+DEBUG:flwr:ServerApp finished running.
+DEBUG:flwr:ServerApp finished running.
+DEBUG:flwr:Triggered stop event for Simulation Engine.
+DEBUG:flwr:Terminated 2 actors
+(ClientAppActor pid=40060) INFO :      No base model found: Initializing new model [repeated 2x across cluster]
+DEBUG:flwr:Terminated RayBackend
+DEBUG:flwr:Stopping Simulation Engine now.
+wandb: | 0.042 MB of 0.042 MB uploaded
+wandb: Run history:
+wandb: centralized_eval_accuracy ▁████
+wandb:     centralized_eval_loss █▁▁▁▁
+wandb:   federated_evaluate_loss █▆▃▁
+wandb: 
+wandb: Run summary:
+wandb: centralized_eval_accuracy 0.9729
+wandb:     centralized_eval_loss 0.08629
+wandb:   federated_evaluate_loss 0.0859
+wandb: 
+wandb: 🚀 View run experiment-development/20250417-1506 at: https://wandb.ai/sbs24043-cct-dublin/flower-embedded-fed/runs/zokrrlld
+wandb: ⭐️ View project at: https://wandb.ai/sbs24043-cct-dublin/flower-embedded-fed
+wandb: Synced 5 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20250417_150701-zokrrlld/logs
+wandb: WARNING The new W&B backend becomes opt-out in version 0.18.0; try it out with `wandb.require("core")`! See https://wandb.me/wandb-core for more information.

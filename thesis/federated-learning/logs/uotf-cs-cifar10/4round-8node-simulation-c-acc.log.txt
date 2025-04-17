@@ -1,0 +1,90 @@
+INFO:flwr:Previous accuracy: 0.444600
+Model weights saved to /Users/olenapleshan/data_analytics/assignments/thesis/federated-learning/outputs/development/20250417-1607/export/model_state_acc_0.455_round_4.weights.h5
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Full model saved to /Users/olenapleshan/data_analytics/assignments/thesis/federated-learning/outputs/development/20250417-1607/export/model_state_acc_0.455_round_4.h5
+Saved artifact at '/Users/olenapleshan/data_analytics/assignments/thesis/federated-learning/outputs/development/20250417-1607/export/model_state_acc_0.455_round_4'. The following endpoints are available:
+
+* Endpoint 'serve'
+  args_0 (POSITIONAL_ONLY): TensorSpec(shape=(None, 32, 32, 3), dtype=tf.float32, name='keras_tensor')
+Output Type:
+  TensorSpec(shape=(None, 10), dtype=tf.float32, name=None)
+Captures:
+  6352425152: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  6352426208: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  6352425328: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  6352425856: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  6352425504: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  6352427088: TensorSpec(shape=(), dtype=tf.resource, name=None)
+Model exported to /Users/olenapleshan/data_analytics/assignments/thesis/federated-learning/outputs/development/20250417-1607/export/model_state_acc_0.455_round_4
+INFO :      fit progress: (4, 1.5016894340515137, {'centralized_eval_accuracy': 0.454800009727478}, 142.1416120549984)
+INFO:flwr:fit progress: (4, 1.5016894340515137, {'centralized_eval_accuracy': 0.454800009727478}, 142.1416120549984)
+INFO :      configure_evaluate: strategy sampled 4 clients (out of 8)
+INFO:flwr:configure_evaluate: strategy sampled 4 clients (out of 8)
+(ClientAppActor pid=52512) INFO :      No base model found: Initializing new model
+INFO :      aggregate_evaluate: received 4 results and 0 failures
+INFO:flwr:aggregate_evaluate: received 4 results and 0 failures
+INFO :      
+INFO:flwr:
+INFO :      [SUMMARY]
+INFO:flwr:[SUMMARY]
+INFO :      Run finished 4 round(s) in 147.29s
+INFO:flwr:Run finished 4 round(s) in 147.29s
+INFO :          History (loss, distributed):
+INFO:flwr:      History (loss, distributed):
+INFO :                  round 1: 2.1493614628353934
+INFO:flwr:              round 1: 2.1493614628353934
+INFO :                  round 2: 1.918785483859478
+INFO:flwr:              round 2: 1.918785483859478
+INFO :                  round 3: 1.5164861350278709
+INFO:flwr:              round 3: 1.5164861350278709
+INFO :                  round 4: 1.5852752576999016
+INFO:flwr:              round 4: 1.5852752576999016
+INFO :          History (loss, centralized):
+INFO:flwr:      History (loss, centralized):
+INFO :                  round 0: 2.303196668624878
+INFO:flwr:              round 0: 2.303196668624878
+INFO :                  round 1: 2.274456262588501
+INFO:flwr:              round 1: 2.274456262588501
+INFO :                  round 2: 1.8160877227783203
+INFO:flwr:              round 2: 1.8160877227783203
+INFO :                  round 3: 1.53139066696167
+INFO:flwr:              round 3: 1.53139066696167
+INFO :                  round 4: 1.5016894340515137
+INFO:flwr:              round 4: 1.5016894340515137
+INFO :          History (metrics, centralized):
+INFO:flwr:      History (metrics, centralized):
+INFO :          {'centralized_eval_accuracy': [(0, 0.10279999673366547),
+INFO:flwr:      {'centralized_eval_accuracy': [(0, 0.10279999673366547),
+INFO :                                         (1, 0.21889999508857727),
+INFO:flwr:                                     (1, 0.21889999508857727),
+INFO :                                         (2, 0.3368000090122223),
+INFO:flwr:                                     (2, 0.3368000090122223),
+INFO :                                         (3, 0.444599986076355),
+INFO:flwr:                                     (3, 0.444599986076355),
+INFO :                                         (4, 0.454800009727478)]}
+INFO:flwr:                                     (4, 0.454800009727478)]}
+INFO :      
+INFO:flwr:
+DEBUG:flwr:ServerApp finished running.
+DEBUG:flwr:ServerApp finished running.
+DEBUG:flwr:Triggered stop event for Simulation Engine.
+DEBUG:flwr:Terminated 2 actors
+(ClientAppActor pid=52511) INFO :      No base model found: Initializing new model [repeated 3x across cluster]
+DEBUG:flwr:Terminated RayBackend
+DEBUG:flwr:Stopping Simulation Engine now.
+wandb: | 0.042 MB of 0.042 MB uploaded
+wandb: Run history:
+wandb: centralized_eval_accuracy ▁▃▆██
+wandb:     centralized_eval_loss ██▄▁▁
+wandb:   federated_evaluate_loss █▅▁▂
+wandb: 
+wandb: Run summary:
+wandb: centralized_eval_accuracy 0.4548
+wandb:     centralized_eval_loss 1.50169
+wandb:   federated_evaluate_loss 1.58528
+wandb: 
+wandb: 🚀 View run experiment-development/20250417-1607 at: https://wandb.ai/sbs24043-cct-dublin/flower-embedded-fed/runs/guk1c1kq
+wandb: ⭐️ View project at: https://wandb.ai/sbs24043-cct-dublin/flower-embedded-fed
+wandb: Synced 5 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20250417_160802-guk1c1kq/logs
+wandb: WARNING The new W&B backend becomes opt-out in version 0.18.0; try it out with `wandb.require("core")`! See https://wandb.me/wandb-core for more information.

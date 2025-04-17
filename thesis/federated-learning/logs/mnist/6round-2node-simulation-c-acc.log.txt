@@ -1,0 +1,77 @@
+INFO :      
+INFO:flwr:
+INFO :      [SUMMARY]
+INFO:flwr:[SUMMARY]
+INFO :      Run finished 6 round(s) in 310.54s
+INFO:flwr:Run finished 6 round(s) in 310.54s
+INFO :          History (loss, distributed):
+INFO:flwr:      History (loss, distributed):
+INFO :                  round 1: 0.1203466110771452
+INFO:flwr:              round 1: 0.1203466110771452
+INFO :                  round 2: 0.06409751946203868
+INFO:flwr:              round 2: 0.06409751946203868
+INFO :                  round 3: 0.05523487845287205
+INFO:flwr:              round 3: 0.05523487845287205
+INFO :                  round 4: 0.040206346179398784
+INFO:flwr:              round 4: 0.040206346179398784
+INFO :                  round 5: 0.03848336757895708
+INFO:flwr:              round 5: 0.03848336757895708
+INFO :                  round 6: 0.036075326715665164
+INFO:flwr:              round 6: 0.036075326715665164
+INFO :          History (loss, centralized):
+INFO:flwr:      History (loss, centralized):
+INFO :                  round 0: 2.3038833141326904
+INFO:flwr:              round 0: 2.3038833141326904
+INFO :                  round 1: 0.10327231138944626
+INFO:flwr:              round 1: 0.10327231138944626
+INFO :                  round 2: 0.06168651208281517
+INFO:flwr:              round 2: 0.06168651208281517
+INFO :                  round 3: 0.045545611530542374
+INFO:flwr:              round 3: 0.045545611530542374
+INFO :                  round 4: 0.04292277991771698
+INFO:flwr:              round 4: 0.04292277991771698
+INFO :                  round 5: 0.03651322424411774
+INFO:flwr:              round 5: 0.03651322424411774
+INFO :                  round 6: 0.03561554104089737
+INFO:flwr:              round 6: 0.03561554104089737
+INFO :          History (metrics, centralized):
+INFO:flwr:      History (metrics, centralized):
+INFO :          {'centralized_eval_accuracy': [(0, 0.08760000020265579),
+INFO:flwr:      {'centralized_eval_accuracy': [(0, 0.08760000020265579),
+INFO :                                         (1, 0.9722999930381775),
+INFO:flwr:                                     (1, 0.9722999930381775),
+INFO :                                         (2, 0.9814000129699707),
+INFO:flwr:                                     (2, 0.9814000129699707),
+INFO :                                         (3, 0.9846000075340271),
+INFO:flwr:                                     (3, 0.9846000075340271),
+INFO :                                         (4, 0.9861999750137329),
+INFO:flwr:                                     (4, 0.9861999750137329),
+INFO :                                         (5, 0.9876000285148621),
+INFO:flwr:                                     (5, 0.9876000285148621),
+INFO :                                         (6, 0.9876000285148621)]}
+INFO:flwr:                                     (6, 0.9876000285148621)]}
+INFO :      
+INFO:flwr:
+DEBUG:flwr:ServerApp finished running.
+DEBUG:flwr:ServerApp finished running.
+DEBUG:flwr:Triggered stop event for Simulation Engine.
+DEBUG:flwr:Terminated 2 actors
+(ClientAppActor pid=41893) INFO :      No base model found: Initializing new model
+DEBUG:flwr:Terminated RayBackend
+DEBUG:flwr:Stopping Simulation Engine now.
+wandb: | 0.053 MB of 0.053 MB uploaded
+wandb: Run history:
+wandb: centralized_eval_accuracy ▁██████
+wandb:     centralized_eval_loss █▁▁▁▁▁▁
+wandb:   federated_evaluate_loss █▃▃▁▁▁
+wandb: 
+wandb: Run summary:
+wandb: centralized_eval_accuracy 0.9876
+wandb:     centralized_eval_loss 0.03562
+wandb:   federated_evaluate_loss 0.03608
+wandb: 
+wandb: 🚀 View run experiment-development/20250417-1516 at: https://wandb.ai/sbs24043-cct-dublin/flower-embedded-fed/runs/560m61mw
+wandb: ⭐️ View project at: https://wandb.ai/sbs24043-cct-dublin/flower-embedded-fed
+wandb: Synced 5 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20250417_151623-560m61mw/logs
+wandb: WARNING The new W&B backend becomes opt-out in version 0.18.0; try it out with `wandb.require("core")`! See https://wandb.me/wandb-core for more information.

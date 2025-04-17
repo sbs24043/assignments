@@ -28,7 +28,7 @@ serverapp = "tf_federation.server_app:app"
 clientapp = "tf_federation.client_app:app"
 
 [tool.flwr.app.config]
-num-server-rounds = 8
+num-server-rounds = 6
 local-epochs = 1
 batch-size = 32
 fraction-fit = 0.25
@@ -42,7 +42,7 @@ base-weights-path = ""
 default = "local-sim"
 
 [tool.flwr.federations.local-sim]
-options.num-supernodes = 20
+options.num-supernodes = 2
 options.backend.client-resources.num-cpus = 2 # each ClientApp assumes to use 2CPUs
 options.backend.client-resources.num-gpus = 0.0 # ratio of VRAM a ClientApp has access to
 
@@ -56,4 +56,4 @@ address = "127.0.0.1:9093"
 insecure = true
 
 [tool.flwr.custom_params]
-dataset = "zalando-datasets/fashion_mnist"
+dataset = "uoft-cs/cifar10"

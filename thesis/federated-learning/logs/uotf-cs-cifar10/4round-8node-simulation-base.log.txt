@@ -1,185 +1,124 @@
-export IMG_SHAPE_1=32 && export IMG_SHAPE_2=32 && export IMG_SHAPE_3=3 && export STRATEGY='baseline' && flwr run .
-2025-04-13 14:29:56.014109: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
-To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
-Loading project configuration... 
-Success
-2025-04-13 14:30:03.502819: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
-To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
-/usr/local/lib/python3.11/site-packages/wandb/analytics/sentry.py:90: SentryHubDeprecationWarning: `sentry_sdk.Hub` is deprecated and will be removed in a future major release. Please consult our 1.x to 2.x migration guide for details on how to migrate `Hub` usage to the new API: https://docs.sentry.io/platforms/python/migration/1.x-to-2.x
-  self.hub = sentry_sdk.Hub(client)
-INFO :      No base model found: Initializing new model
-wandb: Currently logged in as: sbs24043 (sbs24043-cct-dublin). Use `wandb login --relogin` to force relogin
-wandb: Tracking run with wandb version 0.17.8
-wandb: Run data is saved locally in /Users/olenapleshan/data_analytics/assignments/thesis/federated-learning/wandb/run-20250413_143021-yqzdvmil
-wandb: Run `wandb offline` to turn off syncing.
-wandb: Syncing run experiment-development/20250413-1430
-wandb: ⭐️ View project at https://wandb.ai/sbs24043-cct-dublin/flower-embedded-fed
-wandb: 🚀 View run at https://wandb.ai/sbs24043-cct-dublin/flower-embedded-fed/runs/yqzdvmil
-INFO :      Starting Flower ServerApp, config: num_rounds=4, no round_timeout
-INFO :      
-INFO :      [INIT]
-INFO :      Using initial global parameters provided by strategy
-INFO :      Starting evaluation of initial global parameters
-INFO :      Evaluation returned no results (`None`)
-INFO :      
-INFO :      [ROUND 1]
+INFO:flwr:[ROUND 4]
 INFO :      configure_fit: strategy sampled 2 clients (out of 8)
-(ClientAppActor pid=55986) /usr/local/lib/python3.11/site-packages/wandb/analytics/sentry.py:90: SentryHubDeprecationWarning: `sentry_sdk.Hub` is deprecated and will be removed in a future major release. Please consult our 1.x to 2.x migration guide for details on how to migrate `Hub` usage to the new API: https://docs.sentry.io/platforms/python/migration/1.x-to-2.x
-(ClientAppActor pid=55986)   self.hub = sentry_sdk.Hub(client)
-(ClientAppActor pid=55987) wandb: Currently logged in as: sbs24043 (sbs24043-cct-dublin). Use `wandb login --relogin` to force relogin
-(ClientAppActor pid=55987) /usr/local/lib/python3.11/site-packages/wandb/analytics/sentry.py:90: SentryHubDeprecationWarning: `sentry_sdk.Hub` is deprecated and will be removed in a future major release. Please consult our 1.x to 2.x migration guide for details on how to migrate `Hub` usage to the new API: https://docs.sentry.io/platforms/python/migration/1.x-to-2.x
-(ClientAppActor pid=55987)   self.hub = sentry_sdk.Hub(client)
-(ClientAppActor pid=55987) wandb: Tracking run with wandb version 0.17.8
-(ClientAppActor pid=55987) wandb: Run data is saved locally in /Users/olenapleshan/data_analytics/assignments/thesis/federated-learning/wandb/run-20250413_143036-7gh6gfx9
-(ClientAppActor pid=55987) wandb: Run `wandb offline` to turn off syncing.
-(ClientAppActor pid=55987) wandb: Syncing run experiment-development/20250413-1430
-(ClientAppActor pid=55987) wandb: ⭐️ View project at https://wandb.ai/sbs24043-cct-dublin/flower-embedded-fed
-(ClientAppActor pid=55987) wandb: 🚀 View run at https://wandb.ai/sbs24043-cct-dublin/flower-embedded-fed/runs/7gh6gfx9
-(ClientAppActor pid=55986) INFO :      No base model found: Initializing new model
-(ClientAppActor pid=55986) /usr/local/lib/python3.11/site-packages/tensorflow/python/framework/tensor_util.py:522: DeprecationWarning: NumPy will stop allowing conversion of out-of-bound Python integers to integer arrays.  The conversion of 2147483648 to int32 will fail in the future.
-(ClientAppActor pid=55986) For the old behavior, usually:
-(ClientAppActor pid=55986)     np.array(value).astype(dtype)
-(ClientAppActor pid=55986) will give the desired result (the cast overflows).
-(ClientAppActor pid=55986)   nparray = np.array(values, dtype=np_dt)
-(ClientAppActor pid=55987) WARNING :   DEPRECATED FEATURE: `array_from_numpy` is deprecated. Instead, use the `Array(ndarray)` class directly or `Array.from_numpy_ndarray(ndarray)`.
-(ClientAppActor pid=55987) 
-(ClientAppActor pid=55987)             This is a deprecated feature. It will be removed
-(ClientAppActor pid=55987)             entirely in future versions of Flower.
-(ClientAppActor pid=55987)         
-(ClientAppActor pid=55987) WARNING :   DEPRECATED FEATURE: `array_from_numpy` is deprecated. Instead, use the `Array(ndarray)` class directly or `Array.from_numpy_ndarray(ndarray)`.
-(ClientAppActor pid=55987) 
-(ClientAppActor pid=55987)             This is a deprecated feature. It will be removed
-(ClientAppActor pid=55987)             entirely in future versions of Flower.
-(ClientAppActor pid=55987)         
-(ClientAppActor pid=55986) wandb: Currently logged in as: sbs24043 (sbs24043-cct-dublin). Use `wandb login --relogin` to force relogin
-(ClientAppActor pid=55986) wandb: Tracking run with wandb version 0.17.8
-(ClientAppActor pid=55986) wandb: Run data is saved locally in /Users/olenapleshan/data_analytics/assignments/thesis/federated-learning/wandb/run-20250413_143036-3htrsq8u
-(ClientAppActor pid=55986) wandb: Run `wandb offline` to turn off syncing.
-(ClientAppActor pid=55986) wandb: Syncing run experiment-development/20250413-1430
-(ClientAppActor pid=55986) wandb: ⭐️ View project at https://wandb.ai/sbs24043-cct-dublin/flower-embedded-fed
-(ClientAppActor pid=55986) wandb: 🚀 View run at https://wandb.ai/sbs24043-cct-dublin/flower-embedded-fed/runs/3htrsq8u
-(ClientAppActor pid=55987) INFO :      No base model found: Initializing new model
-(ClientAppActor pid=55986) 
-(ClientAppActor pid=55986)         
-(ClientAppActor pid=55986) 
-(ClientAppActor pid=55986)         
-(ClientAppActor pid=55987) /usr/local/lib/python3.11/site-packages/tensorflow/python/framework/tensor_util.py:522: DeprecationWarning: NumPy will stop allowing conversion of out-of-bound Python integers to integer arrays.  The conversion of 2147483648 to int32 will fail in the future.
-(ClientAppActor pid=55987) For the old behavior, usually:
-(ClientAppActor pid=55987)     np.array(value).astype(dtype)
-(ClientAppActor pid=55987) will give the desired result (the cast overflows).
-(ClientAppActor pid=55987)   nparray = np.array(values, dtype=np_dt)
+INFO:flwr:configure_fit: strategy sampled 2 clients (out of 8)
+(ClientAppActor pid=51112) INFO :      No base model found: Initializing new model [repeated 4x across cluster]
+(ClientAppActor pid=51112) WARNING :   DEPRECATED FEATURE: `array_from_numpy` is deprecated. Instead, use the `Array(ndarray)` class directly or `Array.from_numpy_ndarray(ndarray)`.
+(ClientAppActor pid=51112) 
+(ClientAppActor pid=51112)             This is a deprecated feature. It will be removed
+(ClientAppActor pid=51112)             entirely in future versions of Flower.
+(ClientAppActor pid=51112)         
+(ClientAppActor pid=51112) WARNING :   DEPRECATED FEATURE: `array_from_numpy` is deprecated. Instead, use the `Array(ndarray)` class directly or `Array.from_numpy_ndarray(ndarray)`.
+(ClientAppActor pid=51112) 
+(ClientAppActor pid=51112)             This is a deprecated feature. It will be removed
+(ClientAppActor pid=51112)             entirely in future versions of Flower.
+(ClientAppActor pid=51112)         
+(ClientAppActor pid=51113) INFO :      No base model found: Initializing new model
+(ClientAppActor pid=51113) 
+(ClientAppActor pid=51113)         
+(ClientAppActor pid=51113) 
+(ClientAppActor pid=51113)         
 INFO :      aggregate_fit: received 2 results and 0 failures
-WARNING :   No fit_metrics_aggregation_fn provided
+INFO:flwr:aggregate_fit: received 2 results and 0 failures
+INFO :      Using aggregation strategy: FedAvg
+INFO:flwr:Using aggregation strategy: FedAvg
+INFO :      Evaluating aggregation strategy: FedAvg
+INFO:flwr:Evaluating aggregation strategy: FedAvg
+Results of evaluation with multiple strategies: [[0, 1.6546554565429688, {'centralized_eval_accuracy': 0.414000004529953}]]
+Sorted evaluation results: [0, 1.6546554565429688, {'centralized_eval_accuracy': 0.414000004529953}]
+Best strategy for the round is: FedAvg(accept_failures=True)
+INFO :      Better accuracy achieved: 0.414000
+INFO:flwr:Better accuracy achieved: 0.414000
+INFO :      Previous accuracy: 0.379800
+INFO:flwr:Previous accuracy: 0.379800
+Model weights saved to /Users/olenapleshan/data_analytics/assignments/thesis/federated-learning/outputs/development/20250417-1601/export/model_state_acc_0.414_round_4.weights.h5
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Full model saved to /Users/olenapleshan/data_analytics/assignments/thesis/federated-learning/outputs/development/20250417-1601/export/model_state_acc_0.414_round_4.h5
+Saved artifact at '/Users/olenapleshan/data_analytics/assignments/thesis/federated-learning/outputs/development/20250417-1601/export/model_state_acc_0.414_round_4'. The following endpoints are available:
+
+* Endpoint 'serve'
+  args_0 (POSITIONAL_ONLY): TensorSpec(shape=(None, 32, 32, 3), dtype=tf.float32, name='keras_tensor')
+Output Type:
+  TensorSpec(shape=(None, 10), dtype=tf.float32, name=None)
+Captures:
+  6367793168: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  6367794224: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  6367793344: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  6367793872: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  6367793520: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  6367795104: TensorSpec(shape=(), dtype=tf.resource, name=None)
+Model exported to /Users/olenapleshan/data_analytics/assignments/thesis/federated-learning/outputs/development/20250417-1601/export/model_state_acc_0.414_round_4
+INFO :      fit progress: (4, 1.6546554565429688, {'centralized_eval_accuracy': 0.414000004529953}, 97.34400681399711)
+INFO:flwr:fit progress: (4, 1.6546554565429688, {'centralized_eval_accuracy': 0.414000004529953}, 97.34400681399711)
 INFO :      configure_evaluate: strategy sampled 4 clients (out of 8)
-(ClientAppActor pid=55987) INFO :      No base model found: Initializing new model
-(ClientAppActor pid=55986) WARNING :   DEPRECATED FEATURE: `array_from_numpy` is deprecated. Instead, use the `Array(ndarray)` class directly or `Array.from_numpy_ndarray(ndarray)`. [repeated 2x across cluster] (Ray deduplicates logs by default. Set RAY_DEDUP_LOGS=0 to disable log deduplication, or see https://docs.ray.io/en/master/ray-observability/user-guides/configure-logging.html#log-deduplication for more options.)
-(ClientAppActor pid=55986)             This is a deprecated feature. It will be removed [repeated 2x across cluster]
-(ClientAppActor pid=55986)             entirely in future versions of Flower. [repeated 2x across cluster]
-(ClientAppActor pid=55986) INFO :      No base model found: Initializing new model [repeated 3x across cluster]
+INFO:flwr:configure_evaluate: strategy sampled 4 clients (out of 8)
+(ClientAppActor pid=51112) INFO :      No base model found: Initializing new model
+(ClientAppActor pid=51113) WARNING :   DEPRECATED FEATURE: `array_from_numpy` is deprecated. Instead, use the `Array(ndarray)` class directly or `Array.from_numpy_ndarray(ndarray)`. [repeated 2x across cluster]
+(ClientAppActor pid=51113)             This is a deprecated feature. It will be removed [repeated 2x across cluster]
+(ClientAppActor pid=51113)             entirely in future versions of Flower. [repeated 2x across cluster]
 INFO :      aggregate_evaluate: received 4 results and 0 failures
-Baseline evaluation results: loss  2.3224521468846597  accuracy  {'federated_evaluate_accuracy': 0.19245826878388986}
+INFO:flwr:aggregate_evaluate: received 4 results and 0 failures
 INFO :      
-INFO :      [ROUND 2]
-INFO :      configure_fit: strategy sampled 2 clients (out of 8)
-(ClientAppActor pid=55986) WARNING :   DEPRECATED FEATURE: `array_from_numpy` is deprecated. Instead, use the `Array(ndarray)` class directly or `Array.from_numpy_ndarray(ndarray)`.
-(ClientAppActor pid=55986) 
-(ClientAppActor pid=55986)             This is a deprecated feature. It will be removed
-(ClientAppActor pid=55986)             entirely in future versions of Flower.
-(ClientAppActor pid=55986)         
-(ClientAppActor pid=55986) WARNING :   DEPRECATED FEATURE: `array_from_numpy` is deprecated. Instead, use the `Array(ndarray)` class directly or `Array.from_numpy_ndarray(ndarray)`.
-(ClientAppActor pid=55986) 
-(ClientAppActor pid=55986)             This is a deprecated feature. It will be removed
-(ClientAppActor pid=55986)             entirely in future versions of Flower.
-(ClientAppActor pid=55986)         
-(ClientAppActor pid=55987) INFO :      No base model found: Initializing new model [repeated 2x across cluster]
-INFO :      aggregate_fit: received 2 results and 0 failures
-INFO :      configure_evaluate: strategy sampled 4 clients (out of 8)
-(ClientAppActor pid=55987) 
-(ClientAppActor pid=55987)         
-(ClientAppActor pid=55987) 
-(ClientAppActor pid=55987)         
-(ClientAppActor pid=55987) WARNING :   DEPRECATED FEATURE: `array_from_numpy` is deprecated. Instead, use the `Array(ndarray)` class directly or `Array.from_numpy_ndarray(ndarray)`. [repeated 2x across cluster]
-(ClientAppActor pid=55987)             This is a deprecated feature. It will be removed [repeated 2x across cluster]
-(ClientAppActor pid=55987)             entirely in future versions of Flower. [repeated 2x across cluster]
-(ClientAppActor pid=55986) INFO :      No base model found: Initializing new model [repeated 3x across cluster]
-INFO :      aggregate_evaluate: received 4 results and 0 failures
-Baseline evaluation results: loss  1.9480512039739688  accuracy  {'federated_evaluate_accuracy': 0.2817186905961313}
-INFO :      
-INFO :      [ROUND 3]
-INFO :      configure_fit: strategy sampled 2 clients (out of 8)
-(ClientAppActor pid=55986) INFO :      No base model found: Initializing new model [repeated 3x across cluster]
-(ClientAppActor pid=55986) WARNING :   DEPRECATED FEATURE: `array_from_numpy` is deprecated. Instead, use the `Array(ndarray)` class directly or `Array.from_numpy_ndarray(ndarray)`.
-(ClientAppActor pid=55986) 
-(ClientAppActor pid=55986)             This is a deprecated feature. It will be removed
-(ClientAppActor pid=55986)             entirely in future versions of Flower.
-(ClientAppActor pid=55986)         
-(ClientAppActor pid=55986) WARNING :   DEPRECATED FEATURE: `array_from_numpy` is deprecated. Instead, use the `Array(ndarray)` class directly or `Array.from_numpy_ndarray(ndarray)`.
-(ClientAppActor pid=55986) 
-(ClientAppActor pid=55986)             This is a deprecated feature. It will be removed
-(ClientAppActor pid=55986)             entirely in future versions of Flower.
-(ClientAppActor pid=55986)         
-(ClientAppActor pid=55987) 
-(ClientAppActor pid=55987)         
-(ClientAppActor pid=55987) 
-(ClientAppActor pid=55987)         
-INFO :      aggregate_fit: received 2 results and 0 failures
-INFO :      configure_evaluate: strategy sampled 4 clients (out of 8)
-(ClientAppActor pid=55986) INFO :      No base model found: Initializing new model
-(ClientAppActor pid=55987) WARNING :   DEPRECATED FEATURE: `array_from_numpy` is deprecated. Instead, use the `Array(ndarray)` class directly or `Array.from_numpy_ndarray(ndarray)`. [repeated 2x across cluster]
-(ClientAppActor pid=55987)             This is a deprecated feature. It will be removed [repeated 2x across cluster]
-(ClientAppActor pid=55987)             entirely in future versions of Flower. [repeated 2x across cluster]
-INFO :      aggregate_evaluate: received 4 results and 0 failures
-Baseline evaluation results: loss  1.806380879907224  accuracy  {'federated_evaluate_accuracy': 0.3312943875025179}
-INFO :      
-INFO :      [ROUND 4]
-INFO :      configure_fit: strategy sampled 2 clients (out of 8)
-(ClientAppActor pid=55987) INFO :      No base model found: Initializing new model [repeated 4x across cluster]
-(ClientAppActor pid=55987) 
-(ClientAppActor pid=55987)         
-(ClientAppActor pid=55987) 
-(ClientAppActor pid=55987)         
-(ClientAppActor pid=55987) WARNING :   DEPRECATED FEATURE: `array_from_numpy` is deprecated. Instead, use the `Array(ndarray)` class directly or `Array.from_numpy_ndarray(ndarray)`. [repeated 2x across cluster]
-(ClientAppActor pid=55987)             This is a deprecated feature. It will be removed [repeated 2x across cluster]
-(ClientAppActor pid=55987)             entirely in future versions of Flower. [repeated 2x across cluster]
-(ClientAppActor pid=55986) INFO :      No base model found: Initializing new model
-INFO :      aggregate_fit: received 2 results and 0 failures
-INFO :      configure_evaluate: strategy sampled 4 clients (out of 8)
-(ClientAppActor pid=55986) 
-(ClientAppActor pid=55986)         
-(ClientAppActor pid=55986) 
-(ClientAppActor pid=55986)         
-(ClientAppActor pid=55986) WARNING :   DEPRECATED FEATURE: `array_from_numpy` is deprecated. Instead, use the `Array(ndarray)` class directly or `Array.from_numpy_ndarray(ndarray)`. [repeated 2x across cluster]
-(ClientAppActor pid=55986)             This is a deprecated feature. It will be removed [repeated 2x across cluster]
-(ClientAppActor pid=55986)             entirely in future versions of Flower. [repeated 2x across cluster]
-(ClientAppActor pid=55986) INFO :      No base model found: Initializing new model
-INFO :      aggregate_evaluate: received 4 results and 0 failures
-Baseline evaluation results: loss  1.5771276013666051  accuracy  {'federated_evaluate_accuracy': 0.4441534097613967}
-INFO :      
+INFO:flwr:
 INFO :      [SUMMARY]
-INFO :      Run finished 4 round(s) in 91.43s
+INFO:flwr:[SUMMARY]
+INFO :      Run finished 4 round(s) in 103.36s
+INFO:flwr:Run finished 4 round(s) in 103.36s
 INFO :          History (loss, distributed):
-INFO :                  round 1: 2.3224521468846597
-INFO :                  round 2: 1.9480512039739688
-INFO :                  round 3: 1.806380879907224
-INFO :                  round 4: 1.5771276013666051
-INFO :          History (metrics, distributed, evaluate):
-INFO :          {'federated_evaluate_accuracy': [(1, 0.19245826878388986),
-INFO :                                           (2, 0.2817186905961313),
-INFO :                                           (3, 0.3312943875025179),
-INFO :                                           (4, 0.4441534097613967)]}
+INFO:flwr:      History (loss, distributed):
+INFO :                  round 1: 1.993035278415554
+INFO:flwr:              round 1: 1.993035278415554
+INFO :                  round 2: 1.8428615706116493
+INFO:flwr:              round 2: 1.8428615706116493
+INFO :                  round 3: 1.726497005478001
+INFO:flwr:              round 3: 1.726497005478001
+INFO :                  round 4: 1.6763395989091734
+INFO:flwr:              round 4: 1.6763395989091734
+INFO :          History (loss, centralized):
+INFO:flwr:      History (loss, centralized):
+INFO :                  round 0: 2.2999024391174316
+INFO:flwr:              round 0: 2.2999024391174316
+INFO :                  round 1: 2.06272554397583
+INFO:flwr:              round 1: 2.06272554397583
+INFO :                  round 2: 1.7618377208709717
+INFO:flwr:              round 2: 1.7618377208709717
+INFO :                  round 3: 1.725624442100525
+INFO:flwr:              round 3: 1.725624442100525
+INFO :                  round 4: 1.6546554565429688
+INFO:flwr:              round 4: 1.6546554565429688
+INFO :          History (metrics, centralized):
+INFO:flwr:      History (metrics, centralized):
+INFO :          {'centralized_eval_accuracy': [(0, 0.1005999967455864),
+INFO:flwr:      {'centralized_eval_accuracy': [(0, 0.1005999967455864),
+INFO :                                         (1, 0.27410000562667847),
+INFO:flwr:                                     (1, 0.27410000562667847),
+INFO :                                         (2, 0.35510000586509705),
+INFO:flwr:                                     (2, 0.35510000586509705),
+INFO :                                         (3, 0.3797999918460846),
+INFO:flwr:                                     (3, 0.3797999918460846),
+INFO :                                         (4, 0.414000004529953)]}
+INFO:flwr:                                     (4, 0.414000004529953)]}
 INFO :      
-(ClientAppActor pid=55987) INFO :      No base model found: Initializing new model [repeated 3x across cluster]
-wandb: | 0.023 MB of 0.023 MB uploaded
+INFO:flwr:
+DEBUG:flwr:ServerApp finished running.
+DEBUG:flwr:ServerApp finished running.
+DEBUG:flwr:Triggered stop event for Simulation Engine.
+DEBUG:flwr:Terminated 2 actors
+(ClientAppActor pid=51113) INFO :      No base model found: Initializing new model [repeated 3x across cluster]
+DEBUG:flwr:Terminated RayBackend
+DEBUG:flwr:Stopping Simulation Engine now.
+wandb: / 0.037 MB of 0.037 MB uploaded
 wandb: Run history:
-wandb: federated_evaluate_accuracy ▁▃▅█
-wandb:     federated_evaluate_loss █▄▃▁
+wandb: centralized_eval_accuracy ▁▅▇▇█
+wandb:     centralized_eval_loss █▅▂▂▁
+wandb:   federated_evaluate_loss █▅▂▁
 wandb: 
 wandb: Run summary:
-wandb: federated_evaluate_accuracy 0.44415
-wandb:     federated_evaluate_loss 1.57713
+wandb: centralized_eval_accuracy 0.414
+wandb:     centralized_eval_loss 1.65466
+wandb:   federated_evaluate_loss 1.67634
 wandb: 
-wandb: 🚀 View run experiment-development/20250413-1430 at: https://wandb.ai/sbs24043-cct-dublin/flower-embedded-fed/runs/yqzdvmil
+wandb: 🚀 View run experiment-development/20250417-1601 at: https://wandb.ai/sbs24043-cct-dublin/flower-embedded-fed/runs/csuoqqn4
 wandb: ⭐️ View project at: https://wandb.ai/sbs24043-cct-dublin/flower-embedded-fed
 wandb: Synced 5 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
-wandb: Find logs at: ./wandb/run-20250413_143021-yqzdvmil/logs
+wandb: Find logs at: ./wandb/run-20250417_160145-csuoqqn4/logs
 wandb: WARNING The new W&B backend becomes opt-out in version 0.18.0; try it out with `wandb.require("core")`! See https://wandb.me/wandb-core for more information.

@@ -1,0 +1,172 @@
+(ClientAppActor pid=46277) 
+(ClientAppActor pid=46277)             This is a deprecated feature. It will be removed
+(ClientAppActor pid=46277)             entirely in future versions of Flower.
+(ClientAppActor pid=46277)         
+(ClientAppActor pid=46277) WARNING :   DEPRECATED FEATURE: `array_from_numpy` is deprecated. Instead, use the `Array(ndarray)` class directly or `Array.from_numpy_ndarray(ndarray)`.
+(ClientAppActor pid=46277) 
+(ClientAppActor pid=46277)             This is a deprecated feature. It will be removed
+(ClientAppActor pid=46277)             entirely in future versions of Flower.
+(ClientAppActor pid=46277)         
+(ClientAppActor pid=46276) 
+(ClientAppActor pid=46276)         
+(ClientAppActor pid=46276) 
+(ClientAppActor pid=46276)         
+(ClientAppActor pid=46276) INFO :      No base model found: Initializing new model [repeated 3x across cluster]
+(ClientAppActor pid=46277) 
+(ClientAppActor pid=46277)         
+(ClientAppActor pid=46277) 
+(ClientAppActor pid=46277)         
+(ClientAppActor pid=46276) 
+(ClientAppActor pid=46276)         
+(ClientAppActor pid=46276) 
+(ClientAppActor pid=46276)         
+INFO :      aggregate_fit: received 5 results and 0 failures
+INFO:flwr:aggregate_fit: received 5 results and 0 failures
+INFO :      Using aggregation strategy: FedAdagrad
+INFO:flwr:Using aggregation strategy: FedAdagrad
+INFO :      Evaluating aggregation strategy: FedAdagrad
+INFO:flwr:Evaluating aggregation strategy: FedAdagrad
+(ClientAppActor pid=46277) 
+(ClientAppActor pid=46277)         
+(ClientAppActor pid=46277) 
+(ClientAppActor pid=46277)         
+(ClientAppActor pid=46277) WARNING :   DEPRECATED FEATURE: `array_from_numpy` is deprecated. Instead, use the `Array(ndarray)` class directly or `Array.from_numpy_ndarray(ndarray)`. [repeated 8x across cluster]
+(ClientAppActor pid=46277)             This is a deprecated feature. It will be removed [repeated 8x across cluster]
+(ClientAppActor pid=46277)             entirely in future versions of Flower. [repeated 8x across cluster]
+(ClientAppActor pid=46277) INFO :      No base model found: Initializing new model
+INFO :      Using aggregation strategy: FedAdam
+INFO:flwr:Using aggregation strategy: FedAdam
+INFO :      Evaluating aggregation strategy: FedAdam
+INFO:flwr:Evaluating aggregation strategy: FedAdam
+INFO :      Using aggregation strategy: FedAvg
+INFO:flwr:Using aggregation strategy: FedAvg
+INFO :      Evaluating aggregation strategy: FedAvg
+INFO:flwr:Evaluating aggregation strategy: FedAvg
+INFO :      Using aggregation strategy: FedOpt
+INFO:flwr:Using aggregation strategy: FedOpt
+INFO :      Evaluating aggregation strategy: FedOpt
+INFO:flwr:Evaluating aggregation strategy: FedOpt
+INFO :      Using aggregation strategy: FedMedian
+INFO:flwr:Using aggregation strategy: FedMedian
+INFO :      Evaluating aggregation strategy: FedMedian
+INFO:flwr:Evaluating aggregation strategy: FedMedian
+Results of evaluation with multiple strategies: [[0, 0.13218426704406738, {'centralized_eval_accuracy': 0.961899995803833}], [1, 1.6052675247192383, {'centralized_eval_accuracy': 0.8485999703407288}], [2, 0.1290130913257599, {'centralized_eval_accuracy': 0.9621000289916992}], [3, 0.1290130913257599, {'centralized_eval_accuracy': 0.9621000289916992}], [4, 0.12124907225370407, {'centralized_eval_accuracy': 0.9657999873161316}]]
+Sorted evaluation results: [4, 0.12124907225370407, {'centralized_eval_accuracy': 0.9657999873161316}]
+Best strategy for the round is: FedMedian(accept_failures=True)
+INFO :      Better accuracy achieved: 0.965800
+INFO:flwr:Better accuracy achieved: 0.965800
+INFO :      Previous accuracy: 0.960800
+INFO:flwr:Previous accuracy: 0.960800
+Model weights saved to /Users/olenapleshan/data_analytics/assignments/thesis/federated-learning/outputs/development/20250417-1537/export/model_state_acc_0.966_round_8.weights.h5
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Full model saved to /Users/olenapleshan/data_analytics/assignments/thesis/federated-learning/outputs/development/20250417-1537/export/model_state_acc_0.966_round_8.h5
+Saved artifact at '/Users/olenapleshan/data_analytics/assignments/thesis/federated-learning/outputs/development/20250417-1537/export/model_state_acc_0.966_round_8'. The following endpoints are available:
+
+* Endpoint 'serve'
+  args_0 (POSITIONAL_ONLY): TensorSpec(shape=(None, 28, 28, 1), dtype=tf.float32, name='keras_tensor')
+Output Type:
+  TensorSpec(shape=(None, 10), dtype=tf.float32, name=None)
+Captures:
+  6254073232: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  6254074288: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  6254073408: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  6254073936: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  6254073584: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  6254075168: TensorSpec(shape=(), dtype=tf.resource, name=None)
+Model exported to /Users/olenapleshan/data_analytics/assignments/thesis/federated-learning/outputs/development/20250417-1537/export/model_state_acc_0.966_round_8
+INFO :      fit progress: (8, 0.12124907225370407, {'centralized_eval_accuracy': 0.9657999873161316}, 236.47303668899985)
+INFO:flwr:fit progress: (8, 0.12124907225370407, {'centralized_eval_accuracy': 0.9657999873161316}, 236.47303668899985)
+INFO :      configure_evaluate: strategy sampled 10 clients (out of 20)
+INFO:flwr:configure_evaluate: strategy sampled 10 clients (out of 20)
+(ClientAppActor pid=46276) INFO :      No base model found: Initializing new model
+(ClientAppActor pid=46277) INFO :      No base model found: Initializing new model [repeated 9x across cluster]
+INFO :      aggregate_evaluate: received 10 results and 0 failures
+INFO:flwr:aggregate_evaluate: received 10 results and 0 failures
+INFO :      
+INFO:flwr:
+INFO :      [SUMMARY]
+INFO:flwr:[SUMMARY]
+INFO :      Run finished 8 round(s) in 242.71s
+INFO:flwr:Run finished 8 round(s) in 242.71s
+INFO :          History (loss, distributed):
+INFO:flwr:      History (loss, distributed):
+INFO :                  round 1: 0.6118036257543609
+INFO:flwr:              round 1: 0.6118036257543609
+INFO :                  round 2: 0.2545079245638464
+INFO:flwr:              round 2: 0.2545079245638464
+INFO :                  round 3: 0.20963884691334256
+INFO:flwr:              round 3: 0.20963884691334256
+INFO :                  round 4: 0.16667227113651018
+INFO:flwr:              round 4: 0.16667227113651018
+INFO :                  round 5: 0.147571364803674
+INFO:flwr:              round 5: 0.147571364803674
+INFO :                  round 6: 0.1557652616753492
+INFO:flwr:              round 6: 0.1557652616753492
+INFO :                  round 7: 0.15661093369098755
+INFO:flwr:              round 7: 0.15661093369098755
+INFO :                  round 8: 0.1404300074649444
+INFO:flwr:              round 8: 0.1404300074649444
+INFO :          History (loss, centralized):
+INFO:flwr:      History (loss, centralized):
+INFO :                  round 0: 2.3137431144714355
+INFO:flwr:              round 0: 2.3137431144714355
+INFO :                  round 1: 0.6094393730163574
+INFO:flwr:              round 1: 0.6094393730163574
+INFO :                  round 2: 0.2631900906562805
+INFO:flwr:              round 2: 0.2631900906562805
+INFO :                  round 3: 0.20164942741394043
+INFO:flwr:              round 3: 0.20164942741394043
+INFO :                  round 4: 0.15943334996700287
+INFO:flwr:              round 4: 0.15943334996700287
+INFO :                  round 5: 0.13603456318378448
+INFO:flwr:              round 5: 0.13603456318378448
+INFO :                  round 6: 0.13195863366127014
+INFO:flwr:              round 6: 0.13195863366127014
+INFO :                  round 7: 0.13366428017616272
+INFO:flwr:              round 7: 0.13366428017616272
+INFO :                  round 8: 0.12124907225370407
+INFO:flwr:              round 8: 0.12124907225370407
+INFO :          History (metrics, centralized):
+INFO:flwr:      History (metrics, centralized):
+INFO :          {'centralized_eval_accuracy': [(0, 0.11739999800920486),
+INFO:flwr:      {'centralized_eval_accuracy': [(0, 0.11739999800920486),
+INFO :                                         (1, 0.8144999742507935),
+INFO:flwr:                                     (1, 0.8144999742507935),
+INFO :                                         (2, 0.926800012588501),
+INFO:flwr:                                     (2, 0.926800012588501),
+INFO :                                         (3, 0.942300021648407),
+INFO:flwr:                                     (3, 0.942300021648407),
+INFO :                                         (4, 0.9538999795913696),
+INFO:flwr:                                     (4, 0.9538999795913696),
+INFO :                                         (5, 0.9595000147819519),
+INFO:flwr:                                     (5, 0.9595000147819519),
+INFO :                                         (6, 0.9607999920845032),
+INFO:flwr:                                     (6, 0.9607999920845032),
+INFO :                                         (7, 0.9606999754905701),
+INFO:flwr:                                     (7, 0.9606999754905701),
+INFO :                                         (8, 0.9657999873161316)]}
+INFO:flwr:                                     (8, 0.9657999873161316)]}
+INFO :      
+INFO:flwr:
+DEBUG:flwr:ServerApp finished running.
+DEBUG:flwr:ServerApp finished running.
+DEBUG:flwr:Triggered stop event for Simulation Engine.
+DEBUG:flwr:Terminated 2 actors
+DEBUG:flwr:Terminated RayBackend
+DEBUG:flwr:Stopping Simulation Engine now.
+wandb: | 0.072 MB of 0.072 MB uploaded
+wandb: Run history:
+wandb: centralized_eval_accuracy ▁▇███████
+wandb:     centralized_eval_loss █▃▁▁▁▁▁▁▁
+wandb:   federated_evaluate_loss █▃▂▁▁▁▁▁
+wandb: 
+wandb: Run summary:
+wandb: centralized_eval_accuracy 0.9658
+wandb:     centralized_eval_loss 0.12125
+wandb:   federated_evaluate_loss 0.14043
+wandb: 
+wandb: 🚀 View run experiment-development/20250417-1537 at: https://wandb.ai/sbs24043-cct-dublin/flower-embedded-fed/runs/ug9eee9j
+wandb: ⭐️ View project at: https://wandb.ai/sbs24043-cct-dublin/flower-embedded-fed
+wandb: Synced 5 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20250417_153738-ug9eee9j/logs
+wandb: WARNING The new W&B backend becomes opt-out in version 0.18.0; try it out with `wandb.require("core")`! See https://wandb.me/wandb-core for more information.

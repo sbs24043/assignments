@@ -207,6 +207,14 @@ To run the custom algorithm with Accuracy optimization:
 export STRATEGY='' && OPTIMIZATION_CRITERION='accuracy' && flwr run . 
 ```
 
+To run on a different size images:
+```
+export IMG_SHAPE_1=32 && export IMG_SHAPE_2=32 && export IMG_SHAPE_3=3 && export STRATEGY='baseline' && OPTIMIZATION_CRITERION='' && flwr run .
+
+export IMG_SHAPE_1=32 && export IMG_SHAPE_2=32 && export IMG_SHAPE_3=3 && export STRATEGY='' && OPTIMIZATION_CRITERION='accuracy' && flwr run .
+
+export IMG_SHAPE_1=32 && export IMG_SHAPE_2=32 && export IMG_SHAPE_3=3 && export STRATEGY='' && OPTIMIZATION_CRITERION='loss' && flwr run .
+```
 
 ### Configuring edge devices
 #### Raspberry Pi (runs Ubuntu)
