@@ -35,7 +35,7 @@ fraction-fit = 0.25
 fraction-evaluate = 0.5
 use-wandb = true
 project-name = "flower-embedded-fed"
-flavour = "development"
+flavour = "deploy"
 base-weights-path = ""
 
 [tool.flwr.federations]

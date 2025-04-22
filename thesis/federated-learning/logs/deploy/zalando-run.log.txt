@@ -1,0 +1,888 @@
+(ClientAppActor pid=56914)     np.array(value).astype(dtype)
+(ClientAppActor pid=56914) will give the desired result (the cast overflows).
+(ClientAppActor pid=56914)   nparray = np.array(values, dtype=np_dt)
+(raylet) [2025-04-22 21:40:22,412 E 56890 358692] (raylet) file_system_monitor.cc:111: /tmp/ray/session_2025-04-22_21-39-06_563648_56828 is over 95% full, available space: 681762816; capacity: 121018208256. Object creation will fail if spilling is required.
+(ClientAppActor pid=56913) /usr/local/lib/python3.11/site-packages/tensorflow/python/framework/tensor_util.py:522: DeprecationWarning: NumPy will stop allowing conversion of out-of-bound Python integers to integer arrays.  The conversion of 2147483648 to int32 will fail in the future.
+(ClientAppActor pid=56913) For the old behavior, usually:
+(ClientAppActor pid=56913)     np.array(value).astype(dtype)
+(ClientAppActor pid=56913) will give the desired result (the cast overflows).
+(ClientAppActor pid=56913)   nparray = np.array(values, dtype=np_dt)
+(raylet) [2025-04-22 21:40:32,425 E 56890 358692] (raylet) file_system_monitor.cc:111: /tmp/ray/session_2025-04-22_21-39-06_563648_56828 is over 95% full, available space: 685551616; capacity: 121018208256. Object creation will fail if spilling is required.
+(raylet) [2025-04-22 21:40:42,463 E 56890 358692] (raylet) file_system_monitor.cc:111: /tmp/ray/session_2025-04-22_21-39-06_563648_56828 is over 95% full, available space: 685694976; capacity: 121018208256. Object creation will fail if spilling is required.
+(raylet) [2025-04-22 21:40:52,534 E 56890 358692] (raylet) file_system_monitor.cc:111: /tmp/ray/session_2025-04-22_21-39-06_563648_56828 is over 95% full, available space: 685699072; capacity: 121018208256. Object creation will fail if spilling is required.
+(raylet) [2025-04-22 21:41:02,625 E 56890 358692] (raylet) file_system_monitor.cc:111: /tmp/ray/session_2025-04-22_21-39-06_563648_56828 is over 95% full, available space: 685490176; capacity: 121018208256. Object creation will fail if spilling is required.
+(raylet) [2025-04-22 21:41:12,717 E 56890 358692] (raylet) file_system_monitor.cc:111: /tmp/ray/session_2025-04-22_21-39-06_563648_56828 is over 95% full, available space: 685146112; capacity: 121018208256. Object creation will fail if spilling is required.
+(raylet) [2025-04-22 21:41:22,778 E 56890 358692] (raylet) file_system_monitor.cc:111: /tmp/ray/session_2025-04-22_21-39-06_563648_56828 is over 95% full, available space: 684806144; capacity: 121018208256. Object creation will fail if spilling is required.
+(raylet) [2025-04-22 21:41:32,843 E 56890 358692] (raylet) file_system_monitor.cc:111: /tmp/ray/session_2025-04-22_21-39-06_563648_56828 is over 95% full, available space: 683798528; capacity: 121018208256. Object creation will fail if spilling is required.
+(ClientAppActor pid=56913) WARNING :   DEPRECATED FEATURE: `array_from_numpy` is deprecated. Instead, use the `Array(ndarray)` class directly or `Array.from_numpy_ndarray(ndarray)`.
+(ClientAppActor pid=56913) 
+(ClientAppActor pid=56913)             This is a deprecated feature. It will be removed
+(ClientAppActor pid=56913)             entirely in future versions of Flower.
+(ClientAppActor pid=56913)         
+(ClientAppActor pid=56913) WARNING :   DEPRECATED FEATURE: `array_from_numpy` is deprecated. Instead, use the `Array(ndarray)` class directly or `Array.from_numpy_ndarray(ndarray)`.
+(ClientAppActor pid=56913) 
+(ClientAppActor pid=56913)             This is a deprecated feature. It will be removed
+(ClientAppActor pid=56913)             entirely in future versions of Flower.
+(ClientAppActor pid=56913)         
+(raylet) [2025-04-22 21:41:42,909 E 56890 358692] (raylet) file_system_monitor.cc:111: /tmp/ray/session_2025-04-22_21-39-06_563648_56828 is over 95% full, available space: 145055744; capacity: 121018208256. Object creation will fail if spilling is required.
+(ClientAppActor pid=56914) WARNING :   DEPRECATED FEATURE: `array_from_numpy` is deprecated. Instead, use the `Array(ndarray)` class directly or `Array.from_numpy_ndarray(ndarray)`.
+(ClientAppActor pid=56914) 
+(ClientAppActor pid=56914)             This is a deprecated feature. It will be removed
+(ClientAppActor pid=56914)             entirely in future versions of Flower.
+(ClientAppActor pid=56914)         
+(ClientAppActor pid=56914) WARNING :   DEPRECATED FEATURE: `array_from_numpy` is deprecated. Instead, use the `Array(ndarray)` class directly or `Array.from_numpy_ndarray(ndarray)`.
+(ClientAppActor pid=56914) 
+(ClientAppActor pid=56914)             This is a deprecated feature. It will be removed
+(ClientAppActor pid=56914)             entirely in future versions of Flower.
+(ClientAppActor pid=56914)         
+INFO :      aggregate_fit: received 2 results and 0 failures
+INFO:flwr:aggregate_fit: received 2 results and 0 failures
+INFO :      Using aggregation strategy: FedAdagrad
+INFO:flwr:Using aggregation strategy: FedAdagrad
+WARNING :   No fit_metrics_aggregation_fn provided
+WARNING:flwr:No fit_metrics_aggregation_fn provided
+INFO :      Evaluating aggregation strategy: FedAdagrad
+INFO:flwr:Evaluating aggregation strategy: FedAdagrad
+(raylet) [2025-04-22 21:41:52,971 E 56890 358692] (raylet) file_system_monitor.cc:111: /tmp/ray/session_2025-04-22_21-39-06_563648_56828 is over 95% full, available space: 145125376; capacity: 121018208256. Object creation will fail if spilling is required.
+INFO :      Using aggregation strategy: FedAdam
+INFO:flwr:Using aggregation strategy: FedAdam
+WARNING :   No fit_metrics_aggregation_fn provided
+WARNING:flwr:No fit_metrics_aggregation_fn provided
+INFO :      Evaluating aggregation strategy: FedAdam
+INFO:flwr:Evaluating aggregation strategy: FedAdam
+INFO :      Using aggregation strategy: FedAvg
+INFO:flwr:Using aggregation strategy: FedAvg
+WARNING :   No fit_metrics_aggregation_fn provided
+WARNING:flwr:No fit_metrics_aggregation_fn provided
+INFO :      Evaluating aggregation strategy: FedAvg
+INFO:flwr:Evaluating aggregation strategy: FedAvg
+(raylet) [2025-04-22 21:42:03,055 E 56890 358692] (raylet) file_system_monitor.cc:111: /tmp/ray/session_2025-04-22_21-39-06_563648_56828 is over 95% full, available space: 145006592; capacity: 121018208256. Object creation will fail if spilling is required.
+INFO :      Using aggregation strategy: FedOpt
+INFO:flwr:Using aggregation strategy: FedOpt
+WARNING :   No fit_metrics_aggregation_fn provided
+WARNING:flwr:No fit_metrics_aggregation_fn provided
+INFO :      Evaluating aggregation strategy: FedOpt
+INFO:flwr:Evaluating aggregation strategy: FedOpt
+INFO :      Using aggregation strategy: FedMedian
+INFO:flwr:Using aggregation strategy: FedMedian
+WARNING :   No fit_metrics_aggregation_fn provided
+WARNING:flwr:No fit_metrics_aggregation_fn provided
+INFO :      Evaluating aggregation strategy: FedMedian
+INFO:flwr:Evaluating aggregation strategy: FedMedian
+(raylet) [2025-04-22 21:42:13,092 E 56890 358692] (raylet) file_system_monitor.cc:111: /tmp/ray/session_2025-04-22_21-39-06_563648_56828 is over 95% full, available space: 144744448; capacity: 121018208256. Object creation will fail if spilling is required.
+Results of evaluation with multiple strategies: [[0, 33.21149444580078, {'centralized_eval_accuracy': 0.12620000541210175}], [1, 10.64522933959961, {'centralized_eval_accuracy': 0.17509999871253967}], [2, 1.583187222480774, {'centralized_eval_accuracy': 0.4810999929904938}], [3, 1.583187222480774, {'centralized_eval_accuracy': 0.4810999929904938}], [4, 1.5913840532302856, {'centralized_eval_accuracy': 0.4731999933719635}]]
+Sorted evaluation results: [2, 1.583187222480774, {'centralized_eval_accuracy': 0.4810999929904938}]
+Best strategy for the round is: FedAvg(accept_failures=True)
+(raylet) [2025-04-22 21:42:23,179 E 56890 358692] (raylet) file_system_monitor.cc:111: /tmp/ray/session_2025-04-22_21-39-06_563648_56828 is over 95% full, available space: 144502784; capacity: 121018208256. Object creation will fail if spilling is required.
+INFO :      Better accuracy achieved: 0.481100
+INFO:flwr:Better accuracy achieved: 0.481100
+INFO :      Previous accuracy: 0.093300
+INFO:flwr:Previous accuracy: 0.093300
+Model weights saved to /Users/olenapleshan/data_analytics/assignments/thesis/federated-learning/outputs/deploy/20250422-2139/export/model_state_acc_0.481_round_1.weights.h5
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Full model saved to /Users/olenapleshan/data_analytics/assignments/thesis/federated-learning/outputs/deploy/20250422-2139/export/model_state_acc_0.481_round_1.h5
+Saved artifact at '/Users/olenapleshan/data_analytics/assignments/thesis/federated-learning/outputs/deploy/20250422-2139/export/model_state_acc_0.481_round_1'. The following endpoints are available:
+
+* Endpoint 'serve'
+  args_0 (POSITIONAL_ONLY): TensorSpec(shape=(None, 32, 32, 3), dtype=tf.float32, name='keras_tensor')
+Output Type:
+  TensorSpec(shape=(None, 10), dtype=tf.float32, name=None)
+Captures:
+  6400430272: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  6400431328: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  6400430448: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  6400430976: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  6400430624: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  6400432208: TensorSpec(shape=(), dtype=tf.resource, name=None)
+Model exported to /Users/olenapleshan/data_analytics/assignments/thesis/federated-learning/outputs/deploy/20250422-2139/export/model_state_acc_0.481_round_1
+INFO :      fit progress: (1, 1.583187222480774, {'centralized_eval_accuracy': 0.4810999929904938}, 171.70835173600062)
+INFO:flwr:fit progress: (1, 1.583187222480774, {'centralized_eval_accuracy': 0.4810999929904938}, 171.70835173600062)
+INFO :      configure_evaluate: strategy sampled 2 clients (out of 2)
+INFO:flwr:configure_evaluate: strategy sampled 2 clients (out of 2)
+(raylet) [2025-04-22 21:42:33,271 E 56890 358692] (raylet) file_system_monitor.cc:111: /tmp/ray/session_2025-04-22_21-39-06_563648_56828 is over 95% full, available space: 141733888; capacity: 121018208256. Object creation will fail if spilling is required.
+(raylet) [2025-04-22 21:42:43,290 E 56890 358692] (raylet) file_system_monitor.cc:111: /tmp/ray/session_2025-04-22_21-39-06_563648_56828 is over 95% full, available space: 141520896; capacity: 121018208256. Object creation will fail if spilling is required.
+(ClientAppActor pid=56914) INFO :      No base model found: Initializing new model
+(raylet) [2025-04-22 21:42:53,324 E 56890 358692] (raylet) file_system_monitor.cc:111: /tmp/ray/session_2025-04-22_21-39-06_563648_56828 is over 95% full, available space: 141254656; capacity: 121018208256. Object creation will fail if spilling is required.
+(ClientAppActor pid=56913) INFO :      No base model found: Initializing new model
+(raylet) [2025-04-22 21:43:03,418 E 56890 358692] (raylet) file_system_monitor.cc:111: /tmp/ray/session_2025-04-22_21-39-06_563648_56828 is over 95% full, available space: 140341248; capacity: 121018208256. Object creation will fail if spilling is required.
+INFO :      aggregate_evaluate: received 2 results and 0 failures
+INFO:flwr:aggregate_evaluate: received 2 results and 0 failures
+WARNING :   No evaluate_metrics_aggregation_fn provided
+WARNING:flwr:No evaluate_metrics_aggregation_fn provided
+INFO :      
+INFO:flwr:
+INFO :      [ROUND 2]
+INFO:flwr:[ROUND 2]
+INFO :      configure_fit: strategy sampled 2 clients (out of 2)
+INFO:flwr:configure_fit: strategy sampled 2 clients (out of 2)
+(raylet) [2025-04-22 21:43:13,434 E 56890 358692] (raylet) file_system_monitor.cc:111: /tmp/ray/session_2025-04-22_21-39-06_563648_56828 is over 95% full, available space: 136159232; capacity: 121018208256. Object creation will fail if spilling is required.
+(raylet) [2025-04-22 21:43:23,528 E 56890 358692] (raylet) file_system_monitor.cc:111: /tmp/ray/session_2025-04-22_21-39-06_563648_56828 is over 95% full, available space: 135503872; capacity: 121018208256. Object creation will fail if spilling is required.
+(ClientAppActor pid=56913) INFO :      No base model found: Initializing new model
+(raylet) [2025-04-22 21:43:33,541 E 56890 358692] (raylet) file_system_monitor.cc:111: /tmp/ray/session_2025-04-22_21-39-06_563648_56828 is over 95% full, available space: 135163904; capacity: 121018208256. Object creation will fail if spilling is required.
+(ClientAppActor pid=56914) INFO :      No base model found: Initializing new model
+(raylet) [2025-04-22 21:43:43,600 E 56890 358692] (raylet) file_system_monitor.cc:111: /tmp/ray/session_2025-04-22_21-39-06_563648_56828 is over 95% full, available space: 134885376; capacity: 121018208256. Object creation will fail if spilling is required.
+(raylet) [2025-04-22 21:43:53,671 E 56890 358692] (raylet) file_system_monitor.cc:111: /tmp/ray/session_2025-04-22_21-39-06_563648_56828 is over 95% full, available space: 134774784; capacity: 121018208256. Object creation will fail if spilling is required.
+(raylet) [2025-04-22 21:44:03,740 E 56890 358692] (raylet) file_system_monitor.cc:111: /tmp/ray/session_2025-04-22_21-39-06_563648_56828 is over 95% full, available space: 134651904; capacity: 121018208256. Object creation will fail if spilling is required.
+(raylet) [2025-04-22 21:44:13,839 E 56890 358692] (raylet) file_system_monitor.cc:111: /tmp/ray/session_2025-04-22_21-39-06_563648_56828 is over 95% full, available space: 134389760; capacity: 121018208256. Object creation will fail if spilling is required.
+(raylet) [2025-04-22 21:44:23,896 E 56890 358692] (raylet) file_system_monitor.cc:111: /tmp/ray/session_2025-04-22_21-39-06_563648_56828 is over 95% full, available space: 134242304; capacity: 121018208256. Object creation will fail if spilling is required.
+(raylet) [2025-04-22 21:44:33,914 E 56890 358692] (raylet) file_system_monitor.cc:111: /tmp/ray/session_2025-04-22_21-39-06_563648_56828 is over 95% full, available space: 134160384; capacity: 121018208256. Object creation will fail if spilling is required.
+(raylet) [2025-04-22 21:44:43,954 E 56890 358692] (raylet) file_system_monitor.cc:111: /tmp/ray/session_2025-04-22_21-39-06_563648_56828 is over 95% full, available space: 140083200; capacity: 121018208256. Object creation will fail if spilling is required.
+(ClientAppActor pid=56913) WARNING :   DEPRECATED FEATURE: `array_from_numpy` is deprecated. Instead, use the `Array(ndarray)` class directly or `Array.from_numpy_ndarray(ndarray)`.
+(ClientAppActor pid=56913) 
+(ClientAppActor pid=56913)             This is a deprecated feature. It will be removed
+(ClientAppActor pid=56913)             entirely in future versions of Flower.
+(ClientAppActor pid=56913)         
+(ClientAppActor pid=56913) WARNING :   DEPRECATED FEATURE: `array_from_numpy` is deprecated. Instead, use the `Array(ndarray)` class directly or `Array.from_numpy_ndarray(ndarray)`.
+(ClientAppActor pid=56913) 
+(ClientAppActor pid=56913)             This is a deprecated feature. It will be removed
+(ClientAppActor pid=56913)             entirely in future versions of Flower.
+(ClientAppActor pid=56913)         
+(raylet) [2025-04-22 21:44:54,024 E 56890 358692] (raylet) file_system_monitor.cc:111: /tmp/ray/session_2025-04-22_21-39-06_563648_56828 is over 95% full, available space: 155250688; capacity: 121018208256. Object creation will fail if spilling is required.
+(ClientAppActor pid=56914) WARNING :   DEPRECATED FEATURE: `array_from_numpy` is deprecated. Instead, use the `Array(ndarray)` class directly or `Array.from_numpy_ndarray(ndarray)`.
+(ClientAppActor pid=56914) 
+(ClientAppActor pid=56914)             This is a deprecated feature. It will be removed
+(ClientAppActor pid=56914)             entirely in future versions of Flower.
+(ClientAppActor pid=56914)         
+(ClientAppActor pid=56914) WARNING :   DEPRECATED FEATURE: `array_from_numpy` is deprecated. Instead, use the `Array(ndarray)` class directly or `Array.from_numpy_ndarray(ndarray)`.
+(ClientAppActor pid=56914) 
+(ClientAppActor pid=56914)             This is a deprecated feature. It will be removed
+(ClientAppActor pid=56914)             entirely in future versions of Flower.
+(ClientAppActor pid=56914)         
+INFO :      aggregate_fit: received 2 results and 0 failures
+INFO:flwr:aggregate_fit: received 2 results and 0 failures
+INFO :      Using aggregation strategy: FedAdagrad
+INFO:flwr:Using aggregation strategy: FedAdagrad
+INFO :      Evaluating aggregation strategy: FedAdagrad
+INFO:flwr:Evaluating aggregation strategy: FedAdagrad
+INFO :      Using aggregation strategy: FedAdam
+INFO:flwr:Using aggregation strategy: FedAdam
+INFO :      Evaluating aggregation strategy: FedAdam
+INFO:flwr:Evaluating aggregation strategy: FedAdam
+(raylet) [2025-04-22 21:45:04,109 E 56890 358692] (raylet) file_system_monitor.cc:111: /tmp/ray/session_2025-04-22_21-39-06_563648_56828 is over 95% full, available space: 161316864; capacity: 121018208256. Object creation will fail if spilling is required.
+INFO :      Using aggregation strategy: FedAvg
+INFO:flwr:Using aggregation strategy: FedAvg
+INFO :      Evaluating aggregation strategy: FedAvg
+INFO:flwr:Evaluating aggregation strategy: FedAvg
+INFO :      Using aggregation strategy: FedOpt
+INFO:flwr:Using aggregation strategy: FedOpt
+INFO :      Evaluating aggregation strategy: FedOpt
+INFO:flwr:Evaluating aggregation strategy: FedOpt
+(raylet) [2025-04-22 21:45:14,157 E 56890 358692] (raylet) file_system_monitor.cc:111: /tmp/ray/session_2025-04-22_21-39-06_563648_56828 is over 95% full, available space: 160784384; capacity: 121018208256. Object creation will fail if spilling is required.
+INFO :      Using aggregation strategy: FedMedian
+INFO:flwr:Using aggregation strategy: FedMedian
+INFO :      Evaluating aggregation strategy: FedMedian
+INFO:flwr:Evaluating aggregation strategy: FedMedian
+(raylet) [2025-04-22 21:45:24,163 E 56890 358692] (raylet) file_system_monitor.cc:111: /tmp/ray/session_2025-04-22_21-39-06_563648_56828 is over 95% full, available space: 161103872; capacity: 121018208256. Object creation will fail if spilling is required.
+Results of evaluation with multiple strategies: [[0, 1.9937103986740112, {'centralized_eval_accuracy': 0.29490000009536743}], [1, 6.141875743865967, {'centralized_eval_accuracy': 0.20440000295639038}], [2, 1.3392761945724487, {'centralized_eval_accuracy': 0.5320000052452087}], [3, 1.3392761945724487, {'centralized_eval_accuracy': 0.5320000052452087}], [4, 1.3551486730575562, {'centralized_eval_accuracy': 0.5281999707221985}]]
+Sorted evaluation results: [2, 1.3392761945724487, {'centralized_eval_accuracy': 0.5320000052452087}]
+Best strategy for the round is: FedAvg(accept_failures=True)
+(raylet) [2025-04-22 21:45:34,255 E 56890 358692] (raylet) file_system_monitor.cc:111: /tmp/ray/session_2025-04-22_21-39-06_563648_56828 is over 95% full, available space: 163913728; capacity: 121018208256. Object creation will fail if spilling is required.
+INFO :      Better accuracy achieved: 0.532000
+INFO:flwr:Better accuracy achieved: 0.532000
+INFO :      Previous accuracy: 0.481100
+INFO:flwr:Previous accuracy: 0.481100
+Model weights saved to /Users/olenapleshan/data_analytics/assignments/thesis/federated-learning/outputs/deploy/20250422-2139/export/model_state_acc_0.532_round_2.weights.h5
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Full model saved to /Users/olenapleshan/data_analytics/assignments/thesis/federated-learning/outputs/deploy/20250422-2139/export/model_state_acc_0.532_round_2.h5
+Saved artifact at '/Users/olenapleshan/data_analytics/assignments/thesis/federated-learning/outputs/deploy/20250422-2139/export/model_state_acc_0.532_round_2'. The following endpoints are available:
+
+* Endpoint 'serve'
+  args_0 (POSITIONAL_ONLY): TensorSpec(shape=(None, 32, 32, 3), dtype=tf.float32, name='keras_tensor')
+Output Type:
+  TensorSpec(shape=(None, 10), dtype=tf.float32, name=None)
+Captures:
+  6400430272: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  6400431328: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  6400430448: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  6400430976: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  6400430624: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  6400432208: TensorSpec(shape=(), dtype=tf.resource, name=None)
+Model exported to /Users/olenapleshan/data_analytics/assignments/thesis/federated-learning/outputs/deploy/20250422-2139/export/model_state_acc_0.532_round_2
+INFO :      fit progress: (2, 1.3392761945724487, {'centralized_eval_accuracy': 0.5320000052452087}, 362.34617986300145)
+INFO:flwr:fit progress: (2, 1.3392761945724487, {'centralized_eval_accuracy': 0.5320000052452087}, 362.34617986300145)
+INFO :      configure_evaluate: strategy sampled 2 clients (out of 2)
+INFO:flwr:configure_evaluate: strategy sampled 2 clients (out of 2)
+(raylet) [2025-04-22 21:45:44,324 E 56890 358692] (raylet) file_system_monitor.cc:111: /tmp/ray/session_2025-04-22_21-39-06_563648_56828 is over 95% full, available space: 160460800; capacity: 121018208256. Object creation will fail if spilling is required.
+(raylet) [2025-04-22 21:45:54,411 E 56890 358692] (raylet) file_system_monitor.cc:111: /tmp/ray/session_2025-04-22_21-39-06_563648_56828 is over 95% full, available space: 161669120; capacity: 121018208256. Object creation will fail if spilling is required.
+(raylet) [2025-04-22 21:46:04,427 E 56890 358692] (raylet) file_system_monitor.cc:111: /tmp/ray/session_2025-04-22_21-39-06_563648_56828 is over 95% full, available space: 278401024; capacity: 121018208256. Object creation will fail if spilling is required.
+(ClientAppActor pid=56914) INFO :      No base model found: Initializing new model
+(raylet) [2025-04-22 21:46:14,474 E 56890 358692] (raylet) file_system_monitor.cc:111: /tmp/ray/session_2025-04-22_21-39-06_563648_56828 is over 95% full, available space: 293429248; capacity: 121018208256. Object creation will fail if spilling is required.
+INFO :      aggregate_evaluate: received 2 results and 0 failures
+INFO:flwr:aggregate_evaluate: received 2 results and 0 failures
+INFO :      
+INFO:flwr:
+INFO :      [ROUND 3]
+INFO:flwr:[ROUND 3]
+INFO :      configure_fit: strategy sampled 2 clients (out of 2)
+INFO:flwr:configure_fit: strategy sampled 2 clients (out of 2)
+(ClientAppActor pid=56913) INFO :      No base model found: Initializing new model
+(raylet) [2025-04-22 21:46:24,520 E 56890 358692] (raylet) file_system_monitor.cc:111: /tmp/ray/session_2025-04-22_21-39-06_563648_56828 is over 95% full, available space: 303779840; capacity: 121018208256. Object creation will fail if spilling is required.
+(raylet) [2025-04-22 21:46:34,598 E 56890 358692] (raylet) file_system_monitor.cc:111: /tmp/ray/session_2025-04-22_21-39-06_563648_56828 is over 95% full, available space: 303808512; capacity: 121018208256. Object creation will fail if spilling is required.
+(ClientAppActor pid=56913) INFO :      No base model found: Initializing new model
+(ClientAppActor pid=56914) INFO :      No base model found: Initializing new model
+(raylet) [2025-04-22 21:46:44,607 E 56890 358692] (raylet) file_system_monitor.cc:111: /tmp/ray/session_2025-04-22_21-39-06_563648_56828 is over 95% full, available space: 303030272; capacity: 121018208256. Object creation will fail if spilling is required.
+(raylet) [2025-04-22 21:46:54,643 E 56890 358692] (raylet) file_system_monitor.cc:111: /tmp/ray/session_2025-04-22_21-39-06_563648_56828 is over 95% full, available space: 302837760; capacity: 121018208256. Object creation will fail if spilling is required.
+(raylet) [2025-04-22 21:47:04,716 E 56890 358692] (raylet) file_system_monitor.cc:111: /tmp/ray/session_2025-04-22_21-39-06_563648_56828 is over 95% full, available space: 302829568; capacity: 121018208256. Object creation will fail if spilling is required.
+(raylet) [2025-04-22 21:47:14,788 E 56890 358692] (raylet) file_system_monitor.cc:111: /tmp/ray/session_2025-04-22_21-39-06_563648_56828 is over 95% full, available space: 301998080; capacity: 121018208256. Object creation will fail if spilling is required.
+(raylet) [2025-04-22 21:47:24,875 E 56890 358692] (raylet) file_system_monitor.cc:111: /tmp/ray/session_2025-04-22_21-39-06_563648_56828 is over 95% full, available space: 301428736; capacity: 121018208256. Object creation will fail if spilling is required.
+(raylet) [2025-04-22 21:47:34,957 E 56890 358692] (raylet) file_system_monitor.cc:111: /tmp/ray/session_2025-04-22_21-39-06_563648_56828 is over 95% full, available space: 300953600; capacity: 121018208256. Object creation will fail if spilling is required.
+(ClientAppActor pid=56913) WARNING :   DEPRECATED FEATURE: `array_from_numpy` is deprecated. Instead, use the `Array(ndarray)` class directly or `Array.from_numpy_ndarray(ndarray)`.
+(ClientAppActor pid=56913) 
+(ClientAppActor pid=56913)             This is a deprecated feature. It will be removed
+(ClientAppActor pid=56913)             entirely in future versions of Flower.
+(ClientAppActor pid=56913)         
+(ClientAppActor pid=56913) WARNING :   DEPRECATED FEATURE: `array_from_numpy` is deprecated. Instead, use the `Array(ndarray)` class directly or `Array.from_numpy_ndarray(ndarray)`.
+(ClientAppActor pid=56913) 
+(ClientAppActor pid=56913)             This is a deprecated feature. It will be removed
+(ClientAppActor pid=56913)             entirely in future versions of Flower.
+(ClientAppActor pid=56913)         
+(raylet) [2025-04-22 21:47:45,000 E 56890 358692] (raylet) file_system_monitor.cc:111: /tmp/ray/session_2025-04-22_21-39-06_563648_56828 is over 95% full, available space: 299044864; capacity: 121018208256. Object creation will fail if spilling is required.
+(ClientAppActor pid=56914) WARNING :   DEPRECATED FEATURE: `array_from_numpy` is deprecated. Instead, use the `Array(ndarray)` class directly or `Array.from_numpy_ndarray(ndarray)`.
+(ClientAppActor pid=56914) 
+(ClientAppActor pid=56914)             This is a deprecated feature. It will be removed
+(ClientAppActor pid=56914)             entirely in future versions of Flower.
+(ClientAppActor pid=56914)         
+(ClientAppActor pid=56914) WARNING :   DEPRECATED FEATURE: `array_from_numpy` is deprecated. Instead, use the `Array(ndarray)` class directly or `Array.from_numpy_ndarray(ndarray)`.
+(ClientAppActor pid=56914) 
+(ClientAppActor pid=56914)             This is a deprecated feature. It will be removed
+(ClientAppActor pid=56914)             entirely in future versions of Flower.
+(ClientAppActor pid=56914)         
+INFO :      aggregate_fit: received 2 results and 0 failures
+INFO:flwr:aggregate_fit: received 2 results and 0 failures
+INFO :      Using aggregation strategy: FedAdagrad
+INFO:flwr:Using aggregation strategy: FedAdagrad
+INFO :      Evaluating aggregation strategy: FedAdagrad
+INFO:flwr:Evaluating aggregation strategy: FedAdagrad
+(raylet) [2025-04-22 21:47:55,033 E 56890 358692] (raylet) file_system_monitor.cc:111: /tmp/ray/session_2025-04-22_21-39-06_563648_56828 is over 95% full, available space: 304283648; capacity: 121018208256. Object creation will fail if spilling is required.
+INFO :      Using aggregation strategy: FedAdam
+INFO:flwr:Using aggregation strategy: FedAdam
+INFO :      Evaluating aggregation strategy: FedAdam
+INFO:flwr:Evaluating aggregation strategy: FedAdam
+(raylet) [2025-04-22 21:48:05,068 E 56890 358692] (raylet) file_system_monitor.cc:111: /tmp/ray/session_2025-04-22_21-39-06_563648_56828 is over 95% full, available space: 302837760; capacity: 121018208256. Object creation will fail if spilling is required.
+INFO :      Using aggregation strategy: FedAvg
+INFO:flwr:Using aggregation strategy: FedAvg
+INFO :      Evaluating aggregation strategy: FedAvg
+INFO:flwr:Evaluating aggregation strategy: FedAvg
+(raylet) [2025-04-22 21:48:15,157 E 56890 358692] (raylet) file_system_monitor.cc:111: /tmp/ray/session_2025-04-22_21-39-06_563648_56828 is over 95% full, available space: 311156736; capacity: 121018208256. Object creation will fail if spilling is required.
+INFO :      Using aggregation strategy: FedOpt
+INFO:flwr:Using aggregation strategy: FedOpt
+INFO :      Evaluating aggregation strategy: FedOpt
+INFO:flwr:Evaluating aggregation strategy: FedOpt
+INFO :      Using aggregation strategy: FedMedian
+INFO:flwr:Using aggregation strategy: FedMedian
+INFO :      Evaluating aggregation strategy: FedMedian
+INFO:flwr:Evaluating aggregation strategy: FedMedian
+(raylet) [2025-04-22 21:48:25,160 E 56890 358692] (raylet) file_system_monitor.cc:111: /tmp/ray/session_2025-04-22_21-39-06_563648_56828 is over 95% full, available space: 312176640; capacity: 121018208256. Object creation will fail if spilling is required.
+Results of evaluation with multiple strategies: [[0, 1.5007710456848145, {'centralized_eval_accuracy': 0.5202999711036682}], [1, 4.1341633796691895, {'centralized_eval_accuracy': 0.16269999742507935}], [2, 1.2416690587997437, {'centralized_eval_accuracy': 0.572700023651123}], [3, 1.2416690587997437, {'centralized_eval_accuracy': 0.572700023651123}], [4, 1.2460517883300781, {'centralized_eval_accuracy': 0.5702999830245972}]]
+Sorted evaluation results: [2, 1.2416690587997437, {'centralized_eval_accuracy': 0.572700023651123}]
+Best strategy for the round is: FedAvg(accept_failures=True)
+INFO :      Better accuracy achieved: 0.572700
+INFO:flwr:Better accuracy achieved: 0.572700
+INFO :      Previous accuracy: 0.532000
+INFO:flwr:Previous accuracy: 0.532000
+Model weights saved to /Users/olenapleshan/data_analytics/assignments/thesis/federated-learning/outputs/deploy/20250422-2139/export/model_state_acc_0.573_round_3.weights.h5
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Full model saved to /Users/olenapleshan/data_analytics/assignments/thesis/federated-learning/outputs/deploy/20250422-2139/export/model_state_acc_0.573_round_3.h5
+Saved artifact at '/Users/olenapleshan/data_analytics/assignments/thesis/federated-learning/outputs/deploy/20250422-2139/export/model_state_acc_0.573_round_3'. The following endpoints are available:
+
+* Endpoint 'serve'
+  args_0 (POSITIONAL_ONLY): TensorSpec(shape=(None, 32, 32, 3), dtype=tf.float32, name='keras_tensor')
+Output Type:
+  TensorSpec(shape=(None, 10), dtype=tf.float32, name=None)
+Captures:
+  6400430272: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  6400431328: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  6400430448: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  6400430976: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  6400430624: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  6400432208: TensorSpec(shape=(), dtype=tf.resource, name=None)
+Model exported to /Users/olenapleshan/data_analytics/assignments/thesis/federated-learning/outputs/deploy/20250422-2139/export/model_state_acc_0.573_round_3
+INFO :      fit progress: (3, 1.2416690587997437, {'centralized_eval_accuracy': 0.572700023651123}, 534.7364084630026)
+INFO:flwr:fit progress: (3, 1.2416690587997437, {'centralized_eval_accuracy': 0.572700023651123}, 534.7364084630026)
+INFO :      configure_evaluate: strategy sampled 2 clients (out of 2)
+INFO:flwr:configure_evaluate: strategy sampled 2 clients (out of 2)
+(raylet) [2025-04-22 21:48:35,240 E 56890 358692] (raylet) file_system_monitor.cc:111: /tmp/ray/session_2025-04-22_21-39-06_563648_56828 is over 95% full, available space: 309469184; capacity: 121018208256. Object creation will fail if spilling is required.
+(raylet) [2025-04-22 21:48:45,293 E 56890 358692] (raylet) file_system_monitor.cc:111: /tmp/ray/session_2025-04-22_21-39-06_563648_56828 is over 95% full, available space: 308031488; capacity: 121018208256. Object creation will fail if spilling is required.
+(ClientAppActor pid=56914) INFO :      No base model found: Initializing new model
+(raylet) [2025-04-22 21:48:55,375 E 56890 358692] (raylet) file_system_monitor.cc:111: /tmp/ray/session_2025-04-22_21-39-06_563648_56828 is over 95% full, available space: 306872320; capacity: 121018208256. Object creation will fail if spilling is required.
+(ClientAppActor pid=56913) INFO :      No base model found: Initializing new model
+INFO :      aggregate_evaluate: received 2 results and 0 failures
+INFO:flwr:aggregate_evaluate: received 2 results and 0 failures
+INFO :      
+INFO:flwr:
+INFO :      [ROUND 4]
+INFO:flwr:[ROUND 4]
+INFO :      configure_fit: strategy sampled 2 clients (out of 2)
+INFO:flwr:configure_fit: strategy sampled 2 clients (out of 2)
+(ClientAppActor pid=56913) INFO :      No base model found: Initializing new model
+(raylet) [2025-04-22 21:49:05,424 E 56890 358692] (raylet) file_system_monitor.cc:111: /tmp/ray/session_2025-04-22_21-39-06_563648_56828 is over 95% full, available space: 304766976; capacity: 121018208256. Object creation will fail if spilling is required.
+(ClientAppActor pid=56914) INFO :      No base model found: Initializing new model
+(raylet) [2025-04-22 21:49:15,435 E 56890 358692] (raylet) file_system_monitor.cc:111: /tmp/ray/session_2025-04-22_21-39-06_563648_56828 is over 95% full, available space: 304300032; capacity: 121018208256. Object creation will fail if spilling is required.
+(raylet) [2025-04-22 21:49:25,471 E 56890 358692] (raylet) file_system_monitor.cc:111: /tmp/ray/session_2025-04-22_21-39-06_563648_56828 is over 95% full, available space: 304205824; capacity: 121018208256. Object creation will fail if spilling is required.
+(raylet) [2025-04-22 21:49:35,472 E 56890 358692] (raylet) file_system_monitor.cc:111: /tmp/ray/session_2025-04-22_21-39-06_563648_56828 is over 95% full, available space: 302354432; capacity: 121018208256. Object creation will fail if spilling is required.
+(raylet) [2025-04-22 21:49:45,499 E 56890 358692] (raylet) file_system_monitor.cc:111: /tmp/ray/session_2025-04-22_21-39-06_563648_56828 is over 95% full, available space: 302243840; capacity: 121018208256. Object creation will fail if spilling is required.
+(raylet) [2025-04-22 21:49:55,589 E 56890 358692] (raylet) file_system_monitor.cc:111: /tmp/ray/session_2025-04-22_21-39-06_563648_56828 is over 95% full, available space: 301944832; capacity: 121018208256. Object creation will fail if spilling is required.
+(ClientAppActor pid=56913) WARNING :   DEPRECATED FEATURE: `array_from_numpy` is deprecated. Instead, use the `Array(ndarray)` class directly or `Array.from_numpy_ndarray(ndarray)`.
+(ClientAppActor pid=56913) 
+(ClientAppActor pid=56913)             This is a deprecated feature. It will be removed
+(ClientAppActor pid=56913)             entirely in future versions of Flower.
+(ClientAppActor pid=56913)         
+(ClientAppActor pid=56913) WARNING :   DEPRECATED FEATURE: `array_from_numpy` is deprecated. Instead, use the `Array(ndarray)` class directly or `Array.from_numpy_ndarray(ndarray)`.
+(ClientAppActor pid=56913) 
+(ClientAppActor pid=56913)             This is a deprecated feature. It will be removed
+(ClientAppActor pid=56913)             entirely in future versions of Flower.
+(ClientAppActor pid=56913)         
+(raylet) [2025-04-22 21:50:05,686 E 56890 358692] (raylet) file_system_monitor.cc:111: /tmp/ray/session_2025-04-22_21-39-06_563648_56828 is over 95% full, available space: 300900352; capacity: 121018208256. Object creation will fail if spilling is required.
+(raylet) [2025-04-22 21:50:15,707 E 56890 358692] (raylet) file_system_monitor.cc:111: /tmp/ray/session_2025-04-22_21-39-06_563648_56828 is over 95% full, available space: 301744128; capacity: 121018208256. Object creation will fail if spilling is required.
+(ClientAppActor pid=56914) WARNING :   DEPRECATED FEATURE: `array_from_numpy` is deprecated. Instead, use the `Array(ndarray)` class directly or `Array.from_numpy_ndarray(ndarray)`.
+(ClientAppActor pid=56914) 
+(ClientAppActor pid=56914)             This is a deprecated feature. It will be removed
+(ClientAppActor pid=56914)             entirely in future versions of Flower.
+(ClientAppActor pid=56914)         
+(ClientAppActor pid=56914) WARNING :   DEPRECATED FEATURE: `array_from_numpy` is deprecated. Instead, use the `Array(ndarray)` class directly or `Array.from_numpy_ndarray(ndarray)`.
+(ClientAppActor pid=56914) 
+(ClientAppActor pid=56914)             This is a deprecated feature. It will be removed
+(ClientAppActor pid=56914)             entirely in future versions of Flower.
+(ClientAppActor pid=56914)         
+INFO :      aggregate_fit: received 2 results and 0 failures
+INFO:flwr:aggregate_fit: received 2 results and 0 failures
+INFO :      Using aggregation strategy: FedAdagrad
+INFO:flwr:Using aggregation strategy: FedAdagrad
+INFO :      Evaluating aggregation strategy: FedAdagrad
+INFO:flwr:Evaluating aggregation strategy: FedAdagrad
+(raylet) [2025-04-22 21:50:25,780 E 56890 358692] (raylet) file_system_monitor.cc:111: /tmp/ray/session_2025-04-22_21-39-06_563648_56828 is over 95% full, available space: 300150784; capacity: 121018208256. Object creation will fail if spilling is required.
+INFO :      Using aggregation strategy: FedAdam
+INFO:flwr:Using aggregation strategy: FedAdam
+INFO :      Evaluating aggregation strategy: FedAdam
+INFO:flwr:Evaluating aggregation strategy: FedAdam
+INFO :      Using aggregation strategy: FedAvg
+INFO:flwr:Using aggregation strategy: FedAvg
+INFO :      Evaluating aggregation strategy: FedAvg
+INFO:flwr:Evaluating aggregation strategy: FedAvg
+INFO :      Using aggregation strategy: FedOpt
+INFO:flwr:Using aggregation strategy: FedOpt
+INFO :      Evaluating aggregation strategy: FedOpt
+INFO:flwr:Evaluating aggregation strategy: FedOpt
+(raylet) [2025-04-22 21:50:35,864 E 56890 358692] (raylet) file_system_monitor.cc:111: /tmp/ray/session_2025-04-22_21-39-06_563648_56828 is over 95% full, available space: 298217472; capacity: 121018208256. Object creation will fail if spilling is required.
+INFO :      Using aggregation strategy: FedMedian
+INFO:flwr:Using aggregation strategy: FedMedian
+INFO :      Evaluating aggregation strategy: FedMedian
+INFO:flwr:Evaluating aggregation strategy: FedMedian
+Results of evaluation with multiple strategies: [[0, 1.2146707773208618, {'centralized_eval_accuracy': 0.5802000164985657}], [1, 7.719171047210693, {'centralized_eval_accuracy': 0.12229999899864197}], [2, 1.182031273841858, {'centralized_eval_accuracy': 0.589900016784668}], [3, 1.182031273841858, {'centralized_eval_accuracy': 0.589900016784668}], [4, 1.1883715391159058, {'centralized_eval_accuracy': 0.5842000246047974}]]
+Sorted evaluation results: [2, 1.182031273841858, {'centralized_eval_accuracy': 0.589900016784668}]
+Best strategy for the round is: FedAvg(accept_failures=True)
+(raylet) [2025-04-22 21:50:45,955 E 56890 358692] (raylet) file_system_monitor.cc:111: /tmp/ray/session_2025-04-22_21-39-06_563648_56828 is over 95% full, available space: 298143744; capacity: 121018208256. Object creation will fail if spilling is required.
+INFO :      Better accuracy achieved: 0.589900
+INFO:flwr:Better accuracy achieved: 0.589900
+INFO :      Previous accuracy: 0.572700
+INFO:flwr:Previous accuracy: 0.572700
+Model weights saved to /Users/olenapleshan/data_analytics/assignments/thesis/federated-learning/outputs/deploy/20250422-2139/export/model_state_acc_0.590_round_4.weights.h5
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Full model saved to /Users/olenapleshan/data_analytics/assignments/thesis/federated-learning/outputs/deploy/20250422-2139/export/model_state_acc_0.590_round_4.h5
+Saved artifact at '/Users/olenapleshan/data_analytics/assignments/thesis/federated-learning/outputs/deploy/20250422-2139/export/model_state_acc_0.590_round_4'. The following endpoints are available:
+
+* Endpoint 'serve'
+  args_0 (POSITIONAL_ONLY): TensorSpec(shape=(None, 32, 32, 3), dtype=tf.float32, name='keras_tensor')
+Output Type:
+  TensorSpec(shape=(None, 10), dtype=tf.float32, name=None)
+Captures:
+  6400430272: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  6400431328: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  6400430448: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  6400430976: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  6400430624: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  6400432208: TensorSpec(shape=(), dtype=tf.resource, name=None)
+Model exported to /Users/olenapleshan/data_analytics/assignments/thesis/federated-learning/outputs/deploy/20250422-2139/export/model_state_acc_0.590_round_4
+INFO :      fit progress: (4, 1.182031273841858, {'centralized_eval_accuracy': 0.589900016784668}, 672.8099265320016)
+INFO:flwr:fit progress: (4, 1.182031273841858, {'centralized_eval_accuracy': 0.589900016784668}, 672.8099265320016)
+INFO :      configure_evaluate: strategy sampled 2 clients (out of 2)
+INFO:flwr:configure_evaluate: strategy sampled 2 clients (out of 2)
+(raylet) [2025-04-22 21:50:56,017 E 56890 358692] (raylet) file_system_monitor.cc:111: /tmp/ray/session_2025-04-22_21-39-06_563648_56828 is over 95% full, available space: 296226816; capacity: 121018208256. Object creation will fail if spilling is required.
+(ClientAppActor pid=56914) INFO :      No base model found: Initializing new model
+(raylet) [2025-04-22 21:51:06,037 E 56890 358692] (raylet) file_system_monitor.cc:111: /tmp/ray/session_2025-04-22_21-39-06_563648_56828 is over 95% full, available space: 296161280; capacity: 121018208256. Object creation will fail if spilling is required.
+INFO :      aggregate_evaluate: received 2 results and 0 failures
+INFO:flwr:aggregate_evaluate: received 2 results and 0 failures
+INFO :      
+INFO:flwr:
+INFO :      [ROUND 5]
+INFO:flwr:[ROUND 5]
+INFO :      configure_fit: strategy sampled 2 clients (out of 2)
+INFO:flwr:configure_fit: strategy sampled 2 clients (out of 2)
+(ClientAppActor pid=56913) INFO :      No base model found: Initializing new model
+(raylet) [2025-04-22 21:51:16,125 E 56890 358692] (raylet) file_system_monitor.cc:111: /tmp/ray/session_2025-04-22_21-39-06_563648_56828 is over 95% full, available space: 295481344; capacity: 121018208256. Object creation will fail if spilling is required.
+(ClientAppActor pid=56913) INFO :      No base model found: Initializing new model
+(raylet) [2025-04-22 21:51:26,152 E 56890 358692] (raylet) file_system_monitor.cc:111: /tmp/ray/session_2025-04-22_21-39-06_563648_56828 is over 95% full, available space: 295288832; capacity: 121018208256. Object creation will fail if spilling is required.
+(ClientAppActor pid=56914) INFO :      No base model found: Initializing new model
+(raylet) [2025-04-22 21:51:36,234 E 56890 358692] (raylet) file_system_monitor.cc:111: /tmp/ray/session_2025-04-22_21-39-06_563648_56828 is over 95% full, available space: 295206912; capacity: 121018208256. Object creation will fail if spilling is required.
+(raylet) [2025-04-22 21:51:46,306 E 56890 358692] (raylet) file_system_monitor.cc:111: /tmp/ray/session_2025-04-22_21-39-06_563648_56828 is over 95% full, available space: 295399424; capacity: 121018208256. Object creation will fail if spilling is required.
+(raylet) [2025-04-22 21:51:56,380 E 56890 358692] (raylet) file_system_monitor.cc:111: /tmp/ray/session_2025-04-22_21-39-06_563648_56828 is over 95% full, available space: 295288832; capacity: 121018208256. Object creation will fail if spilling is required.
+^C^C
+/usr/local/Cellar/python@3.11/3.11.10/Frameworks/Python.framework/Versions/3.11/lib/python3.11/multiprocessing/resource_tracker.py:254: UserWarning: resource_tracker: There appear to be 1 leaked semaphore objects to clean up at shutdown
+  warnings.warn('resource_tracker: There appear to be %d '
+Aborted.
+Olenas-MacBook-Pro:federated-learning olenapleshan$ flwr run . local-deployment --stream
+2025-04-22 21:52:25.637884: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+Loading project configuration... 
+Success
+🎊 Successfully built flwrlabs.tf_embedded_federation.1-0-0.a49053f4.fab
+🎊 Successfully started run 16076582497862851738
+INFO :      Starting logstream for run_id `16076582497862851738`
+INFO :      Start `flwr-serverapp` process
+🎊 Successfully installed tf_embedded_federation to /app/.flwr/apps/flwrlabs.tf_embedded_federation.1.0.0.a49053f4.
+/python/venv/lib/python3.11/site-packages/wandb/analytics/sentry.py:90: SentryHubDeprecationWarning: `sentry_sdk.Hub` is deprecated and will be removed in a future major release. Please consult our 1.x to 2.x migration guide for details on how to migrate `Hub` usage to the new API: https://docs.sentry.io/platforms/python/migration/1.x-to-2.x
+  self.hub = sentry_sdk.Hub(client)
+INFO :      No base model found: Initializing new model
+Generating train split: 100%|██████████| 60000/60000 [00:00<00:00, 71708.72 examples/s]
+Generating test split: 100%|██████████| 10000/10000 [00:00<00:00, 51384.98 examples/s]
+wandb: Currently logged in as: sbs24043 (sbs24043-cct-dublin). Use `wandb login --relogin` to force relogin
+/python/venv/lib/python3.11/site-packages/wandb/analytics/sentry.py:262: DeprecationWarning: The `Scope.user` setter is deprecated in favor of `Scope.set_user()`.
+  scope.user = {"email": email}  # noqa
+wandb: Tracking run with wandb version 0.17.8
+wandb: Run data is saved locally in /app/wandb/run-20250422_205301-49xz7vso
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run experiment-deploy/exp-zalando
+wandb: ⭐️ View project at https://wandb.ai/sbs24043-cct-dublin/flower-embedded-fed
+wandb: 🚀 View run at https://wandb.ai/sbs24043-cct-dublin/flower-embedded-fed/runs/49xz7vso
+INFO :      No base model found: Initializing new model
+INFO :      Starting Flower ServerApp, config: num_rounds=6, no round_timeout
+INFO :      
+INFO :      [INIT]
+INFO :      Using initial global parameters provided by strategy
+INFO :      Starting evaluation of initial global parameters
+INFO :      Better accuracy achieved: 0.179700
+INFO :      Previous accuracy: 0.000000
+Model weights saved to /app/outputs/deploy/exp-zalando/export/model_state_acc_0.180_round_0.weights.h5
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Full model saved to /app/outputs/deploy/exp-zalando/export/model_state_acc_0.180_round_0.h5
+Saved artifact at '/app/outputs/deploy/exp-zalando/export/model_state_acc_0.180_round_0'. The following endpoints are available:
+
+* Endpoint 'serve'
+  args_0 (POSITIONAL_ONLY): TensorSpec(shape=(None, 28, 28, 1), dtype=tf.float32, name='keras_tensor')
+Output Type:
+  TensorSpec(shape=(None, 10), dtype=tf.float32, name=None)
+Captures:
+  139771523674208: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  139771523675264: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  139771523675440: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  139771523674736: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  139771523674384: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  139771523676320: TensorSpec(shape=(), dtype=tf.resource, name=None)
+Model exported to /app/outputs/deploy/exp-zalando/export/model_state_acc_0.180_round_0
+INFO :      initial parameters (loss, other metrics): 2.3077313899993896, {'centralized_eval_accuracy': 0.17970000207424164}
+INFO:flwr:initial parameters (loss, other metrics): 2.3077313899993896, {'centralized_eval_accuracy': 0.17970000207424164}
+INFO :      
+INFO:flwr:
+INFO :      [ROUND 1]
+INFO:flwr:[ROUND 1]
+INFO :      configure_fit: strategy sampled 2 clients (out of 2)
+INFO:flwr:configure_fit: strategy sampled 2 clients (out of 2)
+INFO :      aggregate_fit: received 2 results and 0 failures
+INFO:flwr:aggregate_fit: received 2 results and 0 failures
+INFO :      Using aggregation strategy: FedAdagrad
+INFO:flwr:Using aggregation strategy: FedAdagrad
+WARNING :   No fit_metrics_aggregation_fn provided
+WARNING:flwr:No fit_metrics_aggregation_fn provided
+INFO :      Evaluating aggregation strategy: FedAdagrad
+INFO:flwr:Evaluating aggregation strategy: FedAdagrad
+INFO :      Using aggregation strategy: FedAdam
+INFO:flwr:Using aggregation strategy: FedAdam
+WARNING :   No fit_metrics_aggregation_fn provided
+WARNING:flwr:No fit_metrics_aggregation_fn provided
+INFO :      Evaluating aggregation strategy: FedAdam
+INFO:flwr:Evaluating aggregation strategy: FedAdam
+INFO :      Using aggregation strategy: FedAvg
+INFO:flwr:Using aggregation strategy: FedAvg
+WARNING :   No fit_metrics_aggregation_fn provided
+WARNING:flwr:No fit_metrics_aggregation_fn provided
+INFO :      Evaluating aggregation strategy: FedAvg
+INFO:flwr:Evaluating aggregation strategy: FedAvg
+INFO :      Using aggregation strategy: FedOpt
+INFO:flwr:Using aggregation strategy: FedOpt
+WARNING :   No fit_metrics_aggregation_fn provided
+WARNING:flwr:No fit_metrics_aggregation_fn provided
+INFO :      Evaluating aggregation strategy: FedOpt
+INFO:flwr:Evaluating aggregation strategy: FedOpt
+INFO :      Using aggregation strategy: FedMedian
+INFO:flwr:Using aggregation strategy: FedMedian
+WARNING :   No fit_metrics_aggregation_fn provided
+WARNING:flwr:No fit_metrics_aggregation_fn provided
+INFO :      Evaluating aggregation strategy: FedMedian
+INFO:flwr:Evaluating aggregation strategy: FedMedian
+Results of evaluation with multiple strategies: [[0, 2.7410504817962646, {'centralized_eval_accuracy': 0.7376000285148621}], [1, 1.4163503646850586, {'centralized_eval_accuracy': 0.7386000156402588}], [2, 0.5162929892539978, {'centralized_eval_accuracy': 0.8194000124931335}], [3, 0.5162929892539978, {'centralized_eval_accuracy': 0.8194000124931335}], [4, 0.5237382650375366, {'centralized_eval_accuracy': 0.8187000155448914}]]
+Sorted evaluation results: [2, 0.5162929892539978, {'centralized_eval_accuracy': 0.8194000124931335}]
+Best strategy for the round is: FedAvg(accept_failures=True)
+INFO :      Better accuracy achieved: 0.819400
+INFO:flwr:Better accuracy achieved: 0.819400
+INFO :      Previous accuracy: 0.179700
+INFO:flwr:Previous accuracy: 0.179700
+Model weights saved to /app/outputs/deploy/exp-zalando/export/model_state_acc_0.819_round_1.weights.h5
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Full model saved to /app/outputs/deploy/exp-zalando/export/model_state_acc_0.819_round_1.h5
+Saved artifact at '/app/outputs/deploy/exp-zalando/export/model_state_acc_0.819_round_1'. The following endpoints are available:
+
+* Endpoint 'serve'
+  args_0 (POSITIONAL_ONLY): TensorSpec(shape=(None, 28, 28, 1), dtype=tf.float32, name='keras_tensor')
+Output Type:
+  TensorSpec(shape=(None, 10), dtype=tf.float32, name=None)
+Captures:
+  139771523674208: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  139771523675264: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  139771523675440: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  139771523674736: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  139771523674384: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  139771523676320: TensorSpec(shape=(), dtype=tf.resource, name=None)
+Model exported to /app/outputs/deploy/exp-zalando/export/model_state_acc_0.819_round_1
+INFO :      fit progress: (1, 0.5162929892539978, {'centralized_eval_accuracy': 0.8194000124931335}, 174.6705661379999)
+INFO:flwr:fit progress: (1, 0.5162929892539978, {'centralized_eval_accuracy': 0.8194000124931335}, 174.6705661379999)
+INFO :      configure_evaluate: strategy sampled 2 clients (out of 2)
+INFO:flwr:configure_evaluate: strategy sampled 2 clients (out of 2)
+INFO :      aggregate_evaluate: received 2 results and 0 failures
+INFO:flwr:aggregate_evaluate: received 2 results and 0 failures
+WARNING :   No evaluate_metrics_aggregation_fn provided
+WARNING:flwr:No evaluate_metrics_aggregation_fn provided
+INFO :      
+INFO:flwr:
+INFO :      [ROUND 2]
+INFO:flwr:[ROUND 2]
+INFO :      configure_fit: strategy sampled 2 clients (out of 2)
+INFO:flwr:configure_fit: strategy sampled 2 clients (out of 2)
+INFO :      aggregate_fit: received 2 results and 0 failures
+INFO:flwr:aggregate_fit: received 2 results and 0 failures
+INFO :      Using aggregation strategy: FedAdagrad
+INFO:flwr:Using aggregation strategy: FedAdagrad
+INFO :      Evaluating aggregation strategy: FedAdagrad
+INFO:flwr:Evaluating aggregation strategy: FedAdagrad
+INFO :      Using aggregation strategy: FedAdam
+INFO:flwr:Using aggregation strategy: FedAdam
+INFO :      Evaluating aggregation strategy: FedAdam
+INFO:flwr:Evaluating aggregation strategy: FedAdam
+INFO :      Using aggregation strategy: FedAvg
+INFO:flwr:Using aggregation strategy: FedAvg
+INFO :      Evaluating aggregation strategy: FedAvg
+INFO:flwr:Evaluating aggregation strategy: FedAvg
+INFO :      Using aggregation strategy: FedOpt
+INFO:flwr:Using aggregation strategy: FedOpt
+INFO :      Evaluating aggregation strategy: FedOpt
+INFO:flwr:Evaluating aggregation strategy: FedOpt
+INFO :      Using aggregation strategy: FedMedian
+INFO:flwr:Using aggregation strategy: FedMedian
+INFO :      Evaluating aggregation strategy: FedMedian
+INFO:flwr:Evaluating aggregation strategy: FedMedian
+Results of evaluation with multiple strategies: [[0, 0.6731734871864319, {'centralized_eval_accuracy': 0.8098999857902527}], [1, 0.8051806688308716, {'centralized_eval_accuracy': 0.8224999904632568}], [2, 0.44367143511772156, {'centralized_eval_accuracy': 0.8353999853134155}], [3, 0.44367143511772156, {'centralized_eval_accuracy': 0.8353999853134155}], [4, 0.4440140724182129, {'centralized_eval_accuracy': 0.8378999829292297}]]
+Sorted evaluation results: [2, 0.44367143511772156, {'centralized_eval_accuracy': 0.8353999853134155}]
+Best strategy for the round is: FedAvg(accept_failures=True)
+INFO :      Better accuracy achieved: 0.835400
+INFO:flwr:Better accuracy achieved: 0.835400
+INFO :      Previous accuracy: 0.819400
+INFO:flwr:Previous accuracy: 0.819400
+Model weights saved to /app/outputs/deploy/exp-zalando/export/model_state_acc_0.835_round_2.weights.h5
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Full model saved to /app/outputs/deploy/exp-zalando/export/model_state_acc_0.835_round_2.h5
+Saved artifact at '/app/outputs/deploy/exp-zalando/export/model_state_acc_0.835_round_2'. The following endpoints are available:
+
+* Endpoint 'serve'
+  args_0 (POSITIONAL_ONLY): TensorSpec(shape=(None, 28, 28, 1), dtype=tf.float32, name='keras_tensor')
+Output Type:
+  TensorSpec(shape=(None, 10), dtype=tf.float32, name=None)
+Captures:
+  139771523674208: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  139771523675264: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  139771523675440: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  139771523674736: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  139771523674384: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  139771523676320: TensorSpec(shape=(), dtype=tf.resource, name=None)
+Model exported to /app/outputs/deploy/exp-zalando/export/model_state_acc_0.835_round_2
+INFO :      fit progress: (2, 0.44367143511772156, {'centralized_eval_accuracy': 0.8353999853134155}, 327.3479940379998)
+INFO:flwr:fit progress: (2, 0.44367143511772156, {'centralized_eval_accuracy': 0.8353999853134155}, 327.3479940379998)
+INFO :      configure_evaluate: strategy sampled 2 clients (out of 2)
+INFO:flwr:configure_evaluate: strategy sampled 2 clients (out of 2)
+INFO :      aggregate_evaluate: received 2 results and 0 failures
+INFO:flwr:aggregate_evaluate: received 2 results and 0 failures
+INFO :      
+INFO:flwr:
+INFO :      [ROUND 3]
+INFO:flwr:[ROUND 3]
+INFO :      configure_fit: strategy sampled 2 clients (out of 2)
+INFO:flwr:configure_fit: strategy sampled 2 clients (out of 2)
+INFO :      aggregate_fit: received 2 results and 0 failures
+INFO:flwr:aggregate_fit: received 2 results and 0 failures
+INFO :      Using aggregation strategy: FedAdagrad
+INFO:flwr:Using aggregation strategy: FedAdagrad
+INFO :      Evaluating aggregation strategy: FedAdagrad
+INFO:flwr:Evaluating aggregation strategy: FedAdagrad
+INFO :      Using aggregation strategy: FedAdam
+INFO:flwr:Using aggregation strategy: FedAdam
+INFO :      Evaluating aggregation strategy: FedAdam
+INFO:flwr:Evaluating aggregation strategy: FedAdam
+INFO :      Using aggregation strategy: FedAvg
+INFO:flwr:Using aggregation strategy: FedAvg
+INFO :      Evaluating aggregation strategy: FedAvg
+INFO:flwr:Evaluating aggregation strategy: FedAvg
+INFO :      Using aggregation strategy: FedOpt
+INFO:flwr:Using aggregation strategy: FedOpt
+INFO :      Evaluating aggregation strategy: FedOpt
+INFO:flwr:Evaluating aggregation strategy: FedOpt
+INFO :      Using aggregation strategy: FedMedian
+INFO:flwr:Using aggregation strategy: FedMedian
+INFO :      Evaluating aggregation strategy: FedMedian
+INFO:flwr:Evaluating aggregation strategy: FedMedian
+Results of evaluation with multiple strategies: [[0, 0.3941096067428589, {'centralized_eval_accuracy': 0.8600000143051147}], [1, 0.6318866610527039, {'centralized_eval_accuracy': 0.7975000143051147}], [2, 0.3834558129310608, {'centralized_eval_accuracy': 0.8633000254631042}], [3, 0.3834558129310608, {'centralized_eval_accuracy': 0.8633000254631042}], [4, 0.38376665115356445, {'centralized_eval_accuracy': 0.8648999929428101}]]
+Sorted evaluation results: [2, 0.3834558129310608, {'centralized_eval_accuracy': 0.8633000254631042}]
+Best strategy for the round is: FedAvg(accept_failures=True)
+INFO :      Better accuracy achieved: 0.863300
+INFO:flwr:Better accuracy achieved: 0.863300
+INFO :      Previous accuracy: 0.835400
+INFO:flwr:Previous accuracy: 0.835400
+Model weights saved to /app/outputs/deploy/exp-zalando/export/model_state_acc_0.863_round_3.weights.h5
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Full model saved to /app/outputs/deploy/exp-zalando/export/model_state_acc_0.863_round_3.h5
+Saved artifact at '/app/outputs/deploy/exp-zalando/export/model_state_acc_0.863_round_3'. The following endpoints are available:
+
+* Endpoint 'serve'
+  args_0 (POSITIONAL_ONLY): TensorSpec(shape=(None, 28, 28, 1), dtype=tf.float32, name='keras_tensor')
+Output Type:
+  TensorSpec(shape=(None, 10), dtype=tf.float32, name=None)
+Captures:
+  139771523674208: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  139771523675264: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  139771523675440: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  139771523674736: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  139771523674384: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  139771523676320: TensorSpec(shape=(), dtype=tf.resource, name=None)
+Model exported to /app/outputs/deploy/exp-zalando/export/model_state_acc_0.863_round_3
+INFO :      fit progress: (3, 0.3834558129310608, {'centralized_eval_accuracy': 0.8633000254631042}, 491.0633636329999)
+INFO:flwr:fit progress: (3, 0.3834558129310608, {'centralized_eval_accuracy': 0.8633000254631042}, 491.0633636329999)
+INFO :      configure_evaluate: strategy sampled 2 clients (out of 2)
+INFO:flwr:configure_evaluate: strategy sampled 2 clients (out of 2)
+INFO :      aggregate_evaluate: received 2 results and 0 failures
+INFO:flwr:aggregate_evaluate: received 2 results and 0 failures
+INFO :      
+INFO:flwr:
+INFO :      [ROUND 4]
+INFO:flwr:[ROUND 4]
+INFO :      configure_fit: strategy sampled 2 clients (out of 2)
+INFO:flwr:configure_fit: strategy sampled 2 clients (out of 2)
+INFO :      aggregate_fit: received 2 results and 0 failures
+INFO:flwr:aggregate_fit: received 2 results and 0 failures
+INFO :      Using aggregation strategy: FedAdagrad
+INFO:flwr:Using aggregation strategy: FedAdagrad
+INFO :      Evaluating aggregation strategy: FedAdagrad
+INFO:flwr:Evaluating aggregation strategy: FedAdagrad
+INFO :      Using aggregation strategy: FedAdam
+INFO:flwr:Using aggregation strategy: FedAdam
+INFO :      Evaluating aggregation strategy: FedAdam
+INFO:flwr:Evaluating aggregation strategy: FedAdam
+INFO :      Using aggregation strategy: FedAvg
+INFO:flwr:Using aggregation strategy: FedAvg
+INFO :      Evaluating aggregation strategy: FedAvg
+INFO:flwr:Evaluating aggregation strategy: FedAvg
+INFO :      Using aggregation strategy: FedOpt
+INFO:flwr:Using aggregation strategy: FedOpt
+INFO :      Evaluating aggregation strategy: FedOpt
+INFO:flwr:Evaluating aggregation strategy: FedOpt
+INFO :      Using aggregation strategy: FedMedian
+INFO:flwr:Using aggregation strategy: FedMedian
+INFO :      Evaluating aggregation strategy: FedMedian
+INFO:flwr:Evaluating aggregation strategy: FedMedian
+Results of evaluation with multiple strategies: [[0, 0.3657325506210327, {'centralized_eval_accuracy': 0.8693000078201294}], [1, 0.6384535431861877, {'centralized_eval_accuracy': 0.761900007724762}], [2, 0.36173367500305176, {'centralized_eval_accuracy': 0.8690000176429749}], [3, 0.36173367500305176, {'centralized_eval_accuracy': 0.8690000176429749}], [4, 0.35969024896621704, {'centralized_eval_accuracy': 0.869700014591217}]]
+Sorted evaluation results: [4, 0.35969024896621704, {'centralized_eval_accuracy': 0.869700014591217}]
+Best strategy for the round is: FedMedian(accept_failures=True)
+INFO :      Better accuracy achieved: 0.869700
+INFO:flwr:Better accuracy achieved: 0.869700
+INFO :      Previous accuracy: 0.863300
+INFO:flwr:Previous accuracy: 0.863300
+Model weights saved to /app/outputs/deploy/exp-zalando/export/model_state_acc_0.870_round_4.weights.h5
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Full model saved to /app/outputs/deploy/exp-zalando/export/model_state_acc_0.870_round_4.h5
+Saved artifact at '/app/outputs/deploy/exp-zalando/export/model_state_acc_0.870_round_4'. The following endpoints are available:
+
+* Endpoint 'serve'
+  args_0 (POSITIONAL_ONLY): TensorSpec(shape=(None, 28, 28, 1), dtype=tf.float32, name='keras_tensor')
+Output Type:
+  TensorSpec(shape=(None, 10), dtype=tf.float32, name=None)
+Captures:
+  139771523674208: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  139771523675264: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  139771523675440: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  139771523674736: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  139771523674384: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  139771523676320: TensorSpec(shape=(), dtype=tf.resource, name=None)
+Model exported to /app/outputs/deploy/exp-zalando/export/model_state_acc_0.870_round_4
+INFO :      fit progress: (4, 0.35969024896621704, {'centralized_eval_accuracy': 0.869700014591217}, 646.7268182530001)
+INFO:flwr:fit progress: (4, 0.35969024896621704, {'centralized_eval_accuracy': 0.869700014591217}, 646.7268182530001)
+INFO :      configure_evaluate: strategy sampled 2 clients (out of 2)
+INFO:flwr:configure_evaluate: strategy sampled 2 clients (out of 2)
+INFO :      aggregate_evaluate: received 2 results and 0 failures
+INFO:flwr:aggregate_evaluate: received 2 results and 0 failures
+INFO :      
+INFO:flwr:
+INFO :      [ROUND 5]
+INFO:flwr:[ROUND 5]
+INFO :      configure_fit: strategy sampled 2 clients (out of 2)
+INFO:flwr:configure_fit: strategy sampled 2 clients (out of 2)
+INFO :      aggregate_fit: received 2 results and 0 failures
+INFO:flwr:aggregate_fit: received 2 results and 0 failures
+INFO :      Using aggregation strategy: FedAdagrad
+INFO:flwr:Using aggregation strategy: FedAdagrad
+INFO :      Evaluating aggregation strategy: FedAdagrad
+INFO:flwr:Evaluating aggregation strategy: FedAdagrad
+INFO :      Using aggregation strategy: FedAdam
+INFO:flwr:Using aggregation strategy: FedAdam
+INFO :      Evaluating aggregation strategy: FedAdam
+INFO:flwr:Evaluating aggregation strategy: FedAdam
+INFO :      Using aggregation strategy: FedAvg
+INFO:flwr:Using aggregation strategy: FedAvg
+INFO :      Evaluating aggregation strategy: FedAvg
+INFO:flwr:Evaluating aggregation strategy: FedAvg
+INFO :      Using aggregation strategy: FedOpt
+INFO:flwr:Using aggregation strategy: FedOpt
+INFO :      Evaluating aggregation strategy: FedOpt
+INFO:flwr:Evaluating aggregation strategy: FedOpt
+INFO :      Using aggregation strategy: FedMedian
+INFO:flwr:Using aggregation strategy: FedMedian
+INFO :      Evaluating aggregation strategy: FedMedian
+INFO:flwr:Evaluating aggregation strategy: FedMedian
+Results of evaluation with multiple strategies: [[0, 0.3445833623409271, {'centralized_eval_accuracy': 0.875}], [1, 0.4863065481185913, {'centralized_eval_accuracy': 0.824999988079071}], [2, 0.34193024039268494, {'centralized_eval_accuracy': 0.8776999711990356}], [3, 0.34193024039268494, {'centralized_eval_accuracy': 0.8776999711990356}], [4, 0.3430122137069702, {'centralized_eval_accuracy': 0.8765000104904175}]]
+Sorted evaluation results: [2, 0.34193024039268494, {'centralized_eval_accuracy': 0.8776999711990356}]
+Best strategy for the round is: FedAvg(accept_failures=True)
+INFO :      Better accuracy achieved: 0.877700
+INFO:flwr:Better accuracy achieved: 0.877700
+INFO :      Previous accuracy: 0.869700
+INFO:flwr:Previous accuracy: 0.869700
+Model weights saved to /app/outputs/deploy/exp-zalando/export/model_state_acc_0.878_round_5.weights.h5
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Full model saved to /app/outputs/deploy/exp-zalando/export/model_state_acc_0.878_round_5.h5
+Saved artifact at '/app/outputs/deploy/exp-zalando/export/model_state_acc_0.878_round_5'. The following endpoints are available:
+
+* Endpoint 'serve'
+  args_0 (POSITIONAL_ONLY): TensorSpec(shape=(None, 28, 28, 1), dtype=tf.float32, name='keras_tensor')
+Output Type:
+  TensorSpec(shape=(None, 10), dtype=tf.float32, name=None)
+Captures:
+  139771523674208: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  139771523675264: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  139771523675440: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  139771523674736: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  139771523674384: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  139771523676320: TensorSpec(shape=(), dtype=tf.resource, name=None)
+Model exported to /app/outputs/deploy/exp-zalando/export/model_state_acc_0.878_round_5
+INFO :      fit progress: (5, 0.34193024039268494, {'centralized_eval_accuracy': 0.8776999711990356}, 801.5881925170002)
+INFO:flwr:fit progress: (5, 0.34193024039268494, {'centralized_eval_accuracy': 0.8776999711990356}, 801.5881925170002)
+INFO :      configure_evaluate: strategy sampled 2 clients (out of 2)
+INFO:flwr:configure_evaluate: strategy sampled 2 clients (out of 2)
+INFO :      aggregate_evaluate: received 2 results and 0 failures
+INFO:flwr:aggregate_evaluate: received 2 results and 0 failures
+INFO :      
+INFO:flwr:
+INFO :      [ROUND 6]
+INFO:flwr:[ROUND 6]
+INFO :      configure_fit: strategy sampled 2 clients (out of 2)
+INFO:flwr:configure_fit: strategy sampled 2 clients (out of 2)
+INFO :      aggregate_fit: received 2 results and 0 failures
+INFO:flwr:aggregate_fit: received 2 results and 0 failures
+INFO :      Using aggregation strategy: FedAdagrad
+INFO:flwr:Using aggregation strategy: FedAdagrad
+INFO :      Evaluating aggregation strategy: FedAdagrad
+INFO:flwr:Evaluating aggregation strategy: FedAdagrad
+INFO :      Using aggregation strategy: FedAdam
+INFO:flwr:Using aggregation strategy: FedAdam
+INFO :      Evaluating aggregation strategy: FedAdam
+INFO:flwr:Evaluating aggregation strategy: FedAdam
+INFO :      Using aggregation strategy: FedAvg
+INFO:flwr:Using aggregation strategy: FedAvg
+INFO :      Evaluating aggregation strategy: FedAvg
+INFO:flwr:Evaluating aggregation strategy: FedAvg
+INFO :      Using aggregation strategy: FedOpt
+INFO:flwr:Using aggregation strategy: FedOpt
+INFO :      Evaluating aggregation strategy: FedOpt
+INFO:flwr:Evaluating aggregation strategy: FedOpt
+INFO :      Using aggregation strategy: FedMedian
+INFO:flwr:Using aggregation strategy: FedMedian
+INFO :      Evaluating aggregation strategy: FedMedian
+INFO:flwr:Evaluating aggregation strategy: FedMedian
+Results of evaluation with multiple strategies: [[0, 0.3321874439716339, {'centralized_eval_accuracy': 0.8827000260353088}], [1, 0.4279952049255371, {'centralized_eval_accuracy': 0.847599983215332}], [2, 0.3246382176876068, {'centralized_eval_accuracy': 0.8852999806404114}], [3, 0.3246382176876068, {'centralized_eval_accuracy': 0.8852999806404114}], [4, 0.32247194647789, {'centralized_eval_accuracy': 0.8845000267028809}]]
+Sorted evaluation results: [4, 0.32247194647789, {'centralized_eval_accuracy': 0.8845000267028809}]
+Best strategy for the round is: FedMedian(accept_failures=True)
+INFO :      Better accuracy achieved: 0.884500
+INFO:flwr:Better accuracy achieved: 0.884500
+INFO :      Previous accuracy: 0.877700
+INFO:flwr:Previous accuracy: 0.877700
+Model weights saved to /app/outputs/deploy/exp-zalando/export/model_state_acc_0.885_round_6.weights.h5
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Full model saved to /app/outputs/deploy/exp-zalando/export/model_state_acc_0.885_round_6.h5
+Saved artifact at '/app/outputs/deploy/exp-zalando/export/model_state_acc_0.885_round_6'. The following endpoints are available:
+
+* Endpoint 'serve'
+  args_0 (POSITIONAL_ONLY): TensorSpec(shape=(None, 28, 28, 1), dtype=tf.float32, name='keras_tensor')
+Output Type:
+  TensorSpec(shape=(None, 10), dtype=tf.float32, name=None)
+Captures:
+  139771523674208: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  139771523675264: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  139771523675440: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  139771523674736: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  139771523674384: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  139771523676320: TensorSpec(shape=(), dtype=tf.resource, name=None)
+Model exported to /app/outputs/deploy/exp-zalando/export/model_state_acc_0.885_round_6
+INFO :      fit progress: (6, 0.32247194647789, {'centralized_eval_accuracy': 0.8845000267028809}, 954.9804442579998)
+INFO:flwr:fit progress: (6, 0.32247194647789, {'centralized_eval_accuracy': 0.8845000267028809}, 954.9804442579998)
+INFO :      configure_evaluate: strategy sampled 2 clients (out of 2)
+INFO:flwr:configure_evaluate: strategy sampled 2 clients (out of 2)
+INFO :      aggregate_evaluate: received 2 results and 0 failures
+INFO:flwr:aggregate_evaluate: received 2 results and 0 failures
+INFO :      
+INFO:flwr:
+INFO :      [SUMMARY]
+INFO:flwr:[SUMMARY]
+INFO :      Run finished 6 round(s) in 985.07s
+INFO:flwr:Run finished 6 round(s) in 985.07s
+INFO :          History (loss, distributed):
+INFO:flwr:      History (loss, distributed):
+INFO :                  round 1: 0.4911590748136813
+INFO:flwr:              round 1: 0.4911590748136813
+INFO :                  round 2: 0.4097934035537303
+INFO:flwr:              round 2: 0.4097934035537303
+INFO :                  round 3: 0.35872172783359013
+INFO:flwr:              round 3: 0.35872172783359013
+INFO :                  round 4: 0.3403305053070241
+INFO:flwr:              round 4: 0.3403305053070241
+INFO :                  round 5: 0.30483984430425715
+INFO:flwr:              round 5: 0.30483984430425715
+INFO :                  round 6: 0.2899338305021324
+INFO:flwr:              round 6: 0.2899338305021324
+INFO :          History (loss, centralized):
+INFO:flwr:      History (loss, centralized):
+INFO :                  round 0: 2.3077313899993896
+INFO:flwr:              round 0: 2.3077313899993896
+INFO :                  round 1: 0.5162929892539978
+INFO:flwr:              round 1: 0.5162929892539978
+INFO :                  round 2: 0.44367143511772156
+INFO:flwr:              round 2: 0.44367143511772156
+INFO :                  round 3: 0.3834558129310608
+INFO:flwr:              round 3: 0.3834558129310608
+INFO :                  round 4: 0.35969024896621704
+INFO:flwr:              round 4: 0.35969024896621704
+INFO :                  round 5: 0.34193024039268494
+INFO:flwr:              round 5: 0.34193024039268494
+INFO :                  round 6: 0.32247194647789
+INFO:flwr:              round 6: 0.32247194647789
+INFO :          History (metrics, centralized):
+INFO:flwr:      History (metrics, centralized):
+INFO :          {'centralized_eval_accuracy': [(0, 0.17970000207424164),
+INFO:flwr:      {'centralized_eval_accuracy': [(0, 0.17970000207424164),
+INFO :                                         (1, 0.8194000124931335),
+INFO:flwr:                                     (1, 0.8194000124931335),
+INFO :                                         (2, 0.8353999853134155),
+INFO:flwr:                                     (2, 0.8353999853134155),
+INFO :                                         (3, 0.8633000254631042),
+INFO:flwr:                                     (3, 0.8633000254631042),
+INFO :                                         (4, 0.869700014591217),
+INFO:flwr:                                     (4, 0.869700014591217),
+INFO :                                         (5, 0.8776999711990356),
+INFO:flwr:                                     (5, 0.8776999711990356),
+INFO :                                         (6, 0.8845000267028809)]}
+INFO:flwr:                                     (6, 0.8845000267028809)]}
+INFO :      
+INFO:flwr:
+DEBUG:flwr:ServerApp finished running.

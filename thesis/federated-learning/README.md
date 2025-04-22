@@ -28,6 +28,12 @@ Launch supernode:
 flower-supernode      --insecure      --superlink 127.0.0.1:9092      --clientappio-api-address 127.0.0.1:9094      --node-config "partition-id=0 num-partitions=2"
 ```
 
+When running the real world embedded federation:
+
+```
+flwr run . local-deployment --stream
+```
+
 ## Starting Points
 
 The project builds on top of https://github.com/adap/flower/tree/main/examples/advanced-tensorflow
@@ -306,3 +312,7 @@ Releasing ports:
 
 lsof -i tcp:<port>
 kill -9 <PID>
+
+
+### Cleaning up
+ sudo docker stop $(sudo docker ps -a -q) && sudo docker rm $(sudo docker ps -a -q)

@@ -1,12 +1,14 @@
 #!/bin/bash
 # ./build.sh clientapp v0.0.1-custom
+# v0.0.4-custom-deploy
+
 
 APP_TYPE=$1  # First argument. Options: serverapp, clientapp
 
 # Variables
 IMAGE_NAME="leeloodub/flwr_$APP_TYPE"
 VERSION=$2  # Second argument. Example: v1.0.0-custom
-PLATFORMS="linux/amd64,linux/arm64/v8"
+PLATFORMS="linux/amd64"
 DOCKERFILE="$APP_TYPE.Dockerfile"
 
 # Enable Docker Buildx

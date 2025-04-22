@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Create the Docker network
-# ./client-run.sh "node-1" 9094 0 2 v0.0.1-custom
-# ./client-run.sh "node-2" 9095 1 2 v0.0.1-custom
+# ./client-run.sh "node-1" 9094 0 2 v0.0.4-custom-deploy
+# ./client-run.sh "node-2" 9095 1 2 v0.0.4-custom-deploy
 
 sudo docker network create --driver bridge flwr-network
 
@@ -37,13 +37,13 @@ start_client() {
         --network flwr-network \
         -e WANDB_API_KEY=65a365351610afce4d9747a748e220dd9199f986 \
         -e JOB_OWNER=$job_owner \
-        -e RUN_ID='exp1' \
-        -e DATASET_NAME='zalando-datasets/fashion_mnist' \
+        -e RUN_ID='exp-cifar' \
+        -e DATASET='ylecun/mnist' \
         --detach \
         leeloodub/flwr_clientapp:$CLIENT_VERSION \
         --insecure \
         --clientappio-api-address $supernode_address
 }
 
-start_supernode()
-start_client()
+start_supernode
+start_client
