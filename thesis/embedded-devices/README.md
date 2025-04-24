@@ -8,4 +8,6 @@
 3. Run
 flwr run .
 
-sudo docker rm -v -f $(sudo docker ps -qa)
+4. Clean up
+
+sudo docker stop $(sudo docker ps -a -q) && sudo docker rm $(sudo docker ps -a -q)

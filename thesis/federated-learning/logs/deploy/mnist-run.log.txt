@@ -1,0 +1,451 @@
+Olenas-MacBook-Pro:thesis olenapleshan$ cd federated-learning
+Olenas-MacBook-Pro:federated-learning olenapleshan$ flwr run . local-deployment --stream
+2025-04-24 20:13:16.911601: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+Loading project configuration... 
+Success
+🎊 Successfully built flwrlabs.tf_embedded_federation.1-0-0.2bd7bdf7.fab
+🎊 Successfully started run 14217763280154643969
+INFO :      Starting logstream for run_id `14217763280154643969`
+INFO :      Start `flwr-serverapp` process
+🎊 Successfully installed tf_embedded_federation to /app/.flwr/apps/flwrlabs.tf_embedded_federation.1.0.0.2bd7bdf7.
+/python/venv/lib/python3.11/site-packages/wandb/analytics/sentry.py:90: SentryHubDeprecationWarning: `sentry_sdk.Hub` is deprecated and will be removed in a future major release. Please consult our 1.x to 2.x migration guide for details on how to migrate `Hub` usage to the new API: https://docs.sentry.io/platforms/python/migration/1.x-to-2.x
+  self.hub = sentry_sdk.Hub(client)
+INFO :      No base model found: Initializing new model
+Generating train split: 100%|██████████| 60000/60000 [00:00<00:00, 118494.88 examples/s]
+Generating test split: 100%|██████████| 10000/10000 [00:00<00:00, 119371.71 examples/s]
+wandb: Currently logged in as: sbs24043 (sbs24043-cct-dublin). Use `wandb login --relogin` to force relogin
+/python/venv/lib/python3.11/site-packages/wandb/analytics/sentry.py:262: DeprecationWarning: The `Scope.user` setter is deprecated in favor of `Scope.set_user()`.
+  scope.user = {"email": email}  # noqa
+wandb: Tracking run with wandb version 0.17.8
+wandb: Run data is saved locally in /app/wandb/run-20250424_191350-3k2z2z95
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run experiment-deploy/exp-mnist
+wandb: ⭐️ View project at https://wandb.ai/sbs24043-cct-dublin/flower-embedded-fed
+wandb: 🚀 View run at https://wandb.ai/sbs24043-cct-dublin/flower-embedded-fed/runs/3k2z2z95
+INFO :      No base model found: Initializing new model
+INFO :      Starting Flower ServerApp, config: num_rounds=6, no round_timeout
+INFO :      
+INFO :      [INIT]
+INFO :      Using initial global parameters provided by strategy
+INFO :      Starting evaluation of initial global parameters
+INFO :      Better accuracy achieved: 0.115200
+INFO :      Previous accuracy: 0.000000
+Model weights saved to /app/outputs/deploy/exp-mnist/export/model_state_acc_0.115_round_0.weights.h5
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Full model saved to /app/outputs/deploy/exp-mnist/export/model_state_acc_0.115_round_0.h5
+Saved artifact at '/app/outputs/deploy/exp-mnist/export/model_state_acc_0.115_round_0'. The following endpoints are available:
+
+* Endpoint 'serve'
+  args_0 (POSITIONAL_ONLY): TensorSpec(shape=(None, 28, 28, 1), dtype=tf.float32, name='keras_tensor')
+Output Type:
+  TensorSpec(shape=(None, 10), dtype=tf.float32, name=None)
+Captures:
+  140039582298032: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  140039582299088: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  140039582299264: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  140039582298560: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  140039582298208: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  140039582300144: TensorSpec(shape=(), dtype=tf.resource, name=None)
+Model exported to /app/outputs/deploy/exp-mnist/export/model_state_acc_0.115_round_0
+INFO :      initial parameters (loss, other metrics): 2.2897000312805176, {'centralized_eval_accuracy': 0.1151999980211258}
+INFO:flwr:initial parameters (loss, other metrics): 2.2897000312805176, {'centralized_eval_accuracy': 0.1151999980211258}
+INFO :      
+INFO:flwr:
+INFO :      [ROUND 1]
+INFO:flwr:[ROUND 1]
+INFO :      configure_fit: strategy sampled 2 clients (out of 2)
+INFO:flwr:configure_fit: strategy sampled 2 clients (out of 2)
+INFO :      aggregate_fit: received 2 results and 0 failures
+INFO:flwr:aggregate_fit: received 2 results and 0 failures
+INFO :      Using aggregation strategy: FedAdagrad
+INFO:flwr:Using aggregation strategy: FedAdagrad
+WARNING :   No fit_metrics_aggregation_fn provided
+WARNING:flwr:No fit_metrics_aggregation_fn provided
+INFO :      Evaluating aggregation strategy: FedAdagrad
+INFO:flwr:Evaluating aggregation strategy: FedAdagrad
+INFO :      Using aggregation strategy: FedAdam
+INFO:flwr:Using aggregation strategy: FedAdam
+WARNING :   No fit_metrics_aggregation_fn provided
+WARNING:flwr:No fit_metrics_aggregation_fn provided
+INFO :      Evaluating aggregation strategy: FedAdam
+INFO:flwr:Evaluating aggregation strategy: FedAdam
+INFO :      Using aggregation strategy: FedAvg
+INFO:flwr:Using aggregation strategy: FedAvg
+WARNING :   No fit_metrics_aggregation_fn provided
+WARNING:flwr:No fit_metrics_aggregation_fn provided
+INFO :      Evaluating aggregation strategy: FedAvg
+INFO:flwr:Evaluating aggregation strategy: FedAvg
+INFO :      Using aggregation strategy: FedOpt
+INFO:flwr:Using aggregation strategy: FedOpt
+WARNING :   No fit_metrics_aggregation_fn provided
+WARNING:flwr:No fit_metrics_aggregation_fn provided
+INFO :      Evaluating aggregation strategy: FedOpt
+INFO:flwr:Evaluating aggregation strategy: FedOpt
+INFO :      Using aggregation strategy: FedMedian
+INFO:flwr:Using aggregation strategy: FedMedian
+WARNING :   No fit_metrics_aggregation_fn provided
+WARNING:flwr:No fit_metrics_aggregation_fn provided
+INFO :      Evaluating aggregation strategy: FedMedian
+INFO:flwr:Evaluating aggregation strategy: FedMedian
+Results of evaluation with multiple strategies: [[0, 1.2924412488937378, {'centralized_eval_accuracy': 0.9182000160217285}], [1, 0.6723080277442932, {'centralized_eval_accuracy': 0.9157000184059143}], [2, 0.11303611844778061, {'centralized_eval_accuracy': 0.972100019454956}], [3, 0.11303611844778061, {'centralized_eval_accuracy': 0.972100019454956}], [4, 0.11541560292243958, {'centralized_eval_accuracy': 0.972100019454956}]]
+Sorted evaluation results: [2, 0.11303611844778061, {'centralized_eval_accuracy': 0.972100019454956}]
+Best strategy for the round is: FedAvg(accept_failures=True)
+INFO :      Better accuracy achieved: 0.972100
+INFO:flwr:Better accuracy achieved: 0.972100
+INFO :      Previous accuracy: 0.115200
+INFO:flwr:Previous accuracy: 0.115200
+Model weights saved to /app/outputs/deploy/exp-mnist/export/model_state_acc_0.972_round_1.weights.h5
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Full model saved to /app/outputs/deploy/exp-mnist/export/model_state_acc_0.972_round_1.h5
+Saved artifact at '/app/outputs/deploy/exp-mnist/export/model_state_acc_0.972_round_1'. The following endpoints are available:
+
+* Endpoint 'serve'
+  args_0 (POSITIONAL_ONLY): TensorSpec(shape=(None, 28, 28, 1), dtype=tf.float32, name='keras_tensor')
+Output Type:
+  TensorSpec(shape=(None, 10), dtype=tf.float32, name=None)
+Captures:
+  140039582298032: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  140039582299088: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  140039582299264: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  140039582298560: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  140039582298208: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  140039582300144: TensorSpec(shape=(), dtype=tf.resource, name=None)
+Model exported to /app/outputs/deploy/exp-mnist/export/model_state_acc_0.972_round_1
+INFO :      fit progress: (1, 0.11303611844778061, {'centralized_eval_accuracy': 0.972100019454956}, 152.795111604)
+INFO:flwr:fit progress: (1, 0.11303611844778061, {'centralized_eval_accuracy': 0.972100019454956}, 152.795111604)
+INFO :      configure_evaluate: strategy sampled 2 clients (out of 2)
+INFO:flwr:configure_evaluate: strategy sampled 2 clients (out of 2)
+INFO :      aggregate_evaluate: received 2 results and 0 failures
+INFO:flwr:aggregate_evaluate: received 2 results and 0 failures
+WARNING :   No evaluate_metrics_aggregation_fn provided
+WARNING:flwr:No evaluate_metrics_aggregation_fn provided
+INFO :      
+INFO:flwr:
+INFO :      [ROUND 2]
+INFO:flwr:[ROUND 2]
+INFO :      configure_fit: strategy sampled 2 clients (out of 2)
+INFO:flwr:configure_fit: strategy sampled 2 clients (out of 2)
+INFO :      aggregate_fit: received 2 results and 0 failures
+INFO:flwr:aggregate_fit: received 2 results and 0 failures
+INFO :      Using aggregation strategy: FedAdagrad
+INFO:flwr:Using aggregation strategy: FedAdagrad
+INFO :      Evaluating aggregation strategy: FedAdagrad
+INFO:flwr:Evaluating aggregation strategy: FedAdagrad
+INFO :      Using aggregation strategy: FedAdam
+INFO:flwr:Using aggregation strategy: FedAdam
+INFO :      Evaluating aggregation strategy: FedAdam
+INFO:flwr:Evaluating aggregation strategy: FedAdam
+INFO :      Using aggregation strategy: FedAvg
+INFO:flwr:Using aggregation strategy: FedAvg
+INFO :      Evaluating aggregation strategy: FedAvg
+INFO:flwr:Evaluating aggregation strategy: FedAvg
+INFO :      Using aggregation strategy: FedOpt
+INFO:flwr:Using aggregation strategy: FedOpt
+INFO :      Evaluating aggregation strategy: FedOpt
+INFO:flwr:Evaluating aggregation strategy: FedOpt
+INFO :      Using aggregation strategy: FedMedian
+INFO:flwr:Using aggregation strategy: FedMedian
+INFO :      Evaluating aggregation strategy: FedMedian
+INFO:flwr:Evaluating aggregation strategy: FedMedian
+Results of evaluation with multiple strategies: [[0, 0.30377572774887085, {'centralized_eval_accuracy': 0.9718000292778015}], [1, 0.1328173279762268, {'centralized_eval_accuracy': 0.9775000214576721}], [2, 0.059991735965013504, {'centralized_eval_accuracy': 0.9817000031471252}], [3, 0.059991735965013504, {'centralized_eval_accuracy': 0.9817000031471252}], [4, 0.062376707792282104, {'centralized_eval_accuracy': 0.9803000092506409}]]
+Sorted evaluation results: [2, 0.059991735965013504, {'centralized_eval_accuracy': 0.9817000031471252}]
+Best strategy for the round is: FedAvg(accept_failures=True)
+INFO :      Better accuracy achieved: 0.981700
+INFO:flwr:Better accuracy achieved: 0.981700
+INFO :      Previous accuracy: 0.972100
+INFO:flwr:Previous accuracy: 0.972100
+Model weights saved to /app/outputs/deploy/exp-mnist/export/model_state_acc_0.982_round_2.weights.h5
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Full model saved to /app/outputs/deploy/exp-mnist/export/model_state_acc_0.982_round_2.h5
+Saved artifact at '/app/outputs/deploy/exp-mnist/export/model_state_acc_0.982_round_2'. The following endpoints are available:
+
+* Endpoint 'serve'
+  args_0 (POSITIONAL_ONLY): TensorSpec(shape=(None, 28, 28, 1), dtype=tf.float32, name='keras_tensor')
+Output Type:
+  TensorSpec(shape=(None, 10), dtype=tf.float32, name=None)
+Captures:
+  140039582298032: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  140039582299088: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  140039582299264: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  140039582298560: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  140039582298208: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  140039582300144: TensorSpec(shape=(), dtype=tf.resource, name=None)
+Model exported to /app/outputs/deploy/exp-mnist/export/model_state_acc_0.982_round_2
+INFO :      fit progress: (2, 0.059991735965013504, {'centralized_eval_accuracy': 0.9817000031471252}, 302.465470859)
+INFO:flwr:fit progress: (2, 0.059991735965013504, {'centralized_eval_accuracy': 0.9817000031471252}, 302.465470859)
+INFO :      configure_evaluate: strategy sampled 2 clients (out of 2)
+INFO:flwr:configure_evaluate: strategy sampled 2 clients (out of 2)
+INFO :      aggregate_evaluate: received 2 results and 0 failures
+INFO:flwr:aggregate_evaluate: received 2 results and 0 failures
+INFO :      
+INFO:flwr:
+INFO :      [ROUND 3]
+INFO:flwr:[ROUND 3]
+INFO :      configure_fit: strategy sampled 2 clients (out of 2)
+INFO:flwr:configure_fit: strategy sampled 2 clients (out of 2)
+INFO :      aggregate_fit: received 2 results and 0 failures
+INFO:flwr:aggregate_fit: received 2 results and 0 failures
+INFO :      Using aggregation strategy: FedAdagrad
+INFO:flwr:Using aggregation strategy: FedAdagrad
+INFO :      Evaluating aggregation strategy: FedAdagrad
+INFO:flwr:Evaluating aggregation strategy: FedAdagrad
+INFO :      Using aggregation strategy: FedAdam
+INFO:flwr:Using aggregation strategy: FedAdam
+INFO :      Evaluating aggregation strategy: FedAdam
+INFO:flwr:Evaluating aggregation strategy: FedAdam
+INFO :      Using aggregation strategy: FedAvg
+INFO:flwr:Using aggregation strategy: FedAvg
+INFO :      Evaluating aggregation strategy: FedAvg
+INFO:flwr:Evaluating aggregation strategy: FedAvg
+INFO :      Using aggregation strategy: FedOpt
+INFO:flwr:Using aggregation strategy: FedOpt
+INFO :      Evaluating aggregation strategy: FedOpt
+INFO:flwr:Evaluating aggregation strategy: FedOpt
+INFO :      Using aggregation strategy: FedMedian
+INFO:flwr:Using aggregation strategy: FedMedian
+INFO :      Evaluating aggregation strategy: FedMedian
+INFO:flwr:Evaluating aggregation strategy: FedMedian
+Results of evaluation with multiple strategies: [[0, 0.04865836352109909, {'centralized_eval_accuracy': 0.9832000136375427}], [1, 0.1143227070569992, {'centralized_eval_accuracy': 0.9678999781608582}], [2, 0.04801778495311737, {'centralized_eval_accuracy': 0.9825999736785889}], [3, 0.04801778495311737, {'centralized_eval_accuracy': 0.9825999736785889}], [4, 0.04950304329395294, {'centralized_eval_accuracy': 0.982699990272522}]]
+Sorted evaluation results: [2, 0.04801778495311737, {'centralized_eval_accuracy': 0.9825999736785889}]
+Best strategy for the round is: FedAvg(accept_failures=True)
+INFO :      Better accuracy achieved: 0.982600
+INFO:flwr:Better accuracy achieved: 0.982600
+INFO :      Previous accuracy: 0.981700
+INFO:flwr:Previous accuracy: 0.981700
+Model weights saved to /app/outputs/deploy/exp-mnist/export/model_state_acc_0.983_round_3.weights.h5
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Full model saved to /app/outputs/deploy/exp-mnist/export/model_state_acc_0.983_round_3.h5
+Saved artifact at '/app/outputs/deploy/exp-mnist/export/model_state_acc_0.983_round_3'. The following endpoints are available:
+
+* Endpoint 'serve'
+  args_0 (POSITIONAL_ONLY): TensorSpec(shape=(None, 28, 28, 1), dtype=tf.float32, name='keras_tensor')
+Output Type:
+  TensorSpec(shape=(None, 10), dtype=tf.float32, name=None)
+Captures:
+  140039582298032: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  140039582299088: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  140039582299264: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  140039582298560: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  140039582298208: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  140039582300144: TensorSpec(shape=(), dtype=tf.resource, name=None)
+Model exported to /app/outputs/deploy/exp-mnist/export/model_state_acc_0.983_round_3
+INFO :      fit progress: (3, 0.04801778495311737, {'centralized_eval_accuracy': 0.9825999736785889}, 442.345211768)
+INFO:flwr:fit progress: (3, 0.04801778495311737, {'centralized_eval_accuracy': 0.9825999736785889}, 442.345211768)
+INFO :      configure_evaluate: strategy sampled 2 clients (out of 2)
+INFO:flwr:configure_evaluate: strategy sampled 2 clients (out of 2)
+INFO :      aggregate_evaluate: received 2 results and 0 failures
+INFO:flwr:aggregate_evaluate: received 2 results and 0 failures
+INFO :      
+INFO:flwr:
+INFO :      [ROUND 4]
+INFO:flwr:[ROUND 4]
+INFO :      configure_fit: strategy sampled 2 clients (out of 2)
+INFO:flwr:configure_fit: strategy sampled 2 clients (out of 2)
+INFO :      aggregate_fit: received 2 results and 0 failures
+INFO:flwr:aggregate_fit: received 2 results and 0 failures
+INFO :      Using aggregation strategy: FedAdagrad
+INFO:flwr:Using aggregation strategy: FedAdagrad
+INFO :      Evaluating aggregation strategy: FedAdagrad
+INFO:flwr:Evaluating aggregation strategy: FedAdagrad
+INFO :      Using aggregation strategy: FedAdam
+INFO:flwr:Using aggregation strategy: FedAdam
+INFO :      Evaluating aggregation strategy: FedAdam
+INFO:flwr:Evaluating aggregation strategy: FedAdam
+INFO :      Using aggregation strategy: FedAvg
+INFO:flwr:Using aggregation strategy: FedAvg
+INFO :      Evaluating aggregation strategy: FedAvg
+INFO:flwr:Evaluating aggregation strategy: FedAvg
+INFO :      Using aggregation strategy: FedOpt
+INFO:flwr:Using aggregation strategy: FedOpt
+INFO :      Evaluating aggregation strategy: FedOpt
+INFO:flwr:Evaluating aggregation strategy: FedOpt
+INFO :      Using aggregation strategy: FedMedian
+INFO:flwr:Using aggregation strategy: FedMedian
+INFO :      Evaluating aggregation strategy: FedMedian
+INFO:flwr:Evaluating aggregation strategy: FedMedian
+Results of evaluation with multiple strategies: [[0, 0.04098305106163025, {'centralized_eval_accuracy': 0.9865999817848206}], [1, 0.12687191367149353, {'centralized_eval_accuracy': 0.958899974822998}], [2, 0.03910652920603752, {'centralized_eval_accuracy': 0.9868999719619751}], [3, 0.03910652920603752, {'centralized_eval_accuracy': 0.9868999719619751}], [4, 0.040213342756032944, {'centralized_eval_accuracy': 0.986299991607666}]]
+Sorted evaluation results: [2, 0.03910652920603752, {'centralized_eval_accuracy': 0.9868999719619751}]
+Best strategy for the round is: FedAvg(accept_failures=True)
+INFO :      Better accuracy achieved: 0.986900
+INFO:flwr:Better accuracy achieved: 0.986900
+INFO :      Previous accuracy: 0.982600
+INFO:flwr:Previous accuracy: 0.982600
+Model weights saved to /app/outputs/deploy/exp-mnist/export/model_state_acc_0.987_round_4.weights.h5
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Full model saved to /app/outputs/deploy/exp-mnist/export/model_state_acc_0.987_round_4.h5
+Saved artifact at '/app/outputs/deploy/exp-mnist/export/model_state_acc_0.987_round_4'. The following endpoints are available:
+
+* Endpoint 'serve'
+  args_0 (POSITIONAL_ONLY): TensorSpec(shape=(None, 28, 28, 1), dtype=tf.float32, name='keras_tensor')
+Output Type:
+  TensorSpec(shape=(None, 10), dtype=tf.float32, name=None)
+Captures:
+  140039582298032: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  140039582299088: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  140039582299264: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  140039582298560: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  140039582298208: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  140039582300144: TensorSpec(shape=(), dtype=tf.resource, name=None)
+Model exported to /app/outputs/deploy/exp-mnist/export/model_state_acc_0.987_round_4
+INFO :      fit progress: (4, 0.03910652920603752, {'centralized_eval_accuracy': 0.9868999719619751}, 585.794986262)
+INFO:flwr:fit progress: (4, 0.03910652920603752, {'centralized_eval_accuracy': 0.9868999719619751}, 585.794986262)
+INFO :      configure_evaluate: strategy sampled 2 clients (out of 2)
+INFO:flwr:configure_evaluate: strategy sampled 2 clients (out of 2)
+INFO :      aggregate_evaluate: received 2 results and 0 failures
+INFO:flwr:aggregate_evaluate: received 2 results and 0 failures
+INFO :      
+INFO:flwr:
+INFO :      [ROUND 5]
+INFO:flwr:[ROUND 5]
+INFO :      configure_fit: strategy sampled 2 clients (out of 2)
+INFO:flwr:configure_fit: strategy sampled 2 clients (out of 2)
+INFO :      aggregate_fit: received 2 results and 0 failures
+INFO:flwr:aggregate_fit: received 2 results and 0 failures
+INFO :      Using aggregation strategy: FedAdagrad
+INFO:flwr:Using aggregation strategy: FedAdagrad
+INFO :      Evaluating aggregation strategy: FedAdagrad
+INFO:flwr:Evaluating aggregation strategy: FedAdagrad
+INFO :      Using aggregation strategy: FedAdam
+INFO:flwr:Using aggregation strategy: FedAdam
+INFO :      Evaluating aggregation strategy: FedAdam
+INFO:flwr:Evaluating aggregation strategy: FedAdam
+INFO :      Using aggregation strategy: FedAvg
+INFO:flwr:Using aggregation strategy: FedAvg
+INFO :      Evaluating aggregation strategy: FedAvg
+INFO:flwr:Evaluating aggregation strategy: FedAvg
+INFO :      Using aggregation strategy: FedOpt
+INFO:flwr:Using aggregation strategy: FedOpt
+INFO :      Evaluating aggregation strategy: FedOpt
+INFO:flwr:Evaluating aggregation strategy: FedOpt
+INFO :      Using aggregation strategy: FedMedian
+INFO:flwr:Using aggregation strategy: FedMedian
+INFO :      Evaluating aggregation strategy: FedMedian
+INFO:flwr:Evaluating aggregation strategy: FedMedian
+Results of evaluation with multiple strategies: [[0, 0.04505287855863571, {'centralized_eval_accuracy': 0.9853000044822693}], [1, 0.07167986780405045, {'centralized_eval_accuracy': 0.9775000214576721}], [2, 0.04313051328063011, {'centralized_eval_accuracy': 0.98580002784729}], [3, 0.04313051328063011, {'centralized_eval_accuracy': 0.98580002784729}], [4, 0.043878212571144104, {'centralized_eval_accuracy': 0.9857000112533569}]]
+Sorted evaluation results: [2, 0.04313051328063011, {'centralized_eval_accuracy': 0.98580002784729}]
+Best strategy for the round is: FedAvg(accept_failures=True)
+INFO :      fit progress: (5, 0.04313051328063011, {'centralized_eval_accuracy': 0.98580002784729}, 729.508951418)
+INFO:flwr:fit progress: (5, 0.04313051328063011, {'centralized_eval_accuracy': 0.98580002784729}, 729.508951418)
+INFO :      configure_evaluate: strategy sampled 2 clients (out of 2)
+INFO:flwr:configure_evaluate: strategy sampled 2 clients (out of 2)
+INFO :      aggregate_evaluate: received 2 results and 0 failures
+INFO:flwr:aggregate_evaluate: received 2 results and 0 failures
+INFO :      
+INFO:flwr:
+INFO :      [ROUND 6]
+INFO:flwr:[ROUND 6]
+INFO :      configure_fit: strategy sampled 2 clients (out of 2)
+INFO:flwr:configure_fit: strategy sampled 2 clients (out of 2)
+INFO :      aggregate_fit: received 2 results and 0 failures
+INFO:flwr:aggregate_fit: received 2 results and 0 failures
+INFO :      Using aggregation strategy: FedAdagrad
+INFO:flwr:Using aggregation strategy: FedAdagrad
+INFO :      Evaluating aggregation strategy: FedAdagrad
+INFO:flwr:Evaluating aggregation strategy: FedAdagrad
+INFO :      Using aggregation strategy: FedAdam
+INFO:flwr:Using aggregation strategy: FedAdam
+INFO :      Evaluating aggregation strategy: FedAdam
+INFO:flwr:Evaluating aggregation strategy: FedAdam
+INFO :      Using aggregation strategy: FedAvg
+INFO:flwr:Using aggregation strategy: FedAvg
+INFO :      Evaluating aggregation strategy: FedAvg
+INFO:flwr:Evaluating aggregation strategy: FedAvg
+INFO :      Using aggregation strategy: FedOpt
+INFO:flwr:Using aggregation strategy: FedOpt
+INFO :      Evaluating aggregation strategy: FedOpt
+INFO:flwr:Evaluating aggregation strategy: FedOpt
+INFO :      Using aggregation strategy: FedMedian
+INFO:flwr:Using aggregation strategy: FedMedian
+INFO :      Evaluating aggregation strategy: FedMedian
+INFO:flwr:Evaluating aggregation strategy: FedMedian
+Results of evaluation with multiple strategies: [[0, 0.03305787593126297, {'centralized_eval_accuracy': 0.9890999794006348}], [1, 0.04800111800432205, {'centralized_eval_accuracy': 0.9843000173568726}], [2, 0.03335052728652954, {'centralized_eval_accuracy': 0.9890999794006348}], [3, 0.03335052728652954, {'centralized_eval_accuracy': 0.9890999794006348}], [4, 0.03412976115942001, {'centralized_eval_accuracy': 0.9887999892234802}]]
+Sorted evaluation results: [0, 0.03305787593126297, {'centralized_eval_accuracy': 0.9890999794006348}]
+Best strategy for the round is: FedAdagrad(accept_failures=True)
+INFO :      Better accuracy achieved: 0.989100
+INFO:flwr:Better accuracy achieved: 0.989100
+INFO :      Previous accuracy: 0.986900
+INFO:flwr:Previous accuracy: 0.986900
+Model weights saved to /app/outputs/deploy/exp-mnist/export/model_state_acc_0.989_round_6.weights.h5
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+Full model saved to /app/outputs/deploy/exp-mnist/export/model_state_acc_0.989_round_6.h5
+Saved artifact at '/app/outputs/deploy/exp-mnist/export/model_state_acc_0.989_round_6'. The following endpoints are available:
+
+* Endpoint 'serve'
+  args_0 (POSITIONAL_ONLY): TensorSpec(shape=(None, 28, 28, 1), dtype=tf.float32, name='keras_tensor')
+Output Type:
+  TensorSpec(shape=(None, 10), dtype=tf.float32, name=None)
+Captures:
+  140039582298032: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  140039582299088: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  140039582299264: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  140039582298560: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  140039582298208: TensorSpec(shape=(), dtype=tf.resource, name=None)
+  140039582300144: TensorSpec(shape=(), dtype=tf.resource, name=None)
+Model exported to /app/outputs/deploy/exp-mnist/export/model_state_acc_0.989_round_6
+INFO :      fit progress: (6, 0.03305787593126297, {'centralized_eval_accuracy': 0.9890999794006348}, 871.4177290849999)
+INFO:flwr:fit progress: (6, 0.03305787593126297, {'centralized_eval_accuracy': 0.9890999794006348}, 871.4177290849999)
+INFO :      configure_evaluate: strategy sampled 2 clients (out of 2)
+INFO:flwr:configure_evaluate: strategy sampled 2 clients (out of 2)
+INFO :      aggregate_evaluate: received 2 results and 0 failures
+INFO:flwr:aggregate_evaluate: received 2 results and 0 failures
+INFO :      
+INFO:flwr:
+INFO :      [SUMMARY]
+INFO:flwr:[SUMMARY]
+INFO :      Run finished 6 round(s) in 901.48s
+INFO:flwr:Run finished 6 round(s) in 901.48s
+INFO :      	History (loss, distributed):
+INFO:flwr:	History (loss, distributed):
+INFO :      		round 1: 0.12487179338658873
+INFO:flwr:		round 1: 0.12487179338658873
+INFO :      		round 2: 0.059831576450880684
+INFO:flwr:		round 2: 0.059831576450880684
+INFO :      		round 3: 0.05217175682841038
+INFO:flwr:		round 3: 0.05217175682841038
+INFO :      		round 4: 0.04110569628100675
+INFO:flwr:		round 4: 0.04110569628100675
+INFO :      		round 5: 0.04681395448054555
+INFO:flwr:		round 5: 0.04681395448054555
+INFO :      		round 6: 0.03682870780118663
+INFO:flwr:		round 6: 0.03682870780118663
+INFO :      	History (loss, centralized):
+INFO:flwr:	History (loss, centralized):
+INFO :      		round 0: 2.2897000312805176
+INFO:flwr:		round 0: 2.2897000312805176
+INFO :      		round 1: 0.11303611844778061
+INFO:flwr:		round 1: 0.11303611844778061
+INFO :      		round 2: 0.059991735965013504
+INFO:flwr:		round 2: 0.059991735965013504
+INFO :      		round 3: 0.04801778495311737
+INFO:flwr:		round 3: 0.04801778495311737
+INFO :      		round 4: 0.03910652920603752
+INFO:flwr:		round 4: 0.03910652920603752
+INFO :      		round 5: 0.04313051328063011
+INFO:flwr:		round 5: 0.04313051328063011
+INFO :      		round 6: 0.03305787593126297
+INFO:flwr:		round 6: 0.03305787593126297
+INFO :      	History (metrics, centralized):
+INFO:flwr:	History (metrics, centralized):
+INFO :      	{'centralized_eval_accuracy': [(0, 0.1151999980211258),
+INFO:flwr:	{'centralized_eval_accuracy': [(0, 0.1151999980211258),
+INFO :      	                               (1, 0.972100019454956),
+INFO:flwr:	                               (1, 0.972100019454956),
+INFO :      	                               (2, 0.9817000031471252),
+INFO:flwr:	                               (2, 0.9817000031471252),
+INFO :      	                               (3, 0.9825999736785889),
+INFO:flwr:	                               (3, 0.9825999736785889),
+INFO :      	                               (4, 0.9868999719619751),
+INFO:flwr:	                               (4, 0.9868999719619751),
+INFO :      	                               (5, 0.98580002784729),
+INFO:flwr:	                               (5, 0.98580002784729),
+INFO :      	                               (6, 0.9890999794006348)]}
+INFO:flwr:	                               (6, 0.9890999794006348)]}
+INFO :      
+INFO:flwr:
+DEBUG:flwr:ServerApp finished running.
+DEBUG:flwr:[flwr-serverapp] Will push ServerAppOutputs
+<_MultiThreadedRendezvous of RPC that terminated with:
+	status = StatusCode.CANCELLED
+	details = "CANCELLED"
+	debug_error_string = "UNKNOWN:Error received from peer ipv4:127.0.0.1:9093 {grpc_message:"CANCELLED", grpc_status:1, created_time:"2025-04-24T20:28:58.373248+01:00"}"

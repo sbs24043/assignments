@@ -37,7 +37,7 @@ start_client() {
         --network flwr-network \
         -e WANDB_API_KEY=65a365351610afce4d9747a748e220dd9199f986 \
         -e JOB_OWNER=$job_owner \
-        -e RUN_ID='exp-cifar' \
+        -e RUN_ID='exp-mnist' \
         -e DATASET='ylecun/mnist' \
         --detach \
         leeloodub/flwr_clientapp:$CLIENT_VERSION \
