@@ -21,9 +21,9 @@ docker run  \
     --network flwr-network \
     -e WANDB_API_KEY=65a365351610afce4d9747a748e220dd9199f986 \
     -e JOB_OWNER=server \
-    -e RUN_ID='exp-mnist' \
+    -e RUN_ID='exp-zalando-server' \
     -e OPTIMIZATION_CRITERION='loss' \
-    -e DATASET='ylecun/mnist' \
+    -e DATASET='zalando-datasets/fashion_mnist' \
     --name serverapp \
     --detach \
     leeloodub/flwr_serverapp:$SERVER_VERSION \

@@ -230,6 +230,10 @@ ssh to raspberry pi:
 ssh olenapleshan@raspberrypi.local
 ```
 
+```
+ssh olenapleshan@192.168.0.250
+```
+
 1.1. Add Docker's official GPG key:
 ```bash
 sudo apt-get update
